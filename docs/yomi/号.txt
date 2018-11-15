@@ -1,0 +1,11 @@
+fumeiyomi
+番号###ばんごう###number; series of digits; 
+信号###しんごう###traffic lights; signal; semaphore; 
+号###ごう###number; edition; make; model; issue; part of that group; 
+記号###きごう###symbol; code; sign; notation; 
+背番号###せばんごう###number on player's back; 
+暗号###あんごう###code; password; cipher; 
+赤信号###あかしんごう###red light (traffic); 
+称号###しょうごう###title; name; degree; 
+信号機###しんごうき###traffic light; 
+二号###にごう###number two; 

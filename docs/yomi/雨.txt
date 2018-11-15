@@ -1,0 +1,11 @@
+fumeiyomi
+雨###あめ###rain; 
+大雨###おおあめ###heavy rain; 
+梅雨###つゆ###rainy season; 
+雨水###あまみず###rain water; 
+雨量###うりょう###rainfall; 
+豪雨###ごうう###torrential rain; heavy rain; cloudburst; downpour; 
+降雨###こうう###rainfall; rain; 
+梅雨明け###つゆあけ###the end of the rainy season; 
+長雨###ながあめ###long spell of rain; 
+雨期###うき###rainy season; 

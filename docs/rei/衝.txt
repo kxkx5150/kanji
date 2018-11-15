@@ -1,0 +1,11 @@
+fumeiyomi
+衝突###しょうとつ###collision; crash; running into; 
+折衝###せっしょう###negotiation; 
+衝撃###しょうげき###shock; crash; impact; ballistic; 
+要衝###ようしょう###important point; strategic position; key point; 
+衝動###しょうどう###impulse; impetus; urge; 
+緩衝地帯###かんしょうちたい###buffer zone; 
+衝撃波###しょうげきは###shock wave; 
+緩衝###かんしょう###buffered; 
+キャリア検地多重アクセス衝突回避ネットワーク###キャリアけんちたじゅうアクセスしょうとつかいひネットワーク###carrier sense multiple access with collision avoidance network; CSMA; CA network; 
+キャリア検地多重アクセス衝突検出ネットワーク###キャリアけんちたじゅうアクセスしょうとつけんしゅつネットワーク###carrier sense multiple access with collision detection network; CSMA; CD network; 

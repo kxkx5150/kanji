@@ -1,0 +1,11 @@
+fumeiyomi
+消費者###しょうひしゃ###consumer; 
+費用###ひよう###cost; expense; 
+消費###しょうひ###consumption; expenditure; 
+消費税###しょうひぜい###consumption tax (incl. sales tax, VAT, excise duty, etc.); 
+経費###けいひ###expenses; cost; outlay; 
+人件費###じんけんひ###personnel expenses; labor cost; labour cost; 
+会費###かいひ###membership fee; 
+公費###こうひ###public expenditure; 
+交際費###こうさいひ###entertainment expenses; 
+工費###こうひ###construction cost; 

@@ -1,0 +1,11 @@
+fumeiyomi
+原子炉###げんしろ###atomic reactor; nuclear reactor; 
+炉心###ろしん###nuclear reactor core; 
+高炉###こうろ###blast furnace; 
+焜炉###こんろ###portable cooking stove; gas burner; 
+香炉###こうろ###censer; incense burner; 
+溶鉱炉###ようこうろ###smelting furnace; blast furnace; 
+電気炉###でんきろ###electric furnace; 
+暖炉###だんろ###fireplace; hearth; stove; 
+甑炉###そうろ###furnace (for casting bronze); 
+核融合炉###かくゆうごうろ###nuclear fusion reactor; 

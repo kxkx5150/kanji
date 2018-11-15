@@ -1,0 +1,11 @@
+fumeiyomi
+賠償###ばいしょう###reparations; indemnity; compensation; 
+賠償金###ばいしょうきん###indemnities; reparations; 
+自賠責保険###じばいせきほけん###mandatory vehicle liability insurance; 
+自動車損害賠償責任保険###じどうしゃそんがいばいしょうせきにんほけん###mandatory vehicle liability insurance; 
+製造物賠償責任保険###せいぞうぶつばいしょうせきにんほけん###product liability insurance; 
+原子力損害賠償法###げんしりょくそんがいばいしょうほう###Atomic Energy Damage Compensation Law (1961); 
+損害賠償訴訟###そんがいばいしょうそしょう###damages suit; 
+戦争賠償金###せんそうばいしょうきん###war reparation; 
+自賠法###じばいほう###Automobile Accident Compensation Act; 
+国家賠償###こっかばいしょう###state reparations; 

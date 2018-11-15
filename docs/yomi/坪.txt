@@ -1,0 +1,11 @@
+fumeiyomi
+坪###つぼ###unit of land measurement; 3.95 square yards; 3.31 square meters; 
+一坪本社###ひとつぼほんしゃ###small company headquarters located in Tokyo simply for name value; 
+坪単価###つぼたんか###price per unit of area; price per sqare meter; 
+一坪運動###ひとつぼうんどう###campaign to prevent a public construction work by acquiring a minuscule tract of land; 
+メートル坪量###メートルつぼりょう###paper weight in gsm; 
+坪量###つぼりょう###paper weight in gsm; 
+米坪###べいつぼ###paper weight in gsm; 
+立て坪###たてつぼ###unit of measurement, about 1.8 meters cubed; 
+地坪###じつぼ###ground or land area; 
+建坪率###けんぺいりつ###building

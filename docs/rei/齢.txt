@@ -1,0 +1,11 @@
+fumeiyomi
+年齢###ねんれい###age; years; 
+高齢###こうれい###advanced (old) age; 
+高齢者###こうれいしゃ###old person; old people; 
+老齢###ろうれい###advanced age; senility; 
+年齢層###ねんれいそう###age range; age
+樹齢###じゅれい###age of a tree; 
+齢###よわい###(one's) age; 
+適齢###てきれい###suitable age; 
+適齢期###てきれいき###marriageable age; 
+学齢###がくれい###school age; 

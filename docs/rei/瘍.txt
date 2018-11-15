@@ -1,0 +1,11 @@
+fumeiyomi
+腫瘍###しゅよう###tumor; tumour; neoplasm; neoplasia; 
+潰瘍###かいよう###ulcer; 
+胃潰瘍###いかいよう###stomach ulcer; 
+悪性腫瘍###あくせいしゅよう###malignant tumor; malignant tumour; 
+腹壁膿瘍###ふくへきのうよう###abdominal wall abscess; 
+扁桃周囲膿瘍###へんとうしゅういのうよう###peritonsillar abscess; quinsy; 
+扁桃膿瘍###へんとうのうよう###peritonsillar abscess; quinsy; 
+腫瘍壊死因子###しゅようえしいんし###tumor necrosis factor (e.g. cachexin); tumour necrosis factor; TNF; 
+脊髄腫瘍###せきずいしゅよう###spinal cord tumour; spinal cord neoplasm; spinal tumour; 
+トルコ鞍部腫瘍###トルコあんぶしゅよう###sellar tumour; 

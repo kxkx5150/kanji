@@ -1,0 +1,11 @@
+fumeiyomi
+国籍###こくせき###nationality; 
+書籍###しょせき###book; publication; 
+戸籍###こせき###census; family register; 
+移籍###いせき###changing household registry; transfer (e.g. of one's name in the register); 
+籍###せき###one's family register; one's domicile; 
+船籍###せんせき###ship's nationality; ship's country of registration; 
+在籍###ざいせき###enrollment; enrolment; 
+党籍###とうせき###party register; membership in a party; 
+本籍###ほんせき###one's permanent residence; 
+戸籍謄本###こせきとうほん###official copy of the family register; 

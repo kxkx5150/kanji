@@ -1,0 +1,11 @@
+fumeiyomi
+叔父###おじ###uncle; 
+叔父###おじ###uncle (younger than one's parent); 
+叔母###おば###aunt; 
+伯叔###はくしゅく###brothers; one's father's brothers; 
+叔父###おとおじ###uncle (one's father's younger brother); 
+阿叔###おとおじ###uncle (one's father's younger brother); 
+叔父御###おじご###uncle; 
+叔母さん###おばさん###aunt; 
+叔父さん###おじさん###uncle; 
+叔父貴###おじき###uncle (younger than one's parent); 

@@ -1,0 +1,11 @@
+fumeiyomi
+酸化###さんか###oxidation; 
+酸性###さんせい###acidity; 
+酸素###さんそ###oxygen; 
+酸###さん###acid; 
+一酸化炭素###いっさんかたんそ###carbon monoxide; 
+核酸###かくさん###nucleic acid; 
+アミノ酸###アミノさん###amino acid; 
+硫酸###りゅうさん###sulfuric acid; sulphuric acid; 
+炭酸###たんさん###carbonic acid; 
+硝酸###しょうさん###nitric acid; 

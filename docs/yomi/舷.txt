@@ -1,0 +1,11 @@
+fumeiyomi
+右舷###うげん###starboard; 
+左舷###さげん###port (left side of vessel); 
+舷頭###げんとう###gunwale; 
+舷梯###げんてい###gangway (ladder); 
+舷窓###げんそう###porthole; 
+舷門###げんもん###gangway; 
+舷灯###げんとう###running lights; sidelight; side light; 
+舷###ふなべり###side of a boat; gunwale; 
+登舷礼###とうげんれい###ceremonial assembling of a ship's crew on deck; 
+両舷###りょうげん###both sides of a ship; 

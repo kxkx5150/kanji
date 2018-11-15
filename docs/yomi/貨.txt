@@ -1,0 +1,11 @@
+fumeiyomi
+通貨###つうか###currency; 
+百貨店###ひゃっかてん###(department) store; (department) stores; 
+外貨###がいか###foreign currency; foreign money; foreign exchange; 
+貨物###かもつ###cargo; freight; 
+雑貨###ざっか###miscellaneous goods; general goods; sundries; 
+硬貨###こうか###coin; 
+金貨###きんか###gold coin; 
+貨幣###かへい###money; currency; coinage; 
+銅貨###どうか###copper coin; 
+貨車###かしゃ###freight car; van; 

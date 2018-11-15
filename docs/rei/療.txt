@@ -1,0 +1,11 @@
+fumeiyomi
+医療###いりょう###medical care; medical treatment; 
+治療###ちりょう###medical treatment; cure; 
+診療###しんりょう###medical examination and treatment; diagnosis; 
+療法###りょうほう###remedy; medical treatment; 
+療養###りょうよう###recuperation; medical treatment; 
+対症療法###たいしょうりょうほう###symptomatic therapy; makeshift solution; 
+診療所###しんりょうしょ###(medical) clinic; 
+療養所###りょうようじょ###sanatorium; 
+救急医療###きゅうきゅういりょう###emergency medicine; 
+早期治療###そうきちりょう###early treatment; 

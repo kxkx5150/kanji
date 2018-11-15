@@ -1,0 +1,11 @@
+fumeiyomi
+環境###かんきょう###environment; circumstance; 
+環境庁###かんきょうちょう###Environment Agency; 
+一環###いっかん###link (e.g. a part of a larger plan); 
+循環###じゅんかん###circulation; rotation; cycle; 
+悪循環###あくじゅんかん###vicious circle; 
+環状###かんじょう###annulation; ring
+循環器###じゅんかんき###circulatory organ; 
+作業環境###さぎょうかんきょう###work environment; 
+推奨環境###すいしょうかんきょう###system requirements (i.e. recommended hardware and software to run a package); 
+環境衛生###かんきょうえいせい###environmental hygiene; 

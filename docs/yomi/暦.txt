@@ -1,0 +1,11 @@
+fumeiyomi
+暦###こよみ###calendar; almanac; 
+西暦###せいれき###Christian Era; CE; anno domini; AD; 
+還暦###かんれき###60th birthday; 
+旧暦###きゅうれき###Japan's old (lunisolar) calendar; 
+暦年###れきねん###calendar year; civil year; time; year after year; 
+ヒジュラ暦###ヒジュラれき###Islamic calendar; 
+イスラム暦###イスラムれき###Islamic calendar; 
+受診暦###じゅしんれき###medical examination history; 
+暦注###れきちゅう###various information recorded in the almanac (as regards astronomy, astrology, etc.); 
+暦本###れきほん###books related to the calendar; the calendar; the almanac; 

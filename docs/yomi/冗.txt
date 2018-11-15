@@ -1,0 +1,11 @@
+fumeiyomi
+冗談###じょうだん###jest; joke; funny story; 
+冗舌###じょうぜつ###garrulity; loquacity; talkativeness; 
+冗談じゃない###じょうだんじゃない###It's no joke; 
+完全冗長システム###かんぜんじょうちょうシステム###fully redundant system; 
+完全冗長###かんぜんじょうちょう###fully redundant; 
+フル冗長###フルじょうちょう###fully redundant; 
+冗談めかして###じょうだんめかして###jokingly; in the form of a joke; 
+冗談半分###じょうだんはんぶん###being somewhat (half) joking; half seriously; half in jest; in a jocular vein; 
+冗談気味###じょうだんぎみ###being somewhat (half) joking; half seriously; half in jest; in a jocular vein; 
+冗長系###じょうちょうけい###redundant system (string, line); 

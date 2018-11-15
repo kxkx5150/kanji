@@ -1,0 +1,11 @@
+fumeiyomi
+店舗###てんぽ###shop; store; 
+老舗###しにせ###old shop; shop of long standing; 
+舗装###ほそう###pavement; road surface; 
+舗###ほ###shop; store; 
+本舗###ほんぽ###head office; main shop; 
+商舗###しょうほ###shop; store; 
+名舗###めいほ###quality shop; famous store; 
+舗装路###ほそうろ###paved road; 
+無店舗型###むてんぽがた###non
+無店舗販売###むてんぽはんばい###non

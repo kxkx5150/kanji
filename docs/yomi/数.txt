@@ -1,0 +1,11 @@
+fumeiyomi
+数字###すうじ###numeral; figure; digit; numeric character; 
+多数###たすう###great number; 
+定数###ていすう###constant; 
+数###かず###number; amount; 
+少数###しょうすう###minority; few; 
+複数###ふくすう###several; plural; plurality; multiple; 
+過半数###かはんすう###majority; 
+半数###はんすう###half the number; 
+回数###かいすう###number of times; frequency; count; 
+指数###しすう###index; index number; exponent (e.g. in floating

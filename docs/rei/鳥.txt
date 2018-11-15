@@ -1,0 +1,11 @@
+fumeiyomi
+鳥###とり###bird; 
+野鳥###やちょう###wild bird; 
+白鳥###はくちょう###swan (Cygnus Bechstein, Cygnus ssp.); 
+鳥類###ちょうるい###birds; 
+渡り鳥###わたりどり###migratory bird; bird of passage; 
+小鳥###ことり###small bird; songbird; 
+水鳥###すいちょう###waterfowl; water bird; shorebird; 
+鳥獣###ちょうじゅう###birds and wild animals; wildlife; 
+鳥居###とりい###torii (Shinto shrine archway); 
+一石二鳥###いっせきにちょう###killing two birds with one stone; 

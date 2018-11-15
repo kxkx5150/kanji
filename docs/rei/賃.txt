@@ -1,0 +1,11 @@
+fumeiyomi
+賃金###ちんぎん###wages; 
+賃上げ###ちんあげ###wage increase; 
+運賃###うんちん###fare; 
+家賃###やちん###rent; 
+賃貸###ちんたい###lease; rent; hire; 
+賃下げ###ちんさげ###pay cut; 
+賃金格差###ちんぎんかくさ###wage differential; 
+賃借###ちんしゃく###hiring; renting; leasing; 
+実質賃金###じっしつちんぎん###real wages; 
+労賃###ろうちん###wages; 

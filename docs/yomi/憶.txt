@@ -1,0 +1,11 @@
+fumeiyomi
+記憶###きおく###memory; recollection; remembrance; 
+憶測###おくそく###guess; speculation; supposition; 
+憶病###おくびょう###cowardice; timidity; 
+追憶###ついおく###recollection; reminiscence; 
+取り外し可能記憶装置###とりはずしかのうきおくそうち###removable storage; 
+構造体中央記憶###こうぞうたいちゅうおうきおく###centralized structure store; 
+磁気カード記憶装置###じきカードきおくそうち###magnetic card storage; 
+磁気テープ記憶装置###じきテープきおくそうち###magnetic tape storage; 
+磁気ドラム記憶装置###じきドラムきおくそうち###magnetic drum storage; 
+磁気バブル記憶装置###じきバブルきおくそうち###bubble memory; 

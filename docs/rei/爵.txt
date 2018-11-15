@@ -1,0 +1,11 @@
+fumeiyomi
+伯爵###はくしゃく###count; earl; 
+男爵###だんしゃく###baron; 
+公爵###こうしゃく###prince; duke; 
+侯爵###こうしゃく###marquis; marquess; 
+男爵夫人###だんしゃくふじん###baroness; 
+栄爵###えいしゃく###peerage; 
+男爵芋###だんしゃくいも###Irish Cobbler potato; 
+男爵薯###だんしゃくいも###Irish Cobbler potato; 
+ナイト爵位###ナイトしゃくい###knighthood; 
+五等爵###ごとうしゃく###five ranks of nobility (duke, marquis, count, viscount, baron); 

@@ -1,0 +1,11 @@
+fumeiyomi
+水泳###すいえい###swimming; 
+競泳###きょうえい###swimming race; 
+平泳ぎ###ひらおよぎ###breaststroke (swimming); 
+泳ぐ###およぐ###to swim; 
+泳ぎ###およぎ###swimming; 
+背泳ぎ###せおよぎ###backstroke (swim.); 
+遊泳###ゆうえい###swimming; bathing; 
+泳者###えいしゃ###a swimmer; 
+遠泳###えんえい###long
+水泳者###すいえいしゃ###swimmer; 

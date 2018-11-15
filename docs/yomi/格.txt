@@ -1,0 +1,11 @@
+fumeiyomi
+価格###かかく###price; value; cost; 
+資格###しかく###qualifications; requirements; capabilities; 
+格差###かくさ###qualitative difference; disparity; 
+本格###ほんかく###original method or procedure; 
+性格###せいかく###character; personality; disposition; nature; 
+本格的###ほんかくてき###genuine; real; regular; normal; typical; standard; orthodox; 
+格好###かっこう###shape; form; posture; appearance; manner; 
+合格###ごうかく###success; passing (e.g. exam); eligibility; 
+本格化###ほんかくか###regularization; regularisation; getting up speed; proceeding at full tilt; 
+規格###きかく###standard; norm; 

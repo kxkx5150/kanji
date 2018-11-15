@@ -1,0 +1,11 @@
+fumeiyomi
+艦艇###かんてい###military vessel; war fleet; 
+競艇###きょうてい###boat race; 
+漕艇###そうてい###rowing; boating; 
+舟艇###しゅうてい###boat; watercraft; 
+飛行艇###ひこうてい###flying boat; 
+短艇###たんてい###boat; 
+潜航艇###せんこうてい###submarine; 
+汽艇###きてい###(steam) launch; 
+特殊潜航艇###とくしゅせんこうてい###special purpose submarine (esp. Japanese midget submarines used in WWII); 
+揚陸艦艇###ようりくかんてい###landing ship; 

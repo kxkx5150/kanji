@@ -1,0 +1,11 @@
+fumeiyomi
+歌###うた###song; 
+歌手###かしゅ###singer; 
+歌舞伎###かぶき###kabuki; Japanese classical drama; 
+短歌###たんか###tanka; 31
+歌人###かじん###poet (of tanka poems); 
+歌劇###かげき###opera; 
+歌詞###かし###song lyrics; words of a song; libretto; 
+歌集###かしゅう###anthology; book of poetry; 
+歌曲###かきょく###melody; tune; song; 
+演歌###えんか###enka; traditional

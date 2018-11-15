@@ -1,0 +1,11 @@
+fumeiyomi
+楽譜###がくふ###score (music); sheet music; 
+系譜###けいふ###genealogy; pedigree; 
+新譜###しんぷ###newly
+譜面###ふめん###(written) music; 
+年譜###ねんぷ###chronological record; 
+棋譜###きふ###record of a game of go, shogi, chess, etc.; 
+譜###ふ###(sheet) music; (musical) note; (musical) score; 
+五線譜###ごせんふ###(music) score; 
+総譜###そうふ###full musical score; 
+写譜###しゃふ###copying a musical score; 

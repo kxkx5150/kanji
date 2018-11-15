@@ -1,0 +1,11 @@
+fumeiyomi
+作品###さくひん###work (e.g. book, film, composition, etc.); opus; performance; production; 
+商品###しょうひん###commodity; article of commerce; goods; stock; merchandise; 
+製品###せいひん###manufactured goods; finished goods; product; 
+食品###しょくひん###commodity; foodstuff; 
+部品###ぶひん###parts; accessories; components; 
+医薬品###いやくひん###medical supplies; 
+用品###ようひん###articles; supplies; parts; 
+品質###ひんしつ###(material) quality; 
+品目###ひんもく###item; commodity; list of articles; 
+品種###ひんしゅ###kind (of goods); brand; 

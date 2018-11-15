@@ -1,0 +1,11 @@
+fumeiyomi
+読者###どくしゃ###reader; 
+読書###どくしょ###reading; 
+積ん読###つんどく###buying books and not reading them; 
+読み###よみ###reading; 
+読売###よみうり###Yomiuri (newspaper); 
+朗読###ろうどく###reading aloud; recitation; 
+読む###よむ###to read; 
+購読###こうどく###paid subscription (e.g. magazine); 
+読み方###よみかた###way of reading; how to read; 
+秒読み###びょうよみ###countdown; 

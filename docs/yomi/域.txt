@@ -1,0 +1,11 @@
+fumeiyomi
+地域###ちいき###area; region; 
+区域###くいき###limits; boundary; domain; zone; sphere; territory; 
+全域###ぜんいき###the whole area; 
+海域###かいいき###area of ocean; 
+域内###いきない###inside the area; 
+領域###りょういき###area; domain; territory; field; range; region; regime; 
+域外###いきがい###outside the area; 
+流域###りゅういき###(river) basin; 
+地域社会###ちいきしゃかい###regional community; 
+広域###こういき###wide area; 

@@ -1,0 +1,11 @@
+fumeiyomi
+貿易###ぼうえき###trade (foreign); 
+保護貿易###ほごぼうえき###protective trade; 
+対日貿易赤字###たいにちぼうえきあかじ###trade deficit with Japan; 
+遠洋貿易###えんようぼうえき###ocean trade; trade by sea; 
+貿易量###ぼうえきりょう###amount of trade; trade volume; 
+貿易船###ぼうえきせん###trading vessel; 
+外国貿易###がいこくぼうえき###foreign trade; external trade; 
+貿易上###ぼうえきじょう###trade (foreign); 
+貿易保険###ぼうえきほけん###trade insurance; 
+管理貿易###かんりぼうえき###controlled trade; government

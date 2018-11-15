@@ -1,0 +1,11 @@
+fumeiyomi
+受諾###じゅだく###acceptance; 
+承諾###しょうだく###consent; acquiescence; agreement; 
+許諾###きょだく###consent; 
+快諾###かいだく###ready consent; 
+諾否###だくひ###consent or refusal; yes or no; decision to accept or decline; up or down (vote); assent or dissent; accept or reject; 
+内諾###ないだく###informal consent; private consent; 
+応諾###おうだく###consent; compliance; 
+許諾契約###きょだくけいやく###license agreement; 
+ソフトウェア使用許諾契約###ソフトウェアしようきょだくけいやく###software product license; 
+受諾側###じゅだくがわ###acceptor; accepting SS user; 

@@ -1,0 +1,11 @@
+fumeiyomi
+気温###きおん###atmospheric temperature; 
+温泉###おんせん###spa; hot spring; onsen; 
+温暖###おんだん###warmth; 
+温度###おんど###temperature; 
+高温###こうおん###high temperature; 
+温床###おんしょう###hotbed; breeding ground; 
+温室###おんしつ###greenhouse; hothouse; conservatory; glasshouse; 
+体温###たいおん###temperature; body temperature (human, animal); 
+低温###ていおん###low temperature; 
+水温###すいおん###water temperature; 

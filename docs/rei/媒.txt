@@ -1,0 +1,11 @@
+fumeiyomi
+媒体###ばいたい###media; medium; 
+触媒###しょくばい###catalyst; 
+冷媒###れいばい###refrigerant; coolant; 
+媒介###ばいかい###intermediary; 
+媒酌###ばいしゃく###matchmaking; 
+溶媒###ようばい###solvent; 
+磁気媒体###じきばいたい###magnetic media; 
+媒体接続機構###ばいたいせつぞくきこう###medium attachment unit; MAU; 
+媒体依存インタフェース###ばいたいいぞんインタフェース###medium
+媒体インタフェースコネクタ###ばいたいインタフェースコネクタ###media interface connector; MIC; 

@@ -1,0 +1,11 @@
+fumeiyomi
+道路###どうろ###road; highway; 
+路線###ろせん###route; line; alignment; 
+路上###ろじょう###(on the) road; (on the) way; 
+進路###しんろ###route; course; 
+高速道路###こうそくどうろ###highway; freeway; expressway; motorway; 
+線路###せんろ###line; track; roadbed; 
+回路###かいろ###circuit (electric); 
+経路###けいろ###course; route; path; channel; 
+航路###こうろ###course; (sea) route; run; 
+通路###つうろ###passage; pathway; roadway; avenue; aisle; 

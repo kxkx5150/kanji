@@ -1,0 +1,11 @@
+fumeiyomi
+唄###うた###song; 
+長唄###ながうた###long epic song with shamisen accompaniment (developed in Edo in the early 17th century); 
+唄う###うたう###to sing; 
+子守唄###こもりうた###lullaby; 
+小唄###こうた###ballad; 
+地唄###じうた###(style of) folk song; 
+盆踊唄###ぼんおどりうた###Bon Festival dance song; 
+梵唄###ぼんばい###song in praise of Buddhas virtues; 
+唄物###うたもの###an utai (noh chant) piece for recitation; 
+島唄###しまうた###traditional Okinawan folk music; 

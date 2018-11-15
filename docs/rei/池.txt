@@ -1,0 +1,11 @@
+fumeiyomi
+池###いけ###pond; 
+電池###でんち###battery; 
+太陽電池###たいようでんち###solar battery; 
+乾電池###かんでんち###dry cell; battery; 
+電池切れ###でんちぎれ###flat battery; 
+貯水池###ちょすいち###reservoir; 
+蓄電池###ちくでんち###storage battery; 
+ボルタ電池###ボルタでんち###voltaic cell; 
+鉛蓄電池###なまりちくでんち###lead
+燃料電池車###ねんりょうでんちしゃ###fuel

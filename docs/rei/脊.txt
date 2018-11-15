@@ -1,0 +1,11 @@
+fumeiyomi
+脊椎###せきつい###spine; vertebral column; 
+脊髄###せきずい###spinal cord; 
+脊髄ネコ###せきずいネコ###spinalized cat; spinal cat; 
+脊髄腫瘍###せきずいしゅよう###spinal cord tumour; spinal cord neoplasm; spinal tumour; 
+脊髄小脳変性症###せきずいしょうのうへんせいしょう###spinocerebellar degeneration; SCD; 
+脊柱前弯症###せきちゅうぜんわんしょう###lordosis; 
+脊柱後弯症###せきちゅうこうわんしょう###kyphosis; 
+脊椎側彎症###せきついそくわんしょう###scoliosis; 
+脊椎側湾症###せきついそくわんしょう###scoliosis; 
+脊柱側彎症###せきちゅうそくわんしょう###scoliosis; 

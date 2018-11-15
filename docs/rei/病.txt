@@ -1,0 +1,11 @@
+fumeiyomi
+病院###びょういん###hospital; 
+病気###びょうき###illness; disease; sickness; 
+水俣病###みなまたびょう###Minamata disease; 
+糖尿病###とうにょうびょう###diabetes mellitus; sugar diabetes; 
+白血病###はっけつびょう###leukemia; 
+病状###びょうじょう###condition of a disease (patient); 
+病棟###びょうとう###(hospital) ward; 
+難病###なんびょう###incurable disease; 
+心臓病###しんぞうびょう###heart trouble; heart disease; 
+成人病###せいじんびょう###adult diseases; 

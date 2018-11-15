@@ -1,0 +1,11 @@
+fumeiyomi
+土曜###どよう###Saturday; 
+曜日###ようび###day of the week; 
+日曜###にちよう###Sunday; 
+金曜###きんよう###Friday; 
+水曜###すいよう###Wednesday; 
+月曜###げつよう###Monday; 
+木曜###もくよう###Thursday; 
+火曜日###かようび###Tuesday; 
+火曜###かよう###Tuesday; 
+木曜日###もくようび###Thursday; 

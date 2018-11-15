@@ -1,0 +1,11 @@
+fumeiyomi
+語彙###ごい###vocabulary; lexicon; lexis; terminology; 
+語彙統計学###ごいとうけいがく###lexicostatistics; 
+山彙###さんい###mountain mass; small mountain range; group of mountains that are not part of a large mountain range; 
+語彙素###ごいそ###lexeme; 
+語彙論###ごいろん###lexicology; 
+彙類###いるい###same kind or class; classification; 
+理解語彙###りかいごい###passive vocabulary; 
+表現語彙###ひょうげんごい###active vocabulary; 
+語彙的コントロールの原理###ごいてきコントロールのげんり###principle of lexical control; PLC; 
+語彙的###ごいてき###lexical; 

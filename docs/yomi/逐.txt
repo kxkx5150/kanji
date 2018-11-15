@@ -1,0 +1,11 @@
+fumeiyomi
+駆逐艦###くちくかん###destroyer (ship); 
+逐一###ちくいち###one by one; in detail; minutely; 
+駆逐###くちく###extermination; expulsion; destruction; 
+逐次###ちくじ###successively; one after another; sequentially; 
+放逐###ほうちく###expulsion; ejection; dismissal; ostracism; 
+国際逐次刊行物データシステム###こくさいちくじかんこうぶつデータシステム###International Serials Data System; ISDS; 
+国際標準逐次刊行物番号###こくさいひょうじゅんちくじかんこうぶつばんごう###International Standard Serial Number; ISSN; 
+逐一命令操作###ちくいちめいれいそうさ###single step operation; step
+逐次印字装置###ちくじいんじそうち###character printer; serial printer; 
+逐次刊行物###ちくじかんこうぶつ###serial publication; 

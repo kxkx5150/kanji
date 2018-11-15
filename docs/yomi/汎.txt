@@ -1,0 +1,11 @@
+fumeiyomi
+汎###はん###pan
+汎用###はんよう###generic; general purpose; all
+広汎###こうはん###wide; extensive; comprehensive; far
+汎用レジスタ###はんようレジスタ###general purpose register; 
+汎用階層ファイルモデル###はんようかいそうファイルモデル###general hierarchical model; 
+汎用体###はんようたい###generic unit; 
+汎用定義###はんようていぎ###generic definitions; 
+汎用的試験項目###はんようてきしけんこうもく###generic test case; 
+汎用的試験項目群###はんようてきしけんこうもくぐん###generic test suite; 
+汎用入出力制御装置###はんようにゅうしゅつりょくせいぎょそうち###UIOC; Universal I; O Control unit; 

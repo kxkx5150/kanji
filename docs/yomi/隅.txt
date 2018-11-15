@@ -1,0 +1,11 @@
+fumeiyomi
+隅###すみ###corner; nook; recess; 
+片隅###かたすみ###corner; nook; 
+隅々###すみずみ###nooks; corners; 
+一隅###いちぐう###corner; nook; 
+四隅###よすみ###four corners; 
+右下隅###みぎしたすみ###bottom right corner; 
+右上隅###みぎうえすみ###top right corner; 
+左下隅###ひだりしたすみ###bottom left corner; 
+左上隅###ひだりうえすみ###top left corner; 
+重箱の隅をつつく###じゅうばこのすみをつつく###to nitpick; to complain about trifles; 

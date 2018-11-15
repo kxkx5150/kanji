@@ -1,0 +1,11 @@
+fumeiyomi
+丼###どんぶり###porcelain bowl; 
+牛丼###ぎゅうどん###rice covered with beef and vegetables; 
+天丼###てんどん###tempura served over a bowl of rice; 
+玉子丼###たまごどんぶり###bowl of rice topped with boiled eggs; 
+丼飯###どんぶりめし###bowl of rice; 
+カツ丼###カツどん###breaded pork on rice; 
+中華丼###ちゅうかどん###bowl of rice with a chop
+豚丼###ぶたどん###rice covered with pork and vegetables; 
+まむし丼###まむしどんぶり###bowl of eel and rice (donburi); 
+蝮丼###まむしどんぶり###bowl of eel and rice (donburi); 
