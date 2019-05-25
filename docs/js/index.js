@@ -161,6 +161,12 @@ window.addEventListener("load", function (event) {
     }, 200)
     addEvent();
     createDialog();
+    var hash = location.hash;
+    if(hash === "#eng"){
+        optobj.lang = "eng"
+    }else if(hash === "#viet"){
+        optobj.lang = "viet"
+    }
     if (optobj.lang === "viet") {
         KANJI = VKANJI
         Q = VKANJI;
