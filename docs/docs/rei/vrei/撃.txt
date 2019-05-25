@@ -1,0 +1,22 @@
+kunyomi
+撃つ###うつ###Đánh### bắn### tấn công
+onyomi
+撃墜###げきつい###Bắn hạ (máy bay)
+撃退###げきたい###Sự đánh lui### đẩy lùi
+撃滅###げきめつ###Sự phá hoại### sự tiêu diệt
+打撃###だげき###Cú đánh### đòn đánh
+衝撃###しょうげき###Cú sốc
+突撃###とつげき###Sự đột kích
+挟撃###きょうげき###thế gọng kìm/cuộc tiến công gọng kìm
+撃沈###げきちん###sự đánh đắm tàu/sự làm cho chìm tàu
+攻撃###こうげき###sự công kích/sự tấn công/sự chỉ trích
+射撃###しゃげき###hỏa mai
+襲撃###しゅうげき###sự tập kích/sự tấn công
+直撃###ちょくげき###cú đánh trực diện
+追撃###ついげき###truy kích ###sự truy kích
+電撃###でんげき###cú điện giật/cú sốc điện
+砲撃###ほうげき###sự pháo kích ###pháo kích
+排撃###はいげき###sự tố cáo/sự tố giác/sự lên án/sự phản đối
+爆撃###ばくげき###sự ném bom
+反撃###はんげき###sự phản kích
+目撃###もくげき###sự mục kích/sự chứng kiến

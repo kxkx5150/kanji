@@ -1,0 +1,9 @@
+kunyomi
+埋まる###うまる###Bị chôn### chôn phủ
+埋める###うめる###Chôn
+埋もれる###うもれる###Bị chôn
+onyomi
+埋葬###まいそう###Việc mai táng### chôn cất
+埋蔵###まいぞう###Sự chôn dấu### sự ẩn chứa
+埋没###まいぼつ###Bị chôn vùi### bị che phủ
+埋線###まいせん###cáp ngầm

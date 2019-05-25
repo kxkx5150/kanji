@@ -1,0 +1,28 @@
+kunyomi
+字###あざ###Khu làng### phố ở Nhật
+onyomi
+漢字###かんじ###Hán tự
+文字###もじ###Chữ cái
+字書###じしょ###Từ điển
+字幕###じまく###Tiêu đề
+印字###いんじ###in
+英字###えいじ###ký tự Roman/ký tự chữ
+外字###がいじ###từ vay mượn từ nước ngoài/tiếng nước ngoài/chữ nước ngoài
+活字###かつじ###chữ in
+国字###こくじ###chữ quốc ngữ/chữ Hán do người Nhật tạo ra
+黒字###くろじ###lãi/thặng dư
+字引###じびき###tự điển ###từ điển
+字画###じかく###các nét của chữ hán
+字間###じかん###khoảng cách giữa các ký tự
+字句###じく###từ vựng
+字形###じけい###kiểu ký tự/mẫu ký tự
+字体###じたい###kiểu chữ
+習字###しゅうじ###sự luyện tập chữ/luyện tập chữ
+数字###すうじ###mã ###con số ###chữ số/số liệu
+赤字###あかじ###lỗ/thâm hụt thương mại
+丁字###ていじ###ちょうじ###Cây đinh hương
+点字###てんじ###hệ thống chữ bray/chữ đục lỗ
+二字###にじ###hai chữ (thường dùng để chỉ những tên gồm 2 chữ Hán)
+誤字###ごじ###chữ in nhầm/chữ in sai/in nhầm/in sai
+翻字###ほんじ###chuyển tự
+名字###みょうじ###họ

@@ -1,0 +1,22 @@
+onyomi
+宿題###しゅくだい###Bài tập về nhà
+話題###わだい###Chủ đề
+題材###だいざい###Đề tài
+解題###かいだい###ghi chú/diễn giải
+改題###かいだい###chuyển dòng/xuống dòng
+御題###ぎょだい###chủ đề do vua chọn để bình thơ
+副題###ふくだい###phụ đề
+主題###しゅだい###đề tài ###chủ đề
+出題###しゅつだい###việc đề ra câu hỏi/sự đặt ra vấn đề
+課題###かだい###chủ đề/đề tài/nhiệm vụ/thách thức
+議題###ぎだい###đề án hội nghị/vấn đề thảo luận/vấn đề bàn luận/vấn đề trao đổi/chủ đề thảo luận/chủ đề bàn luận/chủ đề trao đổi/
+題名###だいめい###tên (sách### bài hát.v.v...) ###nhan đề
+題目###だいもく###đề mục
+標題###ひょうだい###đề bài
+補題###ほだい###bổ đề
+難題###なんだい###Hình phạt
+表題###ひょうだい###tiêu đề
+命題###めいだい###mệnh đề
+問題###もんだい###vấn đề
+例題###れいだい###ví dụ mẫu/bài tập mẫu
+論題###ろんだい###luận cương

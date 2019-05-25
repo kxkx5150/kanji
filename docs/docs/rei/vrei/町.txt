@@ -1,0 +1,17 @@
+kunyomi
+町###まち###Thị xã
+onyomi
+町歩###ちょうぶ###Hecta
+町会###ちょうかい###Hội đồng thành phố
+町内###ちょうない###Trong vùng
+下町###したまち###phần thành phố phía dưới/phần thành phố có nhiều người buôn bán### người lao động
+町家###まちや###ngôi nhà giữa thị trấn
+町制###ちょうせい###Tổ chức thành phố/sự điều hành thành phố
+町人###ちょうにん###lái buôn
+町村###ちょうそん###thị trấn và làng mạc
+町中###まちなか###trong phố/trong thành phố
+町長###ちょうちょう###người đứng đầu thành phố
+町民###ちょうみん###dân trong thị trấn/dân trong thành phố
+町立###ちょうりつ###do thành phố lập
+室町###むろまち###Muromachi
+港町###みなとまち###phố cảng

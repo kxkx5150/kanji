@@ -1,0 +1,11 @@
+kunyomi
+街###まち###Phố phường### phố xá
+onyomi
+街路###がいろ###Đường phố
+街灯###がいとう###Đèn đường
+街道###かいどう###Đường chính### con đường(nghĩa bóng)
+花街###はなまち###khu lầu xanh/chốn lầu xanh/nhà thổ/khu có gái bán hoa/khu ca ve/nhà lầu xanh/lầu xanh
+街娼###がいしょう###gái điếm/gái bán hoa/cave/gái gọi/đĩ/gái đĩ/con đĩ/gái đứng đường
+街角###まちかど###góc đường
+街頭###がいとう###trên phố
+市街###しがい###nội thành/phố xá/đô thị

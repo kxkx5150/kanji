@@ -1,0 +1,43 @@
+kunyomi
+回る###まわる###Quay quanh
+回す###まわす###Đi quanh
+onyomi
+回収###かいしゅう###Thu hồi
+回復###かいふく###Khôi phục### hồi phục
+回数###かいすう###Số lần
+回帰###かいき###sự xoay vòng; sự tái diễn
+回議###かいぎ###tham khảo qua việc hỏi ý kiến mọi người xung quanh
+回訓###かいくん###sự chỉ dẫn### sự hướng dẫn
+回顧###かいこ###sự gợi nhớ lại### sự hồi tưởng
+回航###かいこう###sự lái tàu### sự tuần tra trên biển
+回国###かいこく###du lịch khắp nước
+回報###かいほう###giấy báo; thư phúc đáp; trả lời
+回覧###かいらん###sự lưu hành
+回游###かいゆう###sự di trú
+一回###いっかい###một lần
+回線###かいせん###mạch/đường/đường dẫn
+回教###かいきょう###đạo Hồi
+回春###かいしゅん###Sự trở lại của mùa xuân/hiện tượng hồi xuân/hồi xuân/hồi phục/khỏi bệnh/trẻ ra
+回章###かいしょう###thông tư/thư phúc đáp
+回状###かいじょう###thông tư/thông đạt
+回生###かいせい###sự hồi sinh/sự sống lại/hồi sinh/sống lại/sự khôi phục/khôi phục
+回折###かいせつ###sự nhiễu xạ
+回船###かいせん###thuyền chở hàng loại nhỏ/thuyền vận tải nội địa
+回想###かいそう###hồi tưởng/sự hồi tưởng/sự nhớ lại/nhớ lại/sự hình dung lại/hình dung lại
+回送###かいそう###hỏng/không dùng được
+回虫###かいちゅう###lãi
+回転###かいてん###sự xoay chuyển/sự xoay vòng/sự quay vòng
+回答###かいとう###sự trả lời/câu trả lời/trả lời/hồi đáp
+回読###かいどく###việc chuyền nhau đọc/chuyền nhau đọc/chuyền tay đọc
+回避###かいひ###sự tránh/sự tránh né
+回路###かいろ###mạch (điện)
+回廊###かいろう###hành lang
+撤回###てっかい###sự thu hồi/sự rút lại
+今回###こんかい###lần này
+次回###じかい###lần sau
+巡回###じゅんかい###đi tuần tiễu/đi vòng quanh
+旋回###せんかい###sự xoay vòng/luân phiên
+前回###ぜんかい###lần trước ###buổi cuối/phiên cuối/lần cuối
+奪回###だっかい###sự lấy lại/đoạt lại
+転回###てんかい###sự quay/sự xoay vòng
+挽回###ばんかい###Sự khôi phục/sự phục hồi/sự vãn hồi/sự cứu vãn tình thế

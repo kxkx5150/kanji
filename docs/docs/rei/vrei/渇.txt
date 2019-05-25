@@ -1,0 +1,8 @@
+kunyomi
+渇く###かわく###Khát### khô cạn
+onyomi
+渇する###かつする###Khát nước### khát vọng
+渇水###かっすい###Thiếu nước### khô hạn
+渇望###かつぼう###Khát vọng### mong mỏi
+枯渇###こかつ###Khô hạn### khô kiệt
+飢渇###きかつ###Đói khát

@@ -1,0 +1,6 @@
+kunyomi
+賭け金###かけきん###Tiền cược
+onyomi
+賭場###とば###Sòng bạc
+賭事###とこと###Sự đánh bạc### cá cượ
+賭博###とばく###sự đánh bạc/cờ bạc

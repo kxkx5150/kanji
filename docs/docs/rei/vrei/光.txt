@@ -1,0 +1,34 @@
+kunyomi
+光###ひかり###Ánh sáng
+光る###ひかる###Chiếu sáng
+onyomi
+観光###かんこう###Tham quan### du lịch
+光線###こうせん###Tia sáng
+光速###こうそく###Tốc độ ánh sáng
+栄光###えいこう###vinh quang
+怪光###かいこう###ánh sáng huyền bí/ánh sáng lung linh/ánh sáng kỳ ảo
+蛍光###けいこう###sự du lãm/sự thăm quan/du lãm/tham quan/du lịch
+月光###げっこう###ánh trăng
+光栄###こうえい###quang vinh/vinh quang/vinh hạnh/vinh hiển/vinh dự/vui mừng
+光覚###こうかく###cảm giác về ánh sáng
+光学###こうがく###Quang học
+光環###こうかん###vầng hào quang/vầng ánh sáng
+光輝###こうき###sự huy hoàng/sự tráng lệ/sự lộng lẫy/huy hoàng/tráng lệ/lộng lẫy
+光景###こうけい###quang cảnh/phong cảnh/cảnh vật/cảnh tượng
+光源###こうげん###nguồn sáng/nguồn ánh sáng
+光彩###こうさい###sự tài giỏi/sự lỗi lạc/sự tài hoa/tài giỏi/tài hoa
+光子###こうし###Photon/lượng tử ánh sáng
+光軸###こうじく###trục ánh sáng
+光束###こうそく###chùm sáng
+光沢###こうたく###độ bóng/độ sáng (của bề mặt)
+光度###こうど###độ sáng
+光年###こうねん###năm ánh sáng
+遮光###しゃこう###sự chắn sáng
+燭光###しょっこう###nến
+電光###でんこう###điện quang ###ánh sáng điện
+灯光###とうこう###Ánh đèn
+日光###にっこう###nắng ###ánh mặt trời
+白光###はっこう###Ánh sáng trắng/quầng sáng điện hoa/quầng hào quang (thiên văn học)
+発光###はっこう###sự phát sáng/sự phát quang
+風光###ふうこう###vẻ đẹp tự nhiên
+陽光###ようこう###ánh sáng mặt trời/ánh nắng

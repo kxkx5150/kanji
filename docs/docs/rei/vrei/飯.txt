@@ -1,0 +1,15 @@
+kunyomi
+飯###めし###Cơm
+onyomi
+ご飯###ごはん###Bữa ăn
+飯米###はんまい###Cơm
+炊飯器###すいはんき###Nồi cơm điện
+赤飯###せきはん###cơm đỏ (đậu và mochi)
+中飯###ちゅうはん###bữa ăn giữa trưa
+昼飯###ひるはん###bữa ăn trưa
+朝飯###あさはん###Bữa ăn sáng/bữa sáng/ăn sáng
+飯場###はんば###nhà ở của công nhân công trường và công nhân mỏ
+飯台###はんだい###bàn ăn kiểu Nhật
+飯米###はんまい###Gạo
+晩飯###ばんめし###bữa ăn tối
+夕飯###ゆうめし###bữa ăn chiều

@@ -1,0 +1,17 @@
+kunyomi
+射る###いる###bắn trúng
+射す###さす###chích
+onyomi
+射殺###しゃさつ###bắn chết
+射程###しゃてい###tầm bắn
+射撃###しゃげき###hỏa mai
+注射###ちゅうしゃ###sự tiêm/tiêm chủng
+直射###ちょくしゃ###sự bắn thẳng/sự chiếu thẳng (ánh mặt trời)
+投射###とうしゃ###sự phóng ra/sự chiếu ra
+日射###にっしゃ###Bức xạ từ mặt trời
+入射###にゅうしゃ###Tới (tia) (vật lý)
+発射###はっしゃ###sự bắn tên
+反射###はんしゃ###sự phản xạ
+噴射###ふんしゃ###sự phun ra/sự phụt ra
+放射###ほうしゃ###phóng xạ
+乱射###らんしゃ###loạn xạ

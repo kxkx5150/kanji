@@ -1,0 +1,31 @@
+kunyomi
+老いる###おいる###Già
+老ける###ふける###Suy yếu
+onyomi
+老人###ろうじん###Người già
+老化###ろうか###Sự già đi
+老友###ろうゆう###Bạn già
+家老###かろう###Lão quản gia
+海老###エビ###con tôm
+敬老###けいろう###kính lão/tôn trọng người lớn tuổi/kính lão đắc thọ
+元老###げんろう###nguyên lão/trưởng lão/các vị lão thành/lão thành
+古老###ころう###người già/người kỳ cựu/lão làng
+中老###ちゅうろう###trung niên
+長老###ちょうろう###người lớn tuổi/người già/trưởng lão
+年老###としおい###Người già
+老翁###ろうおう###người đàn ông già cả
+老眼###ろうがん###chứng viễn thị/mắt lão
+老朽###ろうきゅう###tình trạng già yếu/tình trạng hom hem/tình trạng lụ khụ/ cũ nát/ đổ nát
+老後###ろうご###tuổi già
+老妻###ろうさい###người vợ già
+老子###ろうし###Lão Tử
+老死###ろうし###chết già
+老若###ろうじゃく###già trẻ
+老衰###ろうすい###tình trạng lão suy/sự suy yếu do tuổi già
+老僧###ろうそう###sư cụ
+老舗###ろうほ###cửa hàng có từ lâu đời
+老年###ろうねん###tuổi già
+老婆###ろうば###lão bà/bà lão
+老病###ろうびょう###bệnh già
+老婦###ろうふ###u già
+老齢###ろうれい###tuổi già

@@ -1,0 +1,31 @@
+kunyomi
+結ぶ###むすぶ###Nối### buộc
+結わえる###ゆわえる###Buộc
+結う###ゆう###Búi tóc
+onyomi
+結婚###けっこん###Kết hôn
+結局###けっきょく###Kết cục### rốt cuộc
+結果###けっか###Kết quả
+完結###かんけつ###sự kết thúc/kết thúc
+凝結###ぎょうけつ###sự ngưng kết/sự ngưng đọng/đông kết/ngưng kết/ngưng tụ
+結核###けっかく###lao/bệnh lao/bệnh ho lao
+結構###けっこう###tạm được/tương đối/kha khá/đủ/được/cũng được
+結合###けつごう###sự kết hợp/sự kết nối/sự phối hợp/sự gắn kết/sự liên kết
+結晶###けっしょう###sự kết tinh/tinh thể
+結成###けっせい###sự kết thành/sự tạo thành
+結束###けっそく###sự buộc/sự trói/sự đoàn kết/sự đồng lòng
+結託###けったく###sự câu kết/sự kết hợp với/câu kết/kết hợp với
+結納###ゆいのう###lễ đính hôn
+結膜###けつまく###kết mạc
+結末###けつまつ###kết thúc/phần cuối/cuối cùng
+結論###けつろん###kết luận/sự kết luận
+終結###しゅうけつ###sự kết thúc/xong xuôi/kết thúc
+凍結###とうけつ###sự đông cứng
+焼結###しょうけつ###sự thiêu kết/sự nung kết
+妥結###だけつ###sự thỏa thuận/kết luận
+団結###だんけつ###đoàn kết
+直結###ちょっけつ###sự kết nối trực tiếp
+締結###ていけつ###trói### buôc(chặt)ký kết (hợp đồng### hiệp định hiệp ước...)
+秘結###ひけつ###Chứng táo bón
+氷結###ひょうけつ###sự đóng băng
+連結###れんけつ###liên kết

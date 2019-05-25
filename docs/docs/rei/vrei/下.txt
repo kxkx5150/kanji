@@ -1,0 +1,57 @@
+kunyomi
+下###した、もと、しも###
+靴下###くつした###
+下着###したぎ###
+下げる###さげる###
+下ろす###おろす###
+下す###くだす###
+下がる###さがる###
+下りる###おりる###
+下る###くだる###
+下さる###くださる###
+onyomi
+下部###かぶ###hạ tầng### nền móng; phần dưới; người cấp dưới (văn phòng)
+下付###かふ###ban cho; cấp cho
+下限###かげん###giới hạn dưới### mức tối thiểu
+下品###げひん###tính thô lỗ; sự hèn hạ; sự không đứng đắn; sự thô tục; sự thô bỉ; hạ cấp
+下書###げしょ###sao chép; bản thảo
+下船###げせん###sự rời tàu### sự lên bờ
+下位###かい###sản phẩm cấp thấp
+下院###かいん###hạ viện/hạ nghị viện
+下界###げかい###hạ giới
+下降###かこう###rơi xuống/tụt xuống
+下策###げさく###hạ sách
+下山###げさん###sự xuống núi
+下賜###かし###sự chuyển nhượng/sự thừa kế
+下流###かりゅう###giai cấp thấp nhất/hạ lưu
+下車###げしゃ###sự xuống tàu xe/xuống xe/xuống tàu
+下宿###げしゅく###nhà trọ
+下唇###かしん###môi dưới
+下水###げすい###nước thải/nước bẩn/nước ngầm
+下等###かとう###hèn kém/đê hèn/hạ cấp
+下級###かきゅう###hạ cấp/cấp dưới/
+下肢###かし###chân/chi dưới
+下落###げらく###sụt
+下痢###げり###bệnh tiêu chảy/ỉa chảy
+閣下###かっか###ngài/quý ngài
+貴下###きか###quí ngài
+降下###こうか###rơi/rơi xuống/rơi vào
+却下###きゃっか###sự từ chối/sự không chấp nhận
+沈下###ちんか###sự lún
+低下###ていか###sự giảm/sự kém đi/sự suy giảm
+滴下###てきか###sự nhỏ giọt
+高下###こうげ###cao và thấp/lên và xuống/
+傘下###さんか###dưới ô dù/sự dưới chướng
+陛下###へいか###bệ hạ
+階下###かいか###tầng dưới
+臣下###しんか###quản gia/người hầu cận/người tùy tùng
+直下###ちょっか###Phía dưới bên phải
+天下###てんか###từ trên trời hạ xuống/ thiên hạ
+殿下###てんが###hoàng thân/hoàng tử/công chúa/điện hạ
+以下###いげ###dưới mức/thua/thấp hơn
+南下###なんか###Đi xuống phía Nam
+皮下###ひか###Nội bì dưới da
+時下###じか###gần đây
+落下###らっか###sự rơi xuống/sự ngã
+零下###れいか###dưới không/âm
+廊下###ろうか###thềm

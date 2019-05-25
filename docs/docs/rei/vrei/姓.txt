@@ -1,0 +1,8 @@
+onyomi
+姓名###せいめい###Họ và tên
+同姓###どうせい###Cùng họ
+百姓###ひゃくしょう###Trăm họ
+改姓###かいせい###thay tên đổi họ/thay họ/đổi họ/thay đổi tên họ
+外姓###がいせい###họ mẹ/họ đằng ngoại/họ đằng nhà ngoại
+旧姓###きゅうせい###tên thời thiếu nữ/tên cũ/tên thời con gái
+本姓###ほんせい###bản tính

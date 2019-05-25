@@ -1,0 +1,73 @@
+kunyomi
+色###いろ###Màu sắc
+onyomi
+原色###げんしょく###Màu cơ bản
+顔色###がんしょく###Diện mạo### dung nhan### sắc mặt
+景色###けしき###Phong cảnh
+飴色###あめいろ###màu hổ phách
+鉛色###なまりいろ###màu xám chì
+黄色###おうしょく###màu vàng
+音色###おんしょく###âm sắc
+火色###ひいろ###màu lửa
+花色###はないろ###màu hoa
+灰色###はいいろ###màu xám
+褐色###かっしょく###màu nâu
+旗色###はたいろ###lập trường
+脚色###きゃくしょく###việc soạn thành kịch/việc viết thành kịch/soạn kịch/viết kịch/kịch bản/chuyển thể
+金色###こんじき###sắc vàng kim/màu vàng ánh kim/màu hoàng kim
+銀色###ぎんいろ###màu bạc/bạc
+空色###そらいろ###màu xanh da trời
+原色###げんしょく###màu chính/màu cơ bản
+好色###こうしょく###máu dê
+黒色###こくしょく###màu đen
+彩色###さいしょく###sự tô màu/sự vẽ màu
+才色###さいしょく###tài sắc
+桜色###さくらいろ###màu hoa anh đào
+紫色###むらさきいろ###màu tím
+朱色###しゅいろ###màu đỏ tươi/son mầu đỏ
+酒色###しゅしょく###tửu sắc
+春色###しゅんしょく###xuân sắc
+色香###いろか###hương sắc/sự hấp dẫn
+色彩###しきさい###màu sắc
+色素###しきそ###sắc tố
+色調###しきちょう###sắc thái
+色盲###しきもう###sự mù màu/bệnh mù màu
+色紙###いろがみ###しきし###giấy màu
+色欲###しきよく###sắc dục
+神色###しんしょく###thần sắc
+水色###みずいろ###màu xanh của nước
+声色###こわいろ###せいしょく###thanh sắc/ giọng
+青色###せいしょく###Màu xanh da trời
+赤色###あかいろ###Màu đỏ
+染色###せんしょく###sự nhuộm màu/thuốc nhuộm
+鼠色###ねずみいろ###Màu xám/màu lông chuột
+肌色###はだいろ###sắc tố da
+草色###くさいろ###màu xanh lục thẫm
+脱色###だっしょく###sự phai màu/sự mất màu
+丹色###にいろ###Màu đỏ thẫm/màu đỏ đất
+単色###たんしょく###một màu
+男色###なんしょく###Đồng tính luyến ai nam
+茶色###ちゃいろ###màu nâu nhạt
+着色###ちゃくしょく###sự  tô màu
+調色###ちょうしょく###sự phối màu/sự phối sắc/sự trộn màu
+鉄色###てついろ###màu xanh ánh thép
+天色###てんしょく###màu trời
+土色###つちいろ###màu đất/ nhợt nhạt như màu đất
+桃色###ももいろ###màu hoa đào
+特色###とくしょく###đặc điểm/ưu điểm nổi bật
+鳶色###とびいろ###Màu nâu hơi đỏ
+鈍色###にびいろ###Màu xám/màu lông chuột
+肉色###にくいろ###Màu da (màu vàng hoặc hồng nhạt)
+乳色###ちちいろ###Màu sữa
+白色###はくしょく###màu trắng
+薄色###うすいろ###màu lợt
+発色###はっしょく###sự lên màu
+変色###へんしょく###sự biến sắc/sự đổi màu
+紅色###べにいろ###Màu đỏ
+混色###こんしょく###màu trộn
+本色###ほんしょく###bản sắc
+柿色###かきいろ###Nâu hơi đỏ/nâu vàng
+無色###むしょく###vô sắc/không màu
+毛色###けいろ###màu tóc
+緑色###すいしょく###màu xanh lá cây
+潤色###じゅんしょく###sự hoa mỹ/sự nói quá/sự khoa trương (lời nói)

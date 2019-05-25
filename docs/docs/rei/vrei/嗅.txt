@@ -1,0 +1,6 @@
+kunyomi
+嗅ぐ###かぐ###Ngửi### hít
+嗅ぎ出す###かぎだす###Đánh hơi biết
+onyomi
+嗅覚###きゅうかく###Khứu giác
+嗅神経###きゅうしんけい###Thần kinh khứu giác

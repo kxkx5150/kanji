@@ -1,0 +1,6 @@
+kunyomi
+稼ぐ###かせぐ###Làm việc kiếm sống### cấy lúa
+onyomi
+稼動###かどう###Hoạt động### làm việc
+稼業###かぎょう###Việc buôn bán### việc kinh doanh
+稼働###かどう###vận hành

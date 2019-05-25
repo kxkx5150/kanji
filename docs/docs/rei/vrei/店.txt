@@ -1,0 +1,19 @@
+kunyomi
+店###みせ###Cửa hàng
+onyomi
+店内###てんない###Trong kho
+店長###てんちょう###Chủ cửa hàng
+店員###てんいん###Nhân viên bán hàng
+開店###かいてん###sự mở cửa hàng/mở cửa hàng/mở cửa/sự khai trương nhà hàng/khai trương nhà hàng
+支店###してん###công ty chi nhánh/cửa hàng chi nhánh
+出店###でみせ###しゅってん###cửa hàng chi nhánh
+書店###しょてん###cửa hàng sách
+商店###しょうてん###thương điếm ###hiệu buôn ###cửa hiệu ###cửa hàng buôn bán/ nhà buôn bán
+店主###てんしゅ###chủ tiệm ###chủ hiệu
+店先###みせさき###mặt tiền của cửa hàng/ mặt tiền cửa tiệm
+店舗###てんぽ###cửa hàng/cửa hiệu
+当店###とうてん###Kho này/ cửa hàng này
+売店###ばいてん###quầy bán hàng
+閉店###へいてん###sự đóng cửa hàng
+本店###ほんてん###trụ sở chính
+露店###ろてん###điểm bán hàng ở vỉa hè/quán hàng

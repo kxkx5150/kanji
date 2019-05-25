@@ -1,0 +1,25 @@
+kunyomi
+送る###おくる###gửi; truyền
+onyomi
+送信###そうしん###gửi tin
+送別###そうべつ###tiễn biệt
+送別会###そうべつかい###tiệc tiễn biệt
+送迎###そうげい###tiễn và đón
+運送###うんそう###sự vận chuyển/sự chuyên chở/sự vận tải
+回送###かいそう###hỏng/không dùng được
+再送###さいそう###sự truyền lại/sự phát lại
+送金###そうきん###tiền gửi
+送迎###そうげい###việc tiễn và đón
+送付###そうふ###việc gửi/việc chuyển
+送料###そうりょう###cước
+直送###ちょくそう###sự giao hàng trực tiếp
+追送###ついそう###sự gửi thêm
+逓送###ていそう###sự gửi dần dần/gửi theo thứ tự
+転送###てんそう###sự truyền đi
+伝送###でんそう###sự truyền đi
+電送###でんそう###Fax
+発送###はっそう###sự phát đi/sự gửi đi/sự chuyển đi
+搬送###はんそう###sự chuyên chở
+放送###ほうそう###sự phát thanh/sự loan truyền
+輸送###ゆそう###sự vận chuyển/sự vận tải/sự chuyên chở
+郵送###ゆうそう###thư từ/thư tín

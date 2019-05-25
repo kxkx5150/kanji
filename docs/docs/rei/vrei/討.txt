@@ -1,0 +1,11 @@
+kunyomi
+討つ###うつ###Đánh đập### chiếm đoạt
+討ち死に###うちじに###Tử trận
+討ち取る###うちとる###Giết### bắt giữ
+討ち漏らす###うちもらす###Thả đi### tha chết
+onyomi
+討議###とうぎ###Sự tranh luận### sự bàn cãi
+討論###とうろん###Sự thảo luận### sự tranh luận
+検討###けんとう###Sự xem xét### sự sát hạch
+討伐###とうばつ###sự chinh phạt
+討幕###とうばく###sự tấn công chế độ Mạc phủ

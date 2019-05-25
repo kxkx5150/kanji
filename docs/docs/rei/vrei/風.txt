@@ -1,0 +1,60 @@
+kunyomi
+風###かぜ###Gió
+風穴###かざあな###Lỗ thủng### biện pháp### giải hoát
+onyomi
+台風###たいふう###Bão
+風刺###ふうし###Châm biếm
+風呂###ふろ###Bồn tắm
+悪風###あくふう###Phong tục xấu/tập quán xấu/thói quen xấu/tật xấu
+威風###いふう###uy phong
+一風###いっぷう###sự kỳ quặc/kỳ lạ/khác thường
+家風###かふう###gia phong
+海風###うみかぜ###Gió biển
+学風###がくふう###truyền thống học tập/truyên thống học hành
+寒風###かんぷう###hàn phong
+逆風###ぎゃくふう###gió ngược
+強風###きょうふう###gió mạnh/bão
+薫風###くんぷう###gió mới của thời điểm đầu mùa hè### mang mùi hương lá non
+古風###こふう###kiểu cổ/sự cổ kính/cổ kính/phong cách cổ
+作風###さくふう###tác phong
+疾風###はやて###gió lốc/gió mạnh
+秋風###しゅうふう###gió thu
+春風###しゅんぷう###gió xuân
+順風###じゅんぷう###gió xuôi
+神風###かむかぜ###thần phong/cơn gió thần
+西風###せいふう###gió tây
+旋風###つじかぜ###gió cuốn
+台風###たいふう###trận bão
+中風###ちゅうふ###chứng liệt
+朝風###あさかぜ###ちょうふう###Gió thổi vào buổi sáng
+痛風###つうふう###bệnh thống phong
+東風###こちかぜ###gió đông
+突風###とっぷう###gió giựt
+南風###はえ###Gió từ miền Nam thổi tới
+軟風###なんぷう###Gió nhẹ
+熱風###ねっぷう###gió nóng
+波風###なみかぜ###bất hòa/sóng gió (nghĩa bóng)/hiềm khích
+蛮風###ばんぷう###phong tục dã man
+美風###びふう###Phong tục đẹp
+風雨###ふうう###mưa gió
+風雲###かざぐも###tình thế
+風下###かざしも###phía cuối gió/phía dưới gió
+風化###ふうか###sự phong hoá
+風雅###ふうが###sự tế nhị/sự thanh lịch/sự tao nhã/ thanh tao
+風害###ふうがい###thiệt hại do cơn bão
+風格###ふうかく###phong cách
+風紀###ふうき###tác phong sinh hoạt/nếp sống
+風刺###ふうし###châm biếm
+風琴###ふうきん###đàn organ
+風景###ふうけい###phong cảnh
+風穴###かぜあな###ふうけつ###lối thoát/giải pháp
+風月###ふうげつ###vẻ đẹp thiên nhiên
+風光###ふうこう###vẻ đẹp tự nhiên
+風口###かざぐち###nơi hút gió/ống hút gió
+風向###ふうこう###nơi hút gió/ống hút gió
+風潮###ふうちょう###trào lưu/khuynh hướng/xu hướng
+風流###ふうりゅう###sự phong lưu
+風車###ふうしゃ###chong chóng
+風邪###ふうじゃ###cảm lạnh/cảm/cảm cúm/sổ mũi
+風趣###ふうしゅ###sự thanh lịch
+風習###ふうしゅう###

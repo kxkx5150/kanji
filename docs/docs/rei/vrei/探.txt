@@ -1,0 +1,13 @@
+kunyomi
+探す###さがす###Tìm### tìm kiếm
+探る###さぐる###Tìm kiếm
+onyomi
+探究###たんきゅう###Sự nghiên cứu### sự điều tra
+探知###たんち###Sự tìm tòi### sự khám phá
+探索###たんさく###Sự tìm kiếm### sự điều tra
+探求###たんきゅう###sự theo đuổi/sự theo tìm
+探検###たんけん###sự thám hiểm
+探偵###たんてい###trinh tiết ###sự trinh thám/ thám tử
+探訪###たんぼう###phóng sự điều tra/nhà báo viết phóng sự điều tra
+電探###でんたん###Rađa
+内探###ないたん###Sự điều tra bí mật

@@ -1,0 +1,23 @@
+kunyomi
+川###かわ###Dòng sông
+onyomi
+河川###かせん###Sông ngòi
+山川###さんせん###Sông núi
+小川###おがわ###dòng suối/con suối/suối
+川縁###かわぶち###かわべり###Bờ sông
+川下###かわしも###hạ nguồn/cuối nguồn/hạ lưu
+川岸###かし###bờ sông/ven sông
+川魚###かわざかな###cá sông/Cá nước ngọt
+川床###かわどこ###đáy sông
+川上###かわかみ###thượng nguồn/đầu nguồn/thượng lưu
+川蝉###カワセミ###Chim bói cá
+川端###かわばた###bờ sông
+川底###かわぞこ###lòng sông
+川幅###かわはば###Chiều rộng dòng sông
+川辺###かわべ###Bờ sông
+川霧###かわぎり###Sương mù ở sông
+川瀬###かわせ###Thác ghềnh
+川面###かわも###mặt sông
+川柳###せんりゅう###かわやぎ###bài thơ hài hước viết ở thể loại haiku
+谷川###たにがわ###khe suối ###con suối nhỏ
+堀川###ほりかわ###kênh/sông đào

@@ -1,0 +1,23 @@
+kunyomi
+多い###おおい###Nhiều### đầy
+onyomi
+多少###たしょう###Ít nhiều
+多分###たぶん###Đa phần### rất nhiều### rất lớn
+多忙###たぼう###Rất bận
+最多###さいた###tối đa
+滅多###めった###sự hiếm khi
+多寡###たか###lượng/số lượng
+多角###たかく###đa giác/nhiều góc độ/nhiều phương diện
+多感###たかん###đa cảm
+多湿###たしつ###độ ẩm cao
+多幸###たこう###hồng phúc ###đa phước ###đa phúc
+多能###たのう###đa năng### linh hoạt
+多彩###たさい###sự nhiều màu sắc
+多才###たさい###sự đa tài/giỏi/uyên bác
+多謝###たしゃ###hậu tạ ###đa tạ
+多重###たじゅう###nhiều/bội/đa công
+多情###たじょう###đa tình
+多数###たすう###số đông ###phần lớn ###đa số/nhiều
+多大###ただい###sự to lớn/sự nhiều
+多様###たよう###sự đa dạng
+多量###たりょう###đa lượng/lượng lớn

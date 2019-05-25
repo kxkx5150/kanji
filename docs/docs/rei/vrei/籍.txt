@@ -1,0 +1,10 @@
+onyomi
+戸籍###こせき###Hộ khẩu
+書籍###しょせき###Cuốn sách
+入籍###にゅうせき###Nhập hộ tịch
+国籍###こくせき###quốc tịch
+在籍###ざいせき###sự đăng ký/sự tại tịch
+除籍###じょせき###sự tách hộ tịch/việc tách hộ tịch/ sự đuổi ra/ sự tống ra
+転籍###てんせき###sự chuyển tịch/sự chuyển hộ tịch/ sự chuyển hộ khẩu
+党籍###とうせき###Đảng tịch
+本籍###ほんせき###nơi cư trú/nơi trú ngụ

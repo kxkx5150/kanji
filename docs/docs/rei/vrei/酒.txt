@@ -1,0 +1,27 @@
+kunyomi
+酒###さけ###Rượu Nhật### rượu sake
+onyomi
+酒豪###しゅごう###Sâu rượu
+酒造###しゅぞう###Làm rượu
+飲酒###いんしゅ###Uống rượu
+上酒###じょうしゅ###Rượu cao cấp### hảo hạng
+清酒###せいしゅ###Rượu nguyên chất
+甘酒###あまざけ###cơm rưọu
+禁酒###きんしゅ###sự cấm uống rượu
+酒宴###しゅえん###tiệc rượu
+酒屋###さかや###tửu quán ###tiệm rượu ###quán rượu
+酒樽###さかだる###thùng rượu
+酒肴###さけさかな###Thức ăn và đồ uống
+酒場###さかば###quán bar/phòng uống rượu
+酒色###しゅしょく###tửu sắc
+酒仙###しゅせん###sự uống rượu say
+酒量###しゅりょう###tửu lượng
+寝酒###ねざけ###rượu uống trước khi đi ngủ
+大酒###おおざけ###ma men
+断酒###だんしゅ###cai rượu
+朝酒###あさざけ###Việc uống rượu vào buổi sáng/rượu uống vào buổi sáng
+斗酒###としゅ###thùng rượu sake/rất nhiều rượu sake
+梅酒###うめしゅ###rượu thanh mai/rượu mơ/rượu mai
+白酒###しろざけ###パイチュウ###しろき###rượu đế
+美酒###びしゅ###Rượu cao cấp/mỹ tửu
+洋酒###ようしゅ###rượu Tây

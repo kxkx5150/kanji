@@ -1,0 +1,27 @@
+kunyomi
+納める###おさめる###Thu nạp### tàng trữ
+納まる###おさまる###Bị thu nạp
+onyomi
+納付###のうふ###Sự thanh toán (hàng hóa)
+出納###すいとう###Sự xuất### nhập
+納屋###なや###Kho chứa dụng cụ### (nhà nông)
+納豆###なっとう###Đậu hũ
+納戸###なんど###Phòng thâu nhận
+格納###かくのう###sự nạp/sự chứa
+結納###ゆいのう###lễ đính hôn
+献納###けんのう###sự hiến tặng/hiến/hiến tặng/biếu/biếu tặng
+滞納###たいのう###sự không trả nợ/sự vỡ nợ
+追納###ついのう###sự thanh toán bổ sung
+納期###のうき###Ngày giao hàng/thời điểm thanh toán
+納金###のうきん###Sự thanh toán
+納骨###のうこつ###việc sang tiểu
+納采###のうさい###Quà tặng hứa hôn
+納受###のうじゅ###Sự công nhận/sự tiếp nhận
+納所###なっしょ###Nơi nhận và trả tiền### đồ đạc...v.v. tại các đền thờ
+納棺###のうかん###sự khâm liệm/sự nhập quan
+納税###のうぜい###nộp thuế
+納得###なっとく###sự lý giải/sự đồng ý
+納入###のうにゅう###sự thu nạp
+納品###のうひん###sự giao hàng
+奉納###ほうのう###sự kính dâng (đối với thần phật)/sự tế lễ/sự cúng lễ/sự cúng tế
+未納###みのう###sự vỡ nợ/sự quá hạn thanh toán/sự chưa thanh toán

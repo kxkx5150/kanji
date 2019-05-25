@@ -1,0 +1,48 @@
+kunyomi
+熱い###あつい###Nóng### nóng(đồ ăn)
+onyomi
+熱愛###ねつあい###Tình yêu nồng cháy
+熱願###ねつがん###Sự khao khát
+炎熱###えんねつ###viêm nhiệt
+黄熱###おうねつ###sốt vàng da/hoàng nhiệt
+加熱###かねつ###Tăng nhiệt### nấu
+過熱###かねつ###sự gia nhiệt
+解熱###げねつ###sự giải nhiệt/sự hạ sốt
+高熱###こうねつ###sốt cao
+情熱###じょうねつ###cảm xúc mãnh liệt/tình cảm mãnh liệt
+耐熱###たいねつ###sự chịu nhiệt
+電熱###でんねつ###nhiệt điện
+熱唱###ねっしょう###sự hát nhiệt tình
+熱意###ねつい###lòng nhiệt tình/nhiệt tâm/tha thiết
+熱演###ねつえん###Sự trình diễn nhiệt tình
+熱感###ねつかん###bị phát sốt
+熱気###ねっき###ねつけ###tinh thần cao/khí nóng
+熱線###ねっせん###tia đốt nóng/dòng nhiệt
+熱狂###ねっきょう###sự cuồng dại/sự điên dại (yêu)
+熱傷###ねっしょう###vết bỏng
+熱型###ねっけい###kiểu sốt
+熱血###ねっけつ###nhiệt huyết/bầu máu nóng
+熱源###ねつげん###nguồn nhiệt
+熱砂###ねっさ###cát nóng
+熱情###ねつじょう###nhiệt huyết ###máu nóng ###Lòng hăng say/nhiệt tình
+熱心###ねっしん###sự nhiệt tình/lòng nhiệt tình/lòng nhiệt tâm/sự nhiệt tâm
+熱誠###ねっせい###nhiệt thành ###lòng nhiệt thành
+熱戦###ねっせん###cuộc quyết chiến/trận đấu quyết liệt
+熱帯###ねったい###nhiệt đới
+熱中###ねっちゅう###sự nhiệt tình/lòng nhiệt huyết/sự chuyên tâm
+熱度###ねつど###nhiệt độ
+熱湯###ねっとう###nước sôi
+熱波###ねっぱ###sóng nhiệt
+熱発###ねっぱつ###sự phát sốt
+熱病###ねつびょう###sốt
+熱風###ねっぷう###gió nóng
+熱弁###ねつべん###Lời nói nhiệt thành
+熱望###ねつぼう###sự ao ước/sự khao khát cháy bỏng
+熱量###ねつりょう###Nhiệt lượng
+熱涙###ねつるい###Giọt nước mắt nóng hổi
+熱烈###ねつれつ###sự nhiệt liệt
+白熱###はくねつ###sự mãnh liệt/sự ác liệt ###ánh sáng trắng/ánh đèn nêông
+発熱###はつねつ###sự phát nhiệt
+比熱###ひねつ###nhiệt dung riêng
+微熱###びねつ###sốt nhẹ
+平熱###へいねつ###nhiệt độ bình thường

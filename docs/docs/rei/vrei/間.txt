@@ -1,0 +1,42 @@
+kunyomi
+間###あいだ###Ở giữa
+間###ま###Phòng### khoảng trống
+onyomi
+民間###みんかん###Dân gian### thường dân
+時間###じかん###Giờ
+人間###にんげん###Nhân loại
+間隔###かんかく###sự gián cách/sự ngăn cách
+間近###まぢか###phía trước/sắp tới/sắp/sự cận kề/sự sắp sửa
+間際###まぎわ###ngay trước khi/lúc sắp sửa
+間食###かんしょく###sự ăn qua loa/sự ăn tạm/ăn qua loa/ăn tạm/ăn lót dạ
+間接###かんせつ###gián tiếp/sự gián tiếp
+間柄###あいだがら###mối quan hệ
+渓間###けいかん###khe núi/khe suối/hẻm núi
+期間###きかん###kì/thời kì
+隙間###すきま###khe hở/kẽ hở
+客間###きゃくま###phòng khách
+居間###いま###phòng khách/phòng đợi
+区間###くかん###đoạn/phân đoạn/khoảng/khoảng cách
+空間###くうかん###Chỗ trống/chỗ khuyết/phòng trống cho thuê
+広間###ひろま###Phòng lớn
+行間###ぎょうかん###nội dung trong dòng chữ/khoảng cách giữa các dòng
+仲間###ちゅうげん###なかま###bè bạn/đồng nghiệp
+合間###あいま###thời gian rỗi
+字間###じかん###khoảng cách giữa các ký tự
+手間###てま###tiền công
+週間###しゅうかん###hàng tuần/tuần lễ
+瞬間###しゅんかん###phút chốc
+寝間###ねま###Phòng ngủ
+人間###にんげん###じんかん###thế gian
+世間###せけん###thế gian
+貸間###かしま###phòng cho thuê
+谷間###たにあい###thung lũng
+中間###ちゅうかん###trung gian/giữa
+昼間###ちゅうかん###ban ngày
+朝間###あさま###suốt buổi sáng
+土間###どま###sàn đất
+鈍間###のろま###sự chậm chạp
+年間###ねんかん###niên khóa
+洋間###ようま###phòng kiểu Tây
+民間###みんかん###thường dân/sự tư nhân
+夜間###やかん###đêm hôm

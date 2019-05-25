@@ -1,0 +1,9 @@
+kunyomi
+藻###も###Loài thực vật trong ao đầm song hồ biển như bèo rong tảo
+藻草###もぐさ###Thực vật thủy sinh
+onyomi
+藻類###そうるい###Rong biển### tảo biển### tảo
+海藻###かいそう###tảo biển/rong biển
+藻草###もぐさ###thực vật thủy sinh
+藻類###そうるい###rong biển/tảo biển/tảo
+紅藻###こうそう###tảo đỏ

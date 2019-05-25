@@ -1,0 +1,48 @@
+kunyomi
+草###くさ###Cỏ
+草双紙###くさぞうし###Sách truyện có tranh
+草原###くさはら###Cánh đồng cỏ
+草花###くさばな###Hoa của cỏ
+草笛###くさぶえ###Kèn bằng lá cỏ
+onyomi
+草案###そうあん###Bản phác thảo
+草書###そうしょ###Chữ thảo### sự viết thảo### sự viết
+草々###そうそう###Từ dùng cuối thư khi viết một bức
+牧草###ぼくそう###Cỏ cho gia súc ăn
+起草###きそう###Sự dự thảo### sự phác thảo
+詠草###よみくさ###bản thảo (làm thơ)
+煙草###タバコ###thuốc lá
+海草###かいそう###tảo biển/rong biển
+甘草###かんぞう###cam thảo
+桜草###サクラソウ###anh thảo
+雑草###ざっそう###cỏ dại
+芝草###しばくさ###cỏ thấp
+若草###わかくさ###cỏ non
+秋草###あきくさ###Tên gọi chung cho các loại hoa nở trong mùa thu
+水草###みずくさ###bèo
+青草###あおくさ###Cỏ xanh
+草案###そうあん###bản phác thảo
+草屋###くさや###túp lều cỏ/lều tranh
+草花###そうか###hoa cỏ/hoa dại/hoa đồng nội
+草冠###そうこう###mũ miện bằng cỏ
+草原###くさはら###thảo nguyên
+草書###そうしょ###văn bản viết bằng chữ thảo
+草色###くさいろ###màu xanh lục thẫm
+草食###そうしょく###sự ăn cỏ
+草地###そうち###Bãi cỏ/đồng cỏ
+草稿###そうこう###lời chi chú/bản thảo
+草肥###くさごえ###phân hữu cơ/phân xanh
+草木###そうもく###thảo mộc/thân cỏ/cây cỏ
+草葉###くさば###cọng cỏ/lá cỏ
+草履###ぞうり###dép bằng cỏ
+藻草###もぐさ###thực vật thủy sinh
+天草###テングサ###rau câu
+道草###みちくさ###quanh quẩn/lang thang
+毒草###どくそう###loại cây độc
+本草###ほんぞう###bản thảo
+蔓草###つるくさ###cây leo
+野草###やそう###cỏ dại/đồng cỏ
+薬草###やくそう###dược thảo
+仕草###しぐさ###Điệu bộ### cử chỉ
+恋草###こいぐさ###sự tương tư/tương tư
+露草###ツユクサ###rau trai (thực vật)

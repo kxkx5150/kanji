@@ -1,0 +1,12 @@
+kunyomi
+浴びる###あびせる###Tắm
+浴びせる###あびせる###Té nước### dội nước
+onyomi
+浴する###よくする###Tắm
+浴室###よくしつ###Phòng tắm
+浴槽###よくそう###Bồn tắm
+海水浴###かいすいよく###Tắm biển
+入浴###にゅうよく###Đi tắm
+温浴###おんよく###Tắm nước nóng
+浴衣###よくい###kimono mặc mùa hè bằng vải coton nhẹ
+浴場###よくじょう###Nhà tắm công cộng

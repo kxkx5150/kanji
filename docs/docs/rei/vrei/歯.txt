@@ -1,0 +1,22 @@
+kunyomi
+歯###は###Răng
+onyomi
+歯科###しか###Nha khoa
+歯石###しせき###Cao răng
+歯痛###しつう###Đau răng
+臼歯###うすば###răng hàm
+奥歯###おくば###răng cấm
+義歯###ぎし###răng giả
+金歯###きんば###răng vàng
+犬歯###けんし###răng nanh
+歯茎###はぐき###nướu
+歯垢###しこう###bựa răng
+歯車###はぐるま###bánh xe răng cưa
+歯痛###はいた###đau răng
+出歯###でば###răng vẩu/răng hô
+前歯###まえば###răng cửa
+鋸歯###のこば###răng cưa
+虫歯###うし###răng sâu/sâu răng
+乳歯###にゅうし###Răng sữa (ở trẻ con)
+抜歯###ばっし###sự nhổ răng/việc nhổ răng
+門歯###もんし###răng cửa

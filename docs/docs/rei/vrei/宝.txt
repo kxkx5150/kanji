@@ -1,0 +1,17 @@
+kunyomi
+宝物###たからもの###Vật quý
+宝くじ###たからくじ###Vé số
+onyomi
+宝石###ほうせき###Đá quý
+宝器###ほうき###Đồ trang sức
+宝飾###ほうしょく###Trang sức quý
+家宝###かほう###gia bảo/đồ gia bảo/vật gia truyền/của gia truyền/đồ gia truyền/vật gia bảo
+国宝###こくほう###quốc bảo/kho báu của quốc gia
+財宝###ざいほう###bảo bối
+七宝###しっぽう###thất bửu ###thất bảo
+重宝###じゅうほう###sự quý báu/sự tiện lợi
+珍宝###ちんぽう###châu báu
+宝玉###ほうぎょく###đá quí/châu ngọc
+宝庫###ほうこ###kho tàng ###bảo tàng
+宝塔###ほうとう###bảo tháp
+宝剣###ほうけん###bảo kiếm

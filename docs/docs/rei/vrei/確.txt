@@ -1,0 +1,17 @@
+kunyomi
+確か###たしか###Chắc chắn### đảm bảo
+確かめる###たしかめる###Xác nhận; làm cho rõ ràng
+onyomi
+確認###かくにん###Sự xác nhận
+確実###かくじつ###Chính xác### chắc chắn
+確定###かくてい###Xác định### quyết định
+確保###かくほ###Bảo hộ đảm bảo###cam đoan
+確信###かくしん###Tin tưởng### đảm bảo
+確立###かくりつ###Xác lập thành lập
+確言###かくげん###Khẳng định### xác nhận
+確度###かくど###độ chính xác
+確約###かくやく###lời hứa chắc chắn/cam kết/hứa chắc
+確率###かくりつ###xác suất
+正確###せいかく###xác chính xác
+的確###てっかく###sự rõ ràng chính xác
+明確###めいかく###sự rõ ràng và chính xác/sự minh xác

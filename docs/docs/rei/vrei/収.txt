@@ -1,0 +1,30 @@
+kunyomi
+収める###おさめる###Nhận### gom góp
+収まる###おさまる###Nhận được### kết thúc
+onyomi
+収入###しゅうにゅう###Thu nhập
+収支###しゅうし###Thu chi
+収穫###しゅうかく###Thu hoạch
+収監###しゅうかん###sự bỏ tù
+収益###しゅうえき###tiền kiếm được; tiền thu được; tiền lời; lợi ích; lợi nhuận
+収金###しゅうきん###sưu tầm; những tập hợp
+収集###しゅうしゅう###tụ lại lên trên; tập hợp; sự tích trữ
+収縮###しゅうしゅく###làm xẹp xuống; sự làm giảm bớt; co lại; sự thắt
+収束###しゅうそく###sự quy tụ; bó buộc
+収容###しゅうよう###sự thích ứng; sự tiếp nhận
+押収###おうしゅう###tịch thu/tước đoạt/sung công/tịch biên/bắt giữ
+回収###かいしゅう###sự thu hồi/sự thu lại/thu hồi/thu lại
+撤収###てっしゅう###sự rút khỏi (quân lính)/sự rút quân
+査収###さしゅう###sự kiểm tra và chấp nhận/sự kiểm nhận
+実収###じっしゅう###thực thu
+収差###しゅうさ###quang sai
+収拾###しゅうしゅう###sự thu thập/sự điều chỉnh/thu thập/
+収用###しゅうよう###sự sung công
+収賄###しゅうわい###nhận quà hối lộ
+吸収###きゅうしゅう###sự hấp thụ
+徴収###ちょうしゅう###thu (thuế### tiền)
+日収###にっしゅう###Thu nhập hàng ngày
+年収###ねんしゅう###tiền thu nhập hàng năm ###thu nhập trong một năm
+買収###ばいしゅう###mua chuộc
+没収###ぼっしゅう###sự tịch thu sung công/sự tước quyền
+領収###りょうしゅう###sự nhận

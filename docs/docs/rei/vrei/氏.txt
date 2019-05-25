@@ -1,0 +1,10 @@
+kunyomi
+氏###うじ###Gia tộc### dòng dõi
+onyomi
+氏名###しめい###Họ tên
+氏族###しぞく###Thị tộc
+華氏###かし###thang nhiệt Fahrenheit
+摂氏###せっし###thang chia nhiệt độ lấy điểm đông của nước là 0 và điểm sôi là 100/bách phân
+氏神###うじがみ###thần hộ mạng/thành hoàng/thần hộ mệnh
+彼氏###かれし###bạn trai ### người yêu
+某氏###ぼうし###người nào đó

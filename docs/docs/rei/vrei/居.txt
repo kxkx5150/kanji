@@ -1,0 +1,19 @@
+kunyomi
+居る###いる###Hiện diện### ở
+onyomi
+住居###じゅうきょ###Địa chỉ nhà### cư ngụ### chỗ ở
+別居###べっきょ###Ở riêng
+同居###どきょ###Sống chung
+隠居###いんきょ###về hưu
+居間###いま###phòng khách/phòng đợi
+居候###いそうろう###kẻ ăn bám/người ăn theo/kẻ ăn nhờ ở đậu
+居住###きょじゅう###sự cư trú/sự sinh sống/cư trú/sinh sống/sống/thường trú
+居城###きょじょう###cư trú
+皇居###こうきょ###Hoàng cung
+仲居###なかい###Cô hầu bàn
+芝居###しばい###mánh khóe/ bịp bợm/ như kịch
+長居###ながい###sự ở lại lâu
+鳥居###とりい###cổng vào đền thờ đạo Shinto
+転居###てんきょ###chuyển chỗ ở
+入居###にゅうきょ###Sự chuyển đến nơi ở mới/sự nhập cư
+敷居###しきい###ngưỡng cửa

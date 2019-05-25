@@ -1,0 +1,6 @@
+onyomi
+庁舎###ちょうしゃ###Tòa nhà văn phòng chính phủ
+官庁###かんちょう###Cơ quan### bộ ngành
+県庁###けんちょう###Ủy ban tỉnh
+都庁###とちょう###văn phòng chính phủ Tokyo
+府庁###ふちょう###trụ sở của quận

@@ -1,0 +1,6 @@
+kunyomi
+賄う###まかなう###chi trả### trả tiền
+onyomi
+賄賂###わいろ###hối lộ
+収賄###しゅうわい###nhận quà hối lộ
+贈賄###ぞうわい###việc tặng quà để hối lộ

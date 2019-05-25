@@ -1,0 +1,10 @@
+kunyomi
+州###す###Bãi đất### bãi cát
+onyomi
+州###しゅう###Tỉnh### nhà nước
+州々###しゅうしゅう###mỗi trạng thái; mỗi tỉnh
+州都###しゅうと###thành phố của một bang
+欧州###おうしゅう###châu Âu/Âu châu
+九州###きゅうしゅう###đảo Kyushyu của Nhật Bản
+本州###ほんしゅう###tên một trong bốn hòn đảo lớn của Nhật Bản
+豪州###ごうしゅう###châu Úc

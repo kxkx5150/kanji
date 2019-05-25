@@ -1,0 +1,25 @@
+kunyomi
+弱い###よわい###Yếu kém
+弱る###よわる###Trở nên yếu
+弱まる###よわまる###Trở nên yếu
+弱める###よわめる###Làm yếu
+onyomi
+弱年###じゃくねん###Đàn em
+弱体###じゃくたい###Mềm yếu (cơ thể)Yếu kém (đoàn thể)
+弱点###じゃくてん###Nhược điểm
+胃弱###いじゃく###chứng khó tiêu
+虚弱###きょじゃく###sự mềm yếu/sự ẻo lả
+強弱###きょうじゃく###sự mạnh yếu/cái mạnh yếu/mạnh yếu/trầm bổng/trọng âm
+弱音###じゃくおん###よわね###âm thanh yếu ớt
+弱冠###じゃっかん###tính chất thanh niên/tính chất trẻ tuổi/tính chất trẻ trung
+弱気###よわき###sự nhút nhát/sự nhát gan/ sự rụt rè
+弱虫###よわむし###kẻ yếu đuối/kẻ mềm yếu/ kẻ nhát gan
+弱腰###よわごし###sự nhút nhát/sự nhu nhược
+柔弱###にゅうじゃく###mềm yếu
+衰弱###すいじゃく###sự suy yếu/sự suy nhược/suy yếu/suy nhược
+軟弱###なんじゃく###sự mềm yếu/sự ẻo lả/sự nhẽo/sự ủy mị/sự yếu đuối
+年弱###としよわ###trẻ sinh trong nửa cuối năm
+薄弱###はくじゃく###sự mỏng manh/sự mềm yếu/sự ẻo lả/sự yếu ớt
+微弱###びじゃく###Yếu ớt/yếu/ẻo lả
+病弱###びょうじゃく###sự gầy yếu/sự gầy gò ốm yếu
+貧弱###ひんじゃく###sự gầy yếu

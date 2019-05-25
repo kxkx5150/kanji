@@ -1,0 +1,18 @@
+onyomi
+科学###かがく###Khoa học
+科目###かもく###Môn học
+理科###りか###Khoa học tự nhiên
+医科###いか###y khoa
+科白###せりふ###Khả năng nói
+外科###げか###ngoại khoa/khoa
+学科###がっか###giáo khoa chương trình giảng dạy/môn học
+眼科###がんか###nhãn khoa khoa mắt
+工科###こうか###khoa học kỹ thuật/bách khoa
+産科###さんか###sản khoa
+歯科###しか###khoa răng/nha khoa
+前科###ぜんか###tiền án tiền sự### quá khứ bất hảo
+内科###ないか###nội khoa khoa nội
+農科###のうか###khoa nông nghiệp
+分科###ぶんか###phân khoa
+文科###ぶんか###văn khoa khoa văn
+法科###ほうか###luật khoa

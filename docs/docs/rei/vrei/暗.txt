@@ -1,0 +1,17 @@
+kunyomi
+暗い###くらい###Tối
+onyomi
+暗記###あんき###Học thuộc lòng
+暗号###あんごう###Ám hiệu### mật mã
+暗算###あんざん###Tính nhẩm
+暗闇###くらやみ###bóng tối/chỗ tối
+暗雲###あんうん###mây đen/mây mưa
+暗礁###あんしょう###đá ngầm
+暗黒###あんこく###tối/tối đen/trạng thái tối/sự tối đen
+暗殺###あんさつ###sự ám sát
+暗示###あんじ###sự ám thị/sự gợi ý
+暗室###あんしつ###phòng tối
+暗譜###あんぷ###sự học thuộc nhạc/sự nhớ âm nhạc/trí nhớ
+暗黙###あんもく###trầm mặc/lặng lẽ/yên lặng/im lặng/ngầm/ngụ ý/không nói ra
+暗躍###あんやく###sự hoạt động ngấm ngầm
+明暗###めいあん###tối và sáng/sự sáng tối

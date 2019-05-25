@@ -1,0 +1,15 @@
+onyomi
+病院###びょういん###Bệnh viện
+入院###にゅういん###Nhập viện
+院長###いんちょう###Viện trưởng
+医院###いいん###y viện
+下院###かいん###hạ viện/hạ nghị viện
+学院###がくいん###học viện
+産院###さんいん###nhà hộ sinh
+寺院###じいん###thiền lâm
+上院###じょういん###thượng nghị viện
+僧院###そういん###chùa
+退院###たいいん###sự ra viện/sự xuất viện
+通院###つういん###sự đi viện
+二院###にいん###Nhị viện (Thượng viện và Hạ viện)
+両院###りょういん###hai nghị viện

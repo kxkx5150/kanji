@@ -1,0 +1,44 @@
+kunyomi
+二つ###ふたつ###Hai
+二人###ふたり###Hai người
+onyomi
+二分###にぶん###Chia đôi
+二回###にかい###hai lần
+二軍###にぐん###đội dự bị
+二月###にがつ###tháng hai
+二言###にごん###lời nói hai lưỡi (nói lần sau khác với lần trước)
+二更###にこう###Canh 2
+二君###にくん###Hai người chủ
+二伸###にしん###tái bút
+二院###にいん###Nhị viện (Thượng viện và Hạ viện)
+第二###だいに###thứ nhì
+二宮###にぐう###hai cung
+二項###にこう###cặp/bộ đôi
+二号###にはち###Vợ lẽ/nàng hầu/thiếp (thê thiếp)
+二八###にはち###tuổi mười sáu (tuổi thiếu nữ)
+二流###にりゅう###người kế nhiệm/người bắt chước/môn đồ
+二字###にじ###hai chữ (thường dùng để chỉ những tên gồm 2 chữ Hán)
+二次###にじ###thứ yếu/thứ cấp
+二者###にしゃ###hai người
+二食###にじき###Hai bữa ăn (một ngày)
+二階###にかい###tầng hai
+二人###ににん###Hai người
+二世###にせい###nhị thế/đời thứ hai
+二足###にそく###Hai đôi
+二級###にきゅう###Cấp độ 2
+二度###にど###2 lần/2 độ
+二等###にとう###Tầng lớp thứ 2/đẳng cấp thứ 2
+二念###にねん###Hai ý tưởng
+二番###にばん###Thứ 2 (số thứ tự)
+二分###にぶん###Chia đôi/sự chia đô
+二葉###によう###hai lá/hai tấm phẳng
+二輪###にりん###hai bánh xe/hai cánh hoa
+二形###ふたなり###Lưỡng tính
+二元###にげん###nhị phân
+二手###ふたて###Hai nhóm/hai băng
+二十###はた###Hai mươi
+二重###ふたえ###sự trùng nhau
+二乗###じじょう###bình phương
+二日###ふつか###ngày mùng hai
+二方###ふたかた###Cả hai người
+二目###ふため###Nhìn lại### gặp lại lần hai

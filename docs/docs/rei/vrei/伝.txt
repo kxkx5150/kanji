@@ -1,0 +1,36 @@
+kunyomi
+伝える###つたえる###Trao
+伝わす###つたわす###Được chuyển
+伝う###つたう###Đi theo
+onyomi
+手伝い###てつだい###Sự giúp đỡ
+伝令###でんれい###Đưa tin
+伝道###でんどう###Sự truyền dẫn### sự truyền
+伝授###でんじゅ###Chỉ dẫn
+遺伝###いでん###di truyền
+自伝###じでん###tự chuyện
+宣伝###せんでん###sự tuyên truyền/thông tin tuyên truyền/sự công khai
+伝唱###でんしょう###Truyền thống
+伝家###でんか###Vật gia truyền/của gia truyền/truyền thống gia đình
+伝奇###でんき###truyền kỳ (truyện)
+伝記###でんき###tiểu sử/lý lịch
+伝言###でんごん###tin nhắn
+伝受###でんじゅ###truyền thụ
+伝習###でんしゅう###Học
+伝承###でんしょう###truyền thuyết/phong tục tập quán/truyền thống/văn hóa dân gian
+伝世###でんせい###Sự truyền từ đời này sang đời khác
+伝説###でんせつ###truyền thuyết
+伝染###でんせん###sự truyền nhiễm /sự lan truyền
+伝奏###でんそう###sự tấu truyền
+伝送###でんそう###sự truyền đi
+伝達###でんたつ###truyền đạt
+伝単###でんたん###truyền đơn/tờ rơi
+伝統###でんとう###truyền thống
+伝動###でんどう###sự truyền động
+伝導###でんどう###Sự truyền dẫn
+伝道###でんどう###truyền đạo
+伝票###でんぴょう###giấy nợ/hóa đơn
+伝令###でんれい###sự truyền lệnh
+人伝###ひとづて###Tin đồn/thông báo
+逓伝###ていでん###rơ le
+秘伝###ひでん###sự bí truyền

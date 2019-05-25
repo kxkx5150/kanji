@@ -1,0 +1,84 @@
+kunyomi
+行く###いく###Đi
+行き先###いきさき###Nơi đi đến
+行う###おこなう###Tổ chức
+行方###ゆくえ###Nơi ở### nơi đi tới
+onyomi
+行楽###こうらく###Việc đi ra ngoài### sự đi du hí
+行為###こうい###Hành vi
+行動###こうどう###Hành động
+行列###ぎょうれつ###Xếp hàng
+行事###ぎょうじ###Sự kiện
+行###ぎょう###Hàng chữ
+悪行###あっこう###Hành động xấu/hành động sai trái
+移行###いこう###sự di trú
+一行###いっこう###một hàng/một dòng
+運行###うんこう###sự vận hành/sự chuyển động
+改行###かいぎょう###chuyển dòng/xuống dòng
+角行###かくぎょう###con Hậu (cờ vua)
+性行###せいこう###tính cách và hành vi
+刊行###かんこう###sự ấn loát/sự phát hành/ấn loát/phát hành
+敢行###かんこう###sự thực hiện một cách kiên quyết/sự thi hành nghiêm khắc/quyết tâm thực hiện/kiên quyết thực hiện/quyết tâm tiến hành/kiên quyết tiến hành
+紀行###きこう###sự ghi chép/ghi chép/nhật ký hành trình/du ký
+急行###きゅうこう###tốc hành
+強行###きょうこう###việc kiên quyết tiến hành/sự thúc ép/sự ép buộc/sự bắt buộc/ép buộc/thúc ép/bắt buộc/ép
+興行###こうぎょう###ngành giải trí/sự làm các công việc về giải trí như kịch### lễ hội...
+銀行###ぎんこう###ngân hàng
+現行###げんこう###hiện hành
+孝行###こうこう###sự hiếu thảo/hiếu thảo
+行間###ぎょうかん###nội dung trong dòng chữ/khoảng cách giữa các dòng
+行金###こうきん###tiền ngân hàng
+行軍###こうぐん###sự hành quân/cuộc hành quân/hành quân
+行使###こうし###sự hành động/sự tiến hành
+行司###ぎょうじ###trọng tài Sumo
+行程###こうてい###hành trình
+行者###ぎょうじゃ###người khổ hạnh/người hành hương/người tu luyện/người tu hành
+行進###こうしん###cuộc diễu hành/diễu hành
+行人###こうじん###Khách qua đường/khách bộ hành
+行成###いきなり###bất ngờ/đột ngột
+行政###ぎょうせい###hành chính
+行跡###ぎょうせき###Hành vi
+行儀###ぎょうぎ###cách cư xử
+行頭###ぎょうとう###đầu hàng/đầu dòng
+行動###こうどう###hành động/sự hành động
+行年###ぎょうねん###tuổi khi chết đi/tuổi hưởng thọ/tuổi hưởng dương
+行方###ゆくえ###hướng đi
+行末###ゆくすえ###cuối dòng
+行列###ぎょうれつ###hàng người/đoàn người/đám rước
+犯行###はんこう###sự thực hiện/sự thi hành
+非行###ひこう###hành vi không chính đáng/hành vi không tốt
+施行###しぎょう###sự thực hiện/sự thi hành
+流行###りゅうこう###sự lưu hành
+執行###しぎょう###sự chấp hành
+実行###じっこう###thực hành
+蛇行###だこう###sự đi khúc khuỷu
+徐行###じょこう###sự diễn tiến chậm/ tốc độ chậm
+進行###しんこう###sự tiến hành/sự tiến triển
+遂行###すいこう###sự hoàn thành/thành quả/thành tích/hoàn thành
+先行###せんこう###cách quãng
+善行###ぜんこう###đạo hạnh
+走行###そうこう###chạy/thi hành/thực hiện
+続行###ぞっこう###tiếp tục
+代行###だいこう###sự hoạt động với tư cách một đại lý/việc hoạt động như một đại lý
+直行###ちょっ こう###đi suốt/chạy suốt
+通行###つうこう###sự đi lại
+徒行###とこう###sự đi bộ
+同行###どうぎょう###どうこう###đồng hành
+徳行###とっこう###hiền đức
+篤行###とっこう###lòng tốt/đức hạnh
+難行###なんぎょう###Hình phạt
+発行###はっこう###sự phát hành
+蛮行###ばんこう###hành động dã man/hành động man rợ
+飛行###ひこう###phi hành/hàng không
+尾行###びこう###sự theo đuôi/sự bám sát
+微行###びこう###sự vi hành/cuộc vi hành
+航行###こうこう###tuần biển/lái tàu/đi tàu
+品行###ひんこう###hành vi/phong cách
+並行###へいこう###sự đồng thời tiến hành
+歩行###ほこう###bước
+奉行###ぶぎょう###sự thừa hành
+暴行###ぼうこう###bạo hành
+夜行###やぎょう###đi đêm
+履行###りこう###sự thực hiện/sự thi hành/sự thực thi
+旅行###りょこう###sự đi lại/sự du lịch
+励行###れいこう###sự thi hành/sự thực hiện

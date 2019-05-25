@@ -1,0 +1,16 @@
+kunyomi
+誤る###あやまる###Lầm### sai lầm### lầm lẫn
+onyomi
+誤解###ごかい###Sự hiểu lầm### sự hiểu sai
+誤差###ごさ###Sự sai lầm### sự lầm lạc
+誤算###ごさん###Sự tính toán sai### sự tính nhầm
+誤報###ごほう###Sự báo cáo sai### sự thông tin sai
+誤字###ごじ###Sự viết chữ sai
+誤診###ごしん###Sự chuẩn đoán sai
+誤写###ごしゃ###Sự sao chép sai
+過誤###かご###sai lầm/sơ suất/lỗi
+錯誤###さくご###sai lầm
+正誤###せいご###đúng sai
+誤植###ごしょく###lỗi in/in sai
+誤認###ごにん###sự ngộ nhận/ngộ nhận/hiểu nhầm/nhầm/nhầm lẫn
+誤謬###ごびゅう###Sai lầm

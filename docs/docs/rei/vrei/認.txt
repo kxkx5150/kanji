@@ -1,0 +1,22 @@
+kunyomi
+認める###みとめる###Nhận thấy### thừa nhận### tán thành
+onyomi
+認可###にんか###Sự chấp nhận### sự công nhận
+認識###にんしき###Sự nhận thức### sự hiểu biết
+認容###にんよう###Sự nhận### sự thừa nhận
+認定###にんてい###Sự công nhận### sự tán thành
+認証###にんしょう###Sự chứng nhận### chứng thực
+公認###こうにん###Sự công nhận### chấp nhận
+誤認###ごにん###Sự ngộ nhận
+確認###かくにん###Sự xác nhận
+否認###ひにん###Sự phủ nhận
+確認###かくにん###sự xác nhận/sự kiểm tra/sự khẳng định/sự phê chuẩn/sự xác minh
+検認###けんにん###sự kiểm nhận/kiểm nhận/xác nhận/kiểm chứng
+是認###ぜにん###sự tán thành/sự chấp nhận/ sự thừa nhận
+追認###ついにん###Sự phê chuẩn/sự xác nhận
+特認###とくにん###Sự thừa nhận đặc biệt/sự chấp nhận đặc biệt
+認印###みとめいん###con dấu chứng nhận cá nhân (dùng để thay chứ ký)
+認知###にんち###sự nhận thức
+認否###にんぴ###Sự thừa nhận và không thừa nhận/sự chấp nhận và không chấp nhận
+黙認###もくにん###sự nhắm mắt làm ngơ/sự bao che ngầm/sự ngầm đồng ý/sự thông đồng
+容認###ようにん###dung nạp

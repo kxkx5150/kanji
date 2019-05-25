@@ -1,0 +1,36 @@
+kunyomi
+画師###えし###Họa sĩ
+画工###えだくみ###Họa sĩ
+onyomi
+画する###かくする###Vẽ
+計画###けいかく###Kế hoạch### chương trình### phương án
+画定###かくてい###Hoạch định### phân chia rõ
+映画###えいが###Phim ảnh
+漫画###まんが###Manga### truyện tranh
+画家###がか###Họa sĩ
+画架###がか###Giá vẽ
+画師###がし###Họa sĩ
+画境###がきょう###hứng vẽ
+画工###がこう###Họa sĩ/nghệ sĩ
+画数###かくすう###số nét
+画素###がそ###phần tử ảnh
+画像###がぞう###hình ảnh/hình tượng/tranh
+画伯###がはく###họa sĩ/người vẽ chính
+画稿###がこう###hình phác họa/vẽ phác/phác thảo/phác họa
+画面###がめん###màn hình/màn ảnh
+画廊###がろう###nhà triển lãm mỹ thuật
+企画###きかく###qui hoạch
+戯画###ぎが###hý hoạ
+区画###くかく###khu vực/phạm vi/vùng đất/khu đất
+計画###けいかく###phương kế
+参画###さんかく###việc tham gia xây dựng kế hoạch
+字画###じかく###các nét của chữ hán
+春画###しゅんが###phim ảnh khiêu dâm
+動画###どうが###ảnh động
+版画###はんが###tranh khắc gỗ
+漫画###まんが###vẽ châm biếm
+描画###びょうが###Vẽ###sự vẽ
+壁画###へきが###bích họa
+洋画###ようが###bức tranh kiểu tây
+名画###めいが###danh hoạ
+録画###ろくが###băng video/ sự ghi hình

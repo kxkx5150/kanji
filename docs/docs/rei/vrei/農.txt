@@ -1,0 +1,34 @@
+kunyomi
+農###のう###nông nghiệp
+onyomi
+農事###のうじ###việc nhà nông
+農具###のうぐ###nông cụ
+中農###ちゅうのう###trung nông
+篤農###とくのう###Nông dân gương mẫu/nông dân mẫu mực
+農園###のうえん###trang trại
+農家###のうか###nông hộ/nông dân
+農会###のうかい###Hiệp hội nông nghiệp
+農学###のうがく###Nông học
+農期###のうき###thời kỳ canh tác
+農協###のうきょう###hợp tác xã nông nghiệp/hội nông dân
+農業###のうぎょう###nông nghiệp
+農芸###のうげい###kỹ thuật làm nông
+農工###のうこう###Nông nghiệp và công nghiệp
+農耕###のうこう###việc canh nông/công việc đồng áng
+農作###のうさく###việc canh tác
+農産###のうさん###sản phẩm nông nghiệp/nông sản
+農場###のうじょう###thôn trại
+農政###のうせい###nền chính trị nông nghiệp
+農相###のうしょう###Bộ trưởng nông nghiệp
+農村###のうそん###thôn quê
+農地###のうち###đất cày cấy/đất nông nghiệp/ruộng đất
+農奴###のうど###nông nô
+農夫###のうふ###Nông dân (nam)
+農婦###のうふ###Nông dân (nữ)
+農兵###のうへい###lính là nông dân/nông binh
+農民###のうみん###nông dân
+農薬###のうやく###thuốc trừ sâu
+農林###のうりん###nông lâm/nông nghiệp và lâm nghiệp
+貧農###ひんのう###bần nông
+富農###ふのう###phú nông
+酪農###らくのう###sự sản xuất bơ sữa

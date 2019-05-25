@@ -1,0 +1,35 @@
+kunyomi
+交じる###まじる###Trộn lẫn
+交ざる###まざる###Trộn lẫn
+交える###まじえる###Trộn lẫn
+交ぜる###まぜる###Trộn lẫn
+交わる###まじわる###Liên hiệp
+交う###かう###Liên hiệp
+onyomi
+交換###こうかん###Trao đổi
+外交###がいこう###Ngoại giao
+交渉###こうしょう###Thương lượng
+性交###せいこう###sự giao cấu/ sự giao hợp
+交易###こうえき###thương mại/buôn bán
+交互###こうご###sự tương tác lẫn nhau/hỗ trợ
+交合###こうごう###sự giao hợp/giao hợp/giao cấu
+交差###こうさ###sự giao nhau/sự cắt nhau/giao/giao nhau/cắt nhau
+交際###こうさい###mối quan hệ/giao tế/giao du/tình bạn
+交錯###こうさく###hỗn hợp/lẫn lộn/sự trộn lẫn với nhau/sự pha lẫn vào nhau/pha trộn
+交流###こうりゅう###sự giao lưu/giao lưu
+交情###こうじょう###sự thân tình/tình bạn thân thiết/giao tình
+交譲###こうじょう###Sự nhượng bộ/sự thỏa hiệp/nhượng bộ/thỏa hiệp
+交織###こうしょく###sự dệt kiểu hỗn hợp
+交接###こうせつ###Sự giao hợp/giao hợp
+交戦###こうせん###giao chiến/giao tranh/đánh nhau
+交代###こうたい###giao đại ### ca/kíp/phiên/thay thế
+交通###こうつう###giao thông
+交点###こうてん###giao điểm
+交番###こうばん###đồn cảnh sát
+交付###こうふ###sự cấp cho (giấy tờ)/sự phát hành (giấy tờ)/cấp/phát
+国交###こっこう###quan hệ ngoại giao ### bang giao
+社交###しゃこう###xã giao/giao tiếp
+親交###しんこう###thân giao ### thâm giao
+絶交###ぜっこう###sự tuyệt giao/ tuyệt giao/chấm dứt quan hệ
+直交###ちょっこう###trực giao (toán học)
+混交###こんこう###Sự pha trộn

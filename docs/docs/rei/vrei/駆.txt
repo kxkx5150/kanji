@@ -1,0 +1,8 @@
+kunyomi
+駆ける###かける###Chạy mau tới
+駆る###かる###Đuổi đi### đốc thúc### sai khiến
+onyomi
+駆逐###くちく###Tiêu diệt### hủy diệt
+駆除###くじょ###Tiêu diệt### hủy diệt
+駆動###くどう###Kỹ thuật
+先駆###せんく###điềm báo trước/người đến báo trước/người tiên phong/người dẫn đường

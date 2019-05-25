@@ -1,0 +1,6 @@
+onyomi
+緯度###いど###Vĩ độ
+緯線###いせん###Vĩ tuyến### đường song song
+銀緯###ぎんい###Vĩ độ tọa điểm dãy ngân hà
+南緯###なんい###vỹ Nam/vỹ độ Nam
+北緯###ほくい###bắc vĩ tuyến

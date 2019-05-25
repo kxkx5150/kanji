@@ -1,0 +1,12 @@
+kunyomi
+男###おとこ###Đàn ông
+onyomi
+男性###だんじょ###Đàn ông
+男女###だんせい###Nam nữ
+長男###ちょうなん###Trưởng nam
+次男###じなん###thứ nam ###con trai thứ
+大男###おおおとこ###người đàn ông to lớn/người khổng lồ/gã to béo/gã đàn ông to cao
+男子###だんし###nam thanh niên
+男爵###だんしゃく###nam tước
+男色###なんしょく###Đồng tính luyến ai nam
+男前###おとこまえ###người đàn ông đẹp trai/chàng trai hào hoa/chàng trai lịch lãm

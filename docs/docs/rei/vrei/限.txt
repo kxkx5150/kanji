@@ -1,0 +1,18 @@
+kunyomi
+限る###かぎる###Giới hạn### hạn chế
+onyomi
+有限###ゆうげん###Có hạn### hữu hạn
+期限###きげん###Kì hạn### thời hạn
+限界###げんかい###Giới hạn
+下限###かげん###giới hạn dưới
+極限###きょくげん###cực hạn/giới hạn cuối cùng/cực điểm/tối đa
+権限###けんげん###quyền hạn/thẩm quyền/quyền
+制限###せいげん###sự hạn chế
+限定###げんてい###sự hạn định/sự hạn chế
+限度###げんど###hạn độ/giới hạn/mức độ hạn chế
+際限###さいげん###giới hạn/sự giới hạn
+上限###じょうげん###giới hạn trên
+中限###なかぎり###sự giao hàng vào tháng sau
+年限###ねんげん###niên hạn
+無限###むげん###vô định###sự vô hạn
+時限###じげん###thời hạn

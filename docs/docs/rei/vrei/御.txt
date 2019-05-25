@@ -1,0 +1,26 @@
+kunyomi
+御中###おんちゅう###Kính thưa### kính gửi
+onyomi
+御難###ごなん###Vận rủi### tai họa### vận đen
+御飯###ごはん###Cơm
+制御###せいぎょ###Sự chế ngự### sự thống trị### kiểm soát
+防御###ぼうぎょ###Phòng ngự
+御衣###ぎょい###ngự y
+御影###みかげ###Đá hoa cương granite
+御詠###ぎょえい###thơ do vua sáng tác
+御宴###ぎょえん###ngự yến
+御苑###ぎょえん###ngự uyển
+御慶###ぎょけい###lời chúc mừng (năm mới)
+御璽###ぎょじ###ấn triện/triện của vua
+御陵###ごりょう###lăng mộ của người thuộc hoàng gia hay quan chức
+御所###ごしょ###hoàng cung/cấm cung
+御数###おさい###thức ăn để ăn kèm với cơm
+御題###ぎょだい###chủ đề do vua chọn để bình thơ
+御殿###ごてん###cung/điện/dinh thự
+御物###ぎょぶつ###kho báu của vua
+御名###ぎょめい###みな###tên hiệu của vua/tên hiệu
+御免###ごめん###xin lỗi
+御遊###ぎょゆう###nhạc chơi trong cung vua/nhạc cung đình/nhạc hoàng cung
+統御###とうぎょ###sự điều khiển
+父御###ててご###thân phụ/cha (anh### chị)
+崩御###ほうぎょ###sự băng hà

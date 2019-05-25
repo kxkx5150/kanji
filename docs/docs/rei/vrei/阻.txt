@@ -1,0 +1,6 @@
+kunyomi
+阻む###はばむ###Ngăn cản### hiểm trở
+onyomi
+阻止###そし###Ngăn chặn### cản trở
+阻害###そがい###Cản trở### kìm hãm### ngăn cản
+険阻###けんそ###trạng thái dốc/con dốc

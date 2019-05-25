@@ -1,0 +1,8 @@
+kunyomi
+琴###こと###Đàn Koto Nhật
+onyomi
+琴曲###きんきょく###Khúc nhạc đàn Koto
+竪琴###たてごと###đàn hạc/đàn lyre
+鉄琴###てっきん###Đàn chuông
+風琴###ふうきん###đàn organ
+木琴###もっきん###mộc cầm

@@ -1,0 +1,6 @@
+kunyomi
+醒める###さめる###Tỉnh dậy### tỉnh rượu
+醒ます###さます###Đánh thức dậy### làm cho tỉnh rượu
+onyomi
+醒める###さめる###Tỉnh dậy### tỉnh rượu
+覚醒剤###かくせいざい###Đánh thức dậy### làm cho tỉnh rượu

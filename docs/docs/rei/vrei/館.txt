@@ -1,0 +1,7 @@
+onyomi
+旅館###りょかん###Nhà trọ cho khách du lịch
+図書館###としょかん###Thư viện
+会館###かいかん###Tòa nhà
+別館###べっかん###nhà phụ/chái
+公館###こうかん###văn phòng đại diện/cơ sở đại diện
+本館###ほんかん###tòa nhà chính

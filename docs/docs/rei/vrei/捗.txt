@@ -1,0 +1,5 @@
+kunyomi
+捗る###はかどる###Tiến bộ
+捗々しい###はかばかしい###Nhanh chóng
+onyomi
+進捗###しんちょく###Tiến triển### tiến độ

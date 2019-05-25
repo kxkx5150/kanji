@@ -1,0 +1,29 @@
+kunyomi
+話す###はなす###Nói chuyện### nói
+話し合う###はなしあう###Nói chuyện với nhau
+onyomi
+話題###わだい###Chủ đề### tiêu đề
+世間話###せけんばなし###Chuyện gẫu### chuyện thời sự
+思い出話###おもいでばなし###Hồi ký### câu chuyện hồi tưởng
+話###はなし###Câu chuyện### bài nói
+哀話###あいわ###câu chuyện buồn/chuyện buồn
+逸話###いつわ###giai thoại/chuyện vặt/câu chuyện thú vị/kỷ niệm thú vị
+会話###かいわ###hội thoại/sự nói chuyện
+寓話###ぐうわ###truyện ngụ ngôn
+挿話###そうわ###tình tiết/chương
+実話###じつわ###sự việc thật
+笑話###しょうわ###chuyện cười
+神話###しんわ###thần thoại
+世話###せわ###sự quan tâm
+昔話###むかしばなし###chuyện dân gian/truyện cổ tích/truyền thuyết
+対話###たいわ###cuộc đối thoại/cuộc nói chuyện
+談話###だんわ###buổi nói chuyện
+長話###ながばなし###câu chuyện dài
+通話###つうわ###sự gọi điện thoại
+漏話###ろうわ###nhiễu xuyên âm
+電話###でんわ###máy điện thoại
+童話###どうわ###truyện đồng thoại
+悲話###ひわ###câu chuyện buồn/bi kịch
+民話###みんわ###câu truyện dân gian
+話術###わじゅつ###nghệ thuật nói chuyện
+話題###わだい###đề tài

@@ -1,0 +1,13 @@
+onyomi
+債券###さいけん###Trái phiếi
+債務者###さいむしゃ###Con nợ
+債権者###さいけんしゃ###Người cho vay### người chủ nợ
+外債###がいさい###Tiền vay nước ngoài/món nợ nước ngoài/nợ nước ngoài
+起債###きさい###kêu gọi cho vay
+公債###こうさい###công trái
+国債###こくさい###/trái phiếu nhà nước/công trái
+債権###さいけん###trái quyền/trái chủ
+債務###さいむ###nợ
+社債###しゃさい###trái phiếu công ty/trái khoán công ty/trái phiếu có lãi suất cố định
+内債###ないさい###Hối phiếu trong nước
+負債###ふさい###sự mắc nợ/nợ nần

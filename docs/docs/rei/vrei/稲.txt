@@ -1,0 +1,11 @@
+kunyomi
+稲###いね###Lúa
+稲作###いなさく###Trồng lúa
+onyomi
+水稲###すいとう###Lúa nước
+陸稲###りくとう###Gạo được trồng trên đất khô
+晩稲###ばんとう###Sự gieo cấy muộn
+稲荷###いなり###thần Nông/thần mùa màng
+稲妻###いなづま###tia chớp
+稲穂###いなほ###bông lúa
+早稲###わせ###lúa chín sớm/lúa chiêm

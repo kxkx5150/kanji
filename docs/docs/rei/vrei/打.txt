@@ -1,0 +1,10 @@
+kunyomi
+打つ###うつ###Đánh
+onyomi
+打撃###だげき###Đả kích
+打撲###だぼく###Vế bầm tím
+打破###だは###Làm tan vỡ### đánh bại### hủy diệt
+殴打###おうだ###đánh nhau/đánh/tấn công/ẩu đả/đánh đập
+打開###だかい###cuộc tấn công nhằm phá vỡ sự bế tắc hay trì hoãn### trì trệ
+打診###だしん###việc gõ để chuẩn đoán / việc thăm dò
+猛打###もうだ###cú đánh đau/đòn đánh nặng/đòn chí tử

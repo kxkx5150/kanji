@@ -1,0 +1,10 @@
+kunyomi
+臭い###くさい###Hôi
+onyomi
+臭気###しゅうき###Mùi hôi thối
+体臭###たいしゅう###
+防臭###ぼうしゅう###
+悪臭###あくしゅう###mùi thối/mùi hôi thối
+口臭###こうしゅう###bệnh hôi miệng/hôi miệng
+俗臭###ぞくしゅう###sự tục tĩu/ sư thô tục
+乳臭###にゅうしゅう###hương vị sữa/mùi sữa

@@ -1,0 +1,10 @@
+kunyomi
+植える###うえる###Trồng cây
+植わる###うわる###Được trồng
+onyomi
+植物###しょくぶつ###Thực vật
+植栽###しょくさい###Trồng cây cỏ
+移植###いしょく###sự cấy ghép
+植木###うえき###cây trồng
+入植###にゅうしょく###sự nhập cư
+誤植###ごしょく###lỗi in/in sai

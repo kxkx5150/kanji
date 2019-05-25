@@ -1,0 +1,8 @@
+kunyomi
+憩い###いこい###Nghỉ ngơi
+憩う###いこう###Nghỉ ngơi### thư giãn
+onyomi
+休憩###きゅうけい###Nghỉ ngơi### giải lao
+小憩###しょうけい###Kì nghỉ ngắn
+憩室###けいしつ###bệnh túi thừa tá tràng
+少憩###しょうけい###kỳ nghỉ ngắn/khoảng thời gian nghỉ ngắn

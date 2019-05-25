@@ -1,0 +1,19 @@
+kunyomi
+治める###おさめる###Cai quản
+治まる###おさまる###Được yên### được cai trị
+治る###なおる###Chữa trị
+治す###なおす###Chữa trị
+onyomi
+政治###せいじ###Chính trị
+治療###ちりょう###Điều trị
+治世###ちせい###Sự trị vì
+治安###ちあん###じあん###trị an
+治癒###ちゆ###sự điều trị/sự điều trị
+治略###ちりゃく###Sự cai trị
+自治###じち###tự trị ###sự tự trị
+退治###たいじ###sự chinh phục/sự xóa bỏ/sự triệt/sự tiêu diệt/sự hủy diệt
+湯治###とうじ###trị bệnh bằng việc tắm suối nước nóng/sự tắm nước nóng
+統治###とうじ###sự thống trị
+内治###ないち###chính trị trong nước
+不治###ふち###Tính không thể chữa được
+明治###めいじ###thời đại Minh Trị

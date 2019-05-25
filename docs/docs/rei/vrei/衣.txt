@@ -1,0 +1,22 @@
+kunyomi
+衣###ころも###Quần áo### y phục### áo choàng
+onyomi
+衣装###いしょう###Quần áo### y phục
+衣食###いしょく###Sự ăn mặc### kế sinh nhai
+衣類###いるい###Quần áo### y phục
+脱衣###だつい###Sự cởi đồ### sự thoát y
+着衣###ちゃくい###Sự mặc đồ### đồ mặc
+法衣###ほうい###Áo tu### áo cà sa
+悪衣###あくい###Y phục tồi tàn
+羽衣###うい###áo lông
+衣服###いふく###y phục/quần áo/trang phục
+衣紋###えもん###quần áo/vải vóc
+衣料###いりょう###quần áo/đồ để mặc
+御衣###ぎょい###ngự y
+黒衣###こくえ###quần áo đen
+脱衣###だつい###sự cởi quần áo/sự thoát y
+胞衣###ほうい###nhau thai
+白衣###びゃくえ###áo trắng/quần áo màu trắng
+皮衣###かわぎぬ###áo choàng lông
+麻衣###まい###Áo may bằng vải lanh
+浴衣###よくい###kimono mặc mùa hè bằng vải coton nhẹ

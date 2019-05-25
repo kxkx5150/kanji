@@ -1,0 +1,15 @@
+kunyomi
+葬る###ほうむる###Chôn cất
+onyomi
+葬儀###そうぎ###Tang lễ
+葬式###そうしき###Tang lễ### đám tang### đám ma
+火葬###かそ う###sự hỏa thiêu/sự hỏa táng
+改葬###かいそう###sự cải táng/cải táng/sự bốc mộ/bốc mộ
+国葬###こくそう###quốc tang
+水葬###すいそう###thủy táng
+葬列###そうれつ###đoàn người đưa ma
+鳥葬###ちょうそう###sự phơi xác cho chim ăn
+土葬###どそう###thổ táng
+仏葬###ぶっそう###đám tang nhà Phật
+校葬###こうそう###đám tang ở trường học
+埋葬###まいそう###sự chôn cất/việc an táng

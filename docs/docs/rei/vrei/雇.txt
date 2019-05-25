@@ -1,0 +1,6 @@
+kunyomi
+雇う###やとう###Thuê (xe### người)
+onyomi
+雇用###こよう###Sự thuê mướn### tuyển dụng
+雇員###こいん###Nhân viên
+解雇###かいこ###Cho nghỉ việc

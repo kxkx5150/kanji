@@ -1,0 +1,8 @@
+onyomi
+項目###こうもく###Mục### khoản
+要項###ようこう###Các mục yêu cầu
+事項###じこう###Điều khoản### mục
+移項###いこう###hoán vị/đổi chỗ
+条項###じょうこう###khoản/mục ###điều mục ###điều khoản
+内項###ないこう###số hạng trong tỷ lệ thức (toán)
+二項###にこう###cặp/bộ đôi

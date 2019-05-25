@@ -1,0 +1,53 @@
+kunyomi
+高い###たかい###Cao
+高さ###たかさ###Chiều cao
+高まる###たかまる###(mọ c) lên
+高める###たかめる###Nhấc lên
+onyomi
+高原###こうげん###Cao nguyên
+最高###さいこう###Đẹp nhất### tốt nhất
+高官###こうかん###Quan chức cấp cao
+円高###えんだか###việc đồng yên lên giá
+高圧###こうあつ###cao áp###Kỹ thuật
+高位###こうい###Tin học
+高温###こうおん###nhiệt độ cao
+高価###こうか###đắt giá
+高音###たかね###âm thanh cao/âm cao/âm thanh chói tai
+高下###こうげ###cao và thấp/lên và xuống/lên xuống/biến động/dao động
+高雅###こうが###sự tao nhã/tao nhã/sự nho nhã/nho nhã/sự thanh cao/thanh cao
+高貴###こうき###cao quí
+高潔###こうけつ###cao quí
+高給###こうきゅう###lương cao/thu nhập cao
+高原###こうげん###cao nguyên
+高低###たかひく###cao và thấp/lên và xuống/dao động/biến động/cao thấp/lên xuống/trầm bổng/mấp mô/lồi lõm
+高座###こうざ###bục giảng
+高裁###こうさい###tòa án tối cao
+高山###こうざん###Núi cao
+高士###こうし###người quý phái
+高尚###こうしょう###lịch sự/tao nhã/có học thức
+高声###たかごえ###giọng cao
+高祖###こうそ###cao tổ
+高僧###こうそう###cao tăng
+高層###こうそう###cao tầng
+高燥###こうそう###nơi cao ráo
+高速###こうそく###cao tốc/tốc độ cao
+高台###たかだい###đồi
+高級###こうきゅう###cao cấp
+高地###こうち###cao nguyên
+高直###こうじき###đắt/đắt đỏ/đắt tiền
+高度###こうど###độ cao/chiều cao
+高騰###こうとう###sự tăng vọt (giá cả)
+高熱###こうねつ###sốt cao
+高校###こうこう###trường cấp 3/trường trung học
+高峰###こうほう###núi cao
+高等###こうとう###cao đẳng/đẳng cấp cao
+高揚###こうよう###sự khích lệ/sự nâng cao tinh thần/sự nâng cao chí khí/khích lệ/nâng cao tinh thần/nâng cao chí khí/nâng cao ý chí/hưng phấn
+高慢###こうまん###cao ngạo
+高名###こうみょう###sự nổi tiếng/sự hữu danh/nổi tiếng
+高利###こうり###lãi suất cao
+高齢###こうれい###tuổi cao
+座高###ざこう###chiều cao khi ngồi
+最高###さいこう###cái cao nhất/cái đẹp nhất/cái tốt nhất/cái tuyệt vời
+残高###ざんだか###sự cân đối (tài chính)
+崇高###すうこう###sự tối cao/sự cao nhất
+波高###はこう###chiều cao sóng

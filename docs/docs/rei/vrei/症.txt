@@ -1,0 +1,8 @@
+onyomi
+症候###しょうこう###Triệu chứng
+症状###しょうじょう###Triệu chứng bệnh
+炎症###えんしょう###chứng viêm
+重症###じゅうしょう###chứng bệnh nặng
+難症###なんしょう###Bệnh không thể chữa được
+脳症###のうしょう###sốt não
+病症###びょうしょう###chứng bệnh

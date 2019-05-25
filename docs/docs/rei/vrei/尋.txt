@@ -1,0 +1,5 @@
+kunyomi
+尋ねる###たずねる###Tìm kiếm
+onyomi
+尋問###じんもん###Câu hỏi### sự tra hỏi
+尋常###じんじょう###Sự tầm thường

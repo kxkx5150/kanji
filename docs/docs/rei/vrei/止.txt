@@ -1,0 +1,19 @@
+kunyomi
+止まる###とまる###Dừng lại
+止める###とめる###Thôi### cấm
+onyomi
+止血###しけつ###(y học) Sự cầm máu
+止宿###ししゅく###Sự ở trọ
+止水###しすい###Nước đọng; nước phẳng lặng
+休止###きゅうし###sự ngừng lại/sự đình chỉ/sự tạm nghỉ/sự tạm ngừng/ngừng lại/đình chỉ/tạm nghỉ/tạm ngừng
+禁止###きんし###sự cấm/sự cấm đoán/cấm/nghiêm cấm/cấm đoán
+制止###せいし###sự cản trở/sự kìm hãm/sự kiềm chế
+抑止###よくし###sự ngăn cản/sự cản trở/sự ngăn chặn
+終止###しゅうし###sự dừng lại/sự kết thúc/sự chấm dứt/sự hoàn thành/chấm dứt/kết thúc
+静止###せいし###sự yên lặng/sự yên tĩnh/sự đứng yên
+阻止###そし###trấn ngự ###sự cản trở/vật trở ngại
+中止###ちゅうし###sự cấm/sự ngừng
+停止###ていし###sự đình chỉ/dừng lại
+底止###ていし###Sự đình chỉ
+廃止###はいし###sự hủy bỏ/sự hủy đi/sự bãi bỏ/ sự đình chỉ
+防止###ぼうし###sự đề phòng

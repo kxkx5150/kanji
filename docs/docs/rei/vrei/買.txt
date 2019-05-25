@@ -1,0 +1,9 @@
+kunyomi
+買う###かう###Mua
+onyomi
+買収###ばいしゅう###Mua### mua chuộc
+購買###こうばい###sự mua/việc mua vào
+仲買###なかがい###người môi giới
+買値###かいね###giá mua
+売買###ばいばい###sự mua bán buôn bán
+不買###ふばい###tẩy chay

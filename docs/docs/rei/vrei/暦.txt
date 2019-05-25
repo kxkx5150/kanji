@@ -1,0 +1,10 @@
+kunyomi
+暦###こよみ###Tấm lịch### niên đại
+onyomi
+旧暦###きゅうれき###Âm lịch
+西暦###せいれき###Dương lịch
+暦学###れきがく###sự nghiên cứu (của) lịch
+花暦###はなごよみ###lịch theo thời gian hoa nở để tính mùa
+還暦###かんれき###sự lên lão/thọ
+陽暦###ようれき###dương lịch
+暦年###れきねん###năm lịch biểu

@@ -1,0 +1,10 @@
+kunyomi
+囲む###かこむ###Vây quanh
+囲う###かこう###Vây quanh
+onyomi
+範囲###はんい###Phạm vi
+雰囲気###ふんいき###Bầu không khí
+周囲###しゅうい###Chu vi
+囲碁###いご###cờ vây/cờ gô
+胸囲###きょうい###vòng ngực
+包囲###ほうい###sự bao vây

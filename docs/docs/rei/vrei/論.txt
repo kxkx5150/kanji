@@ -1,0 +1,42 @@
+onyomi
+論議###ろんぎ###Sự tranh luận### sự nghị luận
+論争###ろんそう###Sự tranh luận### sự bàn cãi
+論評###ろんぴょう###Sự bình luận### sự phê bình
+論文###ろんぶん###Bài luận văn
+論理###ろんり###Luân lý### lôgic
+口論###こうろん###Sự tranh luận### sự tranh cãi
+論じる###ろんじる###Bàn luận### tranh luận
+概論###がいろん###khái luận/tóm tắt
+結論###けつろん###kết luận/sự kết luận
+原論###げんろん###nguyên lý/nguyên tắc
+言論###げんろん###ngôn luận/sự bình luận/sự phát ngôn/bình luận/dư luận/phát ngôn
+口論###こうろん###sự tranh luận/sự cãi nhau/sự cãi cọ/cãi nhau/cãi cọ/tranh luận
+緒論###ちょろん###sự giới thiệu
+序論###じょろん###lời mở đầu/lời giới thiệu
+推論###すいろん###suy luận
+世論###せろん###công luận
+政論###せいろん###chính luận
+正論###せいろん###chính luận
+総論###そうろん###tổng luận
+議論###ぎろん###sự thảo luận/thảo luận/tranh luận/bàn luận
+討論###とうろん###tranh luận
+反論###はんろん###phản luận/sự bác bỏ
+評論###ひょうろん###sự bình văn
+弁論###べんろん###sự biện luận
+無論###むろん###đương nhiên
+勿論###もちろん###đương nhiên
+立論###りつろん###lập luận
+理論###りろん###lý thuyết
+論究###ろんきゅう###sự luận cứu
+論拠###ろんきょ###luận cứ/cơ sở lý luận
+論旨###ろんし###mục đích tranh luận
+論説###ろんせつ###luận thuyết
+論戦###ろんせん###luận chiến
+論議###ろんぎ###sự tranh luận/sự bàn cãi
+論題###ろんだい###luận cương
+論調###ろんちょう###luận định
+論定###ろんてい###luận định
+論点###ろんてん###luận điểm
+論評###ろんぴょう###bình luận
+論文###ろんぶん###luận án/luận văn
+論理###ろんり###sự logic/sự có lý

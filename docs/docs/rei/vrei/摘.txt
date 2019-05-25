@@ -1,0 +1,11 @@
+kunyomi
+摘む###つむ###Hái
+onyomi
+摘出###てきしゅつ###Sự giải phẩu bỏ### sự trích bỏ
+摘発###てきはつ###Sự bóc trần### sự vạch trần
+摘要###てきよう###Bài tóm tắt### nét đại cương
+指摘###してき###Sự chỉ ra### sự vạch ra
+摘果###てきか###việc tỉa bớt quả thừa
+摘芽###てきが###việc tỉa bớt chồi thừa
+摘心###てきしん###sự tỉa bớt (chồi### cành)
+摘録###てきろく###Tóm lược/trích lục

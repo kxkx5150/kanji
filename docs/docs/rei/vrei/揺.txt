@@ -1,0 +1,7 @@
+kunyomi
+揺さぶる###ゆさぶる###Lay động### rung### lắc### làm đu đưa
+揺らぐ###ゆらぐ###Bị lay động### bị dao động
+揺るぐ###ゆるぐ###Lay động### dao động### rung### lắc
+揺れる###ゆれる###Rung### lắc### dao động
+onyomi
+動揺###どうよう###Sự dao động

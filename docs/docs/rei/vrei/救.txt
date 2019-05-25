@@ -1,0 +1,12 @@
+kunyomi
+救う###すくう###Cứu giúp### cứu thoát
+救い###すくい###Sự cứu trợ### sự trợ giúp
+onyomi
+救援###きゅうえん###Sự cứu viện
+救済###きゅうさい###Sự cứu tế### sự cứu trợ
+救急###きゅうきゅう###Sự cấp cứu
+救命###きゅうめい###Sự cứu mạng### sự cứu sống
+救国###きゅうこく###cứu quốc
+救出###きゅうしゅつ###Cứu thoát
+救助###きゅうじょ###sự cứu trợ/sự cứu giúp/sự cứu hộ/sự cứu viện/cứu trợ/cứu giúp/cứu hộ/cứu viện/công tác cứu hộ
+救難###きゅうなん###cứu nạn

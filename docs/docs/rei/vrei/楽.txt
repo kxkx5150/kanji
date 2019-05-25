@@ -1,0 +1,29 @@
+kunyomi
+楽しむ###たのしむ###Hưởng
+楽しい###たのしい###Vui vẻ
+onyomi
+音楽###おんがく###Âm nhạc
+楽器###がっき###Nhạc cụ
+楽園###らくえん###Thiên đường
+愛楽###あいぎょう###Tình yêu
+悦楽###えつらく###sự giải trí
+雅楽###ががく###nhã nhạc/gagaku (múa và nhạc truyền thống của Nhật)
+快楽###けらく###lạc thú ###khoái lạc
+楽劇###がくげき###nhạc kịch/ô pê ra
+楽師###がくし###nhạc sư
+楽隊###がくたい###dàn nhạc/ban nhạc
+楽団###がくだん###Dàn nhạc/ban nhạc
+楽壇###がくだん###thế giới âm nhạc/giới âm nhạc
+楽長###がくちょう###Nhạc trưởng
+楽典###がくてん###quy tắc soạn nhạc
+楽譜###がくふ###bảng tổng phổ/bảng dàn bè/nốt nhạc/bản nhạc
+器楽###きがく###nhạc khí
+気楽###きらく###sự nhẹ nhõm/sự thoải mái/nhẹ nhõm/thoải mái/dễ chịu
+享楽###きょうらく###sự hưởng lạc/sự hưởng thụ/hưởng thụ/hưởng lạc
+極楽###ごくらく###cõi cực lạc/thiên đường
+娯楽###ごらく###trò truyện ###sự giải trí/trò giải trí/sự tiêu khiển/sự vui chơi
+行楽###こうらく###giải trí/sự giải trí
+独楽###こま###con quay/quay
+舞楽###ぶがく###sàn nhảy
+愉楽###ゆらく###sự thoải mái/sự hài lòng/sự sung sướng
+文楽###ぶんらく###nhà hát múa rối

@@ -1,0 +1,20 @@
+kunyomi
+取る###と る###Lấy### chiếm đoạt### thu được
+取り上げる###とりあげる###Cầm lấy### lấy đi
+取り入れる###とりいれる###Thu nhận### tiếp nhận### thu hoạch
+取り引き###とりひき###Sự giao dịch### sự buôn bán
+取り戻す###とりもどす###Lấy lại### giành lại
+取り扱う###とりあつかう###Đối đãi### xử lý### điều khiển
+取り組む###とりくむ###Vật lộn### ôm ghì lấy
+onyomi
+取材###しゅざい###Sự thu thập tài liệu### tin tức
+取得###しゅとく###Sự giành được### sự thu được
+搾取###さくしゅ###sự bóc lột
+摂取###せっしゅ###tiêm chủng/ chuyền
+取引###とりひき###sự giao dịch/sự mua bán
+取捨###しゅしゃ###sự chọn lọc
+進取###しんしゅ###tổ chức kinh doanh
+窃取###せっしゅ###sự ăn trộm/sự ăn cắp
+聴取###ちょうしゅ###sự nghe
+頭取###とうどり###chủ tịch (ngân hàng)
+詐取###さしゅ###sự lừa gạt (tiền bạc)

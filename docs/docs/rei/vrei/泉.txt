@@ -1,0 +1,10 @@
+kunyomi
+泉###いずみ###Suối
+onyomi
+温泉###おんせん###Suối nước nóng
+泉水###せんすい###Suối nước
+井泉###せいせん###giếng nước
+源泉###げんせん###nguồn/nguồn gốc/gốc rễ
+飛泉###ひせん###Thác nước
+鉱泉###こうせん###suối khoáng nước suối
+冷泉###れいせん###suối nước lạnh

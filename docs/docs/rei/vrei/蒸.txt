@@ -1,0 +1,9 @@
+kunyomi
+蒸す###むす###Chưng### hấp
+蒸し暑い###むしあつい###Nóng oi bức
+蒸し風呂###むしぶろ###Tắm hơi
+onyomi
+蒸気###じょうき###Hơi nước
+蒸気船###じょうきせん###Tàu hơi nước
+蒸発###じょうはつ###Sự làm bốc hơi### sự làm bay hơi
+蒸留###じょうりゅう###sự chưng cất

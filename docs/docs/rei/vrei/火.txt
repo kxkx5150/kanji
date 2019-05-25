@@ -1,0 +1,38 @@
+kunyomi
+火###ひ###Lửa
+onyomi
+火曜日###かようび###Thứ ba
+火山###かざん###Núi lửa
+火事###かじ###Hỏa hoạn
+消火###しょうか###sự chữa cháy/sự cứu hoả/chữacháy/cứu hoả
+火炎###かえん###viêm ###ngọn lửa
+火花###ひばな###hoa lửa
+火器###かき###hỏa lò ###hỏa khí/súng phun lửa/vũ khí phun lửa/hỏa tiễn
+火気###かき###súng ống
+火急###かきゅう###sự khẩn cấp/sự hỏa tốc/khẩn cấp/cấp bách
+火傷###かしょう###phỏng ###bỏng ###bị phỏng ###bị bỏng
+火口###かこう###ひぐち###Miệng núi lửa
+火災###かさい###hỏa tai ###hỏa hoạn
+火色###ひいろ###màu lửa
+火水###ひみず###nước và lửa
+火星###かせい###sao hỏa
+火箭###ひや###tên lửa
+火葬###かそう###sự hỏa thiêu/sự hỏa táng
+火縄###ひなわ###cầu chì
+火鉢###ひばち###lò than ###lò lửa
+火薬###かやく###thuốc súng/thuốc nổ
+火力###かりょく###thế lửa/sức lửa/hỏa lực/nhiệt điện
+火炉###かろ###lò
+花火###はなび###pháo hoa ###pháo bông
+出火###しゅっか###sự bốc lửa/sự xảy ra hỏa hoạn/xảy ra hỏa hoạn
+小火###しょうか###ngọn lửa nhỏ
+戦火###せんか###binh lửa ###binh hỏa
+耐火###たいか###sự chịu lửa
+中火###ちゅうび###ngọn lửa vừa
+天火###てんか###てんぴ###lò
+点火###てんか###とぼし###bộ phận đánh lửa trong động cơ/sự đốt cháy/ phát nổ
+砲火###ほうか###khói lửa/súng lửa/hỏa pháo
+発火###はっか###sự phát hỏa
+噴火###ふんか###sự phun lửa (núi lửa)
+放火###ほうか###sự phóng hỏa/sự cố ý gây hỏa hoạn/sự đốt phá
+防火###ぼうか###sự phòng lửa/sự phòng hỏa hoạn

@@ -1,0 +1,32 @@
+kunyomi
+部屋###へや###Căn phòng
+屋根###やね###Mái nhà
+onyomi
+屋上###おくじょう###Sân thượng
+屋内###おくない###Trong nhà
+屋外###おくがい###Ngoài trời
+屋敷###やしき###lâu đài/khu nhà ở
+家屋###かおく###nhà ở/nhà/căn nhà
+花屋###はなや###cửa hàng hoa
+岩屋###いわや###hang động
+魚屋###さかなや###chợ cá/người buôn cá/cửa hàng cá
+紺屋###こんや###cửa hàng nhuộm/thợ nhuộm/nhuộm
+産屋###うぶや###phòng ở cữ/phòng để sinh/phòng đẻ
+質屋###しちや###hiệu cầm đồ
+酒屋###さかや###tửu quán ###tiệm rượu ###quán rượu
+宿屋###やどや###nhà trọ/chỗ tạm trú
+小屋###こや###vựa ###túp lều/nhà nhỏ/kho chứa/chuồng
+床屋###とこや###hiệu cắt tóc
+上屋###うわや###nhà kho chứa hàng ngoài cảng
+畳屋###たたみや###phòng trải chiếu
+人屋###ひとや###nhà tù
+草屋###くさや###túp lều cỏ/lều tranh
+大屋###おおや###chủ nhà/bà chủ nhà
+長屋###ながや###nhà chung cư
+鳥屋###とや###とりや###nơi bán chim/cửa hàng bán chim
+肉屋###にくや###hàng thịt ###cửa hàng thịt/quán bán thịt
+納屋###なや###lán
+揚屋###あげや###Nhà thổ cao cấp thời Edo
+本屋###ほんおく###ほんや###cửa hàng sách
+問屋###といや###kho bán xỉ/kho bán buôn ###hãng buôn bán
+薬屋###くすりや###nhà thuốc ###hiệu thuốc ###dược phòng ###cửa hàng thuốc

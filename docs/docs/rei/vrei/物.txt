@@ -1,0 +1,81 @@
+kunyomi
+物###もの###Đồ vật
+onyomi
+物品###ぶつひん###Vật phẩm
+物理###ぶつり###Vật lý
+安物###やすもの###đồ rẻ tiền
+異物###いぶつ###vết tích
+汚物###おぶつ###rác rưởi
+怪物###かいぶつ###quái vật
+夏物###なつもの###đồ dùng cho mùa hè
+果物###かぶつ###hoa quả/trái cây
+荷物###にもつ###hành lý
+貨物###かぶつ###hàng hóa/hàng
+獲物###えもの###cuộc đi săn/thú săn được
+別物###べつもの###Vật khác
+乾物###ほしもの###ひもの###đồ ăn khô
+偽物###ニセもの###đồ giả
+禁物###きんもつ###điều kiêng kỵ/điều cấm kỵ/điều không nên
+傷物###きずもの###sản phẩm có tỳ vết/sản phẩm lỗi/sản phẩm không đạt yêu cầu
+建物###たてもの###tòa nhà/ngôi nhà/công trình kiến trúc
+献物###けんもつ###vật hiến tế/vật hiến tặng
+絹物###きぬもの###hàng tơ lụa/đồ tơ lụa
+見物###けんぶつ###みもの###sự tham quan/sự dạo chơi/việc thưởng ngoạn cảnh vật/tham quan/dạo chơi/thưởng ngoạn/ngắm cảnh/ngắm
+現物###げんぶつ###hiện vật
+御物###ぎょぶつ###kho báu của vua
+好物###こうぶつ###món ăn ưa thích/thức ăn ưa thích
+穀物###こくもつ###ngũ cốc
+作物###さくぶつ###さくもつ###hoa màu/cây trồng
+雑物###ざつぶつ###vụn vặt
+産物###さんぶつ###sản vật/sản phẩm
+実物###じつぶつ###みもの###thực chất
+煮物###にもの###thức ăn đã được ninh### hầm
+腫物###しゅもつ###ung nhọt
+偉物###えらもの###nhân vật vĩ đại
+書物###しょもつ###sách vở
+植物###しょくぶつ###thực vật/cây cối
+織物###おりもの###vải dệt
+食物###しょくもつ###đồ ăn/thực phẩm
+人物###じんぶつ###nhân vật/con người/một cá nhân/người có tài năng/nhân vật quan trọng
+刃物###はもの###dụng cụ có cạnh sắc/dao kéo
+生物###せいぶつ###なまもの###sinh vật
+青物###あおもの###rau cỏ/rau xanh/rau
+静物###せいぶつ###tĩnh vật
+先物###さきもの###hàng kỳ hạn (sở giao dịch)
+置物###おきもの###đồ trang trí
+着物###きもの###áo kimono/kimono
+鋳物###いもの###đồ đúc/sản phẩm đúc
+供物###そなえもの###lễ vật
+漬物###つけもの###dưa muối/cà muối
+傑物###けつぶつ###nhân vật kiệt xuất/con người kiệt xuất/con người xuất chúng
+冬物###ふゆもの###quần áo mặc vào mùa đông
+動物###どうぶつ###súc vật ###muông thú ###động vật
+毒物###どくぶつ###vật có độc ###chất độc
+鍋物###なべもの###Món lẩu
+廃物###はいぶつ###phế vật ###cặn bã
+縫物###ぬいもの###Đồ khâu tay
+反物###たんもの###tấm vải
+鉱物###こうぶつ###nham thạch ###khoáng vật
+品物###しなもの###hàng hóa/phẩm vật
+風物###ふうぶつ###đặc điểm tự nhiên
+物陰###ものかげ###vỏ bọc/sự nằm dưới vỏ bọc/chỗ ẩn náu/sự ẩn náu
+物価###ぶっか###vật giá
+物音###ものおと###âm thanh
+物件###ぶっけん###tài sản
+物権###ぶっけん###quyền lợi thực tế
+物産###ぶっさん###sản vật
+物資###ぶっし###vật tư
+物事###ものごと###sự vật sự việc
+物質###ぶっしつ###vật chất
+物税###ぶつぜい###thuế hàng hóa và vật dụng sở hữu cá nhân
+物騒###ぶっそう###sự loạn lạc/sự không yên
+物体###ぶったい###vật thể/vật
+物置###ものおき###kho cất đồ/phòng để đồ
+物語###ものがたり###truyện
+物腰###ものごし###cách cư xử/thái độ/tác phong
+宝物###ほうもつ###vật quý giá/báu vật
+本物###ほんもの###vật thật/đồ thật ###bản chính
+万物###ばんもつ###vạn vật ###muôn vật
+名物###めいぶつ###đặc sản/sản vật nổi tiếng
+私物###しぶつ###của riêng/vật tư hữu
+履物###はきもの###giày dép

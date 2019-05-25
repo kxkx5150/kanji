@@ -1,0 +1,13 @@
+kunyomi
+済む###すむ###Xong
+済ます###すます###Làm xong### trả xong
+onyomi
+済度###さいど###Cứu tế### cứu độ
+救済###きゅうさい###Cứu tế
+共済###きょうさい###Hợp tác### cộng tác
+返済###へんさい###Trả lại### hoàn lại
+経済###けいざい###Kinh tế
+決済###けっさい###Thanh toán
+内済###ないさい###Giải quyết nội bộ (không đưa ra tòa án)
+百済###くだら###Vương quốc Triều Tiên thời xưa
+弁済###べんさい###sự thanh toán/việc thanh toán

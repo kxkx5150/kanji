@@ -1,0 +1,13 @@
+kunyomi
+件###けん###Vấn đề
+onyomi
+事件###じけん###Sự kiện### biến cố### việc
+件名###けんめい###Tiêu đề### đề tài
+条件###じょうけん###Điều kiện### quy định
+要件###ようけん###Yêu cầu
+案件###あんけん###phương án
+後件###こうけん###Hậu quả
+難件###なんけん###trường hợp khó/vấn đề khó
+物件###ぶっけん###tài sản
+用件###ようけん###việc
+要件###ようけん###yêu cầu/điều kiện tất yếu/điều kiện cần thiết

@@ -1,0 +1,13 @@
+kunyomi
+築く###きずく###Xây dựng### xây cất
+築き上げる###きずきあげる###Xây lên
+onyomi
+築造###ちくぞう###Sự xây dựng
+建築###けんちく###Sự xây dựng
+建築家###けんちくか###Kiến trúc sư### thầu xây dựng
+建築費###けんちくひ###Chi phí xây dựng
+構築###こうちく###Sự xây dựng
+新築###しんちく###Sự xây nhà mới
+改築###かいちく###sự xây dựng lại/việc xây lại/sự cải tạo
+築山###つきやま###hòn non bộ
+築城###ついき###việc xây dựng lâu đài

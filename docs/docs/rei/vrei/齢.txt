@@ -1,0 +1,7 @@
+onyomi
+年齢###ねんれい###Tuổi
+高齢###こうれい###Tuổi cao
+老齢###ろうれい###Tuổi già
+学齢###がくれい###tuổi đến trường
+月齢###げつれい###tuần trăng/tháng tuổi của trẻ con/tháng tuổi
+適齢###てきれい###độ tuổi phù hợp

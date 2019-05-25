@@ -1,0 +1,24 @@
+kunyomi
+保つ###たもつ###Giữ gìn### duy trì### bảo đảm
+onyomi
+保険###ほけん###Bảo hiểm
+保証###ほしょう###Bảo đảm
+保存###ほぞん###Sự bảo tồn
+保護###ほご###chăm sóc; sự bảo vệ; sự chiếu cố; sự bảo trợ
+確保###かくほ###sự bảo hộ/sự bảo đảm/sự cam đoan/sự bảo vệ
+担保###たんぽ###đảm bảo/khoản thế chấp
+仲保###ちゅうほ###Sự điều đình/sự can thiệp
+保安###ほあん###sự trị an/sự đảm bảo an toàn/sự bảo an
+保温###ほおん###sự giữ độ ấm/sự duy trì độ ấm/ sự giữ nhiệt
+保管###ほかん###sự bảo quản
+保健###ほけん###sự bảo vệ sức khỏe
+保護###ほご###sự bảo hộ
+保持###ほじ###bảo trì
+保守###ほしゅ###bảo thủ
+保全###ほぜん###bảo toàn
+保存###ほぞん###bảo tồn
+保母###ほぼ###bảo mẫu
+保有###ほゆう###bắt giữ/lưu giữ
+保養###ほよう###bổ dưỡng
+保留###ほりゅう###sự bảo lưu/sự hoãn lại
+保釈###ほしゃく###tại ngoại hầu tra ###bảo lãnh

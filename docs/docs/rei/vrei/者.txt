@@ -1,0 +1,49 @@
+kunyomi
+者###もの###Người
+onyomi
+医者###いしゃ###Bác sĩ
+学者###がくしゃ###Hiền triết### học giả
+参加者###さんかしゃ###Người tham gia
+悪者###わるもの###người xấu/kẻ xấu
+隠者###いんじゃ###ẩn sĩ
+易者###えきしゃ###thầy bói
+王者###おうじゃ###bậc vương giả/ông hoàng/ông vua
+患者###かんじゃ###bệnh nhân/người bệnh/người ốm
+記者###きしゃ###người viết báo
+業者###ぎょうしゃ###người buôn bán/người kinh doanh/cơ sở kinh doanh
+愚者###ぐしゃ###ngu dân
+芸者###げいしゃ###nghệ nhân
+見者###けんしゃ###Khách tham quan
+賢者###けんじゃ###người hiền/hiền nhân/hiền tài
+後者###こうしゃ###cái sau/cái nhắc đến sau
+巧者###こうしゃ###khéo/khéo léo/khéo tay
+行者###ぎょうじゃ###người khổ hạnh/người hành hương/người tu luyện/người tu hành
+作者###さくしゃ###tác giả
+使者###ししゃ###sứ giả
+死者###ししゃ###người chết
+若者###わかもの###chàng
+勝者###しょうしゃ###người chiến thắng
+信者###しんじゃ###tín đồ/người theo đạo
+聖者###しょうじゃ###thánh nhân
+前者###ぜんしゃ###người lúc trước/ điều thứ nhất/ người trước
+他者###たしゃ###người khác/những người khác
+著者###ちょしゃ###tác giả/nhà văn
+長者###ちょうじゃ###triệu phú
+適者###てきしゃ###Người thích hợp
+点者###てんじゃ###Nhà phê bình (của) nghệ thuật thơ haiku
+編者###へんじゃ###người soạn
+読者###どくしゃ###độc giả
+二者###にしゃ###hai người
+忍者###にんじゃ###ninja của nhật
+覇者###はしゃ###người bá chủ/quán quân
+敗者###はいしゃ###người chiến bại/người thua
+筆者###ひっしゃ###phóng viên/kí giả
+貧者###ひんじゃ###Người nghèo
+富者###ふうしゃ###người giàu
+武者###むしゃ###người có võ/chiến sĩ/chiến binh/hiệp sĩ
+仏者###ぶっしゃ###phật tử
+猛者###もさ###người dũng cảm/người kiên quyết
+役者###やくしゃ###diễn viên
+訳者###やくしゃ###người dịch/phiên dịch
+侍者###じしゃ###người hầu phòng (nam)
+両者###りょうしゃ###hai người

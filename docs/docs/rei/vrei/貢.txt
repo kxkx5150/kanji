@@ -1,0 +1,8 @@
+kunyomi
+貢ぐ###みつぐ###Góp tiền
+onyomi
+貢租###こうそ###Thuế hàng năm### vật cống
+貢献###こうけん###Cống hiến
+年貢###ねんぐ###Thuế đất### thuế bất động sản
+朝貢###ちょうこう###sự triều cống
+入貢###にゅうこう###sự cống nạp

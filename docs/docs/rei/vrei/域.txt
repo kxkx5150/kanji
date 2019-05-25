@@ -1,0 +1,10 @@
+onyomi
+地域###ちいき###Khu vực### vùng
+海域###かいいき###Vùng biển
+領域###りょういき###Lĩnh vực### vùng
+域外###いきがい###bên ngoài vùng
+域内###いきない###bên trong vùng### bên trong một khu vực
+区域###くいき###khu vực/phạm vi/lĩnh vực/khối
+広域###こういき###vùng rộng lớn###khu vực rộng
+流域###りゅういき###lưu vực
+聖域###せいいき###vùng của thánh thần/thánh địa

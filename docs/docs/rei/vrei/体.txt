@@ -1,0 +1,72 @@
+kunyomi
+体###からだ###Thân mình### hình trạng
+onyomi
+体重###たいじゅう###Thể trọng### cân nặng
+体制###たいせい###Thể chế
+体裁###ていさい###Tác phong### kiểu dáng
+体型###たいけい###hìng dáng
+体位###たいい###cơ thể; dáng vóc; tiêu chuẩn thể chất
+遺体###いたい###xác chết/thi hài/hài cốt
+一体###いったい###không hiểu.../cái (quái) gì/tại sao... không biết.
+液体###えきたい###chất lỏng
+解体###かいたい###Giải thể
+機体###きたい###thân máy bay
+弱体###じゃくたい###yếu kém (tổ chức đoàn thể)
+担体###たんたい###chịu trách nhiệm/đảm đương
+個体###こたい###cá thể
+固体###こたい###thể rắn/dạng rắn/chất rắn
+五体###ごたい###5 bộ phận chính cấu thành cơ thể/cơ thể/toàn bộ cơ thể
+剛体###ごうたい###thể rắn
+死体###したい###xác chết
+流体###りゅうたい###thể lỏng
+字体###じたい###kiểu chữ
+自体###じたい###sự tự thân/chính
+車体###しゃたい###khung xe
+主体###しゅたい###trung tâm/cốt lõi
+重体###じゅうたい###sự ốm nặng/tình trạng nguy kịch/ốm nặng
+女体###じょたい###Cơ thể của phụ nữ
+人体###じんたい###thân thể của người/cơ thể của người
+政体###せいたい###chính thể
+正体###しょうたい###sự ý thức/ tính đồng nhất
+船体###せんたい###thân tàu
+全体###ぜんたい###cả người
+体育###たいいく###môn thể dục/sự giáo dục thể chất
+体温###たいおん###nhiệt độ cơ thể/thân nhiệt
+体格###たいかく###thể cách /tạng người/thể chất /cử chỉ
+体刑###たいけい###thể khí
+体型###たいけい###thể hình (người)
+体形###たいけい###nhục hình
+体系###たいけい###hệ thống/cấu tạo
+体制###たいせい###tổ chức /cấu trúc
+体操###たいそう###môn thể dục/bài tập thể dục
+体裁###ていさい###tác phong/kiểu dáng/ phong thái/ thể diện
+体質###たいしつ###thể chất
+体重###たいじゅう###thể trọng/cân nặng
+体積###たいせき###thể tích
+体調###たいちょう###sự điều tra tình trạng cơ thể
+体長###たいちょう###chiều dài của cơ thể
+体得###たいとく###sự tinh thông/sự hiểu biết
+体内###たいない###nội thể/bên trong cơ thể
+体罰###たいばつ###sự trừng phạt về thể xác
+体面###たいめん###thể dục
+体力###たいりょく###thể nghiệm
+大体###だいたい###cái đại thể/sự vạch ra những đường nét chính/sự phác thảo
+球体###きゅうたい###hình cầu
+団体###だんたい###đoàn thể/tập thể
+天体###てんたい###thiên thể
+胴体###どうたい###cơ thể/thân mình
+肉体###にくたい###xác thịt
+媒体###ばいたい###phương tiện/các phương tiện truyền thông
+抗体###こうたい###kháng thể
+病体###びょうたい###sức khoẻ yếu/cơ thể ốm yếu
+風体###ふうたい###vẻ ngoài
+物体###ぶったい###vật thể/vật
+文体###ほんたい###đối tượng được sùng bái
+肢体###したい###chi/bộ phận
+裸体###らたい###khỏa thân
+立体###りったい###lập thể/hình lập thể/hình khối
+気体###きたい###thể khí
+実体###じったい###đối tượng/thực thể
+体験###たいけん###thể tích ###sự thể nghiệm/sự trải nghiệm
+単体###たんたい###đơn thể
+本体###ほんたい###đối tượng được sùng bái ###bản thể/thực thể

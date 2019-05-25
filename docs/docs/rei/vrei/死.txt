@@ -1,0 +1,35 @@
+kunyomi
+死ぬ###しぬ###Chết
+onyomi
+死亡###しぼう###Chết
+死刑###しけい###Tử hình
+死後###しご###Sau khi chết
+決死###けっし###quyết tử
+惨死###ざんし###sự chết thảm/cái chết thảm thương/chết thảm thương
+死因###しいん###nguyên nhân cái chết
+死別###しべつ###tử chiến
+死去###しきょ###cái chết
+死罪###しざい###tử tội
+死者###ししゃ###người chết
+死人###しびと###người chết
+死体###したい###xác chết ###xác ###tử thi
+死地###しち###tử địa
+死語###しご###lời nói của người chết
+殉死###じゅんし###sự tuẫn tiết/tuẫn tiết
+凍死###とうし###sự chết cứng vì lạnh
+焼死###しょうし###chết thiêu
+餓死###きし###sự chết đói/nạn chết đói
+水死###すいし###sự chết đuối/chết đuối
+生死###しょうじ###sự sinh tử/cuộc sống và cái chết
+戦死###せんし###tử trận ###chết trong khi đang làm nhiệm vụ/sự tử chiến
+即死###そくし###sự chết ngay lập tức
+墜死###ついし###cái chết do rơi từ trên cao
+溺死###できし###sự chết đuối
+徒死###とし###cái chết vô nghĩa/cái chết vô ích
+枯死###こし###sự khô héo/sự chết khô (cây)/khô héo/chết khô
+頓死###とんし###sự đột tử
+脳死###のうし###sự chết não
+必死###ひっし###sự quyết tâm
+病死###びょうし###chết bệnh ###cái chết vì bệnh tật
+不死###ふし###bất tử
+老死###ろうし###chết già

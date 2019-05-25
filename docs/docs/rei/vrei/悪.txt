@@ -1,0 +1,64 @@
+kunyomi
+悪い###わるい###Xấu### không tốt
+悪口###わるぐち###Nói xấu ai đó
+onyomi
+悪意###あくい###Ý xấu### hiểm ác
+悪運###あくうん###Vận hạn### vận xui
+悪化###あっか###Xấu đi### tồi tệ hơn
+悪感###あっかん###Bực bội### khó chịu### ác cảm
+悪心###あくしん###Tâm địa xấu### buồn nôn
+悪血###おけつ###Máu có vi rút
+悪寒###おかん###sự ớn lạnh; sự rùn mình
+悪衣###あくい###Y phục tồi tàn
+悪運###あくうん###hạn vận
+悪疫###あくえき###bệnh ác tính/bệnh truyền nhiễm ác tính
+悪漢###あっかん###kẻ ác độc/tên côn đồ/đầu gấu/côn đồ
+悪性###あくせい###xấu tính
+悪気###あっき###ác ý/xấu bụng/tâm địa xấu
+悪鬼###あっき###quỉ sứ
+悪業###あくぎょう###Nghiệp chướng xấu/hành động xấu xa/hành động tội lỗi
+悪玉###あくたま###bất lợi/có hại
+悪計###あくけい###Kế hoạch tội ác/mánh khóe
+悪言###あくげん###Sự vu cáo/sự nói xấu
+悪行###あっこう###Hành động xấu/hành động sai trái
+悪才###あくさい###Thiên tài tội ác
+悪疾###あくしつ###bệnh ác tính/bệnh truyền nhiễm ác tính
+悪質###あくしつ###sự có độc/sự có hại
+悪習###あくしゅう###Thói quen xấu
+悪臭###あくしゅう###mùi thối/mùi hôi thối
+悪女###あくじょ###yêu phụ
+悪食###あくじき###Bữa ăn nghèo nàn/ăn các thứ đáng ghê tởm
+悪心###あくしん###âm địa xấu xa/buồn nôn/cảm giác buồn nôn
+悪人###あくにん###người xấu/ác nhân/xấu xa/độc ác
+悪声###あくせい###Âm thanh khó chịu/Tin đồn xấu/lời nói xấu
+悪舌###あくした###kẻ xấu miệng/kẻ ngồi lê mách lẻo
+悪相###あくそう###sắc diện đáng sợ/Điềm gở
+悪徒###あくと###Kẻ bất lương/tên vô lại/kẻ côn đồ
+悪道###あくどう###Ác đạo/con đường tội lỗi
+悪徳###あくとく###Việc làm trái với đạo lý thông thường
+悪日###あくにち###Ngày gặp toàn chuyện không may/ngày xui xẻo
+悪念###あくば###ý tưởng tiến hành tội ác
+悪馬###あくうま###Con ngựa hoang/con ngựa không thể thuần phục
+悪評###あくひょう###Danh tiếng xấu/sự ô nhục/lời phê bình bất lợi
+悪罵###あくば###Sự nguyền rủa/sự phỉ báng
+悪風###あくふう###Phong tục xấu/tập quán xấu/thói quen xấu/tật xấu
+悪弊###あくへい###tệ nạn
+悪法###あくほう###luật không nghiêm/luật tồi
+悪魔###あくま###yêu ma
+悪夢###あくむ###ác mộng/giấc mơ hãi hùng
+悪名###あくめい###Danh tiếng xấu/cái tên xấu/tai tiếng
+悪役###あくやく###/nhân vật phản diện/vai phản diện
+悪用###あくよう###sự lạm dụng/sự sử dụng không đúng/tham ô/
+悪例###あくれい###Ví dụ xấu/tiền lệ xấu
+険悪###けんあく###hắt khe/gay gắt/nghiêm khắc
+旧悪###きゅうあく###/tội ác trước đây/tội lỗi trước đây
+嫌悪###けんお###sự kinh sợ/sự ghê sợ/chán ghét/kinh tởm
+凶悪###きょうあく###ung ác/tàn bạo/tàn ác
+好悪###こうあく###cái thích và cái không thích/yêu và ghét
+最悪###さいあく###cái xấu nhất/cái tồi nhất
+罪悪###ざいあく###tội ác
+醜悪###しゅうあく###xấu xí
+善悪###ぜんあく###thiện ác
+劣悪###れつあく###kém/thấp kém/tồi tệ/không tốt/tồi tàn
+大悪###だいあく###đại ác
+懲悪###ちょうあく###sự trừng phạt cái ác

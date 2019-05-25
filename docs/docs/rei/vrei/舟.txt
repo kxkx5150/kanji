@@ -1,0 +1,9 @@
+kunyomi
+舟###ふね###Tàu thuyền
+舟遊び###ふなあそび###Du thuyền
+舟人###ふなびと###Thủy thủ
+onyomi
+舟行###しゅうこう###sự đi thuyền; sự đi chơi thuyền
+舟運###しゅううん###Vận chuyển bằng tàu thuyền
+舟艇###しゅうてい###tàu nhỏ
+小舟###こぶね###tàu nhỏ/thuyền nhỏ

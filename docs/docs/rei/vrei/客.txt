@@ -1,0 +1,25 @@
+kunyomi
+客員###かくいん###Vị khách
+onyomi
+客様###きゃくさま###Quý khách
+客観###きゃっかん###Khách quan
+客間###きゃくま###Phòng khách
+外客###がいかく###Khách nước ngoài/khách du lịch nước ngoài
+観客###かんきゃく###quan khách/người xem/khách tham quan/khán giả
+客室###きゃくしつ###nhà khách/nhà tiếp khách/phòng khách/phòng dành cho khách/phòng (khách sạn)
+客車###かくしゃ###xe khách/xe chở khách/chuyến xe khách
+客席###きゃくせき###ghế của khách xem/ghế ngồi xem/ghế khán giả
+客船###きゃくせん###thuyền chở khách/tàu khách/tàu chở khách
+客年###きゃくねん###năm ngoái
+孤客###こかく###người lữ hành một mình/người độc hành/người đi du ngoạn một mình
+顧客###こかく###khách hàng/khách quen
+乗客###じょうかく###hành khách
+常客###じょうきゃく###mối hàng
+接客###せっきゃく###tiếp khách
+弔客###ちょうきゃく###khách phúng điếu
+珍客###ちんかく###khách quý
+訪客###ほうきゃく###khách (đến thăm một nơi nào đó)
+剣客###けんきゃく###kiếm khách
+賓客###ひんかく###khách mời danh dự
+来客###らいかく###khách
+旅客###りょきゃく###lữ khách/khách du lịch

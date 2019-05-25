@@ -1,0 +1,53 @@
+kunyomi
+白い###しろい###Trắng
+白###しろ###Màu trắng
+白###しら###Trắng
+onyomi
+告白###こくはく###Tỏ tình
+白壁###はくへき###Tường trắng
+白夜###びゃくや###Đêm trắng
+科白###せりふ###Khả năng nói
+潔白###けっぱく###sự trong sạch/sự trong sáng/sự vô tội/trong sạch/trong sáng/vô tội
+敬白###けいはく###kính thư
+黒白###こくびゃく###đen trắng/cái đúng và sai
+自白###じはく###sự tự nói ra/ sự thú tội/ sự thú nhận
+純白###じゅんぱく###trắng tinh
+追白###ついはく###tái bút
+漂白###ひょうはく###sự tẩy trắng
+白羽###しらは###lông chim màu trắng
+白衣###びゃくえ###áo trắng/quần áo màu trắng
+白雲###はくうん###mây trắng
+白旗###しろはた###cờ trắng
+白菊###しらぎく###cây cúc trắng
+白線###はくせん###đường vạch màu trắng
+白金###はっきん###bạch kim
+白熊###シロクマ###gấu trắng
+白鯨###はくげい###cá voi trắng
+白狐###びゃっこ###cáo trắng
+白光###はっこう###Ánh sáng trắng/quầng sáng điện hoa/quầng hào quang (thiên văn học)
+白黒###しろくろ###màu đen và trắng
+白骨###はっこつ###xương trắng/bộ xương
+白砂###しらすな###シラス###cát trắng
+白菜###はくさい###rau cải thìa rau cải bắp rau cải bắc thảo
+白酒###しろざけ###パイチュウ###しろき###rượu đế
+白書###はくしょ###sách trắng
+白状###はくじょう###sự thành thật/sự thú nhận
+白色###はくしょく###màu trắng
+白人###はくじん###người da trắng
+白檀###びゃくだん###cây đàn hương/Gỗ đàn hương
+白痴###はくち###thằng ngốc/tính ngu xi/tính ngu ngốc
+白鳥###しらとり###thiên nga
+白銅###はくどう###đồng trắng
+白虹###はっこう###Cầu vồng trắng
+白熱###はくねつ###sự mãnh liệt/sự ác liệt ###ánh sáng trắng/ánh đèn nêông
+白髪###はくはつ###tóc sâu tóc bạc
+白粉###おしろい###phấn trang điểm
+白米###はくまい###gạo trắng/gạo xát
+白墨###はくぼく###phấn viết
+白面###はくめん###khuôn mặt không trang điểm/sự thiếu kinh nghiệm
+白紙###はくし###giấy trắng
+白蓮###びゃくれん###Sen trắng
+白露###はくろ###Sương buổi sáng/sương sớm
+紅白###こうはく###màu đỏ và trắng
+明白###めいはく###あからさま###sự minh bạch
+腕白###わんぱく###tính hư/tính tinh nghịch/tính tinh quái

@@ -1,0 +1,9 @@
+kunyomi
+獲る###える###Được### bắt được
+onyomi
+収獲###しゅかく###Kết quả
+捕獲###ほかく###Bắt được### bắt giữ
+乱獲###らんかく###Săn bắt bừa bãi
+獲得###かくとく###sự thu được/sự nhận được/sự kiếm được/sự thu nhận
+獲物###えもの###cuộc đi săn/thú săn được
+漁獲###ぎょかく###sự đánh bắt cá/đánh cá/đánh bắt cá

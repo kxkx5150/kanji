@@ -1,0 +1,25 @@
+kunyomi
+薄い###うすい###Mỏng### lợt### loãng### nhạt### thưa thớt
+薄味###うすあじ###Vị nhạt
+薄暗い###うすぐらい###Tối lờ mờ
+薄化粧###うすけしょう###Sự trang điểm nhẹ
+薄い色###うすいいろ###Màu lợt### màu nhạt
+薄雲###うすぐも###Mây nhẹ### mây thưa thớt
+onyomi
+薄弱###はくじゃく###Yếu đuối### nhu nhược### không vững vàng
+薄情###はくじょう###Vô tâm### lạnh lùng### vô cảm
+薄命###はくめい###Sự bạc mệnh### sự đoản mệnh
+薄暮###はくぼ###Buổi hoàng hôn
+希薄###きはく###Loãng (không khí)### nhạt
+軽薄###けいはく###sự nông cạn/sự hời hợt/sự nhạt nhẽo/vị nhạt
+浅薄###せんばく###tính chất nông/cạn/không sâu
+手薄###てうす###sự thiếu thốn (nhân lực)/thiếu thốn/thiếu/ít
+肉薄###にくはく###Việc tiến sát đến đối phương
+薄荷###はっか###bạc hà
+薄幸###はっこう###Sự bất hạnh/vận rủi
+薄色###うすいろ###màu lợt
+薄着###うすぎ###sự ăn mặc mỏng manh
+薄板###うすいた###tấm mỏng
+薄皮###うすかわ###da non
+薄味###はくみ###うすあじ###vị nhạt
+薄明###はくめい###ánh sáng mờ/lúc chạng vạng/lúc nhá nhem

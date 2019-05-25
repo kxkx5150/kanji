@@ -1,0 +1,12 @@
+kunyomi
+攻める###せめる###Đánh### trừng phạt
+onyomi
+攻撃###こうげき###Công kích### tấn công
+攻勢###こうせい###Sự xâm lược### sự gây hấn
+専攻###せんこう###Chuyên môn
+攻守###こうしゅ###sự công thủ/sự tấn công và phòng thủ/công thủ/tấn công và phòng thủ
+攻城###こうじょう###vây thành
+攻防###こうぼう###sự tấn công và phòng ngự/việc tấn công và phòng ngự/tấn công và phòng ngự
+進攻###しんこう###thế công
+内攻###ないこう###Bệnh bên trong cơ thể (không thể hiện triệu chứng ra bên ngoài)
+反攻###はんこう###sự phản công

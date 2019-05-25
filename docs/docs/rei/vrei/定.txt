@@ -1,0 +1,77 @@
+kunyomi
+定める###さだめる###Quyết định
+定まる###さだまる###Được quyết định
+定か###さだか###Chắc chắn### rõ ràng
+onyomi
+予定###よてい###Dự định
+定義###ていぎ###Định nghĩa
+安定###あんてい###Ổn định
+一定###いちじょう###sự cố định/sự nhất định/sự xác định/ổn định/không thay đổi
+仮定###かてい###sự giả định
+確定###かくてい###sự xác định/quyết định
+勘定###かんじょう###sự tính toán/sự thanh toán/sự lập tài khoản/tài khoản (kế toán)/khoản/thanh toán/tính toán/tính tiền
+鑑定###かんてい###sự giám định/sự bình giá/giám định/bình giá
+規定###きてい###qui ước ###qui định ###qui chế ###điều luật
+協定###きょうてい###hiệp định/hiệp ước
+決定###けってい###sự quyết định/quyết định
+検定###けんてい###sự kiểm định/sự kiểm tra và phân định/kiểm định/kiểm tra trình độ
+制定###せいてい###sự ban hành luật/đạo luật/sắc lệnh/sự định ra một qui chế ###định chế
+限定###げんてい###sự hạn định/sự hạn chế/sự quy định giới hạn
+固定###こてい###cố định/sự cố định/sự giữ nguyên/giữ nguyên/giữ cố định
+公定###こうてい###sự công bố/sự ấn định chính thức
+肯定###こうてい###sự khẳng định
+査定###さてい###sự định giá để đánh thuế
+裁定###せいてい###ác-bít/sự phân xử/sự làm trọng tài phân xử
+策定###さくてい###đưa ra ###đặt ra### bàn bạc và quyết định
+算定###さんてい###tính toán/thao tác điện toán
+暫定###ざんてい###sự tạm thời
+所定###しょてい###đã chỉ định/đã quyết định
+推定###すいてい###sự ước tính/sự suy đoán/sự giả định/ước tính
+設定###せってい###sự thành lập/sự thiết lập/sự tạo ra
+選定###せんてい###sự lựa chọn/sự tuyển chọn
+想定###そうてい###giả thuyết/sự giả định
+測定###そくてい###trắc định ###sự đo lường
+断定###だんてい###kết luận
+鎮定###ちんてい###Sự đàn áp
+定位###ていい###sự định vị
+定員###ていいん###sức chứa
+定温###ていおん###Nhiệt độ cố định
+定価###ていか###giá xác định/giá ghi trên hàng hoá
+定額###ていがく###chia phần### khẩu phần###số lượng cố định
+定性###ていせい###Định tính
+定款###ていかん###điều lệ
+定期###ていき###định kỳ
+定規###じょうぎ###chiếc thước kẻ/thước kẻ
+定休###ていきゅう###ngày nghỉ được quy định
+定形###ていけい###hình dạng cố định/hình dạng thông thường
+定見###ていけん###định kiến
+定式###ていしき###Công thức
+定住###ていじゅう###định cư
+定食###ていしょく###bữa ăn đặc biệt/suất ăn
+定数###ていすう###Hằng số
+定則###ていそく###luật lệ/quy tắc
+定置###ていち###Cố định
+定着###ていちゃく###sự có chỗ đứng vững chắc ###định hình
+定点###ていてん###điểm cố định
+定年###ていねん###tuổi về hưu
+定盤###じょうばん###bàn máp/bàn phẳng
+定訳###ていやく###Bản dịch chuẩn
+定律###ていりつ###luật định
+定率###ていりつ###tỷ lệ cố định
+定立###ていりつ###Luận án/luận đề/luận điểm/luận cương
+定理###ていり###Định lý/mệnh đề
+定量###ていりょう###định lượng/lượng cố định
+定例###ていれい###luật định
+特定###とくてい###sự chỉ định trước
+内定###ないてい###Quyết định không chính thức
+指定###してい###sự chỉ định
+入定###にゅうじょう###sự nhập thiền
+認定###にんてい###sự thừa nhận/sự chứng nhận
+判定###はんてい###sự phán đoán/sự phân định
+否定###ひてい###sự phủ định
+評定###ひょうてい###ひょうじょう###sự phân loại/sự sắp xếp
+不定###ふてい###bất định
+法定###ほうてい###quy định bởi luật pháp
+未定###みてい###sự chưa được quyết định
+約定###やくじょう###ước định
+論定###ろんてい###luận định

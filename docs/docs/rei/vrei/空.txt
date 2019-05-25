@@ -1,0 +1,47 @@
+kunyomi
+空###そら###Bầu trời
+空###から###Không
+空ける###あける###Bỏ trống
+空く###あく###Bỏ trống
+onyomi
+空港###くうこう###Sân bay
+空想###くうそう###Sự không tưởng
+航空###こうくう###Hàng không
+架空###かくう###ở trên trời/điều hư cấu/điều tưởng tượng/ma
+寒空###さむぞら###trời lạnh thời tiết lạnh
+虚空###こくう###không khí/khoảng không/khoảng trống
+空間###くうかん###Chỗ trống/chỗ khuyết/phòng trống cho thuê
+空隙###くうげき###lỗ khí
+空気###くうき###không khí/khí
+空虚###くうきょ###sự trống rỗng/sự rỗng không/sự không có gì/sự rỗng tuyếch
+空軍###くうぐん###không quân
+空似###そらに###sự tình cờ giống nhau
+空車###あきぐるま###xe bỏ không/xe không có khách/xe không/xe trống
+空手###からて###võ karate/karate/ka-ra-te/võ tay không
+空襲###くうしゅう###sự không kích/cuộc không kích/không kích
+空色###そらいろ###màu xanh da trời
+空席###くうせき###không trung/bầu trời/không gian
+空疎###くうそ###sự sáo rỗng/sự rỗng tuếch/sự vô nghĩa
+空中###くうちゅう###không trung/bầu trời/không gian
+空調###くうちょう###sự điều hòa không khí/sự điều hòa nhiệt độ
+空転###くうてん###chuyển động không/chuyển động vô ích/chạy không tải/diễn ra vô ích
+空洞###くうどう###hang/hốc/lỗ hổng/khoang/lỗ thủng
+空白###くうはく###chỗ trống/chỗ để trống/sự nhàn rỗi/trống/nhàn rỗi/để trống/khoảng trống
+空腹###くうふく###sự đói/bụng trống rỗng/bụng đói meo/đói/đói bụng
+空母###くうぼ###tàu sân bay/tàu lớn có sân bay
+空輸###くうゆ###vận chuyển bằng đường hàng không/vận tải hàng không/không vận
+空欄###くうらん###cột trống/cột để trống
+空涙###そらなみだ###nước mắt cá sấu
+空路###くうろ###đường không
+初空###はつぞら###Bầu trời vào buổi sáng năm mới
+上空###じょうくう###trên không bầu trời (trên một khu vực nào đó)
+真空###しんくう###chân không
+星空###ほしぞら###bầu trời sao/đầy sao
+青空###あおぞら###trời xanh/thanh thiên/bầu trời trong xanh
+大空###おおぞら###bầu trời
+中空###なかぞら###trong không trung/treo ngược cành cây (tâm hồn)/trên mây trên gió (tâm trí)
+天空###てんくう###Bầu trời/thiên không
+冬空###ふゆぞら###bầu trời mùa đông
+防空###ぼうくう###phòng không
+夜空###よぞら###bầu trời ban đêm
+領空###りょうくう###không phận/vùng trời

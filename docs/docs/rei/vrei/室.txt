@@ -1,0 +1,29 @@
+kunyomi
+室町###むろまち###Kỷ nguyên Muromachi
+onyomi
+会議室###かいぎしつ###Phòng họp
+室温###しつおん###Nhiệt độ trong phòng
+暗室###あんしつ###phòng tối
+温室###おんしつ###nhà kính
+客室###きゃくしつ###nhà khách/nhà tiếp khách/phòng khách/phòng dành cho khách/phòng (khách sạn)
+教室###きょうしつ###phòng học/lớp học
+憩室###けいしつ###bệnh túi thừa tá tràng
+個室###こしつ###tư gia
+後室###こうしつ###Quả phụ/người đàn bà goá/bà goá
+皇室###こうしつ###hoàng thất/hoàng gia
+室内###しつない###trong buồng ###phần nội thất
+寝室###しんしつ###Phòng ngủ/buồng ngủ
+船室###せんしつ###ca bin/buồng ngủ (trên tàu)
+茶室###ちゃしつ###phòng uống trà
+帝室###ていしつ###hoàng gia/họ vua
+内室###ないしつ###bà nhà/chị nhà/phu nhân
+入室###にゅうしつ###sự vào phòng
+脳室###のうしつ###não thất
+氷室###ひょうしつ###nhà băng/phòng lạnh
+病室###びょうしつ###phòng bệnh ###căn phòng của người bệnh/bệnh thất
+分室###ぶんしつ###phòng phụ/chái nhà ###phân sở (cơ quan)
+洋室###ようしつ###phòng kiểu Tây
+密室###みっしつ###mật thất
+私室###ししつ###phòng riêng
+浴室###よくしつ###phòng tắm ###buồng tắm
+和室###わしつ###phòng ở kiểu Nhật ###phòng kiểu Nhật

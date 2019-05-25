@@ -1,0 +1,33 @@
+kunyomi
+政###まつりごと###Sự làm đúng### sự quản trị
+onyomi
+政策###せいさく###Chính sách
+政客###せいかく###Chính khách
+政治###せいじ###Chính trị
+政党###せいとう###Đảng phái chính trị
+政府###せいふ###Chính phủ
+政権###せいけん###Chính quyền
+家政###かせい###tài chính gia đình/công việc quản gia/công việc gia đình
+軍政###ぐんせい###chính quyền trong tay quân đội
+憲政###けんせい###chính trị dựa theo hiến pháp/chính trị lập hiến
+摂政###せっしょう###quan nhiếp chính/chức vụ quan nhiếp chính
+行政###ぎょうせい###hành chính (hành chánh)
+財政###ざいせい###tài chính
+参政###さんせい###tham chính
+市政###しせい###chính quyền thành phố
+施政###しせい###chính sách thi hành
+政界###せいかい###giới chính trị
+政局###せいきょく###tình thế chính trị ###chính cuộc ###chính cục
+政見###せいけん###chính kiến
+政体###せいたい###chính thể
+政変###せいへん###cuộc chính biến/ thay đổi về chính trị
+政務###せいむ###chính sự
+政令###せいれい###nghị định
+政論###せいろん###chính luận
+朝政###ちょうせい###triều chính
+帝政###ていせい###đế chế ###chính quyền đế quốc
+都政###とせい###chính quyền thủ phủ Tokyo
+内政###ないせい###nội chính (nội chánh)
+農政###のうせい###nền chính trị nông nghiệp
+暴政###ぼうせい###bạo chính
+郵政###ゆうせい###bưu chính

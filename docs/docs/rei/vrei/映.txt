@@ -1,0 +1,11 @@
+kunyomi
+映る###うつる###Được phản chiếu
+映す###うつす###Phản chiếu### phản xạ
+映える###はえる###Phản chiếu### rực sáng### tỏa sáng
+onyomi
+映画###えいが###Điện ảnh### phim ảnh
+映写###えいしゃ###Sự chiếu phim
+映像###えいぞう###hình ảnh
+鏡映###きょうえい###nhân bản dữ liệu
+上映###じょうえい###sự chiếu phim/sự lên phim/sự trình chiếu
+反映###はんえい###sự phản ánh sự phản chiếu

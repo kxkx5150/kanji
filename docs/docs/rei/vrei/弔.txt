@@ -1,0 +1,20 @@
+kunyomi
+弔う###とむらう###Thương tiếc
+onyomi
+弔問###ちょうもん###Lời chia buồn
+弔客###ちょうきゃく###Khách phúng điếu
+弔意###ちょうい###Sự than khóc### đồng cảm
+弔旗###ちょうき###cờ rủ### cờ tang
+弔電###ちょうでん###bức điện chia buồn
+慶弔###けいちょう###sự chúc mừng và sự chia buồn
+弔歌###ちょうか###điếu ca
+弔客###ちょうきゃく###khách phúng điếu
+弔祭###ちょうさい###Lễ truy điệu
+弔詞###ちょうし###lời chia buồn
+弔辞###ちょうじ###điếu văn
+弔鐘###ちょうしょう###chuông lễ tang
+弔電###ちょうでん###điện chia buồn
+弔砲###ちょうほう###pháo bắn trong tang lễ
+弔文###ちょうぶん###điếu văn
+弔銃###ちょうじゅう###loạt súng bắn trong tang lễ/loạt súng chào vĩnh biệt
+追弔###ついちょう###sự thương tiếc/sự tiếc thương

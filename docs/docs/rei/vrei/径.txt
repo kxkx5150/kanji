@@ -1,0 +1,8 @@
+onyomi
+長径###ちょうけい###Trục chính
+半径###はんけい###Bán kính
+直径###ちょっけい###Đường kính
+外径###がいけい###Đường kính ngoài
+口径###こうけい###đường kính lỗ/đường kính miệng/đường kính
+小径###しょうけい###đường kính nhỏ
+内径###ないけい###Đường kính trong

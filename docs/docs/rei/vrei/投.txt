@@ -1,0 +1,17 @@
+kunyomi
+投げる###なげる###Ném
+onyomi
+投資###とうし###Đầu tư
+投信###とうしん###Ủy thác đầu tư
+投稿###とうこう###Đóng góp### cộng tác### đăng
+投影###とうえい###sự dự tính/sự kế hoạnh
+投機###とうき###sự đầu cơ
+投獄###とうごく###Sự bỏ tù/ sự bắt giam
+投射###とうしゃ###sự phóng ra/sự chiếu ra
+投手###とうしゅ###người phát bóng (bóng chày)
+投書###とうしょ###thư bạn đọc/bài cộng tác cho báo/thư gửi người biên tập
+投入###とうにゅう###đầu tư
+投票###とうひょう###sự bỏ phiếu
+投錨###とうびょう###sự thả neo/sự hạ neo
+投網###とあみ###lưới bủa/lưới giăng
+投薬###とうやく###Liều lượng (thuốc)

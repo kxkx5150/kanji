@@ -1,0 +1,65 @@
+kunyomi
+一つ###ひとつ###Một cái
+一休み###ひとやすみ###Nghỉ một lát
+一口###ひとくち###(ăn) Một miếng### một lời### nói tóm lại
+onyomi
+一日###いちにち###Một ngày (số đếm)
+一員###いちいん###Một thành viên (trong 1 tập thể)
+一々###いちいち###Mỗi thứ### từng cái một
+一度###いちど###Một lần### một lúc
+一ヶ月###いっかげつ###Một tháng (Đếm số lượng tháng)
+一心###いっしん###Quyết tâm### đồng tâm### tập trung
+一々###いちいち###một bởi một; riêng rẽ
+一握###いちあく###một nhúm
+一倍###いちばい###một phần; gấp đôi
+一円###いちえん###khắp; toàn vùng; xung quanh
+一応###いちおう###một khi; nhất thời; tạm thời
+一体###いったい###đồng nhất; làm một; cùng nhau;
+一時###いちじ###một giờ; thời khắc; tạm thờ
+一行###いちぎょう###một hàng; một dòng
+一足###いっそく###một đôi (giày)
+一般###いっぱん###cái chung; cái thông thường;công chúng; người dân; dân chú
+一円###いちえん###một thành viên
+一億###いちおく###một trăm triệu
+一家###いっけ###gia đình/cả gia đình/cả nhà
+一回###いっかい###một lần
+一括###いっかつ###Gộp/tổng cộng
+一貫###いっかん###nhất quán
+一意###いちい###độc nhất
+一見###いっけん###nhìn/nhìn một lần
+一軒###いっけん###một căn (nhà)
+一向###いっこう###một chút/ một ít
+一倍###いちばい###một phần/gấp đôi
+一行###いっこう###một hàng/một dòng
+一刻###いっこく###một khắc/một giây
+一流###いちりゅう###theo cách riêng
+一子###いっし###con một
+一次###いちじ###sơ cấp
+一瞬###いっしゅん###chốc nữa
+一巡###いちじゅん###một vòng
+一緒###いっしょ###cùng nhau
+一新###いっしん###sự cải cách/sự thay đổi hoàn toàn
+一人###いちにん###một người
+一寸###いっすん###một chút/một lát/một lúc/hơi hơi
+一切###いっさい###hoàn toàn (không)
+一層###いっそ###hơn nhiều/hơn một tầng/hơn một bậc
+一掃###いっそう###sự quét sạch/sự tiễu trừ
+一級###いっきゅう一旦###いったん###tạm/một chút
+一段###いちだん###hơn rất nhiều/hơn một bậc
+一致###いっち###sự nhất trí/sự giống nhau/sự thống nhất
+一丁###いっちょう###một miếng/một bìa
+一定###いちじょう###cố định/nhất định/xác định/ổn định
+一斗###いっと###một đấu
+一途###いっと###Toàn tâm toàn ý/một lòng một dạ/hết lòng
+一等###いっとう###hạng nhất/giải nhấ
+一同###いちどう###cả/tất cả
+一風###いっぷう###sự kỳ quặc/kỳ lạ/khác thường
+一遍###いっぺん###một lần
+一服###いっぷく###rạng thái tạm dừng trong động thái thị trường
+一方###いっぽう###mặt khác
+一面###いちめん###trang nhất
+一目###いちもく###cái nhìn/cái liếc
+一門###いちもん###tông môn
+一夕###いっせき###một tối/vài tối
+第一###だいいち###thứ nhất
+同一###どういつ###đồng nhất/cùng một đối tượng/giống

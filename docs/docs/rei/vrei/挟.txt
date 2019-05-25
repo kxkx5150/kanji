@@ -1,0 +1,5 @@
+kunyomi
+挟む###はさむ###Kẹp### cho vào giữa
+挟まる###はさまる###Bị kẹp giữa
+onyomi
+挟撃###きょうげき###Thế gọng kìm### cuôc tiến công gọng kìm

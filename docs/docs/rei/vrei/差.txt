@@ -1,0 +1,21 @@
+kunyomi
+差す###さす###Giương### dơ tay
+差別###さべつ###Khác biệt
+差額###さがく###Số tiền chênh lệch
+onyomi
+格差###かくさ###sự khác biệt/sự khác nhau/sự chênh lệch/khoảng cách
+較差###かくさ###phạm vi
+僅差###きんさ###Suýt
+交差###こうさ###sự giao nhau/sự cắt nhau/giao/giao nhau/cắt nhau
+公差###こうさ###dung sai
+差異###さい###khác nhau cách độ
+差遣###さけん###sự gửi đi/sự gửi
+差分###さぶん###sự khác nhau
+潮差###ちょうさ###Phạm vi thủy triều
+視差###しさ###thị sai
+収差###しゅうさ###quang sai
+段差###だんさ###cách bậc
+偏差###へんさ###sự trệch/sự lệch
+年差###ねんさ###Sự biến đổi hàng năm
+誤差###ごさ###sai số/sự nhầm lẫn/giá trị sai lệch/sự sai lệch/sự sai sót/nhầm lẫn/sai lệch/sai sót
+時差###じさ###sự chênh lệch về thời gian

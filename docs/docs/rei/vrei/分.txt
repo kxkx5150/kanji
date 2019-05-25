@@ -1,0 +1,79 @@
+kunyomi
+分ける###わける###Chia
+分かつ###わかつ###Chia
+分かれる###わかれる###Bị chia
+分かる###わかる###Hiểu
+onyomi
+十分###じゅうぶん###Đầy đủ
+分析###ぶんせき###Phân tích
+分別###ふんべつ###Phân loại
+性分###しょうぶん###bản tính/trạng thái tự nhiên
+随分###ずいぶん###cực độ/cực kỳ/vô cùng/rất nhiều/quá
+線分###せんぶん###phân đoạn
+幾分###いくぶん###một chút/hơi hơi
+均分###きんぶん###sự chia đều/chia đều
+区分###くぶん###sự phân chia/sự phân loại/sự sắp loại/phân chia/phân loại/sắp loại/sắp xếp
+差分###さぶん###sự khác nhau
+部分###ぶぶん###bộ phận/phần
+細分###さいぶん###phân đoạn
+自分###じぶん###bản thân mình/tự mình
+秋分###しゅうぶん###thu phân
+春分###しゅんぶん###xuân phân
+処分###しょぶん###sự giải quyết/sự bỏ đi/sự phạt/ sự tống khứ đi/ sự trừng phạt
+糖分###とうぶん###lượng đường
+身分###みぶん###vị trí xã hội
+水分###すいぶん###sự thủy phân/hơi ẩm/hơi nước
+成分###せいぶん###thành phần
+積分###せきぶん###tích phân
+増分###ぞうぶん###tăng/gia tăng
+多分###たぶん###đa phần/rất nhiều/rất lớn
+大分###だいぶん###nhiều/rất/khá/đáng kể
+中分###ちゅうぶん###Nửa/một nửa
+弟分###おとうとぶん###người mà mình coi như em trai
+鉄分###てつぶん###chất sắt
+当分###とうぶん###như hiện tại
+等分###とうぶん###phần bằng nhau/sự chia đều
+内分###ないぶん###Bí mật
+二分###にぶん###Chia đôi/sự chia đôi
+年分###ねんぶん###Số lượng theo năm
+配分###はいぶん###sự phân phát/sự phân phối
+微分###びぶん###phép lấy vi phân
+分科###ぶんか###phân khoa
+分解###ぶんかい###sự phân giải/sự phân tích/sự tháo rời
+分別###ふんべつ###sự phân loại/sự phân tách/sự chia tách
+分割###ぶんかつ###sự phân cắt
+分岐###ぶんき###sự chia nhánh/sự phân nhánh
+分業###ぶんぎょう###sự phân công (lao động)
+分極###ぶんきょく###sự phân cực
+分権###ぶんけん###phân quyền
+分担###ぶんたん###sự gánh vác (trách nhiệm)
+分数###ぶんすう###phân số
+分配###ぶんぱい###phân phối
+分析###ぶんせき###sự phân tích
+分泌###ぶんぴつ###sự cất giấu/sự giấu giếm/sự bưng bít
+分布###ぶんぷ###sự phân bố
+分校###ぶんこう###phân hiệu
+分母###ぶんぼ###mẫu số/mẫu thức
+分野###ぶんや###lĩnh vực
+分離###ぶんり###sự phân li/sự phân chia/sự phân tách/phân li (di truyền)
+分立###ぶんりつ###sự phân lập
+分留###ぶんりゅう###sự phân đoạn/sự chia tách
+分量###ぶんりょう###phân lượng
+分類###ぶんるい###phân loại (hàng hóa )
+分裂###ぶんれつ###sự phân liệt/rạn nứt
+本分###ほんぶん###bổn phận
+余分###よぶん###thặng số/ phần thừa/phần thêm
+時分###じぶん###giờ phút
+養分###ようぶん###chất bổ
+塩分###えんぶん###lượng muối
+何分###なにぶん###なんぷん###dù sao/xin mời
+可分###かぶん###khả phân
+気分###きぶん###tâm tình/tâm tư/tinh thần
+五分###ごぶ###ごぶん###ごふん###một nửa/năm mươi phần trăm/50 phần trăm
+半分###はんぶん###はんぷん###Một nửa phút
+分冊###ぶんさつ###quyển/tập
+分散###ぶんさん###sự phân tán
+分子###ぶんし###phần tử
+分流###ぶんりゅう###nhánh sông ###ngách sông
+分室###ぶんしつ###phòng phụ/chái nhà ###phân sở (cơ quan)
+分譲###ぶんじょう###bán nhiều bất động sản

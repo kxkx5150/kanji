@@ -1,0 +1,25 @@
+kunyomi
+好む###このむ###Tốt
+好く###すく###Ham thích
+onyomi
+好意###こうい###Thiện ý### ưu ái### lòng tốt
+好感###こうかん###Ấn tượng tốt### cảm giác dễ chịu
+好評###こうひょう###Có triển vọng
+愛好###あいこう###Sự kính yêu/sự quý mến/yêu thích/yêu/thích
+好悪###こうお###cái thích và cái không thích/yêu và ghét
+好漢###こうかん###hảo hán/trang hảo hán
+好学###こうがく###sự thích học/lòng ham mê học hỏi/thích học/ham mê học hỏi/thích học hỏi/cầu thị
+好奇###こうき###sự tò mò/tò mò/sự soi mói/soi mói/sự hiếu kỳ/hiếu kỳ
+好期###こうき###Thời gian lý tưởng
+好機###こうき###vận mạng ###Cơ hội tốt/thời cơ tốt/dịp tốt
+好況###こうきょう###phồn vinh lộc phát
+好事###こうず###Vận may/việc tốt
+好色###こうしょく###thói háo sắc/thói dâm ô/thói dâm dục/thói dâm đãng
+好調###こうちょう###trạng thái tốt/tình hình tiến triển tốt
+好天###こうてん###trời đẹp
+好転###こうてん###sự chuyển biến tốt/sự đi theo chiều hướng tốt/chuyển biến tốt/đi theo chiều hướng tốt
+好物###こうぶつ###món ăn ưa thích/thức ăn ưa thích
+絶好###ぜっこう###sự tuyệt hảo/lý tưởng/tuyệt vờI
+通好###つうこう###quan hệ thân thiện/hữu nghị
+友好###ゆうこう###tình bạn/sự hữu hảo ###hữu nghị ###bạn
+良好###りょうこう###sự tốt đẹp

@@ -1,0 +1,17 @@
+kunyomi
+訴える###うったえる###Kiện cáo### tố cáo### thưa kiện
+訴え###うったえ###Sự kiện cáo### sự tố cáo
+onyomi
+訴訟###そしょう###Sự đệ đơn kiện
+訴訟人###そしょうにん###Nguyên đơn### người khởi kiện
+訴権###そけん###Vụ kiện
+訴状###そじょう###Bản cáo trạng
+公訴###こうそ###Sự tố cáo### sự khởi tố
+告訴###こくそ###Sự tố cáo
+起訴###きそ###Sự khởi tố### sự kiện tụng
+勝訴###しょうそ###sự thắng kiện
+上訴###じょうそ###kháng cáo
+追訴###ついそ###sự truy tố/sự buộc tội
+提訴###ていそ###sự đưa ra kiện/sự theo kiện
+敗訴###はいそ###sự mất thế thuận lợi
+反訴###はんそ###phản khiếu

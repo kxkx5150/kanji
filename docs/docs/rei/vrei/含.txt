@@ -1,0 +1,9 @@
+kunyomi
+含む###ふくむ###Ngậm### bao gồm
+含める###ふくめる###Bao gồm### khoan dung
+onyomi
+包含###ほうがん###Bao gồm### liên quan
+含量###がんりょう###Nội dung### hàm lượng
+含有###がんゆう###sự chứa
+含意###がんい###sự liên quan
+含蓄###がんちく###sự hàm súc/hàm súc/xúc tích

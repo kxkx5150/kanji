@@ -1,0 +1,7 @@
+kunyomi
+耕す###たがやす###Canh tác### trồng cấy
+onyomi
+耕作###こうさく###Sự canh tác### sự cày cấy### sự trồng trot
+耕地###こうち###Đất canh tác
+耕種###こうしゅ###việc gieo trồng/gieo trồng/trồng
+農耕###のうこう###việc canh nông/công việc đồng áng

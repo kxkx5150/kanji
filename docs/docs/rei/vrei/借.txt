@@ -1,0 +1,13 @@
+kunyomi
+借りる###かりる###Vay mượn### giúp
+onyomi
+借金###しゃっきん###Tiền mượn### tiền vay
+借家###しゃくや###Nhà cho thuê
+借財###しゃくざい###Sự vay tiền### vay nợ
+借款###しゃっかん###khoản vay
+租借###そしゃく###sự cho thuê
+貸借###たいしゃく###cho vay và đi vay/các khoản cho vay và các khoản đi vay/tiền vay/khoản nợ
+賃借###ちんしゃく###sự thuê
+拝借###はいしゃく###mượn
+前借###ぜんしゃく###vay trước
+転借###てんしゃく###sự thuê lại

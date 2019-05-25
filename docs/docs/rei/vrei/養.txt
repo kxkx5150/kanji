@@ -1,0 +1,31 @@
+kunyomi
+養う###やしなう###Nâng đỡ### nuôi nấng
+onyomi
+養分###ようぶん###Chất bổ
+養成###ようせい###Chăm sóc### bồi dưỡng
+栄養###えいよう###Dinh dưỡng
+休養###きゅうよう###sự an dưỡng/an dưỡng/nghỉ ngơi/tĩnh dưỡng
+給養###きゅうよう###cấp dưỡng
+教養###きょうよう###sự nuôi dưỡng/sự giáo dục/sự giáo dưỡng
+修養###しゅうよう###tu dưỡng
+孝養###こうよう###bổn phận làm con
+滋養###じよう###dinh dưỡng
+静養###せいよう###tĩnh dưỡng
+培養###ばいよう###sự bồi dưỡng/sự nuôi cấy
+扶養###ふよう###sự nuôi dưỡng
+保養###ほよう###bổ dưỡng
+養育###よういく###sự nuôi dưỡng/sự dạy dỗ/sự chăm sóc
+養魚###ようぎょ###cá nuôi
+養鶏###ようけい###sự nuôi gia cầm
+養護###ようご###sự chăm sóc/sự bảo dưỡng
+養蚕###ようさん###nghề nuôi tằm
+養子###ようし###con nuôi
+養女###ようじょ###con gái nuôi
+養殖###ようしょく###sự nuôi/sự chăm sóc
+養成###ようせい###sự chăm sóc/sự nuôi dưỡng/sự đào tạo/sự vun trồng/sự bồi dưỡng
+養生###ようせい###dưỡng bệnh (dưỡng bịnh)
+養豚###ようとん###sự nuôi lợn
+養父###ようふ###cha đỡ đầu
+養分###ようぶん###chất bổ
+養母###ようぼ###mẹ nuôi
+療養###りょうよう###sự điều dưỡng

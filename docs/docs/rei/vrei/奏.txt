@@ -1,0 +1,10 @@
+kunyomi
+奏でる###かなでる###Chơi nhạc
+onyomi
+演奏###えんそう###Diễn tấu### trình diễn
+合奏###がっそう###Hợp tấu### hòa nhạc
+前奏###ぜんそう###việc mở đầu (một sự kiện)/đoạn mở đầu (một bài thơ)/hành động mở đầu/sự kiện mở đầu/khúc mở đầu (âm nhạc)
+伝奏###でんそう###sự tấu truyền
+独奏###どくそう###sự độc tấu
+内奏###ないそう###mật tấu
+伴奏###ばんそう###sự đệm đàn

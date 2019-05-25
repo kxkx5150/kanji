@@ -1,0 +1,30 @@
+kunyomi
+寝る###ねる###Đi ngủ
+寝かす###ねかす###Đặt vào giường
+onyomi
+寝室###しんしつ###Phòng ngủ
+寝台###しんだい###Giường
+就寝###しゅうしん###Đi ngủ
+寝間###ねま###Phòng ngủ
+寝顔###ねがお###bộ mặt ngái ngủ
+寝技###ねわざ###kỹ thuật tấn công đối phương trong tư thế nằm (Judo)
+寝具###しんぐ###chỗ ngủ/giường ngủ
+寝言###ねごと###ngủ mê/lời nói mê
+寝際###ねぎわ###Lúc vừa chợp mắt
+寝姿###ねすがた###Tư thế ngủ
+寝酒###ねざけ###rượu uống trước khi đi ngủ
+寝首###ねくび###đầu của một người đang ngủ
+寝床###ねどこ###giường
+寝刃###ねたば###thanh kiếm cùn/thanh đao cùn
+寝棺###ねかん###Quan tài/hòm áo quan
+寝汗###ねあせ###Sự đổ mồ hôi khi đang ngủ/sự ra mồ hôi trộm
+寝相###ねぞう###tư thế ngủ
+寝息###ねいき###ngáy (khi ngủ)
+寝袋###ねぶくろ###Túi ngủ (thường dùng khi đi tham quan### picnic)
+寝癖###ねぐせ###Sự xáo trộn của tóc hoặc chăn### gối### đệm khi ngủ
+寝坊###ねぼう###việc ngủ dậy muộn
+寝様###ねざま###Tư thế khi nằm ngủ
+寝藁###ねわら###Ổ rơm (thường dùng để súc vật ngủ)
+早寝###はやね###việc đi ngủ sớm
+昼寝###ひるね###sự ngủ trưa/sự nghỉ trưa
+朝寝###あさね###Ngủ muộn vào buổi sáng

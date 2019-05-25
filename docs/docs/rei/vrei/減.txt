@@ -1,0 +1,29 @@
+kunyomi
+減る###へる###Bớt xuống
+減らす###へらす###Rút lại
+onyomi
+減少###げんしょう###Giảm xuống### giảm
+減点###げんてん###Trừ điểm
+減税###げんぜい###Giảm thuế
+加減###かげん###sự giảm nhẹ/sự tăng giảm/sự điều chỉnh
+減圧###げんあつ###sự giảm áp
+減算###げんざん###phép trừ/tính trừ
+減食###げんしょく###sự ăn kiêng/ăn kiêng
+減水###げんすい###rút bớt nước/giảm bớt nước/hút ẩm
+減衰###げんすい###suy giảm
+減数###げんすう###số bị trừ
+減速###げんそく###sự giảm tốc/sự giảm tốc độ/giảm tốc/giảm tốc độ
+減退###げんたい###giảm bớt/làm suy giảm
+減俸###げんぽう###sự giảm lương/sự cắt giảm lương/giảm lương/cắt giảm lương
+減法###げんぽう###phép trừ
+減摩###げんま###sự giảm ma sát/sự chống ma sát/giảm ma sát/chống ma sát
+減免###げんめん###sự miễn giảm/miễn giảm
+減耗###げんこう###hao hụt/suy đồi/hao mòn
+減量###げんりょう###lượng mất mát/lượng hao hụt/hao hụt
+軽減###けいげん###sự giảm nhẹ
+低減###ていげん###sự giảm bớt/sự làm dịu đi
+削減###さくげん###sự cắt giảm
+漸減###ぜんげん###sự giảm xuống một cách từ từ/việc dần dần giảm xuống
+増減###ぞうげん###sự tăng giảm
+逓減###ていげん###sự từ từ giảm xuống
+半減###はんげん###sự giảm một nửa

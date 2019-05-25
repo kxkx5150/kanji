@@ -1,0 +1,56 @@
+kunyomi
+食べる###たべる###Ăn
+食う###くう###Ăn
+食らう###くらう###Ăn
+onyomi
+食堂###しょくどう###Căn tin
+食事###しょくじ###Ăn
+食品###しょくひん###Thực phẩm
+悪食###あくじき###Bữa ăn nghèo nàn/ăn các thứ đáng ghê tởm
+衣食###いしょく###cơm áo
+飲食###いんしょく###ăn uống/nhậu nhẹt
+会食###かいしょく###sự hội họp ăn uống/việc ăn uống bù khú
+外食###がいしょく###việc ăn ở ngoài/đi ăn ngoài
+陪食###ばいしょく###sự dựa dẫm vào ai để kiếm ăn
+間食###かんしょく###sự ăn qua loa/sự ăn tạm
+減食###げんしょく###sự ăn kiêng/ăn kiêng
+給食###きゅうしょく###sự cung cấp thức ăn
+侵食###しんしょく###sự xâm phạm/sự lấn sang
+浸食###しんしょく###sự xâm thực/sự ăn mòn
+軽食###けいしょく###bữa ăn nhẹ/món ăn nhẹ
+月食###げっしょく###nguyệt thực
+乞食###こつじき###người ăn xin/người ăn mày
+座食###ざしょく###sự ăn không ngồi rồi
+菜食###さいしょく###sự ăn chay/việc ăn chay/chế độ ăn toàn rau
+蚕食###さんしょく###sự xâm lược/sự gây hấn/cuộc xâm lược
+試食###ししょく###sự nếm thử
+主食###しゅしょく###món chính
+食塩###しょくえん###muối ăn
+食器###しょっき###đĩa bát
+食事###しょくじ###buổi ăn
+食卓###しょくたく###bàn ăn
+食堂###しょくどう###じきどう###nhà ăn/bếp ăn
+食道###しょくどう###thực quản
+食費###しょくひ###tiền cơm tháng/tiền ăn
+食品###しょくひん###đồ ăn/thực phẩm
+食物###しょくもつ###đồ ăn/thực phẩm
+食欲###しょくよく###tham ăn
+食料###しょくりょう###thực phẩm/nguyên liệu nấu ăn
+食糧###しょくりょう###lương thực
+絶食###ぜっしょく###tuyệt thực
+粗食###そしょく###chế độ ăn uống đơn giản/thức ăn nghèo nàn
+草食###そうしょく###sự ăn cỏ
+昼食###ひるげ###bữa ăn trưa
+朝食###ちょうしょく###bữa ăn sáng
+定食###ていしょく###bữa ăn đặc biệt/suất ăn
+偏食###へんしょく###việc ăn uống không cân đối
+徒食###としょく###sự ăn không ngồi rồi
+二食###にじき###Hai bữa ăn (một ngày)
+肉食###にくしょく###sự ăn thịt
+日食###にっしょく###nhật thực
+飽食###ほうしょく###tính háu ăn/thói phàm ăn
+腐食###ふしょく###sự ăn mòn/sự bào mòn
+洋食###ようしょく###món ăn tây
+夕食###ゆうしょく###cơm chiều/cơm tối
+糧食###りょうしょく###thực phẩm dự trữ
+和食###わしょく###món ăn nhật/đồ ăn Nhật

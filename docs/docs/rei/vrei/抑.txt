@@ -1,0 +1,8 @@
+kunyomi
+抑える###おさえる###Đè nén### kiềm chế
+onyomi
+抑制###よくせい###Ức chế### kiềm nén### kiềm chế
+抑圧###よくあつ###Áp bức### áp chế
+抑揚###よくよう###Ngữ điệu### âm điệu
+抑止###よくし###sự ngăn cản/sự cản trở/sự ngăn chặn
+抑留###よくりゅう###sự giam giữ/sự cầm tù/sự quản thúc

@@ -1,0 +1,9 @@
+kunyomi
+憎む###にくむ###Ghét
+憎い###にくい###Đáng ghét
+憎らしい###にくらしい###Đáng ghét
+憎しみ###にくしみ###Căm hờn
+onyomi
+憎悪###ぞうお###Căm ghét### căm thù
+愛憎###あいぞう###sự yêu ghét
+生憎###あいにく###sự không may/sự đáng tiếc

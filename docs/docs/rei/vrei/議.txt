@@ -1,0 +1,28 @@
+onyomi
+議案###ぎあん###Sự nghị án
+議院###ぎいん###Nghị viện
+議会###ぎかい###Quốc hội
+議決###ぎけつ###Sự quyết định### sự nghị quyết
+議席###ぎせき###Chỗ ngồi trong nghị viện
+議長###ぎちょう###Chủ tịch quốc hội
+異議###いぎ###phản đối/khiếu nại/bất bình/kháng nghị
+会議###かいぎ###phiên họp
+閣議###かくぎ###họp nội các/hội nghị nội các
+協議###きょうぎ###thương
+決議###けつぎ###nghị quyết
+審議###しんぎ###thẩm nghị/sự xem xét kỹ/xem xét kỹ
+争議###そうぎ###sự cãi/sự tranh luận/ cuộc tranh luận
+議員###ぎいん###nghị viện
+議事###ぎじ###phiên họp
+議題###ぎだい###đề án hội nghị/vấn đề thảo luận/vấn đề bàn luận/vấn đề trao đổi/chủ đề thảo luận/chủ đề bàn luận/chủ đề trao đổi/
+議論###ぎろん###sự thảo luận/thảo luận/tranh luận/bàn luận
+朝議###ちょうぎ###hội đồng cơ mật (hoàng gia Anh)
+提議###ていぎ###lời đề nghị
+党議###とうぎ###họp Đảng
+討議###とうぎ###sự thảo luận/sự họp hành/cuộc họp
+内議###ないぎ###Hội nghị bí mật/cuộc thảo luận riêng tư
+抗議###こうぎ###sự kháng nghị/sự phản đối/sự phàn nàn
+評議###ひょうぎ###Hội nghị/thảo luận
+密議###みつぎ###mật nghị
+論議###ろんぎ###sự tranh luận/sự bàn cãi
+和議###わぎ###sự đàm phán hòa bình

@@ -1,0 +1,6 @@
+kunyomi
+較べる###くらべる###so sánh
+onyomi
+比較###ひかく###so sánh
+較正###こうせい###hiệu chỉnh
+較差###かくさ###phạm vi

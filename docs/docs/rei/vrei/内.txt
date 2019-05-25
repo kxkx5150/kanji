@@ -1,0 +1,118 @@
+kunyomi
+内###うち###Ở giữa### bên trong
+onyomi
+内航###ないこう###Đường cảng trong nước
+内臓###ないぞう###Ruột gan### nội tạng
+内耳###ないじ###Màng nhĩ
+内乱###ないらん###Nội loạn
+国内###こくない###Trong nước
+内裏###だいり###lâu đài đế quốc
+宇内###うだい###cả thế giới
+屋内###おくない###trong nhà
+圏内###けんない###rong khu vực/trong phạm vi
+管内###かんない###phạm vi quản lý/khu vực quản lý
+境内###けいだい###bên trong đền### chùa### đình
+邸内###ていない###cơ ngơi
+構内###こうない###trong nhà
+国内###こくない###trong nước/quốc nội
+市内###しない###trong thành phố/nội thành/nội đô
+町内###ちょうない###trong phố/trong khu vực/trong vùng
+室内###しつない###phần nội thất
+社内###しゃない###trong công ty
+車内###しゃない###trong xe
+内謁###ないえつ###Cuộc gặp mặt không chính thức với người cấp trên
+体内###たいない###nội thể/bên trong cơ thể
+対内###たいない###đối nội
+店内###てんない###trong kho
+以内###いない###trong vòng
+内意###ないい###Suy nghĩ trong lòng
+内因###ないいん###Nguyên nhân bên trong/nguyên nhân cốt lõi
+内宴###ないえん###bữa tiệc giữa những người thân trong cung điện
+内苑###ないえん###Vườn ở bên trong các lâu đài### điện thờ
+内科###ないか###nội khoa
+内海###ないかい###vịnh/eo biển
+内界###ないかい###Thế giới bên trong/nội tâm
+内角###ないかく###Góc trong
+内閣###ないかく###nội các
+内患###ないかん###Các vấn đề nội bộ
+内規###ないき###Nội qui riêng/qui định riêng
+内線###ないせん###nội tuyến
+内局###ないきょく###Cục thuộc chính phủ
+内訓###ないくん###Mệnh lệnh bí mật của cấp trên
+内径###ないけい###Đường kính trong
+内探###ないたん###Sự điều tra bí mật
+内向###ないこう###sự hướng về nội tâm
+内攻###ないこう###Bệnh bên trong cơ thể
+内項###ないこう###Trong nước
+内福###ないふく###Giàu ngầm
+内部###ないぶ###/bên trong
+内債###ないさい###Hối phiếu trong nước
+内妻###ないさい###Người vợ không hợp pháp
+内在###ないさい###tồn tại bên trong/cố hữu
+内旨###ないし###mật chỉ
+内陸###ないりく###nội địa/ đất liền
+内事###ないじ###Việc trong cung/ nội sự
+内治###ないち###Vấn đề chính trị trong nước
+内示###ないし###Thông báo không chính thức
+内耳###ないじ###Màng nhĩ
+内需###ないじゅ###Nhu cầu nội địa
+内緒###ないしょう###cuộc sống gia đình
+内助###ないじょ###Sự giúp đỡ từ hậu phương
+内省###ないせい###sự tự giác ngộ
+内証###ないしょ###cuộc sống gia đình
+内情###ないじょう###sự thật bên trong
+内職###ないしょく###công việc nghiệp dư
+内心###ないしん###trong lòng
+内申###ないしん###báo cáo nội bộ
+内診###ないしん###Nội chẩn
+内陣###ないじん###Nơi đặt tượng thần thánh/nơi thờ cúng thần thánh trong đền thờ
+内積###ないせき###tích vô hướng
+内接###ないせつ###Nội tiếp (toán học)
+内政###ないせい###nội chính (nội chánh)
+内奏###ないそう###mật tấu
+内層###ないそう###Lớp bên trong
+内儀###ないぎ###bà nhà/chị nhà/phu nhân
+内争###ないそう###Sự xung đột nội bộ/sự xung đột bên trong
+内相###ないしょう###Bộ trưởng bộ Nội Vụ
+内装###ないそう###Nội thất
+内議###ないぎ###Hội nghị bí mật/cuộc thảo luận riêng tư
+内通###ないつう###Sự thông đồng
+内偵###ないてい###việc điều tra bí mật
+内諾###ないだく###sự hứa không chính thức
+内達###ないたつ###Thông báo nội bộ/thông báo không chính thức
+内談###ないだん###Cuộc thảo luận riêng tư
+内地###ないち###trong nước
+内定###ないてい###Quyết định không chính thức
+内庭###ないてい###Sân bên trong/sân trong
+内廷###ないてい###Khuê phòng (của vua chúa)
+内的###ないてき###bên trong
+内典###ないてん###Kinh Phật giáo
+内殿###ないでん###Nơi linh thiêng để đặt tượng thần bên trong đền thờ/nội điện
+内皮###ないひ###Màng trong/vỏ trong (của cây)
+内港###ないこう###khu vực trong cảng
+内航###ないこう###Đường cảng trong nước
+内服###ないふく###uống thuốc
+内分###ないぶん###Bí mật
+内紛###ないふん###sự bất hòa nội bộ/sự xung đột nội bộ
+内聞###ないぶん###Bí mật
+内壁###ないへき###Tường bên trong
+内包###ないほう###Sự bao hàm/sự nội hàm
+内報###ないほう###Thông báo bí mật/tin nội báo
+内方###ないほう###Bên trong/hướng trong
+内幕###ないまく###hậu trường
+内膜###ないまく###Màng trong
+内密###ないみつ###thâm diệu
+内命###ないめい###Mệnh lệnh mật
+内面###ないめん###mặt trong
+内務###ないむ###Nội vụ/những vấn đề trong nước
+内野###ないや###khu vực trong gôn (bóng chày)
+内約###ないやく###đính ước (kết hôn)/cam kết bí mật
+内憂###ないゆう###Những vấn đề lo lắng nội bộ
+内容###ないよう###nội dung
+内侍###ないじ###Nữ tỳ phục vụ trong hậu cung
+内用###ないよう###sự uống (thuốc)/công chuyện riêng tư
+内乱###ないらん###nội loạn
+内覧###ないらん###Việc xem xét một cách bí mật
+内力###ないりょく###Lực từ bên trong/nội lực
+年内###ねんない###trong năm
+港内###こうない###bên trong cảng

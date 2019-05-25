@@ -1,0 +1,86 @@
+kunyomi
+学ぶ###まなぶ###Học
+onyomi
+大学###だいがく###Đại học
+学習###がくしゅう###Học tập
+学者###がくしゃ###Học giả
+医学###いがく###y học
+化学###ばけがく###hóa học
+科学###かがく###khoa học
+漢学###かんがく###hán học
+学位###がくい###học vị
+学院###がくいん###học viện
+学園###がくえん###vườn ###khuôn viên trường/trong trường/khu sân bãi
+学科###がっか###giáo khoa ###chương trình giảng dạy/môn học
+学会###がっかい###hội các nhà khoa học/giới khoa học/đại hội khoa học
+学界###がっかい###thế giới học vấn/giới học thuật
+学割###がくわり###sự giảm giá cho học sinh### sinh viên
+学期###がっき###học kỳ
+学究###がっきゅう###sự học/sự nghiên cứu
+学派###がくは###học phái/giáo phái
+学部###がくぶ###ngành học ###khoa
+学士###がくし###cử nhân/người có bằng cấp
+学資###がくし###chi phí giáo dục/học phí/tiền học phí
+学識###がくしき###tri thức/sự học rộng/sự uyên thâm/kiến thức/học thức
+学術###がくじゅつ###học thuật/khoa học nghệ thuật/lý thuyết
+学生###がくせい###sinh viên/học sinh
+学績###がくせき###thành tích học tập
+学説###がくせつ###lý thuyết ###học thuyết
+学級###がっきゅう###lớp học/cấp học
+学長###がくちょう###hiệu trưởng
+学童###がくどう###học sinh tiểu học/học sinh lớp thấp
+学年###がくねん###niên khóa ###năm học
+学費###がくひ###tiền học phí ###học phí
+学風###がくふう###truyền thống học tập/truyên thống học hành/phương pháp học tập
+学校###がっこう###trường ###nhà trường ###học hiệu ###học đường
+学報###がくほう###báo tường của trường
+学名###がくめい###tên khoa học
+学問###がくもん###học vấn/sự học
+学友###がくゆう###bạn học ###bạn bè/bạn cùng trường lớp
+学理###がくり###nguyên lý khoa học
+学力###がくりょく###sức học ###học lực/sự hiểu biết
+学齢###がくれい###tuổi đến trường
+学歴###がくれき###quá trình học hành/bằng cấp
+休学###きゅうがく###sự nghỉ học
+共学###きょうがく###sự học chung
+研学###けんがく###sự học tập/sự nghiên cứu
+浅学###せんがく###sự hiểu biết nông cạn/sự thiển cận
+見学###けんがく###tham quan với mục đích học tập/tham quan
+儒学###じゅがく###nho học
+光学###こうがく###Quang học
+好学###こうがく###sự thích học/lòng ham mê học hỏi/thích học/ham mê học hỏi/thích học hỏi/cầu thị
+工学###こうがく###môn kỹ thuật công nghiệp
+在学###ざいがく###đang học
+雑学###ざつがく###Kiến thức hỗn hợp
+史学###しがく###sử học
+神学###しんがく###thần học
+進学###しんがく###sự học lên đại học/ học lên đại học
+数学###すうがく###toán học ###số học ###đại số
+禅学###ぜんがく###thiền học
+退学###たいがく###sự bỏ học
+中学###ちゅうがく###trung học
+通学###つうがく###sự đi học
+停学###ていがく###sự đình chỉ học tập
+哲学###てつがく###triết học
+転学###てんがく###sự chuyển học
+語学###ごがく###ngữ học ###ngôn ngữ học
+篤学###とくがく###sự chăm chỉ/sự siêng năng
+独学###どくがく###sự tự học
+入学###にゅうがく###sự nhập học/sự vào học
+農学###のうがく###Nông học
+博学###はくがく###thông thái ###cao học ###bác học
+藩学###はんがく###trường học cho con của các võ sĩ samurai
+美学###びがく###mỹ học
+武学###ぶがく###Khoa học quân sự
+復学###ふくがく###sự trở lại trường học
+仏学###ぶつがく###Phật học
+文学###ぶんがく###văn học
+勉学###べんがく###sự chăm chỉ học hành siêng học
+法学###ほうがく###luật học
+無学###むがく###vô học ###thất học
+夜学###やがく###lớp học ban đêm
+薬学###やくがく###dược học
+理学###りがく###khoa học tự nhiên
+留学###りゅうがく###sự lưu học/sự du học
+力学###りきがく###lực học
+林学###りんがく###lâm học

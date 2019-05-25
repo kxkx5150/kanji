@@ -1,0 +1,44 @@
+kunyomi
+着る###きる###Mặc
+着ける###つける###
+着せる###きせる###
+着く###つく###Đến
+onyomi
+着地###ちゃくち###Nơi đến
+着実###ちゃくじつ###Vững### đáng tin
+着手###ちゃくしゅ###Bắt tay vào (công việc)
+愛着###あいじゃく###yêu tha thiết/sự quyến luyến/sự bịn rịn/quyến luyến/bịn rịn/yêu mến/thân thương/gắn bó
+横着###おうちゃく###lười biếng/lười nhác/ăn không ngồi rồi
+下着###したぎ###quần lót quần áo lót
+凝着###ぎょうちゃく###sự cố kết
+決着###けっちゃく###sự quyết định/quyết định
+固着###こちゃく###sự thả neo
+厚着###あつぎ###quần áo dày/quần áo ấm
+沈着###ちんちゃく###sự bình tĩnh
+産着###うぶぎ###Quần áo trẻ sơ sinh/tã sơ sinh
+執着###しゅうじゃく###sự lưu luyến/lưu luyến sự dính không lúc nào quên
+上着###じょうい###áo vét/áo khoác
+接着###せっちゃく###sự tiếp dính
+先着###せんちゃく###sự đến trước
+肌着###はだぎ###quần áo lót
+装着###そうちゃく###lắp đặt
+吸着###きゅうちゃく###sự hút bám
+着陸###ちゃくりく###hạ cánh/chạm xuống đất
+着丈###きたけ###độ dài áo
+着色###ちゃくしょく###sự tô màu
+着信###ちゃくしん###nhận/đến
+着席###ちゃくせき###sự ngồi
+着船###ちゃくせん###tàu đã đến
+着服###ちゃくふく###sự biển thủ/sự đút túi
+着物###きもの###áo kimono/kimono
+漂着###ひょうちゃく###sự dạt vào
+定着###ていちゃく###sự có chỗ đứng vững chắc định hình
+到着###とうちゃく###sự đến/sự đến nơi
+粘着###ねんちゃく###sư dính lại/sự dính vào/sự bám dính
+薄着###うすぎ###sự ăn mặc mỏng manh
+発着###はっちゃく###sự xuất phát và đến nơi/việc đi và đến
+必着###ひっちゃく###phải tới/phải nhận được
+付着###ふちゃく###sự kèm theo/sự bám dính
+未着###みちゃく###chưa dính
+密着###みっちゃく###sự dính chặt
+癒着###ゆちゃく###tính dính chặt/tính keo sơn/sự keo sơn gắn bó

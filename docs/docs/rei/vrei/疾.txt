@@ -1,0 +1,7 @@
+onyomi
+疾患###しっかん###Bệnh tật
+疾病###しっぺい###Bệnh tật
+疾風###しっぷう###Gió lốc### gió mạnh
+悪疾###あくしつ###bệnh ác tính/bệnh truyền nhiễm ác tính
+疾走###しっそう###sự chạy nhanh/sự lao nhanh/sự phóng nhanh
+廃疾###はいしつ###sự ốm yếu/tàn tật

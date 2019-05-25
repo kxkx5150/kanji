@@ -1,0 +1,8 @@
+kunyomi
+求める###もとめる###Tìm kiếm### yêu cầu
+onyomi
+要求###ようきゅう###Nhu cầu### yêu cầu
+求人###きゅうじん###Tìm người### tuyển người
+求償###きゅうしょう###Yêu cầu bồi thường
+求婚###きゅうこん###Cầu hôn### đăng ký kết hôn
+求職###きゅうしょく###Tìm việc

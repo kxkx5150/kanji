@@ -1,0 +1,10 @@
+onyomi
+輸入###ゆにゅう###nhập khẩu
+輸出###ゆしゅつ###xuất khẩu
+輸血###ゆけつ###truyền máu
+運輸###うんゆ###sự vận tải/sự chuyên chở/sự vận chuyển
+禁輸###きんゆ###cấm xuất nhập khẩu
+空輸###くうゆ###vận chuyển bằng đường hàng không/vận tải hàng không/không vận
+密輸###みつゆ###sự nhập lậu
+輸送###ゆそう###sự vận chuyển/sự vận tải/sự chuyên chở
+輸入###しゅにゅう###sự nhập khẩu

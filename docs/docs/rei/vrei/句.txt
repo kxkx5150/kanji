@@ -1,0 +1,13 @@
+onyomi
+文句###もんく###Phàn nàn### than phiền
+句読点###くとうてん###Chấm câu
+禁句###きんく###từ cấm kỵ/từ húy
+詩句###しく###câu thơ
+字句###じく###từ vựng
+倒句###とうく###việc đọc tiếng Trung theo thứ tự tiếng Nhật
+成句###せいく###thành ngữ
+節句###せっく###lễ hội theo mùa
+対句###ついく###Cặp câu thơ
+語句###ごく###cụm từ/cụm từ ngữ/ngữ
+難句###なんく###Mệnh đề khó
+俳句###はいく###bài cú/thơ Haiku

@@ -1,0 +1,37 @@
+onyomi
+職員###しょくいん###Viên chức### nhân viên
+職業###しょくぎょう###Nghề nghiệp
+職人###しょくにん###Người thợ### thợ thủ công
+職場###しょくば###Nơi làm việc
+職務###しょくむ###Chức vụ
+失職###しっしょく###Sự thất nghiệp
+転職###てんしょく###Sự chuyển công tác
+辞職###じしょく###Sự từ chức
+汚職###おしょく###sự tham ô/sự tham nhũng
+解職###かいしょく###sự miễn chức/sự sa thải/miễn chức/sa thải/sự miễn nhiệm/miễn nhiệm/sự thôi việc/thôi việc/sự bãi chức/bãi chức/sự cách chức/cách chức
+降職###こうしょく###giáng chức/cách chức
+休職###きゅうしょく###tạm nghỉ việc
+求職###きゅうしょく###sự tìm công ăn việc làm/việc tìm việc làm/tìm việc làm/kiếm việc làm
+兼職###けんしょく###kiêm chức
+現職###げんしょく###chức vụ hiện nay/chức vụ hiện tại
+座職###ざしょく###công việc tĩnh tại
+在職###ざいしょく###tại chức
+手職###てじょく###Nghề thủ công
+就職###しゅうしょく###hoạt động tìm kiếm việc của sinh viên năm cuối của nhật ###có công ăn việc làm mới
+殉職###じゅんしょく###sự hy sinh vì nhiệm vụ/hy sinh vì nhiệm vụ
+小職###しょうしょく###
+職安###しょくあん###cơ quan giới thiệu viêc làm
+職権###しょっけん###chức quyền
+職場###しょくば###nơi làm việc
+職長###しょくちょう###thợ cả
+職歴###しょくれき###kinh nghiệm công tác
+神職###しんしょく###thần thức
+退職###たいしょく###sự nghỉ việc
+適職###てきしょく###chức vụ phù hợp
+天職###てんしょく###thiên chức
+転職###てんしょく###sự đổi nghề/sự chuyển việc
+内職###ないしょく###công việc nghiệp dư
+復職###ふくしょく###sự phục chức/trở lại làm việc
+本職###ほんしょく###bản chức
+無職###むしょく###sự không có việc làm
+免職###めんしょく###sự đuổi việc/sự sa thải/sự miễn chức

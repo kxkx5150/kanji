@@ -1,0 +1,7 @@
+kunyomi
+縛る###しばる###Trói### buộc
+onyomi
+縛###ばく###Việc trói buộc
+自縛###じばく###sự tự bạch
+束縛###そくばく###sự kiềm chế/sự hạn chế/sự trói buộc/sự giam cầm
+捕縛###ほばく###sự bắt giữ

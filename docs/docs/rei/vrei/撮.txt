@@ -1,0 +1,6 @@
+kunyomi
+撮む###つまむ###Gắp### kẹp
+撮る###とる###Chụp (hình)
+onyomi
+撮影###さつえい###Sự chụp hình### quay phim
+撮影所###さつえいじょ###Phim trường

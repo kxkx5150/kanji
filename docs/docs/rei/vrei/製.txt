@@ -1,0 +1,27 @@
+onyomi
+自家製###じかせい###Hàng làm tại nhà
+製作###せいさく###Sự chế tác### sự chế tạo
+製紙###せいし###Việc chế tạo giấy
+製図###せいず###Sự vẽ bản vẽ kỹ thuật
+製材###せいざい###Sự cưa### xẻ (gỗ)
+製氷所###せいひょうしょ###Nhà máy nước đá
+剥製###はくせい###thú nhồi bông
+陶製###とうせい###đồ gốm
+複製###ふくせい###sự phục chế
+作製###さくせい###sự sản xuất/sự chế tác
+手製###てせい###làm bằng tay
+製塩###せいえん###làm muối
+製靴###せいか###sự đóng giày
+製糖###せいとう###sự sản xuất đường
+製造###せいぞう###sự chế tạo/sự sản xuất
+製鉄###せいてつ###sự sản xuất sắt
+製品###せいひん###thành phẩm
+製本###せいほん###chế bản### đóng thành sách
+製薬###せいやく###hiệu thuốc/sự bào chế thuốc
+既製###きせい###sự đã làm xong/sự đã xong
+擬製###ぎせい###sự bắt chước/sự giả mạo/sự sao chép/bắt chước/giả mạo/sao chép
+調製###ちょうせい###sự sản xuất/sự chuẩn bị/sự thực hiện (một đơn hàng)
+鉄製###てっせい###Làm bằng sắt
+特製###とくせい###sự đặc chế
+並製###なみせい###Sản phẩm có chất lượng trung bình
+木製###もくせい###sự làm từ gỗ/sự làm bằng gỗ

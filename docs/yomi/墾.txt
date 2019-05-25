@@ -1,8 +1,0 @@
-fumeiyomi
-開墾###かいこん###cultivating new land; 
-開墾地###かいこんち###cultivated land; 
-未開墾###みかいこん###uncultivated; 
-未開墾地###みかいこんち###virgin soil; uncultivated land; 
-未墾###みこん###uncultivated; wild; 
-未墾地###みこんち###uncultivated land; 
-墾田###こんでん###new rice field; 

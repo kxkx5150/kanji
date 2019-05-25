@@ -1,0 +1,11 @@
+kunyomi
+飲む###のむ###Uống
+onyomi
+飲料###いんりょう###Thức uống
+飲食###いんしょく###Ăn uống
+飲食店###いんしょくてん###Tiệm ăn uống
+愛飲###あいいん###sự thích uống rượu
+飲酒###いんしゅ###Sự uống
+会飲###かいいん###Hội cùng ăn uống và nhậu nhẹt/ăn nhậu/nhậu/nhậu nhẹt
+鯨飲###げいいん###sự uống rượu ừng ực/sự tu rượu ừng ực/nốc rượu/nhậu nhẹt
+痛飲###つういん###sự nghiện nặng (rượu)

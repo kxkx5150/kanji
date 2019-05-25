@@ -1,0 +1,8 @@
+kunyomi
+泳ぐ###およぐ###Bơi
+onyomi
+水泳###すいえい###Bơi lội
+泳法###えいほう###Phương pháp bơi
+遠泳###えんえい###sự bơi cự ly xa
+競泳###きょうえい###cuộc thi bơi/thi bơi
+背泳###はいえい###sự bơi ngửa/kiểu bơi ngửa

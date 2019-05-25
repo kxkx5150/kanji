@@ -1,0 +1,8 @@
+kunyomi
+掃く###はく###Quét
+onyomi
+掃除###そうじ###Sự quét dọn
+掃除人###そうじにん###Người quét dọn
+掃除機###そうじき###Máy hút bụi
+一掃###いっそう###sự quét sạch/sự tiễu trừ
+清掃###せいそう###sự quét tước/sự dọn dẹp

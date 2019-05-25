@@ -1,0 +1,10 @@
+kunyomi
+彫る###ほる###Chạm khắc
+onyomi
+彫刻###ちょうこく###Sự khắc### điêu khắc
+彫像###ちょうぞう###Pho tượng
+彫金###ちょうきん###Khắc kim loại
+彫工###ちょうこう###thợ khắc### thợ chạm### nhà điêu khắc
+彫塑###ちょうそ###sự khắc và nặn.
+彫琢###ちょうたく###việc khắc và đánh bóng
+木彫###もくちょう###nghệ thuật chạm khắc trên gỗ

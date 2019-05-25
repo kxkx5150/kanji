@@ -1,0 +1,6 @@
+kunyomi
+掲げる###かかげる###Treo
+onyomi
+掲揚###けいよう###Giương cờ### treo cờ
+掲示###けいじ###Thông báo
+掲載###けいさい###Đăng (lên báo chí)

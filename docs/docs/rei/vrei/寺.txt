@@ -1,0 +1,11 @@
+kunyomi
+寺###てら###Chùa
+onyomi
+寺院###じいん###Chùa### đền thờ
+古寺###こじ###Chùa cổ
+寺社###じしゃ###chùa và đền thờ
+山寺###やまでら###chùa trên núi
+寺銭###てらせん###đồng xèng (chơi bạc)
+禅寺###ぜんでら###chùa của phái thiền/ thiền tự
+尼寺###あまでら###nữ tu viện/nhà tu kín
+仏寺###ぶつじ###Phật tự/chùa

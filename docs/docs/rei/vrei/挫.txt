@@ -1,0 +1,7 @@
+kunyomi
+挫く###くじく###Vắt### nhồi nhét### bong gân
+挫ける###くじける###Bị vắt### bị nhồi nhét### bị bong gân
+onyomi
+挫傷###ざしょう###Vết bầm tím
+捻挫###ねんざ###Bong gân### trật khớp
+頓挫###とんざ###

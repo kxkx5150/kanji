@@ -1,0 +1,17 @@
+kunyomi
+請う###こう###Yêu cầu### đòi hỏi### thỉnh cầu
+請け負う###うけおう###Nhận làm### giao kèo### nhận thầu
+請合う###うけあう###Bảo đảm### chịu trách nhiệm
+請け人###うけにん###Người bảo đảm
+onyomi
+請求###せいきゅう###Sự thỉnh cầu### sự đòi hỏi
+請求書###せいきゅうしょ###Hóa đơn### thư thỉnh cầu
+請願###せいがん###Sự thỉnh cầu### kiến nghị
+請願書###せいがんしょ###Đơn thỉnh cầu### kiến nghị
+普請###ふしん###Sự xây dựng### sự xây cất
+祈請###きせい###lời cầu xin/sự cầu nguyện/lời cầu nguyện
+強請###ごうせい###tầm nã
+懇請###こんせい###lời kêu gọi/lời cầu xin/lời khẩn cầu
+申請###しんせい###sự thỉnh cầu/sự yêu cầu/ thỉnh cầu/yêucầu
+請負###うけおい###đấu thầu
+要請###ようせい###sự yêu cầu/sự kêu gọi/lời thỉnh cầu/lời kêu gọi

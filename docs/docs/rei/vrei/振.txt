@@ -1,0 +1,12 @@
+kunyomi
+振るう###ふるう###Lúc lắc### vung tay### vẫy### rung
+振る###ふる###Lúc lắc### vung tay### vẫy### rung
+onyomi
+振動###しんどう###Chấn động
+振興###しんこう###Sự khuyến khích### sự khích lệ
+不振###ふしん###Không tốt### không hưng thịnh### không trôi chảy
+共振###きょうしん###sự cộng chấn
+振作###しんさく###Sự thịnh vượng/ thịnh vượng
+振替###ふりかえ###chuyển tiền ###chuyển tài khoản ###chuyển khoản
+振幅###しんぷく###Độ rộng (của chấn động)/ khoảng rung lắc/biên độ rung lắc
+発振###はっしん###Sự dao động

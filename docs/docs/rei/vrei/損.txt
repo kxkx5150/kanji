@@ -1,0 +1,14 @@
+kunyomi
+損なう###そこなう###Mất### thiệt hại### làm hư hỏng
+onyomi
+損害###そんがい###Sự tổn hại### sự thiệt hại
+損失###そんしつ###Sự tổn thất### sự mất mát
+損得###そんとく###Tổn thất và lợi ích
+丸損###まるぞん###mất khống
+欠損###けっそん###thiếu hụt ###thiếu ###sự thiệt hại/sự lỗ/sự lỗ vốn
+全損###ぜんそん###mất toàn bộ
+損益###そんえき###lỗ lãi
+損傷###そんしょう###sự thiệt hại
+損耗###そんもう###sự mất/sự thua lỗ
+大損###おおぞん###sự lỗ lớn/khoản lỗ lớn/lỗ lớn/thua lỗ lớn/thiệt hại lớn/thiệt hại nặng nề/tổn thất lớn/tổn thất nặng nề/thua nhiều tiền/mất nhiều tiền
+破損###はそん###sự phá hỏng/sự hư hại

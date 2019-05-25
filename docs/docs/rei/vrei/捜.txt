@@ -1,0 +1,5 @@
+kunyomi
+捜す###さがす###Tìm thấy
+onyomi
+捜査###そうさ###Điều tra
+捜索###そうさく###Sự tìm kiếm### sự điều tra

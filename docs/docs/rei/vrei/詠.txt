@@ -1,0 +1,10 @@
+kunyomi
+詠む###よむる###Ngâm thơ
+onyomi
+詠嘆###えいたん###Sự kêu### sư la lên### sự than vãn
+御詠歌###ごえいか###Bài hát ca tụng công đức Phật
+朗詠###ろうえい###Sự ngâm thơ ca
+詠歌###えいか###thơ/bài kệ/bài cầu kinh/sáng tác thơ/ngâm thơ
+詠草###よみくさ###bản thảo (làm thơ)
+吟詠###ぎんえい###sự đọc thuộc lòng bài thơ/sự ngâm thơ
+御詠###ぎょえい###thơ do vua sáng tác

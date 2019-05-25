@@ -1,0 +1,58 @@
+kunyomi
+家###いえ###Nhà
+家賃###やちん###Tiền nhà
+onyomi
+家族###かぞく###Gia đình
+家庭###かてい###Gia đình
+良家###りょうけ###Gia đình giàu có và có gia giáo
+一家###いっけ###gia đình/cả gia đình/cả nhà
+家屋###かおく###nhà ở/nhà/căn nhà
+家鴨###あひる###vịt
+家郷###かきょう###Quê hương
+家業###かぎょう###gia nghiệp
+家禽###かきん###Gia cầm
+家具###かぐ###đồ gỗ/đồ đạc trong nhà
+家訓###かくん###gia huấn/nguyên tắc gia đình/gia phong/nền nếp gia đình
+家系###かけい###nòi giống/dòng dõi gia đình
+家計###かけい###kinh tế gia đình/tài chính gia đình
+家財###かざい###gia tài ###gia sản
+家作###かさく###sự làm nhà/việc làm nhà cho thuê
+家産###かさん###gia sản
+家僕###かぼく###đầy tớ nam/nô bộc/gia bộc
+家事###かじ###việc nhà ###việc gia đình ###công việc gia đình/việc nội trợ
+家主###いえぬし###chủ nhà/chủ đất/gia chủ
+家出###いえで###bỏ nhà/bỏ nhà ra đi/ra khỏi nhà
+家政###かせい###tài chính gia đình/công việc quản gia/công việc gia đình
+家宅###かたく###nhà ở
+家畜###かちく###súc vật ###súc sinh ###gia súc
+家中###いえじゅう###cả nhà
+家長###かちょう###gia trưởng
+家内###やうち###vợ (mình)
+家風###かふう###gia phong
+家柄###いえがら###gia đình/gia tộc
+家宝###かほう###gia bảo/đồ gia bảo/vật gia truyền/của gia truyền/đồ gia truyền/vật gia bảo
+家法###かほう###gia pháp
+家門###かもん###tông môn
+家来###けらい###gia nhân/gia lại/người hầu/người ở
+家例###かれい###Phong tục gia đình/nề nếp gia phong
+家老###かろう###Lão quản gia
+画家###がか###họa sĩ
+儒家###じゅか###nhà nho ###người theo đạo Khổng
+豪家###ごうか###gia đình giàu có thế lực/gia đình quyền thế/gia đình có quyền có thế/gia đình có máu mặt
+国家###こっか###quốc gia
+作家###さっか###tác gia văn nhân
+町家###まちや###ngôi nhà giữa thị trấn
+実家###じっか###Quê(nơi chôn rau cắt rốn)
+借家###かりいえ###nhà thuê mướn ###nhà cho thuê
+隣家###りんか###nhà hàng xóm
+宗家###そうか###chủ gia đình/tôn ti trật tự gia đình
+出家###すけ###xuất gia
+禅家###ぜんけ###thiền gia
+貸家###かしいえ###nhà cho thuê/nhà đi thuê/nhà thuê/nhà trọ
+大家###たいか###たいけ###chủ nhà/bà chủ nhà/chủ nhà cho thuê
+婚家###こんか###gia đình nhà chồng
+朝家###ちょうか###hoàng gia
+伝家###でんか###Vật gia truyền/của gia truyền/truyền thống gia đình
+田家###でんか###điền gia/căn nhà nông thôn
+農家###のうか###nông hộ/nông dân ###nông gia ###nhà nông
+貧家###ひんか###nhà nghèo

@@ -1,0 +1,48 @@
+kunyomi
+調べる###しらべる###Điều tra### xem xét
+調う###ととのう###Ngăn nắp### được điều chỉnh
+onyomi
+調節###ちょうせつ###Sự sắp xếp### sự chỉnh lý
+調達###ちょうたつ###Sự cung cấp### sự thu mua
+調停###ちょうてい###Sự hòa giải### sự dàn xếp
+調理###ちょうり###Sự nấu ăn### sự nấu bếp
+調子###ちょうし###tình trạng
+哀調###あいちょう###giai điệu tang tóc/giai điệu buồn thảm/tang tóc/buồn thảm
+音調###おんちょう###cung bậc
+基調###きちょう###tinh thần chủ yếu/quan điểm cơ bản/phương châm cơ bản
+協調###きょうちょう###sự hiệp lực/sự trợ giúp/sự hợp lực/sự hợp tác/hiệp lực/trợ giúp/hợp lực/hợp tác/cùng nhau
+強調###きょうちょう###sự nhấn mạnh/nhấn mạnh/sự nhấn giọng/nhấn giọng
+空調###くうちょう###sự điều hòa không khí/sự điều hòa nhiệt độ
+好調###こうちょう###có trạng thái tốt/hứa hẹn/có triển vọng
+順調###じゅんちょう###sự thuận lợi/cái tốt/sự trôi chảy/thuận lợi/trôi chảy
+色調###しきちょう###sắc thái
+声調###せいちょう###thanh điệu
+体調###たいちょう###sự điều tra tình trạng cơ thể
+単調###たんちょう###sự đơn điệu/sự tẻ nhạt
+調印###ちょういん###sự ký kết/sự ký
+調音###ちょうおん###cách phát âm rõ ràng
+調教###ちょうきょう###sự huấn luyện (thú)
+調合###ちょうごう###sự phối trộn
+調査###ちょうさ###sự điều tra/bản điều tra/cuộc điều tra
+調剤###ちょうざい###sự bốc thuốc
+調書###ちょうしょ###bản điều tra
+調色###ちょうしょく###sự phối màu/sự phối sắc/sự trộn màu
+調整###ちょうせい###sự điều chỉnh
+調製###ちょうせい###sự sản xuất/sự chuẩn bị/sự thực hiện (một đơn hàng)
+調節###ちょうせつ###sự điều tiết
+調度###ちょうど###điều độ
+調馬###ちょうば###Sự huấn luyện ngựa
+調髪###ちょうはつ###Sự cắt tóc
+調味###ちょうみ###việc gia giảm gia vị
+調伏###じょうぶく###lời nguyền rủa/câu nguyền
+調薬###ちょうやく###liều thuốc
+調理###ちょうり###sự nấu ăn
+調練###ちょうれん###sự tập luyện (quân đội)
+調和###ちょうわ###sự hòa hợp/sự điều hoà
+語調###ごちょう###khẩu khí
+軟調###なんちょう###xu hướng bán thanh lý/xu hướng giá xuống
+不調###ふちょう###vận đen
+復調###ふくちょう###giải điều biến
+変調###へんちょう###biến điệu
+歩調###ほちょう###dáng dấp
+論調###ろんちょう###luận định

@@ -1,0 +1,15 @@
+kunyomi
+卑しめる###いやしめる###Thấp hèn
+卑しむ###いやしむ###Thấp hèn
+卑しい###いやしい###Nhún nhường
+onyomi
+下卑###げび###Thô tục### thô
+卑俗###ひぞく###Tính thô lỗ
+卑劣###ひれつ###Gian lận### hèn nhát
+卑言###ひげん###ngôn từ thô tục
+卑怯###ひきょう###hèn nhát
+卑屈###ひくつ###bỉ ổi/khom lưng quì gối/thấp hèn/không có tiền đồ
+卑小###ひしょう###Nhỏ nhặt/vụn vặt/tiểu tiết
+卑属###ひぞく###thô tục
+卑語###ひご###ngôn ngữ thô tục
+卑劣###ひれつ###bỉ ổi/hèn hạ

@@ -1,0 +1,15 @@
+kunyomi
+浮く###うく###Nổi lên### xuất hiện
+浮かぶ###うかぶ###Nổi### trôi nổi
+浮かべる###うかべる###Làm nổi lên
+浮かれる###うかれる###Cao hứng
+onyomi
+浮説###ふせつ###Tiếng đồn### tin đồn
+浮沈###ふちん###Chìm nổi### thịnh suy
+浮動###ふどう###Nổi bồng bềnh
+浮標###ふひょう###Cái phao
+浮遊###ふゆう###Trôi nổi### bồng bềnh
+浮気###うわき###tính hay thay đổi/tính không chung thủy/tính không kiên định/sự lăng nhăng/sự bồ bịch
+浮揚###ふよう###sự nổi (trong không khí)
+浮力###ふりょく###sức nổi
+浮浪###ふろう###sự lang thang

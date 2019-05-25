@@ -1,0 +1,14 @@
+kunyomi
+祝う###いわう###Chúc mừng
+祝い###いわい###Lời mừng
+onyomi
+祝日###しゅくじつ###Ngày lễ
+祝福###しゅくふく###Chúc phúc### chúc mừng
+祝儀###しゅうぎ###Quà mừng
+慶祝###けいしゅく###sự kính chúc/sự kính mừng/sự chúc mừng khánh chúc chúc khánh
+祝宴###しゅくえん###tiệc mừng
+祝賀###しゅくが###sự chúc/sự chúc mừng
+祝辞###しゅくじ###lời chúc mừng/diễn văn chúc mừng
+祝典###しゅくてん###khánh tiết khánh điển
+祝電###しゅくでん###điện mừng bức điện mừng
+祝杯###しゅくはい###chúc rượu

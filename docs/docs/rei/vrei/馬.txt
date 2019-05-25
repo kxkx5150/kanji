@@ -1,0 +1,37 @@
+kunyomi
+馬###うま###Con ngựa
+馬子###まご###Ngựa con
+onyomi
+馬具###ばぐ###Bộ yên cương
+馬券###ばけん###Vé cá cược (đua ngựa)
+馬車###ばしゃ###Xe ngựa
+悪馬###あくうま###Con ngựa hoang/con ngựa không thể thuần phục
+河馬###カバ###hà mã
+海馬###とど###うみうま###hải mã
+競馬###けいば###cuộc đua ngựa/đua ngựa
+騎馬###きば###sự đi ngựa/sự cưỡi ngựa/đi ngựa/cưỡi ngựa
+軍馬###ぐんば###tuấn mã
+犬馬###けんば###khuyển mã/thân khuyển mã/thân trâu ngựa
+竹馬###ちくば###ngựa tre (đồ chơi)
+子馬###こうま###ngựa con
+鞍馬###あんば###yên ngựa
+調馬###ちょうば###Sự huấn luyện ngựa
+天馬###てんば###thiên mã/con ngựa có cánh
+頓馬###とんま###Thằng ngốc/thằng đần
+馬革###ばかく###da ngựa
+馬具###ばぐ###bộ yên cương
+馬券###ばけん###vé cá cược (đua ngựa)
+馬市###うまいち###thị trường ngựa/chợ ngựa
+馬鹿###バカ###sai/thiệt/không lợi
+馬車###ばしゃ###xe ngựa
+馬主###ばぬし###chủ ngựa
+馬首###ばしゅ###Cổ ngựa
+馬術###ばじゅつ###mã thuật/thuật cưỡi ngựa
+馬賊###ばぞく###lục lâm
+馬糞###まぐそ###phân ngựa
+馬力###まぐそ###phân ngựa
+肥馬###ばりき###ngựa béo
+奔馬###ほんば###con ngựa đang phi nước đại
+牝馬###めま###Ngựa cái
+野馬###のうま###ngựa hoang
+裸馬###はだかうま###ngựa không thắng yên cương

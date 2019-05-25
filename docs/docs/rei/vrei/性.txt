@@ -1,0 +1,61 @@
+onyomi
+性別###せいべつ###Giới tính
+理性###りせい###Lý trí
+性分###しょうぶん###Bản tính### trạng thái tự nhiên
+悪性###あくしょう###あくせい###xấu tính ###tính ác ###ác tính
+陰性###いんせい###âm tính
+異性###いせい###giới tính khác/đồng phân/khác giới
+延性###えんせい###tính mềm/tính dễ kéo sợi
+性格###せいかく###tâm trạng/trạng thái/tính tình/tâm tính/tính cách
+性器###せいき###bộ phận sinh dục
+性急###せいきゅう###sự cấp tính/ sự vội vàng
+性交###せいこう###sự giao cấu/ sự giao hợp
+性行###せいこう###tính cách và hành vi
+性能###せいのう###tính năng
+性質###せいしつ###tính chất
+性情###せいじょう###tính tình
+性的###せいてき###giới tính/giống/nhục dục/tình dục
+性病###せいびょう###bệnh tình ###bệnh phong tình ###bệnh hoa liễu
+性癖###せいへき###tâm tính/tính tình/đặc tính/ thói quen
+性欲###せいよく###tình dục ###tính dục ###dục tình
+乾性###かんせい###tính khô
+感性###かんせい###cảm tính/tình cảm/nhạy cảm/cảm giác/giác quan/cảm nhận
+気性###きしょう###tính tình/tâm tính/tính khí
+急性###きゅうせい###cấp tính
+極性###きょくせい###tính có cực/chiều phân cực
+個性###こせい###cá tính/tính cách
+惰性###だせい###quán tính/đà/sự không chịu thay đổi/thói quen
+向性###こうせい###Tính hướng đến kích thích (của cây)
+恒性###こうせい###tính không thay đổi/tính ổn định/nguyên xi/bất biến
+硬性###こうせい###tính cứng rắn/tính cứng
+剛性###ごうせい###cứng/cứng rắn/khó làm
+根性###こんじょう###sự can đảm/sự gan góc/sự gan dạ
+酸性###さんせい###tính a xít
+獣性###じゅうせい###thú tính
+女性###じょせい###phụ nữ/ nữ giới ###nữ ###gái ###đàn bà
+慣性###かんせい###quán tính
+塑性###そせい###tính dẻo/tính mềm
+属性###ぞくせい###thuộc tính
+弾性###だんせい###tính đàn hồi
+男性###だんせい###đàn ông
+知性###ちせい###sự thông minh
+中性###ちゅうせい###trung tính/Nơtron
+定性###ていせい###Định tính
+敵性###てきせい###Đặc tính thù địch
+適性###てきせい###năng khiếu
+天性###てんせい###thể diện
+展性###てんせい###Sự dễ uốn/tính dễ dát mỏng
+同性###どうせい###sự đồng giới tính/sự đồng tính
+徳性###とくせい###ý thức đạo đức
+特性###とくせい###Đặc trưng/đặc tính
+軟性###なんせい###Tính mềm dẻo/tính linh hoạt/sự đàn hồi
+粘性###ねんせい###Tính nhớt
+品性###ひんせい###tư cách ###tính hạnh ###nết ###Đặc tính/ tính cách
+父性###ふせい###Tư cách làm cha/cương vị làm cha
+仏性###ほとけしょう###tâm tính nhà Phật
+本性###ほんせい###bản tính
+慢性###まんせい###mãn tính
+陽性###ようせい###dương tính
+野性###やせい###tính chất hoang dã
+両性###りょうせい###lưỡng tính
+劣性###れっせい###tính lặn [sinh học]

@@ -1,0 +1,12 @@
+kunyomi
+捕る###とる###Nắm### bắt### bắt giữ
+捕らえる###とらえる###Bắt gặp### bắt giữ
+捕まえる###つかまえる###Bắt### nắm bắt### chộp
+捕らわえる###とらわれる###Bị bắt### ôm lấy
+onyomi
+捕獲###ほかく###Bắt được### bắt giữ
+捕虜###ほりょ###Tù binh
+捕鯨###ほげい###Sự bắt cá voi
+逮捕###たいほ###sự bắt giữ/sự tóm lấy/sự chặn lại/sự hoãn thi hành
+捕捉###ほそく###bắt/bắt giữ lại
+捕縛###ほばく###sự bắt giữ

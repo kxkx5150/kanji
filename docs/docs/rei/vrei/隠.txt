@@ -1,0 +1,8 @@
+kunyomi
+隠れる###かくれる###Trốn### dấu### lánh mình
+隠す###かくす###Trốn### dấu### lánh mình
+onyomi
+隠居###いんきょ###Về hưu
+隠者###いんじゃ###Ẩn sĩ
+隠語###いんご###Tiếng lóng
+隠匿###いんとく###ẩn trốn/sự thu lại/sự che đậy/ngầm

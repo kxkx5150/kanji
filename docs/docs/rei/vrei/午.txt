@@ -1,0 +1,5 @@
+onyomi
+午前###ごぜん###Buổi sáng### sáng
+午後###ごご###Buổi chiều### chiều
+午睡###ごすい###Ngủ trưa### giấc ngủ trưa
+正午###しょうご###Ban ngày

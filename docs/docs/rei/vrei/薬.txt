@@ -1,0 +1,47 @@
+kunyomi
+薬###くすり###Thuốc
+薬屋###くすりや###Nhà thuốc
+目薬###めぐすり###Thuốc nhỏ mắt
+洗い薬###あらいぐすり###Thuốc tẩy
+onyomi
+薬剤師###やくざいし###Dược sĩ
+薬草###やくそう###Dược thảo
+睡眠薬###すいみんやく###Thuốc ngủ
+丸薬###がんやく###Viên thuốc
+麻薬###まやく###Ma túy
+薬局###やっきょく###Nhà thuốc
+医薬###いやく###y dược
+火薬###かやく###thuốc súng/thuốc nổ
+劇薬###げきやく###thuốc liều mạnh/thuốc độc mạnh
+傷薬###きずぐすり###thuốc xoa vết thương/thuốc chữa vết thương/thuốc bôi vết thương
+膏薬###あぶらぐすり###thuốc dán
+座薬###ざやく###thuốc nhét hậu môn
+新薬###しんやく###tân dược
+生薬###せいやく###thuốc thảo dược
+製薬###せいやく###hiệu thuốc/sự bào chế thuốc
+仙薬###せんやく###thuốc tiên
+弾薬###だんやく###đạn dược
+虫薬###むしぐすり###thuốc sán
+調薬###ちょうやく###liều thuốc
+適薬###てきやく###thuốc chỉ định
+点薬###てんやく###thuốc nhỏ mắt
+投薬###とうやく###Liều lượng (thuốc)
+毒薬###どくやく###thuốc độc
+農薬###のうやく###thuốc trừ sâu
+爆薬###ばくやく###thuốc gây nổ/chất gây nổ
+鼻薬###はなぐすり###thuốc sổ mũi
+服薬###ふくやく###phục dược
+粉薬###こなぐすり###thuốc bột
+麻薬###まやく###thuốc mê
+薬学###やくがく###dược học
+薬缶###やかん###ấm đun nước
+薬師###やくし###くすりし###dược sư
+薬局###やっきょく###hiệu thuốc/cửa hàng dược phẩm
+薬剤###やくざい###phương dược
+薬代###くすりだい###chi phí thuốc men
+薬指###くすりゆび###ngón áp út
+薬箱###くすりばこ###hộp thuốc
+薬味###やくみ###gia vị/đồ gia vị
+薬品###やくひん###thuốc men
+薬瓶###くすりびん###chai thuốc/bình thuốc
+霊薬###れいやく###linh đan

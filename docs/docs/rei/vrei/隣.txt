@@ -1,0 +1,11 @@
+kunyomi
+隣###となり###Bên cạnh
+隣る###となる###Ở bên cạnh
+onyomi
+隣人###りんじん###Người láng giềng
+隣国###りんごく###Nước láng giềng
+隣接###りんせつ###Tiếp giáp### kề bên### cận kề
+隣家###りんか###nhà hàng xóm
+隣席###りんせき###vị trí bên cạnh
+隣組###となりぐみ###Hiệp hội khu lân cận
+隣村###となりむら###thôn lân cận

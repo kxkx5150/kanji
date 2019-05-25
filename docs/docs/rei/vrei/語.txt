@@ -1,0 +1,58 @@
+kunyomi
+語る###かたる###Nói chuyện### kể chuyện
+語り手###かたりて###Người kể chuyện
+語り合う###かたりあう###Nói chuyện với nhau### tán ngẫu
+物語###ものがたり###Chuyện kể### chuyện ngụ ngôn
+昔語り###むかしがたり###Chuyện xưa
+夢語り###ゆめがたり###Chuyện như trong mơ
+onyomi
+外国語###がいこくご###Tiếng nước ngoài
+語勢###ごせい###Sự nhấn âm### ngữ điệu
+語機###ごき###Ngữ nghĩa
+語調###ごちょう###Ngữ điệu
+口語###こうご###Khẩu ngữ
+俗語###ぞくご###Tục ngữ
+隠語###いんご###ngôn ngữ mật/tiếng lóng
+韻語###いんご###vận ngữ/từ có vần/từ ăn vần/từ
+英語###えいご###tiếng Anh
+解語###かいご###Sự hiểu từ/lý giải từ ngữ
+漢語###かんご###Hán ngữ/tiếng Hán
+外語###がいご###Ngoại ngữ
+季語###きご###từ ngữ theo mùa
+敬語###けいご###kính ngữ
+言語###ごんご###ngôn ngữ/tiếng nói
+古語###こご###cổ ngữ/từ cổ/từ cũ/cách nói cổ
+国語###こくご###quốc ngữ/tiếng/thứ tiếng
+死語###しご###lời nói của người chết
+主語###しゅご###chủ từ
+熟語###じゅくご###thành ngữ/tục ngữ
+術語###じゅつご###từ ngữ
+述語###じゅつご###vị ngữ
+倒語###とうご###đảo ngữ
+対語###たいご###từ trái nghĩa/từ đối
+単語###たんご###từ vựng
+勅語###ちょくご###sắc ngữ/lời trong tờ sắc/tờ chiếu của vua
+標語###ひょうご###khẩu hiệu
+土語###どご###thổ ngữ
+語意###ごい###nghĩa của từ
+語幹###ごかん###gốc từ
+語学###ごがく###ngữ học
+語句###ごく###cụm từ/cụm từ ngữ/ngữ
+語源###ごげん###nguồn gốc của từ/từ nguyên
+語根###ごこん###ngữ căn
+語順###ごじゅん###thứ tự từ ngữ/cách sắp xếp từ ngữ
+語調###ごちょう###khẩu khí
+語法###ごほう###cách diễn tả/ngữ pháp/cú pháp
+難語###なんご###Từ khó
+廃語###はいご###Từ lỗi thời
+発語###はつご###Lời nói/lời phát biểu
+反語###はんご###Từ trái nghĩa
+卑語###ひご###ngôn ngữ thô tục
+仏語###ふつご###ぶつご###tiếng Pháp
+物語###ものがたり###truyện
+文語###ぶんご###văn viết/ngôn ngữ viết
+用語###ようご###thuật ngữ
+落語###らくご###truyện cười/truyện vui
+略語###りゃくご###chữ viết tắt
+類語###るいご###từ đồng nghĩa
+和語###わご###từ ngữ Nhật bản địa

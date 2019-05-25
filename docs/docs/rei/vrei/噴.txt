@@ -1,0 +1,10 @@
+kunyomi
+噴く###ふく###Xì ra
+onyomi
+噴出###ふんしゅつ###Phun ra### phun trào
+噴水###ふんすい###Vòi nước
+噴霧器###ふんむき###Bình xịt### bình phun
+噴煙###ふんえん###khói phun lên
+噴泉###ふんせん###suối; nứt rạn
+噴火###ふんか###sự phun lửa (núi lửa)
+噴射###ふんしゃ###sự phun ra/sự phụt ra

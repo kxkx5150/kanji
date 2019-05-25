@@ -1,0 +1,30 @@
+kunyomi
+要る###いる###Cần thiết
+要する###ようする###Yêu cầu; đòi hỏi
+onyomi
+要件###ようけん###Yêu cầu### đòi hỏi
+要因###よういん###Nguyên nhân chính
+要望###ようぼう###Mong muốn; ước nguyện
+要求###ようきゅう###Yêu cầu; đòi hỏi
+要約###ようやく###Tóm lược; khái quát
+概要###がいよう###Phác thảo/tóm lược/khái yếu/khái quát
+強要###きょうよう###sự ép buộc/ép buộc/buộc/ép/cưỡng chế
+摘要###てきよう###đề cương/phác thảo/tóm tắt
+主要###しゅよう###sự chủ yếu/sự quan trọng/chính
+需要###じゅよう###nhu cầu/vật nhu yếu
+重要###じゅうよう###sự trọng yếu/sự quan trọng
+枢要###すうよう###sự quan trọng
+提要###ていよう###Tóm lược/phác thảo/bản tóm tắt/ đại cương
+肝要###かんよう###sự quan trọng/sự cần thiết
+必要###ひつよう###điều tất yếu
+不要###ふよう###sự không cần thiết/sự không thiết yếu/sự lãng phí
+要項###ようこう###các mục yêu cầu/các mục quan trọng/các mục thiết yếu
+要塞###ようさい###đồn lũy
+要旨###ようし###cái cốt yếu/yếu tố cần thiết/yếu tố chính/cái cốt lõi/sự tóm lược
+要所###ようしょ###nơi nòng cốt/nơi mấu chốt/vị trí quan trọng
+要請###ようせい###sự yêu cầu/sự kêu gọi/lời thỉnh cầu/lời kêu gọi
+要素###ようそ###yếu tố
+要点###ようてん###yếu điểm/điểm trọng yếu
+要望###ようぼう###sự mong muốn/ước nguyện
+要覧###ようらん###thư mục
+要領###ようりょう###nghệ thuật/thủ thuật

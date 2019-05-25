@@ -1,0 +1,11 @@
+kunyomi
+遅い###おそい###muộn; chậm
+遅れる###おくれる###chậm; trễ
+遅らす###おくらす###làm cho muộn; trì hoãn
+onyomi
+遅刻###ちこく###muộn; đến muộn
+遅延###ちえん###trì hoãn
+遅速###ちそく###việc nhanh hay chậm/tiến trình
+遅滞###ちたい###sự trì hoãn
+遅配###ちはい###sự chậm trễ/trì hoãn/ngăn trở
+遅番###おそばん###ca chiều

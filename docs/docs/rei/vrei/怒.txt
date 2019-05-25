@@ -1,0 +1,8 @@
+kunyomi
+怒る###おこる###Tức giận### oai
+怒る###いかる###Tức giận### oai
+onyomi
+怒鳴る###どなる###Gào lê### hét lên
+怒号###どごう###Tiếng gầm lên### tiếng rống lên
+怒気###どき###Cơn giận dữ
+激怒###げきど###sự tức giận/sự nổi giận/sự giận dữ/sự nổi xung/tức giận/nổi giận/giận dữ/nổi xung

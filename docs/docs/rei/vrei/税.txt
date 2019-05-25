@@ -1,0 +1,25 @@
+onyomi
+税金###ぜいきん###Tiền thuế
+租税###そぜい###Thuế
+税率###ぜいりつ###Thuếsuất
+印税###いんぜい###nhuận bút
+関税###かんぜい###thuế quan/thuế/hải quan
+減税###げんぜい###sự giảm thuế/giảm thuế
+県税###けんぜい###thuế ở tỉnh
+国税###こくぜい###thuế quốc gia
+課税###かぜい###thuế khoá/thuế/thuế má
+税額###ぜいがく###Tiền thuế phải nộp
+税関###ぜいかん###thuế quan nhà đoan hải quan
+税制###ぜいせい###hệ thống thuế
+税務###ぜいむ###thuế vụ
+増税###ぞうぜい###sự tăng thuế
+脱税###だつぜい###sự trốn thuế
+徴税###ちょうぜい###thu thuế
+年税###ねんぜい###Thuế hàng năm
+納税###のうぜい###nộp thuế
+府税###ふぜい###Thuế ở thành phố
+賦税###ふぜい###sự đánh thuế
+物税###ぶつぜい###thuế hàng hóa và vật dụng sở hữu cá nhân
+無税###むぜい###sự không thuế/sự miễn thuế
+免税###めんぜい###sự miễn thuế
+郵税###ゆうぜい###bưu phí

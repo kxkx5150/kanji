@@ -1,0 +1,32 @@
+kunyomi
+傷###きず###Vết thương
+傷む###いたむ###Làm đau
+傷める###いためる###Làm bị thương
+onyomi
+傷害###しょうがい###Vết thương
+負傷###ふしょう###Bị thương
+損傷###そんしょう###Hư hại### tổn thương
+哀傷###あいしょう###Buồn rầu/sự đau buồn
+火傷###かしょう###bị bỏng
+外傷###がいしょう###chấn thương
+感傷###かんしょう###cảm thương
+傷心###しょうしん###thương tình
+傷跡###しょうこん###vết thương
+傷兵###しょうへい###thương binh
+公傷###こうしょう###Vết thương do nghề nghiệp/thương trong khi làm nhiệm vụ
+凍傷###とうしょう###vết ngứa vì lạnh/rộp vì lạnh/cước (chân### tay)
+刃傷###にんじょう###sự đổ máu/sự chém giết
+損傷###そんしょう###sự tổn hại
+中傷###ちゅうしょう###lời phỉ báng/sự phỉ báng
+刀傷###とうしょう###vết thương do gươm chém
+熱傷###ねっしょう###vết bỏng
+悲傷###ひしょう###Sự đau buồn/sự bi thường
+微傷###びしょう###vết thương nhẹ
+負傷###ふしょう###việc bị thương
+挫傷###ざしょう###vết thâm tím/vết bầm tím
+傷口###きずぐち###miệng vết thương/vết thương
+傷物###きずもの###sản phẩm có tỳ vết/sản phẩm lỗi/sản phẩm không đạt yêu cầu
+傷薬###きずぐすり###thuốc xoa vết thương/thuốc chữa vết thương/thuốc bôi vết thương
+軽傷###けいしょう###vết thương nhẹ/thương nhẹ
+重傷###おもで###vết thương nặng
+生傷###なまきず###Vết thương còn mới

@@ -1,0 +1,10 @@
+kunyomi
+侍###さむらい###Võ sĩ đạo### theo hầu
+onyomi
+侍医###じい###Thầy thuốc
+近侍###きんじ###Người phục vụ
+侍従###じじゅう###Đại thần
+侍史###じし###thư ký riêng; với vẻ kính trọng
+内侍###ないじ###Nữ tỳ phục vụ trong hậu cung
+侍者###じしゃ###người hầu phòng (nam)
+侍女###じじょ###người hầu phòng (nữ)

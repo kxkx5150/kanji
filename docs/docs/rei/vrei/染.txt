@@ -1,0 +1,12 @@
+kunyomi
+染める###そめる###Nhuộm
+染まる###そまる###Được nhuộm
+染みる###しみる###Nhúng vào### bị lây bệnh
+染み###しみ###Vết dơ
+onyomi
+汚染###おせん###Ô nhiễm
+染料###せんりょう###Thuốc màu
+染色###せんしょく###Nhuộm màu### thuốc nhuộm
+感染###かんせん###sự nhiễm/sự truyền nhiễm
+伝染###でんせん###sự truyền nhiễm /sự lan truyền
+馴染###なじ###Sự quen thân/sự thân thiện/sự quen thuộc

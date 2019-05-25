@@ -1,0 +1,80 @@
+kunyomi
+中###なか###Giữa### chính giữa
+onyomi
+中央###ちゅうおう###Trung ương
+中間###ちゅうかん###Ở giữa### trung gian
+中和###ちゅうわ###Trung hòa### sự trung hòa
+中国###ちゅうごく###Nước Trung Quốc
+中心###ちゅうしん###Trung tâm### trọng tâm
+中年###ちゅうねん###Tuổi trung niên
+渦中###かちゅう###xoáy nước/cơn lốc
+寒中###かんちゅう###giữa mùa đông/vào mùa đông/trong mùa đông
+忌中###きちゅう###sự đau khổ/sự đau buồn
+空中###くうちゅう###không trung/bầu trời/không gian
+御中###おんちゅう###kính thưa/kính gửi
+座中###ざちゅう###chỗ ngồi
+暑中###しょちゅう###giữa hè
+女中###じょちゅう###cô gái/thiếu nữ/thị nữ/tỳ nữ/người hầu gái/người giúp việc
+掌中###しょうちゅう###trong lòng bàn tay/thuộc phạm vi sở hữu của mình
+集中###しゅうちゅう###tập trung
+心中###しんちゅう###trong tim/tâm hồn
+水中###すいちゅう###nô tỳ
+喪中###もちゅう###đang có tan
+卒中###そっちゅう###chứng ngập máu
+中尉###ちゅうい###trung uý
+中火###ちゅうび###ngọn lửa vừa
+中性###ちゅうせい###trung tính/Nơtron
+中核###ちゅうかく###bộ phận nhân/lõi/trung tâm
+中間###ちゅうかん###trung gian/giữa
+中期###ちゅうき###trung hạn
+中傷###ちゅうしょう###lời phỉ báng/sự phỉ báng
+中継###ちゅうけい###truyền thanh/truyền hình
+中堅###ちゅうけん###người có vị trí trụ cột/đội quân do chủ tướng chỉ huy
+中原###ちゅうげん###trung nguyên
+中古###ちゅうぶる###trung cổ
+中隊###ちゅうたい###trung đội
+中部###ちゅうぶ###miền trung
+中細###ちゅうぼそ###độ tinh vừa (giũa)
+中止###ちゅうし###sự cấm/sự ngừng
+中流###ちゅうりゅう###giữa dòng/giai cấp trung lưu
+中耳###ちゅうじ###tai giữa
+中枢###ちゅうすう###trung khu/trung tâm
+中世###ちゅうせい###thời Trung cổ
+中絶###ちゅうぜつ###sự ngắt/sự không tiếp tục tạm thời
+中旬###ちゅうじゅん###trung tuần/10 ngày giữa một tháng
+中退###ちゅうたい###sự bỏ học giữa chừng
+中断###ちゅうだん###sự gián đoạn
+中途###ちゅうと###giữa chừng
+中東###ちゅうとう###Trung đông
+中道###ちゅうどう###giữa hành trình/giữa chừng/lập trường đứng giữa
+中毒###ちゅうどく###sự trúng độc
+中指###ちゅうし###ngón giữa
+中日###ちゅうにち###Ngày giữa
+中年###ちゅうねん###trung niên
+中農###ちゅうのう###trung nông
+中波###ちゅうは###sóng tầm trung/sóng vừa
+中背###ちゅうぜい###chiều cao trung bình
+中飯###ちゅうはん###bữa ăn giữa trưa
+中風###ちゅうふ###chứng liệt
+中幅###ちゅうはば###chiều rộng vừa
+中腹###ちゅうふく###Bị chọc tức/bị xúc phạm
+中分###ちゅうぶん###Nửa/một nửa
+中米###ちゅうべい###Trung Mỹ
+中庸###ちゅうよう###ôn hoà/điều độ
+中立###ちゅうりつ###trung lập
+中老###ちゅうろう###trung niên
+中和###ちゅうわ###sự trung hòa
+胸中###きょうちゅう###trong lòng/tâm trí/nỗi niềm/nỗi lòng
+敵中###てきちゅう###trong lòng địch
+的中###てきちゅう###sự đánh trúng đích/sự chính xác
+殿中###でんちゅう###Trong lâu đài
+途中###とちゅう###nửa đường
+熱中###ねっちゅう###sự nhiệt tình/lòng nhiệt huyết/sự chuyên tâm
+年中###ねんじゅう###suốt cả năm
+懐中###かいちゅう###túi áo/túi đựng/bao
+病中###びょうちゅう###Trong khi ốm
+必中###ひっちゅう###sự đánh đích
+秘中###ひちゅう###trong vòng bí mật
+命中###めいちゅう###cú đánh/đòn đánh
+夜中###よじゅう###nửa đêm/ban đêm
+連中###れんじゅう###đám đông/nhóm

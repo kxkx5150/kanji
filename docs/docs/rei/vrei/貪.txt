@@ -1,0 +1,6 @@
+kunyomi
+貪る###むさぼる###Thèm muốn
+onyomi
+貪婪###どんらん###Tham lam
+貪欲###どんよく###Hám lợi### tham lam
+貪食###たんしょく###Tham lam

@@ -1,0 +1,17 @@
+kunyomi
+荒らす###あらす###Làm hỏng### làm đổ nát### làm hư hỏng
+荒れる###あれる###Đổ nát### hoang phế### dông tố### hung
+荒波###あらなみ###Biển động
+荒い###あらい###Hoang dã### hung dữ### thô bạo
+荒物###あらもの###Đồ dùng nấu bếp### hàng tạp hóa
+荒馬###あらあま###Ngựa chứng### ngựa chưa được
+onyomi
+荒廃###こうはい###Sự tàn pha### sự pha hủy### sự đổ nát
+荒野###こうや###Cánh đồng hoang
+荒天###こうてん###Trời mưa bão
+荒原###こうげん###Nơi hoang dã/đất hoang/vùng hoang sơ
+荒城###こうじょう###thành đổ nát/thành hoang phế
+荒地###こうち###đất hoang
+荒淫###こういん###Sự đam mê tình dục/sự hoang dâm/sự trác táng/sự trụy lạc/đam mê tình dục/hoang dâm/trác táng/trụy lạc
+荒野###あらの###vùng đất hoang
+備荒###びこう###Sự chuẩn bị cho nạn đói

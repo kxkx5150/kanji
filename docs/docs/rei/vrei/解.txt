@@ -1,0 +1,47 @@
+kunyomi
+解く###とく###giải đáp; cởi bỏ
+解ける###とける###tuột ra; cởi ra
+解かす###とかす###chải (đầu)
+onyomi
+解体###かいたい###giải thể
+解党###かいとう###giải tán đảng
+解剖###かいぼう###giải phẫu
+解散###かいさん###giải tán
+解熱###げねつ###giải nhiệt; hạ sốt
+解脱###げだつ###giải thoát
+解消###かいしょう###sự giải quyết/giải quyết/sự kết thúc/kết thúc/sự xóa bỏ/xóa bỏ/sự bớt/bớt/sự chấm dứt/chấm dứt/sự hủy/hủy/sự hủy bỏ/hủy bỏ/sự xóa bỏ/xóa bỏ
+解禁###かいきん###sự hủy bỏ lệnh cấm
+解決###かいけつ###giải quyết
+解雇###かいこ###sự cho nghỉ việc/sự đuổi việc/sự sa thải/cho nghỉ việc/đuổi việc/sa thải
+解剖###かいぼう###sự giải phẫu/việc giải phẫu
+解釈###かいしゃく###sự giải thích/giải thích/sự giải nghĩa/giải nghĩa
+解除###かいじょ###sự bãi bỏ/sự hủy bỏ/bãi bỏ/hủy bỏ/sự bỏ/bỏ/sự chấm dứt/chấm dứt
+解凍###かいとう###sự giải nén
+解職###かいしょく###sự miễn chức/sự sa thải/miễn chức/sa thải/sự miễn nhiệm/miễn nhiệm/sự thôi việc/thôi việc/sự bãi chức/bãi chức/sự cách chức/cách chức
+解析###かいせき###sự phân tích/phân tích
+解説###かいせつ###sự giải thích/giải thích
+解題###かいだい###ghi chú/diễn giải
+解脱###げだつ###giải thoát
+解答###かいとう###sự trả lời/giải pháp/việc trả lời
+解語###かいご###Sự hiểu từ/lý giải từ ngữ
+解読###かいどく###sự giải mã/giải mã/sự đọc/đọc
+解熱###げねつ###sự giải nhiệt/sự hạ sốt
+解放###かいほう###sự giải nhiệt/sự hạ sốt
+解放###かいほう###sự giải phóng/giải phóng/thoát khỏi
+解法###かいほう###cách giải
+解明###かいめい###Sự làm sáng tỏ/sự giải thích/giải thích/làm rõ/làm sáng tỏ
+解約###かいやく###sự hủy ước/sự hủy bỏ hợp đồng/hủy hợp đồng/hủy
+解離###かいり###sự phân ly
+見解###けんかい###kiến giải
+潮解###ちょうかい###Sự hóa thành chất lỏng/sự chảy rữa
+正解###せいかい###sự giải thích đúng/sự giải thích chính xác/sự trả lời đúng
+電解###でんかい###Sự điện giải/sự điện phân
+難解###なんかい###cái khó/sự khó khăn/sự nan giải/cái khó hiểu/cái phức tạ
+誤解###ごかい###sự hiểu lầm/sự hiểu sai/hiểu lầm/hiểu sai
+分解###ぶんかい###sự phân giải/sự phân tích/sự tháo rời
+弁解###べんかい###lời bào chữa/lời biện giải
+融解###ゆうかい###sự nấu chảy/sự dung giải
+溶解###ようかい###sự dung giải/sự nóng chảy
+理解###りかい###sự hiểu/sự lĩnh hội/sự tiếp thu/sự nắm được
+了解###りょうかい###sự hiểu biết/sự nắm rõ
+和解###わげ###sự hòa giải

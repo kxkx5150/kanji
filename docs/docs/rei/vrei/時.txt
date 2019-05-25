@@ -1,0 +1,45 @@
+kunyomi
+時###とき###Thời gian### lúc
+onyomi
+時価###じか###Giá hiện hành
+時間###じかん###Thời gian### giờ
+時刻###じこく###Thời khắc### thời gian
+時代###じだい###Thời đại
+一時###ひととき###いっとき###một giờ/thời khắc/tạm thời/nhất thời
+何時###いつ###なんじ###なんどき###khi nào/bao giờ mấy giờ
+花時###はなどき###mùa hoa
+旧時###きゅうじ###thời cổ
+潮時###しおどき###đã đến lúc
+暫時###ざんじ###thời gian ngắn
+出時###でどき###thời điểm xuất hành
+瞬時###しゅんじ###khoảnh khắc
+戦時###せんじ###thời chiến
+即時###そくじ###tức thời ###sự tức thì
+適時###てきじ###Đúng lúc/hợp thời
+当時###とうじ###khi ấy ###đương thời ###đồng thời ###dạo ấy
+同時###どうじ###sự đồng thời/sự cùng lúc
+日時###にちじ###ngày và giờ
+平時###へいじ###thời bình
+毎時###まいじ###hàng giờ
+時雨###しぐれ###mưa rào cuối Thu đầu Đông
+時運###じうん###thời vận
+時下###じか###gần đây
+時期###じき###thời buổi thời điểm
+時機###じき###dịp/thời cơ
+時宜###じぎ###sự đúng lúc/sự đúng thời/việc chào đón mùa mới
+時候###じこう###mùa(xuân###hạ thu ###đông)
+時給###じきゅう###tiền lương trả theo giờ
+時局###じきょく###thời cuộc/thời điểm
+時計###ときはかり###đồng hồ
+時限###じげん###thời hạn
+時効###じこう###thời hạn có hiệu quả/thời hiệu
+時差###じさ###sự chênh lệch về thời gian
+時事###じじ###thời sự
+時勢###じせい###thời thế
+時折###ときおり###có lúc/thỉnh thoảng
+時節###じせつ###vụ/thời vụ
+時速###じそく###tốc độ tính theo giờ
+時分###じぶん###giờ phút
+時報###じほう###sự thông báo kịp thời
+臨時###りんじ###tạm thời ###lâm thời
+零時###れいじ###không giờ/mười hai giờ đêm

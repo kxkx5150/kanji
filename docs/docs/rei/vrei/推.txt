@@ -1,0 +1,15 @@
+kunyomi
+推す###おす###Tiến cử### suy luận### phỏng đoán
+onyomi
+推移###すいい###Sự chuyển đổi### sự biến đổi
+推進###すいしん###Sự đẩy tới### sự đẩy mạnh
+推薦###すいせん###Sự giới thiệu### sự tiến cử
+推定###すいてい###Sự đoán chừng
+邪推###じゃすい###đoán chừng/hồ đồ
+推察###すいさつ###suy xét
+推奨###すいしょう###sự tán dương/sự ca ngợi/sự tiến cử/sự giới thiệu/giới thiệu/tiến cử
+推測###すいそく###sự đoán/sự phỏng đoán/sự ước đoán
+推理###すいり###thể loại thám tử hoặc trinh thám ###suy luận/lập luận
+推量###すいりょう###ước lượng ###sự đoán/sự phỏng đoán
+推論###すいろん###suy luận
+類推###るいすい###sự tương tự/sự giống nhau

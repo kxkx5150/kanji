@@ -1,0 +1,23 @@
+kunyomi
+最も###もっとも###Rất
+onyomi
+最高###さいこう###Tốt nhất### đẹp nhất
+最低###さいてい###Tồi nhất
+最後###さいご###Cuối cùng
+最悪###さいあく###cái xấu nhất/cái tồi nhất
+最期###さいご###khoảnh khắc cuối cùng của người chết/phút hấp hối/phút lâm chung
+最強###さいきょう###mạnh nhất/cái mạnh nhất
+最近###さいきん###gần nhất ###gần đây/mới đây
+最終###さいしゅう###sau cùng/cuối cùng
+最初###さいしょ###trước hết ###mới đầu ###lúc đầu ###lần đầu tiên ###đầu tiên
+最小###さいしょう###nhỏ nhất
+最少###さいしょう###tối thiểu
+最上###もがみ###sự tối thượng/sự tốt nhất/sự cao nhất
+最新###さいしん###sự tối tân/cái mới nhất
+最早###もはや###đã/rồi
+最多###さいた###tối đa
+最大###さいだい###sự lớn nhất/sự to nhất/sự vĩ đại nhất
+最短###さいたん###ngắn nhất
+最中###さなか###もなか###giữa/trong khi/đang
+最適###さいてき###sự thích hợp nhất
+最良###さいりょう###sự tốt nhất

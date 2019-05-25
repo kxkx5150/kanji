@@ -1,0 +1,53 @@
+kunyomi
+病む###やむ###Bị bệnh### mắc bệnh
+病###やまい###Đau ốm
+onyomi
+病気###びょうき###Bệnh tật
+病院###びょういん###Bệnh viện
+病人###びょうにん###Người bệnh
+病中###びょうちゅう###Trong khi ốm
+病体###びょうたい###Cơ thể ốm yếu
+病原###びょうげん###Căn bệnh
+病徴###びょうちょう###Triệu chứng bệnh
+胃病###いびょう###bệnh dạ dày
+疫病###やくびょう###bệnh dịch/bệnh truyền nhiễm/dịch bệnh
+臆病###おくびょう###sự nhát gan/sự bẽn lẽn/nhút nhát
+仮病###けびょう###sự giả vờ ốm
+性病###せいびょう###bệnh tình ###bệnh phong tình ###bệnh hoa liễu
+看病###かんびょう###sự chăm sóc (bệnh nhân)/chăm sóc
+眼病###がんびょう###đau mắt
+奇病###きびょう###căn bệnh lạ/bệnh lạ
+急病###きゅうびょう###bệnh cấp tính
+疾病###しっぺい###bệnh tật
+重病###じゅうびょう###trọng bệnh ###ốm nặng ###bệnh nặng
+大病###たいびょう###Bệnh nặng/trọng bệnh
+闘病###とうびょう###sự đấu tranh chống lại bệnh tật/sự chiến đấu chống bệnh tật
+同病###どうびょう###đồng bệnh (đồng bịnh)
+難病###なんびょう###bệnh nan y/bệnh khó chữa
+熱病###ねつびょう###sốt
+脳病###のうびょう###bệnh não
+肺病###はいびょう###lao phổi/bệnh phổi
+発病###はつびょう###sự phát bệnh
+病因###びょういん###Nguyên nhân bệnh
+病臥###びょうが###sự ốm liệt giường
+病弱###びょうじゃく###sự gầy yếu/sự gầy gò ốm yếu
+病菌###びょうきん###Virut/mầm bệnh
+病苦###びょうく###sự khổ sở vì bệnh tật
+病欠###びょうけつ###không có mặt do ốm/sự cáo ốm
+病死###びょうし###chết bệnh ###cái chết vì bệnh tật
+病室###びょうしつ###phòng bệnh ###căn phòng của người bệnh/bệnh thất
+病舎###びょうしゃ###Bệnh xá
+病床###びょうしょう###giường bệnh
+病症###びょうしょう###chứng bệnh
+病状###びょうじょう###chứng bệnh (chứng bịnh) ###bệnh trạng/bệnh tình
+病棟###びょうとう###phòng bệnh (bệnh viện)
+病身###びょうしん###sức khoẻ yếu/cơ thể ốm yếu
+病巣###びょうそう###ổ bệnh
+病態###びょうたい###tình trạng bệnh tật
+病毒###びょうどく###Virut
+病難###びょうなん###sự chịu đựng bệnh tật
+病変###びょうへん###sự thay đổi của bệnh lý
+病没###びょうぼつ###Chết vì bệnh
+病名###びょうめい###tên bệnh
+病理###びょうり###Bệnh lý
+老病###ろうびょう###bệnh già

@@ -1,0 +1,12 @@
+kunyomi
+戒める###いましめる###Khiển trách### cảnh báo
+onyomi
+機械###きかい###Máy móc
+戒厳###かいげん###Lệnh giới nghiêm
+戒律###かいりつ###Điều răn### lời răn
+訓戒###くんかい###sự cảnh báo không nên làm gì
+警戒###けいかい###sự cảnh báo/sự cảnh giới/sự cảnh giác/cảnh báo/cảnh giới/cảnh giác
+厳戒###げんかい###cẩn mật/cảnh giác cao độ/giới nghiêm
+斎戒###さいかい###sự rửa tội
+十戒###じっかい###mười điều phật răn dạy
+懲戒###ちょうかい###sự phạt/sự trừng phạt

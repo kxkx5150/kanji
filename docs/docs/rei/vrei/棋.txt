@@ -1,0 +1,5 @@
+onyomi
+棋士###きし###Người chơi cờ chuyên nghiệp
+棋界###きかい###Thế giới cờ tướng
+将棋###しょうぎ###Cờ tướng
+棋譜###きふ###kết quả trò chơi/thành tích chơi game

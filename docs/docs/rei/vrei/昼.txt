@@ -1,0 +1,8 @@
+kunyomi
+昼###ひる###Buổi trưa
+onyomi
+昼食###ちゅうしょく###Bữa ăn trưa
+昼夜###ちゅうや###Sáng tối
+昼光###ちゅうこう###ánh sáng ban ngày
+昼間###ちゅうかん###ban ngày
+昼光色###ちゅうこうしょく###màu sắc tự nhiên

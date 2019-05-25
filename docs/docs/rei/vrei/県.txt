@@ -1,0 +1,10 @@
+onyomi
+県###けん###Tỉnh
+県内###けんない###Trong tỉnh
+県庁###けんちょう###Ủy ban tỉnh
+県会###けんかい###hội đồng tỉnh/hội đồng nhân dân tỉnh
+県税###けんぜい###thuế ở tỉnh
+県道###けんどう###tỉnh lộ/đường lớn cấp tỉnh
+県民###けんみん###dân trong tỉnh/dân chúng/người dân
+県立###けんりつ###sự thuộc về tỉnh/do tỉnh thành lập
+府県###ふけん###phủ huyện/quận huyện

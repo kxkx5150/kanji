@@ -1,0 +1,6 @@
+kunyomi
+疲れる###つかれる###Mệt mỏi
+疲らす###つからす###Làm mệt
+onyomi
+疲労###ひろう###Mệt mỏi
+疲弊###ひへい###Bệnh do mệt mỏi

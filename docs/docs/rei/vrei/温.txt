@@ -1,0 +1,24 @@
+kunyomi
+温かい###あたたかい###Ấm### ôn hòa
+温か###あたたか###Ấm### ôn hòa
+温まる###あたたまる###Được làm nóng### trở nên nóng
+温める###あたためる###Làm nóng### làm ấm
+onyomi
+温度###おんど###Nhiệt độ
+温泉###おんせん###Suối nước nóng
+温室###おんしつ###Nhà kính
+温床###おんしょう###cái ổ
+温帯###おんたい###ôn đới
+温暖###おんだん###ấm/ấm áp/nóng
+温良###おんりょう###dịu dàng/dễ thương/hiền hậu/đôn hậu/hiền thục
+温和###おんわ###sự ôn hoà/sự hiền hậu/sự hiền lành
+気温###きおん###nhiệt độ
+低温###ていおん###nhiệt độ thấp
+恒温###こうおん###Nhiệt độ không thay đổi/nhiệt độ ổn định
+高温###こうおん###nhiệt độ cao
+水温###すいおん###nhiệt độ nước
+体温###たいおん###nhiệt độ cơ thể/thân nhiệt
+定温###ていおん###Nhiệt độ cố định
+適温###てきおん###Nhiệt độ thích hợp
+等温###とうおん###Đẳng nhiệt
+保温###ほおん###sự giữ độ ấm/sự duy trì độ ấm/ sự giữ nhiệt

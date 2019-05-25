@@ -1,0 +1,77 @@
+kunyomi
+名前###なまえ###Tên
+onyomi
+名字###みょうじ###Họ
+有名###ゆうめい###Nổi tiếng
+名刺###めいし###Danh thiếp
+悪名###あくめい###Danh tiếng xấu/cái tên xấu/tai tiếng
+宛名###あてな###tên và địa chỉ người nhận
+威名###いめい###uy danh
+汚名###おめい###ô danh/tiếng xấu
+仮名###けみょう###かな###tên giả mạo/tên không thật/bút danh/tên hiệu/bí danh
+改名###かいめい###sự cải danh/sự đổi tên ###cải tên ###cải danh
+別名###べつみょう###biệt danh ###bí danh/biệt hiệu
+学名###がくめい###tên khoa học
+姓名###せいめい###họ và tên
+偽名###ぎめい###ngụy danh ###mạo danh
+虚名###きょめい###hư danh
+御名###ぎょめい###みな###tên hiệu của vua/tên hiệu
+功名###こうみょう###công danh
+高名###こうみょう###sự nổi tiếng/sự hữu danh/nổi tiếng
+国名###こくめい###tên quốc gia/tên nước
+氏名###しめい###họ tên
+実名###じつめい###tên thật
+社名###しゃめい###tên hãng
+署名###しょめい###đề tên ###chữ ký ###bí danh
+書名###しょめい###bút danh/đầu đề/tít/tiêu đề
+除名###じょめい###sự tống ra/sự trục xuất/sự đuổi/sự rút phép thông công/sự khai trừ/sự gạch tên
+人名###じんめい###tên người /danh tánh ###nhân mạng
+俗名###ぞくめい###tên tục
+尊名###そんめい###quí danh
+大名###だいみょう###lãnh chúa (ở Nhật Bản)
+題名###だいめい###tên (sách### bài hát.v.v...) ###nhan đề
+地名###ちめい###địa danh
+著名###ちょめい###trứ danh/nổi tiếng
+通名###とおりな###Tên chung
+匿名###とくめい###sự nặc danh
+指名###しめい###sự chỉ tên/sự nêu tên/ sự chỉ định/ sự bổ nhiệm
+売名###ばいめい###việc tự quảng cáo
+筆名###ひつめい###bút danh
+病名###びょうめい###tên bệnh
+品名###ひんめい###tên vật phẩm/tên hàng
+仏名###ぶつみょう###tên hiệu theo nhà Phật/Phật danh
+芳名###ほうめい###danh thơm/danh tiếng tốt
+本名###ほんめい###tên thật
+無名###むめい###sự vô danh/sự không ký tên/sự không có tên người sản xuất
+名宛###なあて###Tên người nhận ghi trên phong bì thư
+名案###めいあん###ý kiến hay
+名医###めいい###lương y ###danh y
+名画###めいが###danh hoạ
+名鑑###めいかん###thư mục
+名義###めいぎ###tên ###danh nghĩa
+名曲###めいきょく###bản nhạc nổi tiếng
+名月###めいげつ###trăng rằm
+名言###めいげん###danh ngôn
+名香###めいこう###danh thơm
+名作###めいさく###tác phẩm danh tiếng
+名札###なふだ###thẻ ###bảng tên
+名残###なごり###dấu vết/tàn dư/lưu luyến
+名詞###めいし###từ ###danh từ ###danh thiếp ###danh sĩ
+名主###なぬし###Người đứng đầu trong làng/trưởng làng
+名所###などころ###danh lam
+名勝###めいしょう###danh lam
+名匠###めいしょう###nghệ nhân/người thợ có tiếng
+名称###めいしょう###danh xưng/tên gọi ###danh tướng ###danh hiệu
+名人###めいじん###danh nhân
+名声###めいせい###vinh hiển ###thanh danh ###sự danh tiếng/danh tiếng ###danh giá
+名代###みょうだい###なだい###Nổi tiếng/tiếng tăm
+名著###めいちょ###cuốn sách nổi tiếng/kiệt tác
+名答###めいとう###câu trả lời đúng
+名品###めいひん###danh phẩm
+名物###めいぶつ###đặc sản/sản vật nổi tiếng
+名簿###めいぼ###danh bạ###danh sách
+名目###みょうもく###danh nghĩa
+名門###めいもん###gia tộc quyền quí/danh môn/danh gia vọng tộc/gia đình có danh tiếng
+名誉###めいよ###danh dự
+命名###めいめい###mệnh danh
+略名###りゃくめい###lược danh

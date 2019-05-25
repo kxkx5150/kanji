@@ -1,0 +1,12 @@
+kunyomi
+譲る###ゆずる###Nhượng bộ### chuyển nhượng
+onyomi
+譲渡###じょうと###Sự chuyển nhượng### sự chuyển giao
+譲歩###じょうほ###Sự nhượng bộ### sự thỏa hiệp
+分譲###ぶんじょう###Sự bán theo lô đất
+分譲地###ぶんじょうち###Lô đất bán
+委譲###いじょう###Sự chuyển nhượng### chuyển giao
+割譲###かつじょう###hành động nhượng lại
+互譲###ごじょう###sự nhượng bộ nhau/sự nhường nhau/nhượng bộ/nhường nhau/nhường nhịn/thỏa hiệp/hòa giải
+交譲###こうじょう###Sự nhượng bộ/sự thỏa hiệp/nhượng bộ/thỏa hiệp
+謙譲###けんじょう###sự khiêm nhường/sự khiêm tốn/đức tính khiêm tốn/đức tính khiêm nhường

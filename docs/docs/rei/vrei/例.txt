@@ -1,0 +1,29 @@
+kunyomi
+例える###たとえる###So sánh
+onyomi
+例外###れいがい###Ngoại lệ
+例年###れいねん###Hàng năm
+例文###れいぶん###Mẫu câu
+例解###れいかい###sự minh họa; ví dụ
+例話###れいわ###sự minh họa
+悪例###あくれい###Ví dụ xấu/tiền lệ xấu
+家例###かれい###Phong tục gia đình/nề nếp gia phong
+古例###これい###Tiền lệ cũ/truyền thống/phong tục
+恒例###こうれい###thói quen/thông lệ/thường lệ
+事例###じれい###minh họa###điển hình
+条例###じょうれい###qui định/điều khoản/luật lệ
+慣例###かんれい###có tính lề thói tập quán/tập quán/thói quen
+先例###せんれい###tiền lệ/tiền định
+前例###ぜんれい###tiền lệ
+通例###つうれい###thông lệ
+定例###ていれい###luật định
+特例###とくれい###ví dụ đặc biệt
+判例###はんれい###tiền lệ/án lệ
+範例###はんれい###ví dụ
+比例###ひれい###tỷ lệ
+法例###ほうれい###pháp luật
+凡例###はんれい###lời chú giải/lời hướng dẫn
+用例###ようれい###thí dụ
+例外###れいがい###ngoại lệ
+例題###れいだい###ví dụ mẫu/bài tập mẫu
+実例###じつれい###ví dụ bằng thực tế/ví dụ thực tế

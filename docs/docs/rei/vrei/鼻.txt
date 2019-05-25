@@ -1,0 +1,24 @@
+kunyomi
+鼻###はな###Cái mũi
+onyomi
+鼻孔###びこう###Lỗ mũi
+鼻炎###びえん###Viêm mũi
+鼻音###びおん###Giọng mũi
+鼻綱###はなづな###Dây cương
+鼻熊###はなぐま###Cầy hương
+鼻血###はなじ###sự chảy máu cam
+鼻腔###びくう###Hốc mũi
+鼻骨###びこつ###Xương mũi
+鼻汁###びじゅう###chất nhầy ở mũi
+鼻緒###はなお###guốc mộc xỏ ngón
+鼻水###はなみず###nước mũi
+鼻声###びせい###âm mũi
+鼻先###はなさき###trước mắt
+鼻茸###びじょう###hạch sưng trong mũi/u sưng trong mũi/polip mũi
+鼻柱###はなばしら###vách mũi
+鼻糞###はなクソ###gỉ mũi
+鼻毛###はなげ###lông mũi
+鼻薬###はなぐすり###thuốc sổ mũi
+鼻紙###はなかみ###giấy lau mũi
+鼻翼###びよく###cánh mũi
+鼻梁###びりょう###sống mũi

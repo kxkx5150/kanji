@@ -1,0 +1,7 @@
+kunyomi
+削る###けずる###Lột bỏ### đốt lấy
+onyomi
+開削###かいさく###Đào bới### khai quật
+削減###さくげん###Cắt giảm
+添削###てんさく###Sự sửa chữa
+削除###さくじょ###sự gạch bỏ; sự xóa bỏ

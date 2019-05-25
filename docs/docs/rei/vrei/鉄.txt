@@ -1,0 +1,53 @@
+kunyomi
+鉄###てつ###sắt; thép
+onyomi
+地下鉄###ちかてつ###tàu điện ngầm
+銑鉄###ずくてつ###thép đúc
+国鉄###こくてつ###đường sắt nhà nước/đường sắt quốc gia
+製鉄###せいてつ###sự sản xuất sắt
+鋳鉄###ちゅうてつ###thép đúc
+鉄橋###てっきょう###cầu sắt
+鉄兜###てつかぶと###mũ sắt
+鉄管###てっかん###ống sắt/ống thép
+鉄器###てっき###đồ sắt
+鉄線###てっせん###dây thép
+鉄琴###てっきん###Đàn chuông
+鉄筋###てっきん###cốt thép chịu lực (bê tông)
+鉄屑###てつくず###sắt phế liệu
+鉄血###てっけつ###vũ lực tàn bạo (chính sách)
+鉄拳###てっけん###Nắm đấm sắt/quả đấm sắt
+鉄工###てっこう###nghề làm đồ sắt
+鉄骨###てっこつ###cốt thép
+鉄鎖###てっさ###xích sắt
+鉄材###てつざい###vật liệu sắt
+鉄索###てっさく###dây cáp/dây thép
+鉄傘###てっさん###cái chao bằng sắt
+鉄山###てつざん###mỏ sắt
+鉄塔###てっとう###tháp sắt
+鉄色###てついろ###màu xanh ánh thép
+鉄心###てっしん###quyết tâm vững chắc/ý chí sắt đá
+鉄人###てつじん###Người đàn ông mạnh khỏe
+鉄製###てっせい###Làm bằng sắt
+鉄石###てっせき###sự sắt đá
+鉄扇###てっせん###quạt sắt
+鉄窓###てっそう###song sắt (nhà tù)
+鉄則###てっそく###Kỷ luật thép
+鉄道###てつどう###hỏa xa
+鉄鋼###てっこう###sắt thép
+鉄砲###てっぽう###khẩu súng
+鉄鉢###てっぱち###bát tộ bằng sắt (để khất thực của nhà sư)
+鉄板###てっぱん###tấm sắt/lá sắt
+鉄扉###てっぴ###cửa sắt
+鉄筆###てっぴつ###bút sắt
+鉄鉱###てっこう###quặng sắt
+鉄瓶###てつびん###ấm đun nước bằng thép
+鉄分###てつぶん###chất sắt
+鉄粉###てっぷん###bột sắt
+鉄壁###てっぺき###tường sắt
+鉄片###てっぺん###sắt vụn/ lá thép
+鉄棒###かなぼう###xà (trong môn thể dục)
+鉄路###てつろ###Đường sắt
+電鉄###でんてつ###đường xe điện
+軟鉄###なんてつ###Thép mềm
+鋼鉄###こうてつ###thép
+私鉄###してつ###đường sắt tư doanh

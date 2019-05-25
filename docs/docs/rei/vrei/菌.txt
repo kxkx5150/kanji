@@ -1,0 +1,11 @@
+onyomi
+菌###きん###Nấm### vi khuẩn
+菌類###きんるい###Các loại nấm### thuộc về nấm
+保菌者###ほきんしゃ###Người được chích ngừa
+殺菌###さっきん###Sự diệt khuẩn### sự khử trùng### sự tiệt
+無菌###むきん###Sự vô trùng### sự tiệt trùng
+細菌学###さいきんがく###Vi khuẩn học### vi trùng học
+麹菌###こうじきん###cây men/cái men
+細菌###さいきん###vi trùng/vi khuẩn
+雑菌###ざっきん###vi sinh vật/tạp khuẩn
+病菌###びょうきん###Virut/mầm bệnh

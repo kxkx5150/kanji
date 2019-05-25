@@ -1,0 +1,18 @@
+kunyomi
+何###なに###Cái gì### thế nào### bao nhiêu
+何###なん###Cái gì### thế nào### bao nhiêu
+onyomi
+誰何###すいか###Thách thức
+幾何学###きかがく###Hình học
+何故###なにゆえ###vì sao ### cớ sao ### cớ gì
+何事###なにごと###cái gì
+何処###いどこ###ở đâu/ở chỗ nào
+何人###なんにん###なんぴと###なにじん###mấy người
+何卒###なにとぞ###xin vui lòng
+何度###なんど###bao nhiêu lần/mấy lần
+何日###なんにち###ngày nào ###ngày mấy/bao nhiêu ngày### hôm nào
+何分###なにぶん###なんぷん###dù sao/xin mời
+何遍###なんべん###bao nhiêu lần
+何方###なにざま###どなた###phía nào/cái nào/người nào
+何時###いつ###なんじ###なんどき###khi nào/bao giờ
+如何###いか###いかん###như thế nào/thế nào

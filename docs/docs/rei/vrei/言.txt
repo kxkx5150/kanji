@@ -1,0 +1,59 @@
+kunyomi
+言う###いう###Nói
+言い訳###いいわけ###Sự biện minh
+言い方###いいかた###Cách nói
+言い直す###いいなおす###Nói lại### đính chính
+言い表す###いいあらわす###Nói rõ ra### diễn tả### mô tả
+言い合い###いいわけ###Sự cãi nhau### sự đấu khẩu
+onyomi
+言語###げんご###Ngôn ngữ
+言論###げんろん###Sự ngôn luận
+公言###こうげん###Sự khoe khoang### sự khoác lác
+助言###じょげん###Sự khuyên bảo### lời khuyên
+金言###きんげん###Câu tục ngữ### lời khôn ngoan
+発言権###はつげんけん###Quyền phát ngôn
+伝言###でんごん###Sự nhắn gửi### lời nhắn gửi
+無言###むごん###Sự nín lặng### sự im lặng
+誓言###せいごん###Lời tuyên thệ### lời thề### lời cam kết
+無言劇###むごんげき###Kịch câm
+遺言###ゆいごん###Sự làm di chúc### di chúc
+言葉###ことば###Từ ngữ### ngôn ngữ
+言葉遣い###ことばづかい###Cách dùng từ
+言付け###ことづけ###Cách nói
+悪言###あくげん###Sự vu cáo/sự nói xấu
+遺言###いげん###lời trăng trối/ di ngôn
+一言###いちごん###một từ/một lời
+寡言###かげん###trầm mặc
+過言###かごん###Sự thổi phồng/sự nói quá lời/sự nói phóng đại/sự nói phóng đại/thổi phồng/nói quá lời/phóng đại/nói phóng đại/quá lời/nói ngoa
+格言###かくげん###cách ngôn
+確言###かくげん###sự khẳng định/sự xác nhận/khẳng định/xác nhận
+甘言###かんげん###lời đường mật/lời lẽ đường mật
+狂言###きょうげん###kịch ca vũ
+謹言###きんげん###Bạn chân thành của anh!
+言及###げんきゅう###sự nói đến/sự nhắc đến/sự ám chỉ đến/sự đề cập/nói đến/nhắc đến/ám chỉ đến/đề cập/nhắc tới
+言責###げんせき###trách nhiệm cho lời nói của mình/trách nhiệm đối với những lời phát ngôn của bản thân
+言動###げんどう###lời nói và hành động/lời nói và việc làm
+言明###げんめい###tuyên ngôn/sự khẳng định/khẳng định/lời tuyên bố/tuyên bố/phát ngôn
+言葉###けとば###từ ngữ/lời nói/lời
+言論###げんろん###ngôn luận/sự bình luận/sự phát ngôn/bình luận/dư luận/phát ngôn
+公言###こうげん###sự tuyên bố/sự bày tỏ/thông báo/tuyên bố/bày tỏ
+巧言###こうげん###xảo ngôn
+緒言###ちょげん###Lời nói đầu/lời mở đầu
+助言###じょごん###lời khuyên/lời hướng dẫn
+序言###じょげん###tựa
+小言###こごと###sự bắt bẻ/sự càu nhàu/sự than phiền
+証言###しょうげん###lời khai/lời chứng/ nhân chứng
+寝言###ねごと###ngủ mê/lời nói mê
+宣言###せんげん###tuyên ngôn/sự thông báo/công bố/ lời tuyên bố/ tuyên bố
+直言###ちょくげん###lời nói thẳng
+痛言###つうげん###lời nhận xét làm đau đớn
+伝言###でんごん### つてごと###tin nhắn
+二言###にごん###ふたこと###lời nói hai lưỡi (nói lần sau khác với lần trước)
+罵言###ばげん###Từ ngữ để nhục mạ
+発言###はつげん###sự đề nghị/sự đề xuất
+不言###ふげん###Sự yên lặng
+侮言###ぶげん###sự lăng mạ/sự xỉ nhục/lời lăng mạ/lời xỉ nhục
+方言###ほうげん###tiếng địa phương/phương ngữ
+無言###むごん###sự im lặng/sự không có lời
+名言###めいげん###danh ngôn
+予言###かねごと###lời tiên đoán/sự tiên đoán/sự dự báo/sự dự đoán/sự tiên tri

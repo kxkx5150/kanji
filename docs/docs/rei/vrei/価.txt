@@ -1,0 +1,24 @@
+kunyomi
+価###あたい###Giá trị (vật)
+onyomi
+価格###かかく###Giá cả
+物価###ぶっか###Vật giá
+価値###かち###Giá trị
+価額###かがく###Giá trị/số tiền/tổng số tiền/giá
+株価###かぶか###giá cổ phiếu
+原価###げんか###thực giá
+低価###ていか###giá thấp
+高価###こうか###đắt giá
+真価###しんか###giá trị thực sự
+正価###せいか###giá tịnh
+対価###たいか###sự xem xét/ đánh giá
+地価###ちか###giá đất
+定価###ていか###giá xác định/giá ghi trên hàng hoá
+等価###とうか###sự tương đương/cùng với mức đó
+評価###へいか###sự đánh giá
+物価###ぶっか###vật giá
+米価###べいか###giá gạo
+時価###じか###thời giá
+廉価###れんか###giá thấp
+単価###たんか###giá đơn vị ###đơn giá/giá của một sản phẩm
+平価###へいか###ngang giá

@@ -1,0 +1,16 @@
+kunyomi
+測る###はかる###Đo lường
+onyomi
+測量###そくりょう###Đo lường### trắc địa
+測定###そくてい###Đo lường
+測候所###そっこうじょ###Đài khí tượng
+憶測###おくそく###sự suy đoán/sự phỏng đoán
+観測###かんそく###sự quan trắc/sự quan sát/sự đo đạc/quan trắc/quan sát/đo đạc
+計測###けいそく###sự đo đạc
+推測###すいそく###sự đoán/sự phỏng đoán/sự ước đoán
+測地###そくち###trắc địa
+測度###そくど###sự đo đạc
+天測###てんそく###Sự quan sát thiên văn
+不測###ふそく###bất trắc
+目測###もくそく###sự đo bằng mắt
+予測###よそく###sự báo trước/sự ước lượng

@@ -1,0 +1,6 @@
+kunyomi
+繰る###くる###Kéo tơ### cuốn
+繰返す###くりかえす###Lặp đi lặp lại
+繰り上げる###くりあげる###Tăng dần lên
+onyomi
+繰糸###そうし###Xe chỉ

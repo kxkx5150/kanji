@@ -1,0 +1,5 @@
+kunyomi
+拒む###こばむ###Từ chối### chống### bác
+onyomi
+拒否###きょひ###Bác bỏ### cự tuyệt### từ chối
+拒絶###きょぜつ###Bác bỏ### cự tuyệt### từ chối

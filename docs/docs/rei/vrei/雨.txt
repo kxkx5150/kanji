@@ -1,0 +1,36 @@
+kunyomi
+雨###あめ###Mưa
+雨###あま###Mưa
+onyomi
+雨季###うき###Mùa mưa
+雨滴###うてき###Giọt mưa
+酸性雨###さんせいう###Mưa axit
+雨雲###あまぐも###mây mưa
+雨蛙###あまがえる###ếch
+雨期###うき###mùa mưa
+雨具###あまぐ###đồ đi mưa
+雨戸###あまど###cửa chớp
+雨滴###うてき###giọt mưa
+雨水###うすい###nước mưa
+雨天###うてん###trời mưa
+雨粒###あめつぶ###giọt mưa
+雨量###うりょう###lượng mưa
+降雨###こうう###trận mưa rào/mưa rào/cơn mưa rào
+豪雨###ごうう###mưa to/mưa như trút nước
+細雨###さいう###mưa bụi
+慈雨###じう###mưa đúng lúc/mưa lành/trận mưa lành
+秋雨###しゅうう###Mưa thu
+春雨###はるさめ###mưa xuân
+凍雨###とうう###mưa mùa đông
+小雨###こあめ###mưa bụi/mưa phùn
+俄雨###にわかあめ###mưa rào
+大雨###おおあめ###mưa to/mưa lớn/mưa rào/cơn mưa to/cơn mưa lớn/cơn mưa rào/trận mưa to/trận mưa lớn/trận mưa rào
+長雨###ながめ###cơn mưa kéo dài
+梅雨###ばいう###mùa mưa
+糠雨###ぬかあめ###Mưa lất phất/mưa phùn
+微雨###びう###mưa phùn/mưa nhỏ
+風雨###ふうう###mưa gió
+霧雨###きりさめ###mưa phùn
+時雨###しぐれ###mưa rào cuối Thu đầu Đông
+雷雨###らいう###bão tố
+涙雨###なみだあめ###Mưa nhẹ/mưa lất phất

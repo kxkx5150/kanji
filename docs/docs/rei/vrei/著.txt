@@ -1,0 +1,12 @@
+kunyomi
+著す###あらわす###Viết sách### soạn sách
+著しい###いちじるしい###Rõ rệt### đáng chú ý
+onyomi
+著名###ちょめい###Nổi tiếng### trứ danh
+著作###ちょさく###Sự viết sách### sự trước tác
+著者###ちょしゃ###Tác giả
+著作権###ちょさくけん###Quyền tác giả### bản quyền
+著書###ちょしょ###Tác phẩm### sách
+名著###めいちょ###Tác phẩm có giá trị### sách nổi tiếng
+顕著###けんちょ###sự nổi bật/sự gây ấn tượng mạnh/sự rõ ràng/nổi bật/gây ấn tượng mạnh/rõ ràng
+著明###ちょめい###Sự rõ ràng/sự sáng sủa

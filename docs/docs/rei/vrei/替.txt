@@ -1,0 +1,9 @@
+kunyomi
+替える###かえる###Thay
+替わる###かわる###Được thay
+onyomi
+代替###だいたい###Sự thay thế. Thay đổi quyền sở hữu
+交替###こうたい###Thay đổi### thay phiên
+為替###かわせ###hối đoái/ngân phiếu
+振替###ふりかえ###chuyển tiền ###chuyển tài khoản ###chuyển khoản
+両替###りょうがえ###sự đổi tiền

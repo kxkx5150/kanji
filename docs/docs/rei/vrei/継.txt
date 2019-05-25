@@ -1,0 +1,10 @@
+kunyomi
+継ぐ###つぐ###Ối theo### thừa kế
+onyomi
+継承###けいしょう###Sự kế thừa
+継父###けいふ###Bố dượng
+継続###けいぞく###Sự tiếp nối### kế thừa
+継子###けいし###con riêng
+継母###ままはは###mẹ kế/mẹ ghẻ
+後継###こうけい###người kế vị/người kế tục/người nối nghiệp/quyền kế vị
+中継###ちゅうけい###truyền thanh/truyền hình

@@ -1,0 +1,7 @@
+kunyomi
+兼ねる###かねる###Gồm### phối hợp
+－兼ねる###－かねる###Không thể
+onyomi
+兼任###けんにん###Kiêm nhiệm
+兼職###けんしょく###Kiêm chức
+兼業###けんごう###nghề kiêm nhiệm/nghề thứ hai/kiêm nhiệm

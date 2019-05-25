@@ -1,0 +1,5 @@
+kunyomi
+慎む###つつしむ###Cẩn thận### thận trọng### ý tứ
+onyomi
+慎重###しんちょう###Sự thận trọng
+謹慎###きんしん###Cẩn thận

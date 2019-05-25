@@ -1,0 +1,6 @@
+kunyomi
+薦める###すすめる###Đề cử### tiến cử### khuyên
+onyomi
+推薦###すいせん###Sự đề cử### sự tiến cử### sự giới thiệu ra
+自薦###じせん###sự tự tiến cử/tự tiến cử
+他薦###たぜん###sự giới thiệu/sự tiến cử

@@ -1,0 +1,35 @@
+kunyomi
+器###うつわ###Đồ chứa### dụng cụ
+onyomi
+器械###きかい###Dụng cụ### công cụ
+器具###きぐ###Dụng cụ
+器官###きかん###Cơ quan### bộ phận`
+器器###きぶつ###dụng cụ; chỗ chứa đựng
+器用###きよう###khéo léo; khéo tay; tinh xảo
+器量###きりょう###ngoại hình; nhan sắc; dung mạo; nét mặt; vẻ đẹp
+火器###かき###hỏa lò ###hỏa khí/súng phun lửa/vũ khí phun lửa/hỏa tiễn
+楽器###がっき###nhạc khí ###nhạc cụ
+性器###せいき###bộ phận sinh dục
+器楽###きがく###nhạc khí
+器財###きざい###khí tài
+機器###きき###cơ khí
+凶器###きょうき###vũ khí nguy hiểm/hung khí
+漆器###しっき###sơn mài ###đồ gỗ sơn
+計器###けいき###thước đo
+臓器###ぞうき###nội tạng/phủ tạng
+陶器###とうき###gốm ###đồ sứ ###đồ gốm
+磁器###じき###đồ gốm sứ
+食器###しょっき###đĩa bát ###chén bát ###bát đĩa
+神器###しんき###kho báu của vua
+石器###せっき###đồ đá
+鉄器###てっき###đồ sắt
+電器###でんき###đồ điện
+土器###かわらけ###Đồ gốm
+銅器###どうき###đồng khí ###đồ đồng
+鈍器###どんき###vật không nhọn/dao không sắc
+尿器###にょうき###Cái bô/lọ đựng nước tiểu
+不器###ふき###Sự vụng về
+武器###ぶき###vũ khí
+兵器###へいき###võ khí ###súng ống
+容器###ようき###đồ đựng
+銃器###じゅうき###súng ống

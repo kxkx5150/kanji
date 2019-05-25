@@ -1,0 +1,20 @@
+kunyomi
+帰る###かえる###Trở về
+帰す###かえす###Trả lại### tống đi
+onyomi
+帰国###きこく###Về nước
+帰宅###きたく###Về nhà
+帰省###きせい###Về quê
+回帰###かいき###hồi quy/quay trở lại/trở về
+帰依###きえ###sự quy y/quy y
+帰化###きか###sự nhập tịch/sự nhập quốc tịch/nhập quốc tịch
+帰還###きかん###sự trở về/sự hồi hương/trở về/hồi hương
+帰京###ききょう###sự trở về thủ đô/hồi kinh
+帰郷###ききょう###sự hồi hương/sự trở về nhà/hồi hương/trở về nhà/về thăm quê/thăm quê
+帰順###きじゅん###qui hàng
+帰途###きと###trên đường về/giữa đường/trên chặng về
+帰港###きこう###chuyến về
+帰航###きこう###chuyến về
+帰路###きろ###đường về/đường trở về
+不帰###ふき###sự không phục hồi lại được nữa
+復帰###ふっき###sự khôi phục

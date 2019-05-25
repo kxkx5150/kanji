@@ -1,0 +1,60 @@
+kunyomi
+金###かね###tiền; đồng tiền
+onyomi
+金冠###きんかん###bọc vàng
+金利###きんり###tiền lãi
+金属###きんぞく###kim loại
+黄金###くがね###hoàng kim/vàng
+基金###ききん###quỹ
+金塊###きんかい###vàng khối
+金額###きんがく###kim ngạch/số tiền
+金柑###きんかん###quất### tắc
+金魚###きんぎょ###cá vàng
+金銀###きんぎん###vàng bạc
+金具###かなぐ###thanh kim loại
+金型###かながた###khuôn
+金庫###かねぐら###ngân khố
+金鎖###きんぐさり###xích vàng
+金歯###きんば###răng vàng
+金色###こんじき###sắc vàng kim/màu vàng ánh kim/màu hoàng kim
+金星###きんせい###きんぼし###sao kim
+金銭###きんせん###tiền tệ
+金属###きんぞく###kim loại
+金槌###てっつい###búa
+金髪###きんぱつ###tóc vàng/tóc vàng hoe
+金網###かなあみ###lưới thép
+金融###きんゆう###tài chính/vốn/lưu thông tiền tệ/tín dụng
+金曜###きんよう###thứ sáu
+献金###けんきん###tiền quyên góp/tiền hiến tặng/tiền đóng góp (từ thiện...)
+元金###もときん###tiền vốn/tư bản/tiền gốc/vốn ban đầu
+現金###げんきん###tiền mặt/tiền
+公金###こうきん###quỹ công/công quỹ
+口金###くちがね###đai kim loại
+行金###こうきん###tiền ngân hàng
+合金###ごうきん###Hợp kim
+座金###ざがね###bạc lót
+残金###ざんきん###tiền dư
+資金###しきん###vốn vận chuyển
+借金###しゃっきん###tiền vay
+手金###てきん###khoản tiền đặt
+集金###しゅうきん###sự thu được tiền/sự thu tiền
+純金###じゅんきん###vàng nguyên chất
+賞金###しょうきん###tiền thưởng
+針金###はりがね###dây kim loại
+成金###なりきん###Người mới phất/người mới trở nên giàu có
+税金###ぜいきん###thuế/tiền thuế
+送金###そうきん###tiền gửi
+即金###そっきん###tiền tươi
+貸金###かしきん###tiền cho vay
+代金###だいきん###giá/tiền hàng/hóa đơn/sự thanh toán
+大金###おおがね###khoản chi phí lớn
+貯金###ちょきん###Tiền tiết kiện/tiền để dành/tiền tiết kiệm gửi ngân hàng
+彫金###ちょうきん###việc khắc kim loại
+賃金###ちんぎん###tiền công
+天金###てんきん###sự mạ vàng (sách)
+頭金###あたまきん###tiền trả ban đầu
+入金###にゅうきん###sự thanh toán/sự nhận tiền/sự gửi tiền
+年金###ねんきん###tiền trợ cấp hàng năm
+納金###のうきん###Sự thanh toán
+白金###はっきん###bạch kim
+罰金###ばっきん

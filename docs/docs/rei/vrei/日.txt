@@ -1,0 +1,109 @@
+kunyomi
+日の出###ひので###Mặt trời mọc
+日焼け###ひやけ###Rám nắng### tắm nắng
+記念日###きねんび###Ngày kỷ niệm
+onyomi
+日時###にちじ###Thời gian### ngày giờ
+日常###にちじょう###Hằng ngày### mỗi ngày
+日記###にっき###Nhật ký
+日程###にってい###Lịch trình### nhật trình
+休日###きゅうじつ###Ngày nghỉ
+悪日###あくにち###Ngày gặp toàn chuyện không may/ngày xui xẻo/ngày không may/ngày đen đủi
+一日###ひとえ###いっぴ###một ngày
+何日###なんにち###ngày nào###　ngày mấy/bao nhiêu ngày###　hôm nào
+隔日###かくじつ###cách nhật### cách ...ngày
+幾日###いくにち###bao nhiêu ngày
+忌日###きじつ###húy nhật
+期日###ごじつ###ngày đã định/ kì hạn
+吉日###きちにち###ngày may mắn/ngày vui vẻ/ngày tốt/ngày lành tháng tốt
+近日###きんじつ###ngày gần đây/sắp sửa/sắp tới/gần đây/sắp
+九日###ここのか###mồng 9/ngày 9/ngày mồng 9/9 ngày
+月日###つきひ###がっぴ###ngày tháng/năm tháng/thời gian
+元日###がんにち###ngày mùng một Tết/mùng một Tết
+五日###いつか###ngày mồng 5
+八日###ようか###tám ngày
+今日###こんじつ###ngày hôm nay
+祭日###さいじつ###ngày lễ/ngày hội/ngày nghỉ
+在日###ざいにち###ở Nhật Bản
+昨日###さくじつ###ngày hôm qua
+三日###みっか###ba ngày/ngày mùng ba
+四日###よっか###bốn ngày/ngày mùng bốn
+七日###なのか###ngày thứ 7 của tháng###7 ngày
+終日###ひもすがら###cả ngày
+十日###とおか###ngày mười###ngày mùng mười###mười ngày
+祝日###しゅくじつ###ngày lễ
+初日###しょにち###はつひ###bình minh ngày đầu năm
+親日###しんにち###sự thân Nhật
+西日###にしび###せいにち###sự đang di chuyển về phía tây của mặt trời
+先日###せんじつ###vài ngày trước/hôm trước
+即日###そくじつ###cùng ngày
+対日###たいにち###với Nhật Bản (trong các quan hệ)
+中日###ちゅうにち###なかび###Ngày giữa
+朝日###あさひ###nắng sáng
+帝日###ていじつ###Ngày may mắn
+天日###てんぴ###Mặt trời/ánh sáng mặt trời
+当日###とうじつ###ngày hôm đó/ngày được nhắc tới
+二日###ふつか###ngày mùng hai
+日陰###ひかげ###bóng tối/ bóng râm/ bóng mát
+日蔭###ひかげ###bóng
+日英###にちえい###Nhật-Anh
+日華###にっか###Nhật Bản và Trung Quốc/Nhật Trung
+日刊###にっかん###nhật san/sự phát hành theo ngày
+日韓###にっかん###Nhật Hàn
+日給###にっきゅう###tiền lương ngày###tiền lương hàng ngày
+日勤###にっきん###việc đi làm hàng ngày/ca làm việc ban ngày
+日銀###にちぎん###ngân hàng của Nhật
+日系###にっけい###gốc Nhật/hệ thống Nhật
+日計###にっけい###Bản kê khai chi tiêu của một ngày
+日月###にちげつ###Mặt trăng và mặt trời/nhật nguyệt
+日光###にっこう###nắng###ánh mặt trời
+日向###ひなた###ánh nắng
+日傘###ひがさ###cái dù/cái ô/cái lọng/ sự che chở
+日産###にっさん###hãng Nissan/sản lượng hàng ngày
+日子###にっし###Số ngày
+日射###にっしゃ###Bức xạ từ mặt trời
+日収###にっしゅう###Thu nhập hàng ngày
+日出###にっしゅつ###Bình minh/mặt trời mọc
+日課###にっか###bài học hàng ngày/công việc hàng ngày
+日照###にっしょう###Ánh sáng mặt trời
+日食###にっしょく###nhật thực
+日数###ひかず###số ngày
+日足###ひあし###vị trí mặt trời
+日中###ひなか###thời gian trong ngày/trong ngày
+日朝###にっちょう###Nhật Bản và Triều Tiên
+日直###にっちょく###trực nhật
+日当###にっとう###Lương ngày/lương trả theo ngày
+日日###ひにち###Mỗi ngày/hàng ngày/ngày này qua ngày khác
+日付###ひづけ###sự ghi ngày tháng/sự đề ngày tháng###ngày tháng
+日舞###にちぶ###Điệu múa của Nhật Bản
+日米###にちべい###Nhật-Mỹ
+日報###にっぽう###báo cáo hàng ngày/báo ra hàng ngày
+日没###にちぼつ###Hoàng hôn
+日本###にっぽん###Nhật Bản
+日夜###にちや###ngày và đêm/ngày đêm/luôn luôn/lúc nào cũng
+日夕###にっせき###ngày và đêm/ngày đêm/luôn luôn/lúc nào cũng
+日誌###にっし###sổ nhật ký/sổ ghi nhớ
+日曜###にちよう###Chủ Nhật/ngày Chủ Nhật
+日用###にちよう###Sử dụng hàng ngày###nhật dụng
+日立###ひたち###Hitachi (tên công ty)
+日輪###にちりん###Mặt trời/vầng mặt trời
+日露###にちろ###Nhật Bản và đế chế Nga
+日録###にちろく###Nhật Bản và đế chế Nga
+日和###ひより###thời tiết
+寧日###ねいじつ###Ngày hòa bình
+排日###はいにち###sự chống Nhật/sự bài Nhật
+訪日###ほうにち###chuyến thăm Nhật Bản
+半日###はんじつ###Một nửa ngày
+平日###ひらび###ngày thường/hàng ngày
+本日###ほんじつ###hôm nay
+毎日###まいにち###thường ngày###ngày ngày###mọi ngày###mỗi ngày###hàng ngày
+末日###まつじつ###ngày cuối (của một tháng)
+命日###めいにち###ngày giỗ###kỵ###giỗ chạp
+明日###みょうにち###ngày hôm sau###bữa sau###bữa hôm sau
+厄日###やくび###ngày đen đủi/ngày xấu/ngày không may
+夕日###ゆうひ###tà dương/mặt trời ban chiều
+曜日###ようび###ngày trong tuần
+翌日###よくじつ###ngày sau###ngày hôm sau
+来日###らいにち###ngày hôm sau###Đến Nhật bản
+連日###れんじつ###ngày lại ngày
+六日###むよか###ngày thứ sáu

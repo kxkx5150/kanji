@@ -1,0 +1,7 @@
+kunyomi
+暇###ひま###Nhàn rỗi
+onyomi
+余暇###よか###Thời gian nhàn rỗi
+休暇###きゅうか###Kỳ nghỉ
+寸暇###すんか###Giây phút rãnh rỗi
+賜暇###しか###sự nghỉ phép

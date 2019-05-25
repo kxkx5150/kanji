@@ -1,0 +1,17 @@
+kunyomi
+診る###みる###lay động### rung### lắc### làm đu đưa
+onyomi
+診察###しんさつ###Sự chuẩn đoán### sự khám bệnh
+診察日###しんさつび###Ngày khám bệnh
+診察券###しんさつけん###Phiếu khám bệnh
+診察室###しんさつしつ###Phòng khám bệnh
+診断###しんだん###Sự chuẩn đoán
+診断書###しんだんしょ###Giấy chuẩn đoán
+診療###しんりょう###Sự khám và chữa bệnh
+初診###しょしん###Sự khám lần đầu
+誤診###ごしん###Sự chuẩn đoán sai
+往診###おうしん###việc bác sĩ đến khám tận nhà/bác sĩ đến khám tại gia/khám tại nhà/đi khám ngoài
+検診###けんしん###sự khám bệnh/sự kiểm tra sức khoẻ/khám bệnh/kiểm tra sức khoẻ/khám
+打診###だしん###việc gõ để chuẩn đoán / việc thăm dò
+聴診###ちょうしん###Sự nghe để khám bệnh
+内診###ないしん###Nội chẩn (y học)

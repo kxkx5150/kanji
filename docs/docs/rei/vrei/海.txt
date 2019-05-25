@@ -1,0 +1,57 @@
+kunyomi
+海###うみ###Biển
+onyomi
+沿海###えんかい###Bờ biển
+海外###かいがい###Nước ngoài
+海底###かいてい###Đáy biển
+遠海###えんかい###biển khơi
+海域###かいいき###vùng biển
+海員###かいいん###thủy thủ
+海運###かいうん###vận tải bằng đường biển/vận tải biển
+海関###かいかん###thuế hải quan
+海岸###かいがん###ven biển ###bờ biển
+海溝###かいこう###chiều sâu
+海牛###カイギュウ###うみうし###Hải ngưu/bò biển
+海魚###かいぎょ###cá biển/cá
+海峡###かいきょう###eo biển
+海軍###かいぐん###hải quân
+海原###うなばら###Đại dương/biển sâu/đáy biển
+海淵###かいえん###đáy biển sâu nhất/vũng biển sâu nhất
+海流###かいりゅう###dòng hải lưu
+海蛇###うみへび###con rắn biển
+海上###かいじょう###trên biển
+海神###わだつみ###thần biển
+海図###かいず###hải đồ
+海水###かいすい###nước biển/nước mặn
+海戦###かいせん###thủy chiến ###hải chiến
+海草###かいそう###tảo biển/rong biển
+海藻###かいそう###tảo biển/rong biển
+海賊###かいぞく###hải tặc/cướp biển
+海苔###のり###tảo tía ###rong biển
+海鳥###かいちょう###chim biển
+海難###かいなん###sự đắm tàu/việc đắm tàu/đắm tàu
+海馬###とど###うみうま###hải mã
+海抜###かいばつ###chiều cao trên mặt nước biển
+海港###かいこう###hải cảng
+海豹###アザラシ###chó biển/hải cẩu
+海浜###かいひん###bờ biển/ven biển
+海風###うみかぜ###Gió biển
+海兵###かいへい###Lính thủy/hải quân
+海辺###かいへん###bãi biển
+海防###かいぼう###phòng thủ ven biển/phòng hộ ven biển
+海洋###かいよう###hải dương/đại dương/biển
+海綿###うみわた###bọt biển
+海面###かいめん###mặt biển
+海門###かいもん###Eo biển
+海路###うなじ###Tuyến đường biển/đường biển/hải lộ
+海老###エビ###con tôm
+浅海###せんかい###biển nông
+公海###こうかい###vùng biển quốc tế/hải phận quốc tế
+大海###おおうみ###đại dương/biển lớn
+渡海###とかい###sự vượt biển
+東海###とうかい###Đông hải
+内海###ないかい###vịnh/eo biển
+南海###なんかい###Biển Nam/Nam hải
+航海###こうかい###hàng hải ###chuyến đi bằng tàu thủy
+紅海###こうかい###Biển đỏ/Hồng Hải
+領海###りょうかい###lãnh hải ###hải phận

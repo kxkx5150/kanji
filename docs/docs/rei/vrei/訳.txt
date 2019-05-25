@@ -1,0 +1,19 @@
+kunyomi
+訳###わけ###Ý nghĩa### lý do### tình huống
+言い訳###いいわけ###Sự biện minh### sự tự bào chữa
+内訳###うちわけ###Khoản### sự phân loại
+申し訳ございません###もうしわけ～###Xin lỗi
+onyomi
+訳###やく###Sự dịch thuật
+訳者###やくしゃ###Nhà dịch thuật### dịch giả
+訳出###やくしゅつ###Sự phiên dịch
+訳文###やくぶん###Bài dịch
+全訳###ぜんやく###Sự dịch toàn bộ
+通訳###つうやく###Sự thông dịch
+翻訳###ほんやく###Sự phiên dịch### sự dịch sách
+意訳###いやく###dịch nghĩa
+英訳###えいやく###việc dịch ra tiếng Anh/bản dịch tiếng Anh
+音訳###おんやく###sự chuyển tiếng nói thành chữ viết
+抄訳###しょうやく###sự lược dịch
+定訳###ていやく###Bản dịch chuẩn
+訳本###やくほん###dịch bản

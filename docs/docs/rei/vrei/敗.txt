@@ -1,0 +1,15 @@
+kunyomi
+敗れる###やぶれる###Bị thua### bị đánh bại
+onyomi
+敗戦###はいせん###Sự chiến bại### sự thua cuộc
+敗退###はいたい###Sự rút lui### sư thua trận
+失敗###しっぱい###Sự thất bại
+腐敗###ふはい###Sự mục nát### sự thối
+勝敗###しょうはい###Sự thắng bại
+完敗###かんぱい###sự thất bại hoàn toàn (của một kế hoạch...)/sự tiêu tan hoàn toàn (hy vọng...)/sự bại trận hoàn toàn/thất bại hoàn toàn/tiêu tan hoàn toàn/bại trận hoàn toàn
+惜敗###せきはい###thất bại đáng tiếc/thất bại sát nút
+惨敗###ざんぱい###sự thảm bại/thất bạ thảm hại
+成敗###せいばい###せいはい###thành bại
+敗者###はいしゃ###người chiến bại/người thua
+敗訴###はいそ###sự mất thế thuận lợi
+敗報###はいほう###tin thất bại/tin bại trận

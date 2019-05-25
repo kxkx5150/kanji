@@ -1,0 +1,7 @@
+kunyomi
+詳しい###くわしい###Rõ ràng### tường tận### tỉ mỉ
+onyomi
+詳細###しょうさい###Chi tiết### tường tận### tỉ mỉ
+詳述###しょうじゅつ###Sự tường thuật
+詳報###しょうほう###Thông báo chi tiết
+詳解###しょうかい###Sự giải thích tỉ mỉ

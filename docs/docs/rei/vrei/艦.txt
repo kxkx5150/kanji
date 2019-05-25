@@ -1,0 +1,6 @@
+onyomi
+艦隊###かんたい###Hạm đội
+艦艇###かんてい###Đoàn xe### hạm đội
+軍艦###ぐんかん###Tàu chiến
+戦艦###せんかん###tàu chiến loại lớn/chiến hạm
+砲艦###ほうかん###pháo hạm

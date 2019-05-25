@@ -1,0 +1,43 @@
+kunyomi
+黒い###くろい###Đen
+黒###くろ###Màu đen
+onyomi
+黒海###こっかい###Biển Đen
+黒板###こくばん###Bảng đen
+黒人###こくじん###Người da đen
+暗黒###あんこく###tối/tối đen/trạng thái tối/đen tối
+漆黒###しっこく###đen nhánh/bóng đen
+黒衣###こくえ###quần áo đen
+黒雲###こくうん###mây đen
+黒煙###こくえん###khói đen
+黒鉛###こくえん###than chì
+黒樫###くろがし###Vịt biển đen
+黒鴨###くろがも###Cây sồi đen
+黒熊###くろぐま###Gấu đen
+黒血###くろち###Máu đen/máu tĩnh mạch
+黒竹###くろちく###Cây tre đen
+黒潮###くろしお###dòng hải lưu Nhật Bản/dòng hải lưu đen
+黒子###くろご###こくし###người nhắc vở (trong phim### kịch)
+黒字###くろじ###lãi/thặng dư
+黒蛇###くろへび###con rắn đen
+黒松###くろまつ###cây thông đen
+黒色###こくしょく###màu đen
+黒船###くろふね###con thuyền đen/thuyền đen
+黒鼠###くろねずみ###Chuột đen
+黒蟻###くろあり###Kiến đen/kiến đục gỗ
+黒帯###くろおび###đai đen
+黒鯛###くろだい###Cá tráp biển đen
+黒檀###こくたん###than chì
+黒茶###くろちゃ###Màu nâu thẫm
+黒猫###くろねこ###Con mèo đen
+黒土###くろつち###Đồ gốm đen/đất đen
+黒豆###くろまめ###nước tương đen
+黒白###こくびゃく###đen trắng/cái đúng và sai
+黒麦###くろむぎ###Lúa mạch đen
+黒髪###こくはつ###Tóc đen
+黒豹###くろひょう###Con báo đen/báo đen
+黒米###くろごめ###gạo cẩm
+黒穂###くろぼ###bệnh than (ở cây)
+黒木###くろき###khúc gỗ chưa bóc vỏ
+中黒###なかぐろ###Dấu chấm (trong in ấn)
+白黒###しろくろ###màu đen và trắng

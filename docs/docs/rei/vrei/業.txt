@@ -1,0 +1,45 @@
+kunyomi
+業###わざ###Kỹ năng### kỹ thuật
+onyomi
+工業###こうぎょう###Ngành công nghiệp
+産業###さんぎょう###Ngành nghề### sản nghiệp
+残業###ざんぎょう###Tăng ca
+農業###のうぎょう###Ngành nông nghiệp
+業務###ぎょうむ###Nghiệp vụ
+業界###ぎょうかい###Ngành nghề### giới kinh doanh
+悪業###あくぎょう###Nghiệp chướng xấu
+営業###えいぎょう###sự kinh doanh/sự bán hàng
+家業###かぎょう###gia nghiệp
+企業###きぎょう###cơ sở
+休業###きゅうぎょう###đóng cửa/ngừng kinh doanh
+漁業###ぎょぎょう###/đánh cá
+修業###しゅぎょう###sự tu nghiệp
+興業###こうぎょう###sự khởi nghiệp/sự khởi sắc của ngành sản xuất/công nghiệp
+業界###ぎょうかい###ngành/ngành nghề/giới/giới kinh doanh/thị trường/ngành kinh doanh
+業者###ぎょうしゃ###người buôn bán/người kinh doanh/cơ sở kinh doanh
+業績###ぎょうせき###thành tích
+業務###ぎょうむ###nghiệp vụ
+兼業###けんごう###nghề kiêm nhiệm/nghề thứ hai/kiêm nhiệm
+功業###こうぎょう###công nghiệp
+副業###ふくぎょう###nghề phụ/nghề tay trái
+罪業###ざいごう###nghiệp chướng/điều tội lỗi
+作業###さぎょう###công việc
+産業###さんぎょう###sản nghiệp
+事業###じぎょう###sự nghiệp/dự án
+失業###しつぎょう###thất nghiệp
+偉業###いぎょう###công việc vĩ đại/sự nghiệp vĩ đại
+商業###しょうぎょう###thương mại
+課業###かぎょう###Bài học
+巡業###じゅんぎょう###biểu diễn lưu động
+職業###しょくぎょう###nghề nghiệp
+専業###せんぎょう###chuyên nghiệp
+卒業###そつぎょう###sự tốt nghiệp
+怠業###たいぎょう###sự phá hoại
+適業###てきぎょう###công việc phù hợp
+天業###てんぎょう###nghiệp làm Hoàng đế
+乳業###にゅうぎょう###Ngành công nghiệp sản xuất bơ sữa
+罷業###ひぎょう###sự bãi công
+復業###ふくぎょう###sự quay trở lại làm việc
+分業###ぶんぎょう###sự phân công (lao động)
+窯業###ようぎょう###công nghiệp gốm
+林業###りんぎょう###lâm nghiệp

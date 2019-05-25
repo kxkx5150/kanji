@@ -1,0 +1,19 @@
+kunyomi
+港###みなと###Bến tàu
+onyomi
+空港###くうこう###Sân bay
+港湾###こうわん###Cảng
+港内###こうない###Bên trong cảng
+河港###かこう###cảng sông
+海港###かいこう###hải cảng
+寄港###きこう###cập cảng
+帰港###きこう###chuyến về
+漁港###ぎょこう###cảng cá
+軍港###ぐんこう###cảng biển quân sự/quân cảng
+香港###ホンコン###hương hoa ###hồng kông ###Hong Kong
+商港###しょうこう###thương khẩu ###thương cảng ###cảng thương mại
+内港###ないこう###khu vực trong cảng
+入港###にゅうこう###Sự cập cảng/sự vào cảng (của tàu thuyền)
+港口###こうこう###Lối vào bến cảng/cửa vào cảng
+港町###みなとまち###phố cảng
+港図###こうず###sơ đồ bến cảng

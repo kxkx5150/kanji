@@ -1,0 +1,5 @@
+kunyomi
+曇る###くもる###Phủ mây
+onyomi
+曇天###どんてん###Tiết trời u ám
+晴曇###せいどん###trời nắng và có mây

@@ -1,0 +1,5 @@
+kunyomi
+赴く###おもむく###đến; đi về phía; xu hướng
+onyomi
+赴任###ふにん###việc tới nhận chức
+赴任地###ふにんち###nơi tới nhận chức

@@ -1,0 +1,13 @@
+kunyomi
+軸###じく###trục
+onyomi
+主軸###しゅじく###trục chính
+同軸###どうじく###đồng trục
+横軸###よこじく###trục hoành
+機軸###きじく###trục/trục máy
+光軸###こうじく###trục ánh sáng
+車軸###しゃじく###trục xe (kỹ thuật)
+縦軸###じゅうじく###trục tung
+枢軸###すうじく###trục xe/trục
+地軸###ちじく###địa trục (trục trái đất trên bản đồ)
+長軸###ちょうじく###Trục chính

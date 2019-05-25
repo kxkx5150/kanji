@@ -1,0 +1,24 @@
+kunyomi
+殺す###ころす###Giết chết
+onyomi
+殺人###さつじん###Tên sát nhân
+虐殺###ぎゃくさつ###Thảm sát
+殺到###さっとう###Chen lấn
+暗殺###あんさつ###sự ám sát
+絞殺###こうさつ###bóp cổ/bóp cổ giết người
+殺意###さつい###chủ ý để giết/ý tưởng giết chóc
+殺害###せちがい###sự sát hại
+殺気###さっき###sát khí
+殺菌###さっきん###thuốc khử trùng/sát khuẩn
+殺伐###さつばつ###sự khát máu/sự tàn bạo
+惨殺###ざんさつ###thảm sát ###tàn sát
+自殺###じさつ###sự tự sát/sự tự tử
+射殺###しゃさつ###sự bắn chết
+相殺###そうさつ###sự khử lẫn nhau
+他殺###たさつ###một vụ án mạng
+屠殺###とさつ###sự tàn sát/sự chém giết
+毒殺###どくさつ###sự đầu độc/sự đánh bả
+悩殺###のうさつ###sức mê hoặc/sức quyến rũ
+抹殺###まっさつ###sự xóa sạch/sự xóa bỏ ###sự phủ nhận ###sự phớt lờ (một ý kiến)
+黙殺###もくさつ###sự không để ý tới/sự lờ đi/sự mặc kệ
+銃殺###じゅうさつ###sự bị bắn chết

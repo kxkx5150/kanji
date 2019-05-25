@@ -1,0 +1,9 @@
+onyomi
+証券###しょうけん###Chứng khoán
+乗車券###じょうしゃけん###Vé xe
+食券###しょっけん###Phiếu ăn
+株券###かぶけん###cổ phiếu/chứng nhận cổ phiếu
+債券###さいけん###trái phiếu/giấy nợ/phiếu nợ
+馬券###ばけん###vé cá cược (đua ngựa)
+発券###はっけん###sự phát hành trái phiếu
+旅券###りょけん###hộ chiếu

@@ -1,0 +1,15 @@
+kunyomi
+走る###はしる###chạy
+onyomi
+走路###そうろ###đường đua
+競走###きょうそう###cuộc chạy đua
+師走###しはす###tháng chạp
+疾走###しっそう###sự chạy nhanh/sự lao nhanh/sự phóng nhanh
+走行###そうこう###hạy/thi hành/thực hiện
+走査###そうさ###quét
+走路###そうろ###đường đua/đường tốc hành
+脱走###だっそう###sự trốn thoát/sự đào ngũ
+逃走###とうそう###sự đào tẩu/sự bỏ trốn
+帆走###はんそう###việc đi thuyền
+暴走###ぼうそう###phản tặc
+奔走###ほんそう###sự hoạt động

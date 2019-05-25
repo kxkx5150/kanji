@@ -1,0 +1,25 @@
+kunyomi
+冷たい###つめたい###Lạnh
+冷やす###ひやす###Làm lạnh
+冷ます###さます###Làm lạnh
+冷える###ひえる###Trở nên lạnh
+冷める###さめる###Trở nên lạnh
+冷や###冷や###Nước (rượu) lạnh
+冷やかす###ひやかす###Diễu cợt
+onyomi
+冷蔵庫###れいぞうこ###Tủ lạnh
+冷凍###れいとう###Đông lạnh
+冷房###れいぼう###Phòng lạnh
+寒冷###かんれい###sự rét mướt/sự lạnh/luông không khí lạnh
+水冷###すいれい###sự làm mát nước
+冷却###れいきゃく###Sự làm lạnh ###Máy làm lạnh### tủ lạnh###Chất làm lạnh### chất tải nhiệt
+冷遇###れいぐう###sự không mến khách/tính không mến khách/sự lạnh lùng
+冷酷###れいこく###sự cục cằn/sự tàn nhẫn/sự lạnh lùng
+冷笑###れいしょう###nụ cười khinh bỉ/nụ cười lạnh lùng
+冷水###れいすい###nước lạnh
+冷静###れいせい###sự bình tĩnh/sự điềm tĩnh
+冷戦###れいせん###chiến tranh lạnh
+冷泉###れいせん###suối nước lạnh
+冷淡###れいたん###sự lãnh đạm/sự thờ ơ/sự dửng dưng
+冷徹###れいてつ###sự suy nghĩ thoáng/sự suy nghĩ thông suốt
+冷媒###れいばい###cô hồn

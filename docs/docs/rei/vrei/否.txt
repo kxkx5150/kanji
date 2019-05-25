@@ -1,0 +1,11 @@
+kunyomi
+否###いな###Không### không đúng
+onyomi
+否定###ひてい###Sự phủ định
+可否###かひ###Có hay không
+否認###ひにん###Sự phủ nhận
+否決###ひけつ###Sự phủ quyết
+安否###あんぴ###sự an nguy
+諾否###だくひ###có hay không
+賛否###さんぴ###sự tán thành và chống đối
+拒否###きょひ###sự cự tuyệt/sự phủ quyết/sự phản đối

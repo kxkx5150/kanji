@@ -1,0 +1,20 @@
+kunyomi
+積む###つむ###Chất đống
+積もる###つもる###Được chất
+積もり###つもり###Định### ước lượng
+onyomi
+積分###せきぶん###Tích phân
+積極的###せっきょくてき###Tích cực
+積載###せきさい###Sự chất hàng
+沈積###ちんせき###sự đóng cặn/sự hình thành trầm tích
+洪積###こうせき###thời kỳ hồng hoang
+山積###さんせき###sự chồng chất/sự chất đống như núi/chồng chất
+集積###しゅうせき###xếp đống
+積雪###せきせつ###những bông tuyết đã rơi xuống
+体積###たいせき###thể tích
+堆積###たいせき###việc chồng/việc chồng đống (cái gì)
+蓄積###ちくせき###sự tích luỹ/sự lưu trữ
+内積###ないせき###tích vô hướng (toán học)
+面積###めんせき###diện tích
+容積###ようせき###thể tích sức chứa dung tích
+累積###るいせき###lũy tích

@@ -1,0 +1,37 @@
+kunyomi
+強い###つよい###Mạnh
+強まる###つよまる###Thành mạnh
+強める###つよめる###Làm mạnh
+強いる###しいる###Ép
+onyomi
+勉強###べんきょう###Học
+強調###きょうちょう###Nhấn mạnh
+強引###ごういん###Cương bức### bắt buộc
+頑強###がんきょう###sự ngoan cường/sự anh dũng/sự kiên cường/sự cứng cỏi/tính cứng
+強圧###きょうあつ###cưỡng ép
+強化###きょうか###sự củng cố/sự mạnh lên/sự tăng cường/sự đẩy mạnh/củng cố/tăng cường/đẩy mạnh
+強姦###ごうかん###cường dâm
+強気###つよき###sự vững chắc/sự kiên định/sự vững vàng
+強弱###きょうじゃく###sự mạnh yếu/cái mạnh yếu/mạnh yếu/trầm bổng/trọng âm
+強健###きょうけん###sự khỏe mạnh/sự tráng kiện/sự nổi bắp/sự vạm vỡ
+強制###きょうせい###sự cưỡng chế/sự cưỡng bức/cưỡng chế/cưỡng bức/bắt buộc/ép buộc
+強固###きょうこ###sự kiên cường/sự mạnh mẽ/sự kiên cố/sự vững chắc/sự vững mạnh/sự chắc chắn/sự bền chắc/sự bền vững/ sự kiên định
+強硬###きょうこう###sự ngoan cường/sự cứng rắn/sự kiên quyết/sự mạnh mẽ/sự dứt khoát/sự kiên định/ngoan cường/cứng rắn/kiên quyết/mạnh mẽ/dứt khoát/kiên định
+強行###きょうこう###việc kiên quyết tiến hành/sự thúc ép/sự ép buộc/sự bắt buộc/ép buộc/thúc ép/bắt buộc/ép
+強国###きょうこく###cường quốc/nước mạnh
+強酸###きょうさん###axit mạnh
+強情###ごうじょう###sự bướng bỉnh/sự cứng đầu/sự bảo thủ/sự khó bảo
+強震###きょうしん###bão táp
+強請###ごうせい###tầm nã ###sự hăm dọa tống tiền/hăm dọa tống tiền
+強壮###きょうそう###sự cường tráng/sự khỏe mạnh/tác dụng tăng cường sinh lực
+強奪###ごうだつ###sự cướp/sự cướp bóc/sự cướp phá
+強敵###きょうてき###kẻ địch mạnh
+強度###きょうど###độ bền ###cườngđộ
+強盗###ごうとう###thảo khấu ###tên trộm ###sự ăn cướp/sự ăn trộm/ăn cướp/ăn trộm/trộm cướp/cướpc/vụ cướp
+強風###きょうふう###gió mạnh/bão
+強要###きょうよう###sự ép buộc/ép buộc/buộc/ép/cưỡng chế
+強力###きょうりょく###sự mạnh mẽ/sự hùng mạnh/sự hùng cường/sức mạnh lớn
+強烈###きょうれつ###sự quyết liệt/sự mạnh mẽ/quyết liệt/mạnh mẽ/mạnh
+最強###さいきょう###mạnh nhất/cái mạnh nhất
+補強###ほきょう###sự tăng cường/sự gia cố
+富強###ふうきょう###sự giàu có hùng mạnh/sự phú cường/sự hùng cường

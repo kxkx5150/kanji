@@ -1,0 +1,27 @@
+kunyomi
+費やす###ついやす###Tiêu dùng### lãng phí
+onyomi
+費用###ひよう###Chi phí
+生産費###せいさんひ###Chi phí sản xuất
+生活費###せいかつひ###Chi phí sinh hoạt
+研究費###けんきゅうひ###Chi phí nghiên cứu
+運送費###うんそうひ###Chi phí vận chuyển
+経費###けいひ###Sự tiêu dùng### phí tổn
+食費###しょくひ###Tiền phí
+浪費###ろうひ###Sự lãng phí
+給費性###きゅうひせい###Sinh viên được cấp học bổng
+消費###しょうひ###sự tiêu dùng/tiêu thụ
+会費###かいひ###hội phí
+学費###がくひ###tiền học phí
+国費###こくひ###quốc phí/chi phí của quốc gia
+雑費###ざっぴ###tạp phí
+実費###じっぴ###phí tổn thực tế/thực phí
+食費###しょくひ###tiền cơm tháng/tiền ăn
+徒費###とひ###sự lãng phí
+入費###にゅうひ###Chi phí/phí dụng
+燃費###ねんぴ###tỉ lệ hao nhiên liệu
+費消###ひしょう###sự tiêu thụ
+私費###しひ###tư phí/chi phí của bản thân bỏ ra
+旅費###りょひ###lộ phí/phí đi du lịch
+寮費###りょうひ###tiền nhà ở cư xá
+浪費###ろうひ###xa xỉ phẩm

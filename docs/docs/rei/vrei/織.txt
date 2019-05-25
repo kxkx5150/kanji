@@ -1,0 +1,12 @@
+kunyomi
+織る###おる###Dệt
+onyomi
+織機###しょっき###Máy dệt
+織物###おりもの###Vải dệt
+織物工場###おりものこうじょう###Nhà máy dệt
+羽織###はおり###áo khoác ngoài kiểu nhật
+交織###こうしょく###sự dệt kiểu hỗn hợp
+畝織###うねおり###vải kẻ/nhung kẻ
+組織###そしき###tổ chức
+紡織###ぼうしょく###sự xe chỉ và dệt
+麻織###あさおり###Vải lanh

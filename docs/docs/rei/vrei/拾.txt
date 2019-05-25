@@ -1,0 +1,5 @@
+kunyomi
+拾う###ひろう###Thu thập
+onyomi
+拾得###しゅうとく###Nhặt lên### tìm thấy
+収拾###しゅうしゅう###Điều khiển### kiểm soát### sự thu thập

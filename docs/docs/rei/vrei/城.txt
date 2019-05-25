@@ -1,0 +1,18 @@
+kunyomi
+城###しろ###Thành lũy
+onyomi
+城壁###じょうへき###Thành lũy### thành quách
+城門###じょうもん###Cổng thành
+城郭###じょうかく###Tòa thành### lâu đài
+城外###じょうがい###bên ngoài một lâu đài
+城府###じょうふ###thành phố; những tường thành phố
+開城###かいじょう###sự mở cổng thành đầu hàng/đầu hàng
+宮城###きゅうじょう###cung điện hoàng gia/cung thành/Miyagi
+居城###きょじょう###cư trú
+古城###こじょう###thành cổ
+攻城###こうじょう###vây thành
+荒城###こうじょう###thành đổ nát/thành hoang phế
+根城###ねじろ###Căn cứ/trụ sở
+城主###じょうしゅ###chủ tòa thành/chủ lâu đài
+築城###ついき###việc xây dựng lâu đài
+入城###にゅうじょう###sự tiến vào thành (giành chiến thắng và tiến vào chiếm thành của kẻ thù)

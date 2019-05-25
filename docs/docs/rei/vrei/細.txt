@@ -1,0 +1,22 @@
+kunyomi
+細い###ほそい###Hẹp
+細る###ほそる###Gầy
+細かい###こまかい###Nhỏ### chi tiết
+細か###こまか###Nhỏ### chi tiết
+onyomi
+細工###さいく###Sự chế tác
+細胞###さいぼう###Tế bào
+細説###さいせつ###Giải thích chi tiết
+委細###いさい###chi tiết/sự việc chi tiết/điều cụ thể
+細雨###さいう###mưa bụi
+細菌###さいきん###vi trùng/vi khuẩn
+細雪###ささめゆき###hoa tuyết nhỏ
+細波###さざなみ###sóng lăn tăn/con sóng nhỏ
+細分###さいぶん###phân đoạn
+細螺###きしゃご###ốc bờ/ốc mút
+詳細###しょうさい###một cách chi tiết/tường tận
+繊細###せんさい###sự tinh vi/sự tinh xảo/ tính nhạy cảm/ phẩm chất tinh tế/ sự duyên dáng
+中細###ちゅうぼそ###なかぼそ###độ tinh vừa (giũa)
+肉細###にくぼそ###Kiểu chữ nét thanh (trong đánh máy)### thịt lá
+明細###めいさい###sự chi tiết/sự rõ ràng rành mạch
+零細###れいさい###sự không quan trọng/sự tầm thường/sự vặt vãnh

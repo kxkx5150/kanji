@@ -1,0 +1,16 @@
+kunyomi
+札###ふだ###Nhãn### bảng
+onyomi
+表札###ひょうさつ###Bảng tên
+検札###けんさつ###Sự soát vé
+改札口###かいさつぐち###Cổng soát vé
+荷札###にふだ###nhãn
+贋札###ぎさつ###Tiền giấy giả/tài liệu giả
+札束###さつたば###cuộn tiền
+手札###てふだ###lá bài
+赤札###あかふだ###giấy đỏ/phiếu giảm giá/biển giảm giá
+値札###ねふだ###phiếu ghi giá
+入札###にゅうさつ###sự đấu thầu
+飛札###ひさつ###Bức thư khẩn cấp
+名札###なふだ###thẻ ###bảng tên
+落札###らくさつ###sự trúng thầu

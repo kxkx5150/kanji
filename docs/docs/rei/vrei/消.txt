@@ -1,0 +1,21 @@
+kunyomi
+消える###きえる###Tắt### tan đi### biến mất
+消す###けす###Tắt### dập### xóa bỏ
+onyomi
+消火###しょうか###Tiêu hóa
+消却###しょうきゃく###Xóa bỏ
+消極的###しょうきょくてき###Mang tính tiêu cực
+消灯###しょうとう###Tắt đèn
+消費###しょうぼう###Cứu hỏa### dập lửa
+消毒薬###しょうどくやく###Thuốc giải độc
+消印###けしいん###dấu bưu điện để hủy thư
+消化###しょうか###sự tiêu hoá/sự lí giải
+消去###しょうきょ###xóa bỏ
+消滅###しょうめつ###sự tiêu diệt/sự tiêu biến/sự biến mất
+消磁###しょうじ###sự làm mất từ tính
+消息###しょうそく###tin tức/tình hình
+消防###しょうぼう###sự cứu hoả/sự phòng cháy chữa cháy
+消耗###しょうこう###sự tiêu thụ/sự tiêu tốn/sự tiêu hao
+解消###かいしょう###sự giải quyết/giải quyết/sự kết thúc/kết thúc/sự xóa bỏ/xóa bỏ/sự bớt/bớt/sự chấm dứt/chấm dứt/sự hủy/hủy/sự hủy bỏ/hủy bỏ/sự xóa bỏ/xóa bỏ
+費消###ひしょう###sự tiêu thụ
+抹消###まっしょう###sự xoá

@@ -1,0 +1,7 @@
+onyomi
+票###ひょう###phiếu
+票数###ひょうすう###số phiếu
+開票###かいひょう###sự kiểm phiếu/việc mở hòm phiếu
+原票###げんぴょう###cuống vé
+伝票###でんぴょう###giấy nợ/hóa đơn
+投票###とうひょう###sự bỏ phiếu

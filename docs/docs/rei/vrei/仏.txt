@@ -1,0 +1,46 @@
+kunyomi
+仏###ほとけ###Ông Phật
+onyomi
+仏像###ぶつぞう###Tượng phật
+仏典###ぶってん###Kinh phật
+仏壇###ぶつだん###Bàn thờ Phật
+仏寺###ぶつじ###Phật tự; chùa
+大仏###だいぶつ###bức tượng phật lớn
+念仏###ねんぶつ###niệm phật
+仏印###ふついん###phạt ấn
+仏果###ぶっか###Niết bàn
+仏画###ぶつが###tranh Phật
+仏学###ぶつがく###Phật học
+仏教###ぶっきょう###đạo phật/phật giáo
+仏具###ぶぐ###phật cụ
+仏国###ふっこく###nước Pháp
+仏滅###ぶつめつ###ngày Phật mất/ngày Phật diệt/ngày không may
+仏事###ぶつじ###phật sự
+仏寺###ぶつじ###Phật tự/chùa
+仏者###ぶっしゃ###phật tử
+仏書###ぶっしょ###sách Phật
+仏塔###ぶっとう###Chùa
+仏祖###ぶっそ###Phật Tổ
+仏説###ぶっせつ###phật thuyết
+仏僧###ぶっそう###nhà sư/tăng lữ
+仏像###ぶつぞう###tượng phật
+仏陀###ぶつだ###Phật thích ca/Phật Đà
+仏壇###ぶつだん###Bàn thờ phật/Phật đàn
+仏葬###ぶっそう###đám tang nhà Phật
+仏典###ぶってん###phật kinh
+仏殿###ぶつでん###Phật điện
+仏徒###ぶっと###Tín đồ phật giáo
+仏堂###ぶつどう###phật đường
+仏語###ふつご###tiếng Pháp
+仏道###ぶつどう###phật đạo
+仏噸###ふつとん###Tấn mét
+仏法###ぶっぽう###phật pháp
+仏門###ぶつもん###cửa phật
+仏力###ぶつりき###phật lực
+和仏###わふつ###Nhật Pháp
+石仏###いしぼとけ###tượng phật bằng đá
+喉仏###のどぼとけ###Cục yết hầu
+仏性###ほとけしょう###tâm tính nhà Phật
+仏経###ぶっきょう###phật kinh ### kinh phật
+仏心###ほとけごころ###tâm Phật/tâm tính nhà Phật
+仏名###ぶつみょう###tên hiệu theo nhà Phật/Phật danh

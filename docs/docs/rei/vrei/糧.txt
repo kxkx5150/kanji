@@ -1,0 +1,6 @@
+kunyomi
+糧###かて###Thức ăn
+onyomi
+糧食###りょうしょく###Lương thực
+兵糧###ひょうろう###Quân lương
+食糧###しょくりょう###lương thực

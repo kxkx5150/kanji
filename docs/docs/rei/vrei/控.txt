@@ -1,0 +1,6 @@
+kunyomi
+控える###ひかえる###Giữ lại### ghi lại### đứng chờ### chuẩn bị
+控え室###ひかえしつ###Phòng đợi### phòng chờ
+onyomi
+控訴###こうそ###Sự khiếu nại lên trên (tòa án tối cao)
+控除###こうじょ###khấu trừ

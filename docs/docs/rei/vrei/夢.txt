@@ -1,0 +1,15 @@
+kunyomi
+夢###ゆめ###Giấc mơ
+夢占い###ゆめうらない###Sự bói mộng
+夢現###ゆめうつつ###Tình trạng hư hư thực thực### trạng thái mê ly
+夢見###ゆめみ###Sự nằm mơ
+正夢###まさゆめ###Giấc mơ đúng với sự thật
+逆夢###ぎゅくゆめ###Giấc mơ không giống như sự thật
+onyomi
+夢中###むちゅう###Say mê### đam mê### cặm cụi
+夢想###むそう###Sự mộng tưởng### sự ảo tưởng
+悪夢###あくむ###Cơn ác mộng
+白日夢###はくじつむ###Sự nằm mơ giữa ban ngày
+幻夢###げんむ###ảo mộng
+初夢###はつゆめ###giấc mơ đầu tiên trong năm
+夢幻###ゆめまぼろし###sự mộng ảo/điều mộng ảo/ảo mộng

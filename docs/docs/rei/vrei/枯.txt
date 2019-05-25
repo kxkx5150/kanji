@@ -1,0 +1,7 @@
+kunyomi
+枯れる###かれる###Héo### khô
+枯らす###からす###Để héo khô
+onyomi
+枯死###こし###Khô héo### chết khô
+枯渇###こかつ###Cạn kiệt### khô cạn
+栄枯###えいこ###sự thăng trầm/cuộc đời gian truân

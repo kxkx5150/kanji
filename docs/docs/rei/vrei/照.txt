@@ -1,0 +1,12 @@
+kunyomi
+照る###てる###Soi sáng
+照らす###てらす###Chiếu vào
+照れる###てれる###Lúng túng
+onyomi
+参照###さんしょう###Tham khảo
+照会###しょうかい###Điều tra### truy hỏi
+照明###しょうめい###Chiếu sáng
+照合###しょうごう###sự đối chiếu
+対照###たいしょう###sự đối chiếu
+日照###にっしょう###Ánh sáng mặt trời
+晩照###ばんしょう###Hoàng hôn

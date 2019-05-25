@@ -1,0 +1,7 @@
+kunyomi
+謡###うたい###Bài hát Nô
+onyomi
+謡曲###ようきょく###Bài hát Nô
+民謡###みんよう###Dân ca
+歌謡###かよう###bài hát
+童謡###どうよう###bài hát đồng dao/bài hát của trẻ con

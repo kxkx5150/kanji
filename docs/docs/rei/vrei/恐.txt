@@ -1,0 +1,9 @@
+kunyomi
+恐れる###おそれる###Sợ### sợ hãi
+恐ろしい###おそろしい###Sợ### sợ hãi
+onyomi
+恐竜###きょうりゅう###Khủng long
+恐怖###きょうふ###Sợ hãi### lo lắng### mất tinh thần
+恐慌###きょうこう###Khủng hoảng### sự kinh hoàng
+恐喝###きょうかつ###sự dọa nạt/sự uy hiếp/sự tống tiền/đe doạ/uy hiếp/tống tiền
+恐縮###きょうしゅく###không dám!/xin lỗi không dám! Xin hãy bỏ qua

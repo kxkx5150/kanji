@@ -1,0 +1,9 @@
+kunyomi
+翻す###ひるがえす###Lật ngược### đổi
+翻る###ひるがえる###Lật### vẫy
+onyomi
+翻訳###ほんやく###Dịch### giải mã
+翻案###ほんあん###Sự phỏng theo
+翻意###ほんい###Thay đổi ý kiến
+翻字###ほんじ###chuyển tự
+翻弄###ほんろう###sự đùa cợt/sự chế giễu

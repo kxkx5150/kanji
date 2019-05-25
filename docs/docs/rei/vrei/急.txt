@@ -1,0 +1,28 @@
+kunyomi
+急ぐ###いそぐ###Gấp### thình lình### vội vàng
+onyomi
+特急###とっきゅう###Tàu tốc hành
+急増###きゅうぞう###Tăng lên nhanh chóng
+救急車###きゅうきゅうしゃ###Xe cấp cứu
+応急###おうきゅう###Sơ cứu/cấp cứu
+火急###かきゅう###sự khẩn cấp/sự hỏa tốc/khẩn cấp/cấp bách
+性急###せいきゅう###sự cấp tính/ sự vội vàng
+緩急###かんきゅう###trong trường hợp khẩn cấp/ứng cứu
+危急###ききゅう###sự nguy cấp/sự khẩn cấp/nguy cấp/khẩn cấp
+急性###きゅうせい###cấp tính
+急患###きゅうかん###bệnh cấp tính/cấp cứu
+急激###きゅうげき###sự kịch liệt/sự nguy cấp/sự khẩn cấp
+急行###きゅうこう###tốc hành
+急流###きゅうりゅう###chảy xiết
+急所###きゅうしょ###きゅうじょ###điểm lưu ý/bí quyết/điểm yếu/gót chân Asin
+急進###きゅうしん###cấp tiến
+急逝###きゅうせい###sự chết đột tử/cái chết đột tử/cái chết đột ngột/đột tử/chết đột tử/chết đột ngột/ra đi đột ngột/qua đời đột ngột/đột ngột qua đời
+急速###きゅうそく###cấp tốc/nhanh chóng/nhanh/tốc độ cao/mạnh
+急病###きゅうびょう###bệnh cấp tính
+急変###きゅうへん###sự việc không ngờ/sự thay đổi bất chợt ###sự đột biến/đột biến/sự biến đổi đột ngột/biến đổi đột ngột/sự thay đổi đột ngột/thay đổi đột ngột
+急報###きゅうほう###cấp báo
+急用###きゅうよう###việc gấp
+緊急###きんきゅう###sự cấp bách/sự khẩn cấp/cấp bách/khẩn cấp
+至急###しきゅう###sự gấp gáp/sự khẩn cấp/gấp gáp/khẩn cấp
+準急###じゅんきゅう###tàu tốc hành thường (chậm hơn tàu tốc hành)
+早急###そうきゅう###sự khẩn cấp/khẩn cấp

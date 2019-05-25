@@ -1,0 +1,44 @@
+kunyomi
+産む###うむ###Đẻ
+産まれる###うまれる###Được đẻ
+産###うぶ###Đẻ### trẻ con
+onyomi
+出産###しゅっさん###Sinh đẻ
+産業###さんぎょう###Công nghiệp
+産地###さんち###Nơi sản xuất
+遺産###いさん###tài sản để lại/di sản
+家産###かさん###gia sản
+後産###のちざん###nhau thai
+恒産###こうさん###tính sản sinh vĩnh cửu
+国産###こくさん###sự sản xuất trong nước
+財産###ざいさん###tiền của tài sản
+産院###さんいん###nhà hộ sinh bệnh viện hộ sản
+産屋###うぶや###phòng ở cữ/phòng để sinh/phòng đẻ
+産科###さんか###sản khoa
+産休###さんきゅう###nghỉ thai sản
+産卵###さんらん###sự đẻ trứng/đẻ trứng
+産声###うぶごえ###tiếng khóc chào đời
+産着###うぶぎ###Quần áo trẻ sơ sinh/tã sơ sinh
+産湯###うぶゆ###sự tắm rửa lần đầu cho trẻ sơ sinh
+産婆###さんば###dạo cô đỡ bà đỡ/bà mụ
+産婦###さんぷ###bà đẻ
+産物###さんぶつ###sản vật/sản phẩm
+資産###しさん###tư sản
+流産###りゅうざん###sẩy thai
+倒産###とうさん###sự phá sản/sự không trả được nợ
+初産###はつざん###sơ sinh
+水産###すいさん###thủy sản
+生産###せいさん###せいざん###sự sản xuất
+増産###ぞうさん###sự tăng thêm của sản xuất
+畜産###ちくさん###ngành chăn nuôi
+天産###てんさん###sản phẩm tự nhiên
+土産###みやげ###とさん###thổ sản quà tặng
+動産###どうさん###động sản
+特産###とくさん###đặc sản
+難産###なんざん###sự sinh đẻ khó/sự đẻ khó
+日産###にっさん###hãng Nissan/sản lượng hàng ngày
+年産###ねんさん###Sự sản xuất hàng năm
+農産###のうさん###sản phẩm nông nghiệp/nông sản
+破産###はさん###vỡ nợ sự phá sản
+物産###ぶっさん###sản vật
+無産###むさん###vô sản

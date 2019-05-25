@@ -1,0 +1,14 @@
+kunyomi
+亡い###ない###Chết### mất
+onyomi
+亡命###ぼうめい###Chạy trốn
+亡霊###ぼうれい###Ma### chết
+存亡###ぞんぼう###Sự sống và cái chết
+亡者###もうじゃ###chết
+死亡###しぼう###sự tử vong/ chết
+滅亡###めつぼう###diệt vong
+衰亡###すいぼう###sự suy vong/suy vong
+逃亡###とうぼう###sự chạy trốn/sự bỏ chạy
+亡父###ぼうふ###vong phụ/người cha đã mất
+亡国###ぼうこく###vong quốc
+亡夫###ぼうふ###người chồng đã quá cố/vong phu/người chồng đã mất

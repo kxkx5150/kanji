@@ -1,0 +1,5 @@
+kunyomi
+詔###みことのり###chiếu chỉ
+詔勅###しょうちょく###chiếu chỉ
+onyomi
+大詔###たいしょう###sắc lệnh chính thức của vua

@@ -1,0 +1,26 @@
+kunyomi
+問い###とい###Vấn đề
+問う###とう###Hỏi
+onyomi
+問題###もんだい###Vấn đề
+質問###しつもん###Hỏi### chất vấn
+訪問###ほうもん###Viếng thăm
+慰問###いもん###sự an ủi/sự hỏi thăm/sự chia buồn
+学問###がくもん###học vấn/sự học
+詰問###きつもん###sự thẩm vấn/thẩm vấn
+糾問###きゅうもん###sự thẩm vấn/thẩm vấn
+愚問###ぐもん###câu hỏi ngu ngốc
+顧問###こもん###sự cố vấn/sự tư vấn/sự khuyên bảo
+拷問###ごうもん###sự tra tấn
+査問###さもん###sự thẩm vấn/sự tra hỏi/sự tra xét
+喚問###かんもん###sự truyền hỏi/truyền hỏi
+自問###じもん###tự hỏi
+審問###しんもん###Sự thẩm vấn/ việc xét hỏi
+尋問###じんもん###câu hỏi/sự tra hỏi/tra hỏi
+弔問###ちょうもん###lời chia buồn
+難問###なんもん###vấn đề nan giải/câu hỏi khó
+不問###ふもん###Bỏ qua
+問屋###といや###kho bán buôn
+問答###もんどう###sự hỏi đáp/câu hỏi và câu trả lời
+疑問###ぎもん###sự nghi vấn/sự hoài nghi/
+諮問###しもん###yêu cầu/ tư vấn/ cố vấn

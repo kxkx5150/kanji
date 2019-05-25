@@ -1,0 +1,86 @@
+kunyomi
+生きる###いきる###Sống### tồn tại
+生ける###いける###Sống### tồn tại
+生かす###いかす###Làm sống lại### để cho sống
+生む###うむ###Đẻ### sinh ra
+生まれる###うまれる###Được sinh ra
+生やす###はやす###Mọc (râu### tóc)
+生える###はえる###Lớn lên
+生###なま###Sống
+onyomi
+先生###せんせい###Giáo viên
+学生###がくせい###Học sinh
+一生###いっしょう###Cuộc đời
+衛生###えいせい###vệ sinh
+往生###おうじょう###sự ra đi (chết)
+回生###かいせい###sự hồi sinh/sự sống lại/hồi sinh/sống lại/sự khôi phục/khôi phục
+寄生###きせい###kẻ ăn bám/động thực vật ký sinh/động vật ký sinh/thực vật ký sinh/ký sinh trùng/sự ăn bám/sự ký sinh
+原生###げんせい###nguyên sinh
+現生###げんなま###tiền thực tế/tiền mặt ###nguyên thuỷ
+摂生###せっせい###sự vệ sinh/sự giữ gìn sức khoẻ
+後生###こうせい###ごしょう###thế hệ trẻ/hậu sinh/thế hệ sinh sau đẻ muộn/lứa sau
+厚生###こうせい###y tế/phúc lợi công cộng
+更生###こうせい###sự phục hồi/sự tái tổ chức/sự cải tổ/phục hồi/tái tổ chức/cải tổ/phục hồi nhân cách/cải tạo
+派生###はせい###sự phát sinh
+今生###こんじょう###Cuộc sống này/thế giới này
+再生###さいせい###sự tái sinh/sự sống lại/sự dùng lại
+芝生###しばふ###bãi cỏ
+写生###しゃせい###vẽ phác
+塾生###じゅくせい###học sinh trường tư thục
+出生###しゅっせい###sự sinh đẻ
+書生###しょせい###thư sinh
+人生###じんせい###nhân tình ###nhân sinh/cuộc sống/cuộc đời
+生育###せいいく###sự lớn lên/sự phát triển/phát triển
+生涯###しょうがい###sinh nhai/cuộc đời
+生活###せいかつ###sinh sống ###sinh hoạt/đời sống
+生気###せいき###sinh khí
+生魚###なまうお###Cá tươi/cá sống
+生業###なりわい###Kế sinh nhai/nghề kiếm sống
+生傷###なまきず###Vết thương còn mới
+生計###せいけい###cách sinh nhai/sinh kế/kế sinh nhai
+生血###なまち###Máu tươi
+生国###しょうこく###bản quán
+生産###せいさん###せいざん###sự sản xuất
+生死###しょうじ###sự sinh tử/cuộc sống và cái chết
+生糸###きいと###tơ tằm/tơ
+生卵###なまたまご###Trứng tươi/trứng sống
+生首###なまくび###Đầu mới bị chặt
+生殖###せいしょく###sự sinh sôi nảy nở/sự sinh sản
+生身###しょうじん###Cơ thể còn sống
+生水###なまみず###Nước lã/nước chưa đun sôi
+生成###せいせい###Tạo thành
+生前###せいぜん###khi còn sống/trong suốt một đời người
+生憎###あいにく###sự không may/sự đáng tiếc
+生存###せいぞん###sự sinh tồn
+生唾###なまつば###Nước bọt
+生態###せいたい###sinh thái/ đời sống
+生誕###せいたん###sự sinh đẻ/ sự ra đời
+生地###きじ###せいち###vải may áo/vải
+生長###せいちょう###sự sinh trưởng/ sinh trưởng
+生爪###なまづめ###Móng tay
+生徒###せいと###học trò ###học sinh
+生動###せいどう###sinh động
+生皮###なまかわ###Da (động vật) tươi
+生物###せいぶつ###なまもの###sinh vật
+生米###なまごめ###Gạo sống/gạo chưa nấu chín
+生壁###なまかべ###Tường vừa mới sơn### chưa khô
+生母###せいぼ###mẹ ruột ###mẹ đẻ
+生娘###きむすめ###Gái trinh/phụ nữ trẻ ngây thơ/con gái
+生命###せいめい###tính mạng ###sinh mệnh ###sinh mạng ###bản mệnh ###bản mạng
+生木###なまき###Cây xanh/gỗ tươi
+生薬###せいやく###thuốc thảo dược
+生紙###きがみ###giấy không kích cỡ
+生理###せいり###sinh lý
+双生###そうせい###song sinh
+胎生###たいせい###thai sinh
+誕生###たんじょう###sự ra đời
+畜生###ちきしょう###kẻ vũ phu/kẻ cục súc/kẻ côn đồ
+長生###ちょうせい###thọ ###Sự sống lâu
+転生###てんしょう###sự luân hồi (Phật giáo)/sự đầu thai chuyển kiếp ###luân hồi
+発生###はっせい###sự phát sinh
+半生###はんしょう###はんせい###nửa đời
+畢生###ひっせい###Cả cuộc đời
+民生###みんせい###dân sinh
+野生###やせい###sự hoang dã/dã sinh
+養生###ようせい###dưỡng bệnh (dưỡng bịnh)
+寮生###りょうせい###nội trú ###học sinh nội trú

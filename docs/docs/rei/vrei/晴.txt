@@ -1,0 +1,7 @@
+kunyomi
+晴れる###はれる###Trời quang### không mưa
+晴らす###はらす###Trời quang### không mưa
+onyomi
+晴天###せいてん###Trời quang đãng
+晴曇###せいどん###Trời nắng và có mây
+快晴###かいせい###thời tiết đẹp

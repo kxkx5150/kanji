@@ -1,0 +1,16 @@
+kunyomi
+欠く###かく###Thiếu
+欠ける###かける###Bị thiếu
+onyomi
+欠勤###けっきん###Sự nghỉ làm việc
+欠席###けっせき###Sự thiếu; sự vắng mặt
+欠点###けってん###Khuyết điểm; nhược điểm; điểm yếu
+欠員###けついん###sự thiếu người/sự thiếu nhân lực/vị trí còn khuyết/vị trí khuyết người
+欠伸###あくび###cái ngáp
+欠損###けっそん###thiếu hụt ###thiếu ###sự thiệt hại/sự lỗ/sự lỗ vốn
+欠陥###けっかん###khuyết tật ###khuyết điểm/nhược điểm/thiếu sót/sai lầm
+欠如###けつじょ###sự thiếu/sự không đủ/thiếu/không đủ
+欠乏###けつぼう###sự thiếu/sự thiếu thốn/thiếu/thiếu thốn
+出欠###しゅっけつ###sự có mặt hay vắng mặt
+兎欠###とけつ###Tật sứt môi trên/tật hở hàm ếch
+補欠###ほけつ###sự bổ khuyết/sự bổ sung

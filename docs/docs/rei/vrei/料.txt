@@ -1,0 +1,24 @@
+onyomi
+材料###ざいりょう###Vật liệu
+料理###りょうり###Món ăn
+料金###りょうきん###Tiền thu lao
+衣料###いりょう###quần áo/đồ để mặc
+飲料###いんりょう###đồ uống
+顔料###がんりょう###chất màu
+給料###きゅうりょう###tiền lương/lương
+原料###げんりょう###nguyên liệu/thành phần
+香料###こうりょう###hương liệu
+史料###しりょう###nơi lưu trữ/kho lưu trữ
+試料###しりょう###mẫu thử
+資料###しりょう###tư liệu tài năng tài liệu/ dữ liệu số liệu
+飼料###しりょう###thức ăn cho gia súc
+食料###しょくりょう###thực phẩm/nguyên liệu nấu ăn
+染料###せんりょう###thuốc nhuộm
+送料###そうりょう###cước
+塗料###とりょう###sơn
+燃料###ねんりょう###nhiên liệu
+稿料###こうりょう###tiền bản thảo/tiền bản quyền tác phẩm
+肥料###ひりょう###phân bón
+無料###むりょう###sự miễn phí
+有料###ゆうりょう###sự phải trả chi phí
+料亭###りょうてい###nhà hàng (kiểu Nhật)

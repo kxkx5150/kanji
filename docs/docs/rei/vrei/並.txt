@@ -1,0 +1,11 @@
+kunyomi
+並ぶ###ならぶ###Xếp hàng
+並べる###ならべる###Xếp
+並びに###ならびに###Và
+並###なみ###Thứ tự
+onyomi
+並列###へいれつ###Song song### song hành
+並行###へいこう###Tiến hành đồng thời
+並進###へいしん###tịnh tuyến### phương thẳng
+並製###なみせい###Sản phẩm có chất lượng trung bình
+並木###なみき###hàng cây

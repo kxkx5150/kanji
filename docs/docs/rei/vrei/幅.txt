@@ -1,0 +1,11 @@
+kunyomi
+幅###はば###Bề rộng
+onyomi
+増幅###ぞうふく###Sự khuếch đại biên độ sóng
+振幅###しんぷく###Độ rộng### biên độ rung lắc
+全幅###ぜんぷく###Chiều rộng toàn bộ
+横幅###よこはば###chiều ngang
+川幅###かわはば###Chiều rộng dòng sông
+大幅###おおはば###phạm vi rộng/nhiều
+値幅###ねはば###khoảng dao động của giá cả
+中幅###ちゅうはば###chiều rộng vừa

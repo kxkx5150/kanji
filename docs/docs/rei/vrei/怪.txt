@@ -1,0 +1,11 @@
+kunyomi
+怪しい###あやしい###Nghi ngờ### huyền bí
+怪しむ###あやしむ###Nghi ngờ
+onyomi
+怪奇###かいき###Kì quái### quái lạ### kì dị
+怪物###かいぶつ###Quái vật
+怪獣###かいじゅう###Quái thú
+怪我###けが###vết thương/thương
+怪光###かいこう###ánh sáng huyền bí/ánh sáng lung linh/ánh sáng kỳ ảo
+怪聞###かいぶん###vụ bê bối
+奇怪###きっかい###sự kì quái/sự ly kì/sự kì lạ/sự lạ lùng

@@ -1,0 +1,30 @@
+kunyomi
+量る###はかる###Cân đo
+onyomi
+数量###すうりょう###Số lượng
+重量###じゅうりょう###Trọng lượng
+容量###ようりょう###Dung lượng
+雨量###うりょう###lượng mưa
+音量###おんりょう###âm lượng [volume]
+雅量###がりょう###Tính cao thượng/sự rộng lượng/lòng cao thượng/sự cao thượng/tính vị tha/lòng vị tha/sự vị tha/đức tính vị tha/cao thượng/vị tha
+狭量###きょうりょう###lòng dạ chật hẹp/sự hẹp hòi/sự ít độ lượng/sự nhỏ mọn/sự ích kỷ/sự nhỏ nhen/sự vụn vặt/sự đê tiện/sự bần tiện
+減量###げんりょう###lượng mất mát/lượng hao hụt/hao hụt
+斤量###きんりょう###khối lượng/trọng lượng
+計量###けいりょう###sự đo/sự tính toán
+流量###りゅうりょう###lưu lượng
+質量###しつりょう###khối lượng ###chất lượng
+酒量###しゅりょう###tửu lượng
+小量###しょうりょう###lượng nhỏ/một chút
+推量###すいりょう###ước lượng ###sự đoán/sự phỏng đoán
+総量###そうりょう###tổng khối lượng
+測量###そくりょう###sự đo lường/sự đo/công việc trắc địa
+多量###たりょう###đa lượng/lượng lớn
+大量###たいりょう###số lượng lớn
+定量###ていりょう###định lượng/lượng cố định
+適量###てきりょう###lượng thích hợp
+熱量###ねつりょう###Nhiệt lượng
+分量###ぶんりょう###sự phân lượng
+変量###へんりょう###biến lượng
+無量###むりょう###vô lượng
+量子###りょうし###lượng tử
+力量###りきりょう###sức lực

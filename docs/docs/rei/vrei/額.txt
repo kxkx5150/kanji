@@ -1,0 +1,15 @@
+kunyomi
+額###ひたい###Cái trán
+onyomi
+金額###きんがく###Số tiền
+総額###そうがく###Số tiền tổng cộng### tổng kim ngạch
+全額###ぜんがく###Tổng
+価額###かがく###Giá trị/số tiền/tổng số tiền/giá
+額縁###がくぶち###khung
+額面###がくめん###giá danh nghĩa/giá trị bên ngoài/giá qui định
+差額###さがく###số chênh lệch
+出額###でびたい###trán dô
+税額###ぜいがく###Tiền thuế phải nộp
+定額###ていがく###chia phần### khẩu phần###số lượng cố định
+年額###ねんがく###kim ngạch theo năm
+半額###はんがく###nửa giá

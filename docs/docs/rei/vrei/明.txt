@@ -1,0 +1,58 @@
+kunyomi
+明るい###あかるい###Sáng sủa### tươi sáng
+明か###あきらか###Sạch
+明ける###あける###Bình minh### ló dạng
+明かり###あかり###Sạch
+明るむ###あかるむ###Trở nên sách
+明らむ###あからむ###Trở nên sáng
+明く###あく###Bị mở
+明かす###あかす###Qua đêm### tiết lộ
+明くる###あくる###Kế tiếp
+onyomi
+明確###めいかく###Rõ ràng### minh bạch
+明記###めいき###Sự viết một cách rõ ràng
+明治###めいじ###Thời đại Minh Trị
+明三月###みょうさんがつ###Tháng ba năm sau
+明年###みょうねん###Năm sau
+解明###かいめい###Sự làm sáng tỏ/sự giải thích/giải thích/làm rõ/làm sáng tỏ
+簡明###かんめい###sự súc tích/sự ngắn gọn/đơn giản/súc tích/ngắn gọn/hàm súc
+究明###きゅうめい###sự điều tra cho rõ ràng/điều tra rõ/làm rõ/điều tra tìm hiểu
+糾明###きゅうめい###sự truy cứu/truy cứu
+賢明###けんめい###sự sáng suốt/sự khôn ngoan/sự khôn khéo/sự khéo léo/sáng suốt/khôn khéo/khôn ngoan/khéo léo
+言明###げんめい###tuyên ngôn/sự khẳng định/khẳng định/lời tuyên bố/tuyên bố/phát ngôn
+公明###こうめい###sự công minh/sự công bằng/công minh/công bằng/quang minh
+克明###こくめい###sự chi tiết/sự cụ thể
+自明###じめい###sự rành mạch/sự rõ ràng
+釈明###しゃくめい###sự thuyết minh/sự giải thích/thuyết minh/giải thích
+松明###きょ###đuốc
+照明###しょうめい###sự chiếu sáng/ chiếu sáng ###ánh sáng/ đèn
+証明###しょうめい###sự chứng minh ###chứng minh
+神明###しんめい###しんみょう###thần minh
+澄明###ちょうめい###Sạch sẽ và sáng sủa
+声明###せいめい###しょうみょう###lời tuyên bố/lời công bố
+説明###せつめい###sự thuyết minh/ sự giải thích
+鮮明###せんめい###sự rõ ràng
+著明###ちょめい###Sự rõ ràng/sự sáng sủa
+天明###てんめい###hửng sáng/lúc rạng đông
+灯明###とうみょう###đèn cúng
+透明###とうめい###sự trong suốt
+薄明###はくめい###ánh sáng mờ/lúc chạng vạng/lúc nhá nhem
+発明###はつめい###sự phát minh
+判明###はんめい###sự phân biệt rõ ràng
+表明###ひょうめい###sự xác nhận
+不明###ふめい###sự không minh bạch/sự bất minh/sự không rõ rành
+文明###ぶんめい###văn minh/sự văn minh/nền văn minh
+弁明###べんめい###sự biện minh
+未明###みめい###sáng tinh mơ/ban mai
+明暗###めいあん###tối và sáng/sự sáng tối
+明細###めいさい###sự chi tiết/sự rõ ràng rành mạch
+明察###めいさつ###sự xem xét rõ ràng
+明滅###めいめつ###nhấp nháy
+明示###めいじ###sự chỉ bảo rõ ràng/sự trình bày rõ ràng
+明星###みょうじょう###sao mai
+明朝###みょうちょう###みんちょう###sáng mai
+明日###みょうにち###bữa sau ###bữa hôm sau
+明白###めいはく###あからさま###sự minh bạch
+明晩###みょうばん###đêm mai tối mai
+明瞭###めいりょう###sự rõ ràng/sự sáng sủa
+明朗###めいろう###sự vui tươi/sự vui vẻ

@@ -1,0 +1,7 @@
+kunyomi
+炊く###たく###Đun sôi### nấu sôi
+onyomi
+炊事###すいじ###Việc bếp núc
+炊飯器###すいはんき###Cơm điện
+雑炊###ぞうすい###canh thập cẩm/súp thập cẩm
+自炊###じすい###tự nấu ăn

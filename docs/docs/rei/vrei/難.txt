@@ -1,0 +1,48 @@
+kunyomi
+難しい###むずかしい###Khó khăn
+難い###かたい###Khó
+onyomi
+困難###こんなん###Khó khăn### vất vả
+難問###なんもん###Vấn đề nan giải
+難民###なんみん###Người lánh nạn### người tỵ nạn
+海難###かいなん###sự đắm tàu/việc đắm tàu/đắm tàu
+救難###きゅうなん###cứu nạn
+苦難###くなん###tai biến
+御難###ごなん###vận rủi/tai họa/vận đen
+国難###こくなん###quốc nạn
+非難###ひなん###sự trách móc/sự đổ lỗi
+災難###さいなん###tai nạn
+殉難###じゅんなん###hy sinh vì sự nguy khốn của đất nước
+水難###すいなん###thủy nạn
+遭難###そうなん###thảm họa/đắm thuyền/tai nạn
+大難###たいなん###đại nạn
+盗難###とうなん###vụ trộm/vụ ăn cắp
+難易###なんい###sự khó khăn/cái khó khăn
+難解###なんかい###cái khó/sự khó khăn/sự nan giải/
+難関###なんかん###rào cản/barie/chướng ngại vật
+難局###なんきょく###Tình trạng khó khăn
+難曲###なんきょく###khúc nhạc khó
+難句###なんく###Mệnh đề khó
+難訓###なんくん###chữ Hán khó phát âm
+難件###なんけん###trường hợp khó/vấn đề khó
+難行###なんぎょう###Hình phạt
+難産###なんざん###sự sinh đẻ khó/sự đẻ khó
+難症###なんしょう###Bệnh không thể chữa được
+難船###なんせん###Sự đắm tàu
+難題###なんだい###Hình phạt
+難聴###なんちょう###Sự điếc
+難敵###なんてき###Kẻ thù ghê gớm
+難点###なんてん###nhược điểm/điểm yếu
+難度###なんど###mức độ khó khăn
+難語###なんご###Từ khó
+難読###なんどく###sự khó đọc
+難破###なんぱ###sự đắm tàu
+難航###なんこう###sự vượt biển khó khăn/chuyến đi biển khó khăn
+難病###なんびょう###bệnh nan y/bệnh khó chữa
+難文###なんぶん###Câu khó
+難癖###なんくせ###sự chê trách
+難役###なんやく###Nhiệm vụ khó khăn/công việc khó khăn
+難路###なんろ###Con đường chông gai/con đường khó khăn
+避難###ひなん###sự lánh nạn/sự tị nạn
+病難###びょうなん###sự chịu đựng bệnh tật
+無難###ぶなん###việc vô sự

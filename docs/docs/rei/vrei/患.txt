@@ -1,0 +1,9 @@
+kunyomi
+患う###わずらう###Bị bệnh
+onyomi
+患者###かんじゃ###Người bệnh### bệnh nhân
+患部###かんぶ###Bộ phận nhiễm bệnh
+外患###がいかん###sức ép từ bên ngoài/địch bên ngoài
+急患###きゅうかん###bệnh cấp tính/cấp cứu
+疾患###しっかん###bệnh hoạn/bệnh tật
+内患###ないかん###Các vấn đề nội bộ

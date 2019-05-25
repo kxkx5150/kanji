@@ -1,0 +1,9 @@
+kunyomi
+耐える###たえる###Chịu đựng
+onyomi
+耐久###たいきゅう###Lâu bền
+忍耐###にんたい###Sự nhẫn nại
+耐熱###たいねつ###Sự chịu nhiệt
+耐圧###たいあつ###chống áp
+耐火###たいか###sự chịu lửa
+耐酸###たいさん###sự chịu axit

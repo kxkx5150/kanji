@@ -1,0 +1,6 @@
+kunyomi
+看る###みる###Xem### đối đãi
+onyomi
+看板###かんばん###Bảng### áp phích
+看護###かんご###Chăm sóc
+看病###かんびょう###Chăm sóc bệnh nhân

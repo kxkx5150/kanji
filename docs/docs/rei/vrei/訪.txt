@@ -1,0 +1,10 @@
+kunyomi
+訪ねる###たずねる###Thăm viếng### ghé thăm
+訪れる###おとずれる###Thăm viếng### thăm hỏi
+onyomi
+訪問###ほうもん###Sự thăm viếng
+訪問着###ほうもんぎ###Quần áo Kimono mặc khi khách thăm
+訪問者###ほうもんしゃ###Khách đến thăm
+訪日###ほうにち###Sự viếng thăm Nhật Bản
+探訪###たんぼう###Sự thăm dò### sự điều tra
+来訪###らいほう###Sự đến thăm

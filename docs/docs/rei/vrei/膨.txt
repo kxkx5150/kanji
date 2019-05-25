@@ -1,0 +1,6 @@
+kunyomi
+膨らむ###ふくらむ###Phình lên### phồng lên### nở lên
+膨れる###ふくれる###Phình lên### căng lên
+onyomi
+膨大###ぼうだい###To lớn### đồ sộ### kềnh càng### căng phồng
+膨張###ぼうちょう###Sự phình to### sự căng phồng lên

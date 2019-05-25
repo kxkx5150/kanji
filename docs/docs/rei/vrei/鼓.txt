@@ -1,0 +1,10 @@
+kunyomi
+鼓###つづみ###Trống
+onyomi
+太鼓###たいこ###Cái trống
+鼓膜###こまく###Màng nhĩ
+鼓吹###こすい###Cỗ vũ### cổ động### khích lệ
+鼓手###こしゅ###tay trống/người đánh trống
+鼓吹###こすい###sự cổ vũ/sự cổ động/sự khích lệ/cổ vũ/cổ động/khích lệ/khuyến khích
+鼓動###こどう###sự đập (tim)/đập
+鼓舞###こぶ###sự cổ vũ/sự khích lệ/cổ vũ/khích lệ/động viên

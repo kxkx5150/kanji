@@ -1,0 +1,18 @@
+kunyomi
+除く###のぞく###Loại bỏ### rút đi
+onyomi
+除去###じょきょ###Trừ bỏ### trừ khử
+除外###じょがい###Ngoại trừ### miễn### loại trừ### bác bỏ
+掃除###そうじ###Dọn dẹp
+解除###かいじょ###miễn/miễn giải/miễn trừ
+駆除###くじょ###sự tiêu diệt/sự triệt bỏ/sự hủy diệt
+控除###こうじょ###khấu trừ
+削除###さくじょ###sự gạch bỏ/sự xóa bỏ
+除算###じょざん###phép chia
+除数###じょすう###ước số
+除籍###じょせき###sự tách hộ tịch/việc tách hộ tịch
+除法###じょほう###phép chia
+除名###じょめい###sự tống ra/sự trục xuất/sự đuổi
+除夜###じょや###giao thừa
+排除###はいじょ###sự loại trừ/sự loại bỏ/sự bài trừ
+免除###めんじょ###sự miễn/sự miễn trừ

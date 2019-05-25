@@ -1,0 +1,7 @@
+kunyomi
+枠###わく###Khoảng### giới hạn
+onyomi
+外枠###そとわく###đường viền
+窓枠###まどわく###khung cửa sổ
+枠外###わくがい###sự ngoài giới hạn
+枠内###わくない###sự trong phạm vi/trong giới hạn/trong khuôn khổ

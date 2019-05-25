@@ -1,0 +1,9 @@
+kunyomi
+忌む###いむ###Ghét### cấm đoán
+忌まわしい###いまわしい###Ghét
+onyomi
+忌中###きちゅう###Sự đau khổ### sự đau buồn
+忌避###きひ###Sự né tránh### thoái thác### trốn tránh
+忌日###きじつ###húy nhật
+禁忌###きんき###húy kỵ ###cấm kỵ
+年忌###ねんき###ngày giỗ

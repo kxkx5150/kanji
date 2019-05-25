@@ -1,0 +1,7 @@
+kunyomi
+惜しい###おしい###Quý giá### tiếc### thương tiếc
+惜しむ###おしむ###Thương tiếc### miễn cưỡng
+onyomi
+惜敗###せきはい###Thất bại đáng tiếc
+惜別###せきべつ###Sự lưu luyến không nỡ chia tay
+哀惜###あいせき###Sự đau buồn### thương tiếc

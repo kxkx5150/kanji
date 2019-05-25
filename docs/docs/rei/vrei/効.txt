@@ -1,0 +1,16 @@
+kunyomi
+効く###きく###Bị ảnh hưởng
+onyomi
+効果###こうか###Hiệu quả### hữu hiệu
+効率###こうりつ###Hiệu suất
+薬効###やっこう###Hiệu lực của thuốc
+効力###こうりょく###hiệu lực; tác dụng
+効能###こうのう###công dụng
+効用###こうよう###ích dụng ###hiệu dụng
+失効###しっこう###mất hiệu lực/vô hiệu
+実効###じっこう###thiết thực
+特効###とっこう###Hiệu lực đặc biệt
+発効###はっこう###sự có hiệu quả
+無効###むこう###sự vô hiệu
+有効###ゆうこう###sự hữu hiệu/sự có hiệu quả
+時効###じこう###thời hạn có hiệu quả/thời hiệu

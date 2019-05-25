@@ -1,0 +1,18 @@
+kunyomi
+敬う###うやまう###Tôn trọng
+onyomi
+敬具###けいぐ###Kính
+敬語###けいご###Kính ngữ
+敬称###けいしょう###Cách gọi tôn kính
+愛敬###あいきょう###Yêu mến và kính trọng
+恭敬###きょうけい###sự tôn kính/lòng kính trọng/lòng tôn kính
+敬意###けいい###sự tôn kính/sự kính trọng/lòng kính yêu/tôn kính/kính trọng/kính yêu
+敬遠###けいえん###sự giữ khoảng cách/sự tránh đi/giữ khoảng cách
+敬白###けいはく###kính thư
+敬慕###けいぼ###sự kính yêu/sự khâm phục/sự thán phục/kính yêu/khâm phục/thán phục/tôn trọng
+敬老###けいろう###kính lão/tôn trọng người lớn tuổi/kính lão đắc thọ
+失敬###しっけい###sự cầm trộm/sự lấy trộm/cầm trộm/lấy trộm
+崇敬###すうけい###sự sùng kính/sự tôn kính
+尊敬###そんけい###tôn kính ###sự tôn kính
+表敬###ひょうけい###Sự lịch sự/sự nhã nhặn/ sự tôn kính
+不敬###ふけい###Sự bất kính/sự thiếu tôn kính/sự không tín ngưỡng/lời báng bổ/sự xúc phạm

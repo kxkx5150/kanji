@@ -1,0 +1,18 @@
+kunyomi
+注ぐ###そそぐ###Đổ
+onyomi
+注目###ちゅうもく###Chú ý
+注文###ちゅうもん###Gọi món
+注意###ちゅうい###Chú ý
+脚注###きゃくちゅう###lời chú cuối trang/chú thích cuối trang/ghi chú/chú thích
+原注###げんちゅう###ghi chú gốc
+受注###じゅちゅう###sự môi giới/nghề môi giới
+注記###ちゅうき###chú thích/chú thích
+注射###ちゅうしゃ###sự tiêm/tiêm chủng
+注釈###ちゅうしゃく###sự chú giải/sự nhận xét
+注入###ちゅうにゅう###sự rót vào/sự tập trung sự chú ý vào
+注油###ちゅうゆ###sự tra dầu/sự bôi trơn
+頭注###とうちゅう###lời giải thích ở đầu trang
+特注###とくちゅう###sự đặt hàng đặc biệt
+発注###はっちゅう###đơn đặt hàng
+附注###ふちゅう###Chú giải

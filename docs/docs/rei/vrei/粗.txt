@@ -1,0 +1,10 @@
+kunyomi
+粗い###あらい###Cục mịch
+onyomi
+粗大###そだい###Cục mịch### thô lỗ
+粗末###そまつ###Hèn mọn### thấp kém
+粗野###そや###Cục mịch### thô lỗ
+粗悪###そあく###sự thô lỗ/sự lỗ mãng/sự hung dữ/kém chất lượng
+粗筋###あらすじ###nét phác thảo/nét chính/đề cương/bản tóm tắt/ngắn gọn
+粗食###そしょく###chế độ ăn uống đơn giản/thức ăn nghèo nàn
+粗暴###そぼう###sự thô bạo

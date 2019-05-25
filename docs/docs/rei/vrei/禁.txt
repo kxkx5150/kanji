@@ -1,0 +1,19 @@
+onyomi
+禁止###きんし###Cấm
+禁煙###きんえん###Cấm hút thuốc
+禁断###きんだん###Cấm đoán
+解禁###かいきん###sự hủy bỏ lệnh cấm
+監禁###かんきん###sự giam/sự cấm/cầm tù/giam cầm
+禁忌###きんき###húy kỵ cấm kỵ
+禁句###きんく###từ cấm kỵ/từ húy
+禁制###きんせい###sự cấm chỉ/sự cấm đoán/sự ngăn cấm/cấm/ngăn cấm/cấm đoán
+禁固###きんこ###ngục hình cấm cố
+禁酒###きんしゅ###sự cấm uống rượu
+禁物###きんもつ###điều kiêng kỵ/điều cấm kỵ/điều không nên
+禁輸###きんゆ###cấm xuất nhập khẩu
+禁猟###きんりょう###cấm săn bắt
+厳禁###げんきん###sự nghiêm cấm/sự ngăn cấm/sự cấm chỉ/nghiêm cấm/ngăn cấm/cấm chỉ
+拘禁###こうきん###sự giam giữ/sự câu thúc/giam/giam giữ
+国禁###こっきん###quốc cấm
+軟禁###なんきん###Sự quản thúc tại gia
+発禁###はっきん###cấm phát hành

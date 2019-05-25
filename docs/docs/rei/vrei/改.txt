@@ -1,0 +1,31 @@
+kunyomi
+改める###あらためる###Đổi mới
+改まる###あらたまる###Được đổi mới
+onyomi
+改正###かいせい###Cải chính### sửa chữa### thay đổi
+改修###かいしゅう###Cải cách### nâng chấp### sửa chửa
+改善###かいぜん###Cải thiện### tiến bộ
+改革###かいかく###cải cách
+改姓###かいせい###thay tên đổi họ/thay họ/đổi họ/thay đổi tên họ
+改憲###かいけん###sự sửa đổi hiến pháp/sửa hiến pháp/sửa đổi hiến pháp
+改行###かいぎょう###chuyển dòng/xuống dòng
+改札###かいさつ###sự soát vé
+改宗###かいしゅう###sự cải đạo/việc chuyển sang đạo khác/cải đạo
+改称###かいしょう###sự thay tên/thay tên/sự đổi tên/đổi tên
+改新###かいしん###sự cải cách/sự canh tân/cải cách/cách tân/sự cải tiến/cải tiến
+改進###かいしん###cải tiến
+改選###かいせん###sự bầu lại/bầu lại/tái bầu cử
+改葬###かいそう###sự cải táng/cải táng/sự bốc mộ/bốc mộ
+改装###かいそう###cải tổ ###cải mả
+改造###かいぞう###sự cải tạo/sự chỉnh sửa lại/sự sửa lại/cải tạo/chỉnh sửa lại/sửa lại/sự cải cách/cải cách/sự đổi mới/đổi mới/tân trang
+改題###かいだい###chuyển dòng/xuống dòng
+改築###かいちく###sự xây dựng lại/việc xây lại/sự cải tạo
+改鋳###かいちゅう###sự đúc lại/sự rèn lại/đúc lại/rèn lại
+改訂###かいてい###sự đính chính/sự sửa đổi
+改悟###かいご###sự ăn năn/sự hối lỗi/ăn năn/hối lỗi/sự ân hận/ân hận
+改廃###かいはい###sự thay đổi/sự cải tổ/thay đổi/cải tổ
+改版###かいはん###bản sửa đổi/phiên bản
+改変###かいへん###sự thay đổi/sự biến đổi/thay đổi/biến đổi
+改名###かいめい###sự cải danh/sự đổi tên
+改良###かいりょう###sự cải thiện/sự cải tiến
+更改###こうかい###sự đổi mới/sự cải cách/đổi mới/cải cách/sửa đổi

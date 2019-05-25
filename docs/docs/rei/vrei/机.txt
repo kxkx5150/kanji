@@ -1,0 +1,6 @@
+kunyomi
+机###つくえ###Cái bàn
+onyomi
+机上###きじょう###Trên giấy tờ### lý thuyết
+机下###きか###Bên dưới bàn
+机辺###きへん###Xung quanh bàn

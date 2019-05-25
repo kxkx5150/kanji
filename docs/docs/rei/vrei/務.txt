@@ -1,0 +1,32 @@
+kunyomi
+務める###つとめる###Sự làm việc
+onyomi
+業務###ぎょうむ###Nghiệp vụ
+義務###ぎむ###Nghĩa vụ### phận sự
+医務###いむ###Công việc y khoa
+実務###じつむ###Công việc thực sự
+外務###がいむ###công việc ngoại giao/sự ngoại giao
+教務###きょうむ###giáo vụ
+勤務###きんむ###công việc
+軍務###ぐんむ###binh vụ
+警務###けいむ###cảnh vụ
+公務###こうむ###công vụ/công tác công
+国務###こくむ###quốc vụ công việc quốc gia đại sự
+債務###さいむ###nợ
+財務###ざいむ###tài vụ công việc tài chính
+雑務###ざつむ###tạp vụ
+事務###じむ###việc công việc
+庶務###しょむ###tổng hợp
+商務###しょうむ###thương vụ
+常務###じょうむ###thường vụ sự thông thường/sự phổ thông
+職務###しょくむ###nhiệm vụ/công việc chức vụ
+政務###せいむ###chính sự
+税務###ぜいむ###thuế vụ
+責務###せきむ###phận sự nhiệm vụ/bổn phận
+専務###せんむ###giám đốc quản lý/người chỉ đạo
+党務###とうむ###nhiệm vụ Đảng giao
+特務###とくむ###Nhiệm vụ đặc biệt
+内務###ないむ###Nội vụ/những vấn đề trong nước
+任務###にんむ###nhiệm vụ
+法務###ほうむ###pháp vụ/bộ pháp luật
+労務###ろうむ###công việc

@@ -1,0 +1,13 @@
+onyomi
+系列###けいれつ###Chuỗi### dãy### hệ thống
+系図###けいず###Phả hệ### dòng dõi
+系統###けいとう###Hệ thống
+家系###かけい###nòi giống/dòng dõi gia đình
+系譜###けいれつ###hệ thống/loạt/xêri/chuỗi/dãy/hệ
+体系###たいけい###hệ thống/cấu tạo
+直系###ちょっけい###trực hệ
+日系###にっけい###gốc Nhật/hệ thống Nhật
+父系###ふけい###phụ hệ
+母系###ぼけい###mẫu hệ
+傍系###ぼうけい###mối thân thuộc họ hàng
+理系###りけい###khoa học tự nhiên

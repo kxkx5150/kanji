@@ -1,0 +1,42 @@
+kunyomi
+品物###しなもの###Hàng hóa
+onyomi
+商品###ひん###Sản phẩm### hàng hóa
+品質###ひんしつ###Phẩm chất
+品詞###ひんし###Từ loại
+品位###ひんい###duyên dáng; phẩm giá; thứ bậc; tính cao thượng; chất lượng
+品格###ひんかく###phẩm giá
+品行###ひんこう###đạo đức; hành vi; phong cách; phẩm hạnh
+品種###ひんしゅ###nhãn hiệu hàng hoá; chủng loại; sự mô tả
+品名###ひんめい###tên hàng hóa
+品性###ひんせい###đặc tính
+品評###ひんぴょう###sự ước lượng; lời phê bình; sự bình phẩm; sự bình luận
+品目###ひんもく###chủng loại hàng hóa; bảng kê danh mục hàng hóa
+逸品###いっぴん###sản phẩm tuyệt vời (mỹ phẩm)
+下品###かひん###げひん###sản phẩm kém chất lượng
+気品###きひん###hương thơm/hương vị
+景品###けいひん###phần thưởng
+検品###けんぴん###sự kiểm tra thành phẩm/kiểm tra sản phẩm
+部品###ぶひん###linh kiện/phụ tùng/chi tiết (máy móc)
+作品###さくひん###tác phẩm ###bản đàn
+雑品###ざっぴん###tạp phẩm
+残品###ざんぴん###hàng còn lại
+手品###てじな###trò ma/trò quỷ/ma quỷ/ảo thuật
+出品###しゅっぴん###sự trưng bày/sự triển lãm/trưng bày/triển lãm
+賞品###しょうひん###phần thưởng
+上品###じょうひん###じょうぼん###sự lịch thiệp/tính nhu mì
+食品###しょくひん###đồ ăn/thực phẩm
+人品###じんぴん###nhân phẩm
+製品###せいひん###xuất phẩm ###thành phẩm ###sản phẩm ###hàng hóa/ hàng ###chế phẩm
+珍品###ちんぴん###hàng hóa quý hiếm
+盗品###とうひん###đồ bị ăn cắp
+納品###のうひん###sự giao hàng
+廃品###はいひん###phế phẩm
+品数###しなかず###Lượng hàng hóa(Chỉ về số)
+品等###ひんとう###phẩm cấp
+品番###ひんばん###mã sản phẩm
+物品###ぶっぴん###vật phẩm ###vật dụng
+返品###へんぴん###linh kiện/hàng trả lại
+名品###めいひん###danh phẩm
+薬品###やくひん###thuốc men ###dược phẩm
+用品###ようひん###đồ dùng

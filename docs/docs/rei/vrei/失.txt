@@ -1,0 +1,28 @@
+kunyomi
+失う###うしなう###Đánh mất### thất lạc### rớt
+onyomi
+失礼###しつれい###Vô lễ### bất lịch sự### vô phép
+損失###そんしつ###Tổn thất### thiệt hại
+失効###しっこう###Vô hiệu### mất hiệu lực
+失念する###しつねんする###Lãng quên### quên
+失望###しつぼう###Thất vọng
+過失###かしつ###điều sai lầm/lỗi/sự rủi ro
+自失###じしつ###Mất ý thức###đánh mất chính mình
+失意###しつい###thất chí
+失格###しっかく###sự mất tư cách/sự thất cách/sự thiếu tư cách
+失脚###しっきゃく###sự thất bại
+失業###しつぎょう###thất nghiệp
+失敬###しっけい###thất lễ/vô lễ
+失権###しっけん###sự mất quyền cổ đông
+失効###しっこう###mất hiệu lực/vô hiệu
+失策###しっさく###thất sách
+失心###しっしん###sự hôn mê/sự thất thần/hôn mê
+失神###しっしん###sự hôn mê/sự thất thần/hôn mê
+失墜###しっつい###sự mất (quyền uy### uy tín)/mất
+失敗###しっぱい###sự thất bại
+失望###しつぼう###thất vọng
+失恋###しつれん###sự thất tình
+喪失###そうしつ###sự mất/sự thiệt hại
+損失###そんしつ###thiệt hại
+得失###とくしつ###cái lợi và cái hại/cái được và cái mất/ thiệt hơn
+紛失###ふんしつ###việc làm mất/việc đánh mất

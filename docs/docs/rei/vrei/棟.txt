@@ -1,0 +1,7 @@
+kunyomi
+棟###むね###Đếm nhà
+棟木###むなぎ###Gỗ làm nóc nhà
+棟上げ式###むねあげしき###Gỗ làm nóc nhà
+onyomi
+病棟###びょうとう###Phòng bệnh
+別棟###べっとう###tòa nhà riêng biệt

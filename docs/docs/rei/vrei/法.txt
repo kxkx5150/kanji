@@ -1,0 +1,62 @@
+onyomi
+法律###ほうりつ###Pháp luật
+文法###ぶんぽう###Ngữ pháp
+法外###ほうがい###Ngoài vòng pháp luật
+悪法###あくほう###luật không nghiêm/luật tồi
+違法###いほう###trái phép ###sự vi phạm luật pháp/sự không hợp pháp
+加法###かほう###phép cộng
+家法###かほう###gia pháp
+解法###かいほう###cách giải
+刑法###けいほう###luật hình sự
+技法###ぎほう###kỹ thuật
+減法###げんぽう###phép trừ
+軍法###ぐんぽう###quân pháp
+憲法###けんぽう###hiến pháp
+公法###こうほう###luật công/công pháp
+合法###ごうほう###sự hợp pháp/hợp pháp
+国法###こくほう###quốc pháp ###luật quốc gia
+算法###さんぽう###thuật toán
+司法###しほう###bộ máy tư pháp/tư pháp
+手法###しゅほう###biện pháp
+遵法###じゅんぽう###tuân thủ luật pháp
+除法###じょほう###phép chia
+商法###しょうほう###thương luật ###luật thương mại
+乗法###じょうほう###phép nhân
+寸法###すんぽう###kích cỡ/kích thước/số đo
+適法###てきほう###sự hợp pháp
+語法###ごほう###cách diễn tả/ngữ pháp/cú pháp
+如法###にょほう###tuân theo lời dạy của Phật
+忍法###にんぽう###Những phương pháp### thủ thuật của Ninja
+剣法###けんぽう###kiếm pháp
+筆法###ひっぽう###bút pháp
+不法###ふほう###sự không có pháp luật/sự hỗn độn/sự vô trật tự
+仏法###ぶっぽう###phật pháp
+兵法###ひょうほう###binh pháp/chiến thuật
+方法###ほうほう###phương pháp/biện pháp/cách thức
+法案###ほうあん###luật dự thảo/dự thảo luật ###dự luật
+法衣###ほうえ###cà sa ###áo choàng của thầy tu
+法悦###ほうえつ###sự tham thiền nhập định/sự xuất thần
+法王###ほうおう###phật tổ Như Lai ###giáo hoàng
+法科###ほうか###luật khoa
+法貨###ほうか###giá trị lưu thông luật định
+法学###ほうがく###luật học
+法規###ほうき###pháp qui/qui tắc/luật lệ
+法師###ほうし###pháp sư
+法制###ほうせい###pháp chế
+法皇###ほうおう###giáo hoàng
+法人###ほうじん###pháp nhân
+法曹###ほうそう###luật sư
+法則###ほうそく###qui luật/định luật ###phép tắc
+法定###ほうてい###quy định bởi luật pháp
+法廷###ほうてい###tòa án/pháp đình
+法的###ほうてき###tính luật pháp
+法典###ほうてん###pháp điển ###bộ luật/pháp điển
+法務###ほうむ###pháp vụ/bộ pháp luật
+法令###ほうれい###sắc luật ###pháp lệnh ###luật lệ
+法例###ほうれい###pháp luật ###luật ###đạo luật
+魔法###まほう###phương thuật ###ma thuật/yêu thuật/phép phù thủy ###đồng cốt ###bùa
+民法###みんぽう###luật dân sự ###dân luật (luật dân sự)
+無法###むほう###sự tàn bạo/sự bạo lực
+私法###しほう###tư sản
+用法###ようほう###cách dùng
+立法###りっぽう###sự lập pháp/sự xây dựng luật

@@ -1,0 +1,41 @@
+kunyomi
+教える###おしえる###Dạy### giáo dục### chỉ dẫn### đào tạo
+onyomi
+教育###きょういく###Sự giáo dục
+教員###きょういん###Giáo viên
+教訓###きょうくん###Sự giáo huấn### bài học### giảng dạy
+教材###きょうざい###Tài liệu### vật dụng giảng dạy
+教師###きょうし###Thầy giáo
+教室###きょうしつ###Phòng học### lớp học
+教会###きょうかい###Nhà thờ
+異教###いきょう###tà giáo ###ngoại đạo ###dị giáo/giáo phái khác
+回教###かいきょう###đạo Hồi
+旧教###きゅうきょう###đạo Thiên Chúa
+教化###きょうか###giáo khoa ###giáo hóa
+教義###きょうぎ###giáo lý
+教唆###きょうさ###chủ mưu/sự chủ mưu/sự răn dạy/sự dạy bảo/sự xúi giục/sự xúi bẩy/sự thủ mưu/sự khích/sự khẩn khoản/sự nài xin
+教示###きょうし###chỉ giáo/hướng dẫn/giảng dạy
+教授###きょうじゅ###sự giáo dục/giáo dục/giảng dạy
+教壇###きょうだん###đàn
+教典###きょうてん###pháp tạng
+教徒###きょうと###tín đồ/con chiên ngoan đạo
+教導###きょうどう###giảng dụ
+教諭###きょうゆ###giáo viên
+教務###きょうむ###giáo vụ
+教養###きょうよう###sự nuôi dưỡng/sự giáo dục/sự giáo dưỡng
+教理###きょうり###giáo lý ###đạo
+教練###きょうれん###tập luyện/thực tập
+儒教###じゅきょう###đạo khổng/khổng giáo/nho giáo ###cung cầu
+国教###こっきょう###quốc giáo
+司教###しきょう###đức cha
+邪教###じゃきょう###tà giáo ###dị giáo
+宗教###しゅうきょう###tôn giáo ###đạo giáo ###đạo
+新教###しんきょう###tân giáo ###đạo tin lành
+聖教###せいきょう###thánh đạo
+説教###せっきょう###sự thuyết giáo
+宣教###せんきょう###tuyên giáo
+調教###ちょうきょう###sự huấn luyện (thú)
+道教###どうきょう###lão giáo ###đạo Lão
+背教###はいきょう###sự ly khai/sự bỏ đạo/sự bỏ Đảng
+布教###ふきょう###sự truyền giáo
+仏教###ぶっきょう###đạo phật/phật giáo

@@ -1,0 +1,100 @@
+kunyomi
+入る###はいる###Đi vào
+入る###いる###Đi vào
+入れる###いれる###Cho vào
+onyomi
+輸入###ゆにゅう###Nhập khẩu
+入荷###にゅうか###Nhập hàng
+入学###にゅうがく###Nhập học
+入会###にゅうかい###sự nhập hội
+入力###にゅうりょく###công suất đưa vào### tín hiệu đưa vào
+加入###かにゅう###gia nhập/tham gia
+介入###かいにゅう###sự can thiệp
+記入###きにゅう###sự ghi vào/sự điền vào/sự viết vào/sự nhập vào/ghi vào/điền vào/viết vào/nhập và
+侵入###しんにゅう###sự xâm nhập/sự xâm lược/xâm nhập/xâm lược
+購入###こうにゅう###việc mua
+出入###しゅつにゅう###xuất nhập
+進入###しんにゅう###sự thâm nhập/sự tiến vào/thâm nhập/tiến vào
+潜入###せんにゅう###sự thâm nhập/sự len lỏi
+代入###だいにゅう###gán
+吸入###きゅうにゅう###sự hô hấp/sự hít vào/sự hít thở/hô hấp/hít vào/hít thở
+注入###ちゅうにゅう###sự rót vào/sự tập trung sự chú ý vào
+投入###とうにゅう###ném vào### quẳng vào### cho vào
+編入###へんにゅう###sự biên vào/sự nhận vào/sự thu nạp
+導入###どうにゅう###sự đưa vào (sử dụng### áp dụng.v.v...)/sự giới thiệu
+突入###とつにゅう###sự xông vào
+入院###にゅういん###sự nhập viện/sự vào nằm viện/sự đi viện
+入園###にゅうえん###Vào học ở trường mẫu giáo
+入荷###にゅうか###sự nhập hàng/sự nhận hàng
+入会###にゅうかい###sự nhập hội
+入閣###にゅうかく###Sự gia nhập nội các/sự trở thành thành viên nội các
+入学###にゅうがく###sự nhập học/sự vào học
+入監###にゅうかん###Bị bỏ tù/bị tống giam
+入獄###にゅうごく###Sự bị tống vào tù
+入居###にゅうきょ###Sự chuyển đến nơi ở mới/sự nhập cư
+入漁###にゅうぎょ###Việc đánh bắt cá ở những hải phận đặc biệt
+入京###にゅうきょう###Sự lên thủ đô/sự vào thủ đô
+入金###にゅうきん###sự thanh toán/sự nhận tiền/sự gửi tiền
+入庫###にゅうこ###Sự cất vào kho/sự nhập vào kho
+入隊###にゅうたい###Sự tòng quân/sự đăng lính/sự đi lính
+入貢###にゅうこう###sự cống nạp
+入部###にゅうぶ###Việc tham gia một câu lạc bộ
+入札###にゅうさつ###sự đấu thầu
+入滅###にゅうめつ###viên tịch
+入試###にゅうし###sự vào thi
+入室###にゅうしつ###sự vào phòng
+入質###にゅうしち###Sự cầm đồ/sự đem đi cầm đồ
+入射###にゅうしゃ###Tới (tia)
+入社###にゅうしゃ###việc vào công ty làm
+入寂###にゅうじゃく###Sự nhập tịch (chết) của nhà sư/nát bàn/sự tự do tinh thần
+入手###にゅうしゅ###việc nhận được
+入塾###にゅうじゅく###sự nhập học trường tư
+入賞###にゅうしょう###sự được thưởng
+入城###にゅうじょう###sự tiến vào thành (giành chiến thắng và tiến vào chiếm thành của kẻ thù)
+入場###にゅうじょう###sự vào rạp/sự vào hội trường
+入植###にゅうしょく###sự nhập cư
+入神###にゅうしん###cảm hứng/sự nhập thần
+入水###にゅうすい###sự nhảy xuống nước tự tử
+入棺###にゅうかん###Sự nhập quan (cho vào áo quan)
+入籍###にゅうせき###việc nhập hộ tịch
+入船###にゅうせん###sự tới nơi của tàu thuyền
+入選###にゅうせん###sự trúng tuyển/sự trúng cử
+入団###にゅうだん###Sự kết nạp vào đoàn thể
+入朝###にゅうちょう###việc đến của sứ giả nước khác tới triều đình Nhật
+入超###にゅうちょう###sự nhập siêu
+入津###にゅうしん###sự nhập cảng/sự vào cảng
+入定###にゅうじょう###sự nhập thiền
+入廷###にゅうてい###sự vào phòng xử án/sự vào pháp đình (thẩm phán### luật sư v.v..)
+入党###にゅうとう###sự gia nhập một Đảng/sự vào Đảng/sự trở thành Đảng viên
+入唐###にっとう###Sang nước Đường (Trung Quốc)
+入湯###にゅうとう###việc tắm (thường là ở suối nước nóng)
+入道###にゅうどう###việc bước vào cửa tu hành
+入念###にゅうねん###sự tỉ mỉ/sự kỹ càng
+入港###にゅうこう###Sự cập cảng/sự vào cảng (của tàu thuyền)
+入費###にゅうひ###Chi phí/phí dụng
+入夫###にゅうふ###việc trở thành rể trưởng
+入府###にゅうふ###Vào trong phủ
+入校###にゅうこう###Sự nhập trường (trường học)/sự vào trường (trường học)
+入幕###にゅうまく###sự thăng cấp lên cấp thượng đẳng (Sumo)/sự lên đai (Sumô)
+入木###にゅうぼく###Chữ viết đẹp
+入門###にゅうもん###vào cửa
+入用###にゅうよう###Sự cần thiết/sự thiết yếu
+入浴###にゅうよく###việc tắm táp
+入来###にゅうらい###Sự viếng thăm/sự đến thăm
+入洛###にゅうらく###Sự đến thăm Kyoto
+入力###にゅうりょく###tín hiệu đưa vào
+入牢###にゅうろう###Bị bỏ tù/bị vào nhà lao
+納入###のうにゅう###sự thu nạp
+搬入###はんにゅう###chở vào
+封入###ふうにゅう###sự gói vào/sự bọc vào
+混入###こんにゅう###lẫn lộn
+没入###ぼつにゅう###sự say sưa/sự miệt mài
+輸入###しゅにゅう###sự nhập khẩu
+圧入###あつにゅう###sự ép vào
+挿入###そうにゅう###thu nhập
+転入###てんにゅう###chuyển đến (nhà mới)
+入営###にゅうえい###Nhập ngũ/đăng lính/đi lính
+入口###はいりくち###sự bắt đầu ### cửa vào/lối vào
+入国###にゅうこく###sự nhập cảnh
+入舎###にゅうしゃ###Sự vào ký túc xá
+入梅###つゆいり###bước vào mùa mưa

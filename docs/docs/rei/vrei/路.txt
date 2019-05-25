@@ -1,0 +1,38 @@
+onyomi
+路面###ろめん###mặt đường
+回路図###かいろず###sơ đồ mạch
+回路###かいろ###mạch (điện)
+海路###うなじ###Tuyến đường biển/đường biển/hải lộ
+街路###がいろ###đường phố
+岐路###きろ###đường rẽ/ngả rẽ/bước ngoặt
+帰路###きろ###đường về/đường trở về
+険路###けんろ###con đường dốc/đường hiểm trở
+線路###せんろ###đường sắt
+空路###くうろ###đường không
+経路###けいろ###kênh (thị trường)/đường
+陸路###りくろ###trên bộ
+順路###じゅんろ###hành trình thông thường
+小路###しょうじ###Ngõ hẻm/đường nhỏ/đường mòn
+進路###しんろ###Tiến lộ/lộ trình/tuyến đuờng
+水路###すいろ###đường thủy
+走路###そうろ###đường đua/đường tốc hành
+大路###おおじ###đại lộ
+直路###ちょくろ###con đường thẳng
+通路###つうろ###ngõ hẻm
+鉄路###てつろ###Đường sắt
+電路###でんろ###Mạch điện
+道路###どうろ###đường bộ### đường ô tô
+難路###なんろ###NAN### NẠN LỘ
+波路###なみじ###Tuyến đường biển
+販路###はんろ###thị trường tiêu thụ
+航路###こうろ###đường đi (trên không### trên biển)
+復路###ふくろ###đường dẫn trả về
+閉路###へいろ###mạch đóng
+遍路###へんろ###người hành hương
+迷路###めいろ###mê lộ
+恋路###こいじ###đường tình yêu/đường tình duyên/tình duyên
+路銀###ろぎん###lộ phí
+路上###ろじょう###trên đường/trên đường bộ
+路地###ろじ###ngõ hẻm
+路面###ろめん###mặt đường
+路用###ろよう###lộ phí

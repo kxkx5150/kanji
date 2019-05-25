@@ -1,0 +1,40 @@
+kunyomi
+有る###ある###Có### tồn tại (đồ vật)
+有難い###ありがたい###Cám ơn### biết ơn
+有難う###ありがとう###Cám ơn
+onyomi
+有害###ゆうがい###Có hại### có độc
+有効###ゆうこう###Có hiệu quả### có hiệu lực
+有権者###ゆうけんしゃ###Người có quyền bỏ phiếu
+有名###ゆうめい###Nổi tiếng### nổi danh
+有用###ゆうよう###Hữu dụng### có ích lợi
+有望###ゆうぼう###Đầy triển vọng### đầy hy vọng
+含有###がんゆう###sự chứa đựng/chứa đựng/sự bao hàm/bao hàm/chứa
+享有###きょうゆう###sự được hưởng/hưởng/được hưởng
+共有###きょうゆう###sự sở hữu công cộng/sự công hữu
+現有###げんゆう###sự hiện hữu/sự hiện thời/hiện có/hiện tại
+固有###こゆう###cái vốn có/truyền thống
+国有###こくゆう###quốc hữu/sở hữu quốc gia
+所有###しょゆう###sự sở hữu/ sở hữu
+占有###せんゆう###sự sở hữu riêng/tài sản riêng/sự chiếm hữu
+特有###とくゆう###sự vốn có/ sự cố hữu
+保有###ほゆう###bắt giữ/lưu giữ
+私有###しゆう###tư hữu
+有益###ゆうえき###hữu ích
+有界###うがい###ゆうかい###hữu hạn
+有機###ゆうき###hữu cơ
+有形###ゆうけい###hữu hình
+有限###ゆうげん###sự có hạn/sự hữu hạn
+有効###ゆうこう###sự hữu hiệu/sự có hiệu quả
+有能###ゆうのう###sự có khả năng/sự có thể
+有罪###ゆうざい###sự có tội
+有志###ゆうし###sự có trí
+有数###ゆうすう###xuất chúng/dễ thấy/nổi bật
+有毒###ゆうどく###sự có độc
+有望###ゆうぼう###triển vọng
+有無###ゆうむ###sự có hay không có/việc có hay không có
+有名###ゆうめい###sự nổi tiếng
+有用###ゆうよう###hữu dụng
+有利###ゆうり###sự hữu lợi/sự có lợi
+有料###ゆうりょう###sự phải trả chi phí
+有力###ゆうりょく###sự ảnh hưởng mạnh mẽ

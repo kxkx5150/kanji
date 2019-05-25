@@ -1,0 +1,8 @@
+kunyomi
+危ない###あぶない###Nguy hiểm
+危うい###あやうい###Nguy hiểm
+onyomi
+危険###きけん###Nguy hiểm
+危機###きき###Nguy cơ
+危害###きがい###Nguy hại### có hại
+危急###ききゅう###Nguy cấp### khẩn cấp

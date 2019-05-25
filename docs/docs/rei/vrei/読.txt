@@ -1,0 +1,23 @@
+kunyomi
+読む###よむ###Đọc
+読み物###よみもの###Sách báo
+読み返す###よみかえす###Đọc lại
+読み通す###よみとおす###Đọc lướt qua
+読み終わる###よみおわる###Đọc xong
+onyomi
+読点###とうてん###Dấu phẩy
+読者###どくしゃ###Độc giả### người đọc
+読書###どくしょ###Sự đọc sách
+愛読書###あいどくしょ###Sách ưu thích
+購読###こうどく###Sự đặt mua (báo###…)
+再読###さいどく###Sự đọc lại
+読経###どきょう###Sự đọc kinh### sự tụng kinh
+愛読###あいどく###sự thích thú đọc sách/sự ham đọc
+閲読###えつどく###sự đọc/sự xem xét (đọc)
+音読###おんどく###đọc to/đọc lên thành tiếng/đọc thành tiếng
+解読###かいどく###sự giải mã/giải mã/sự đọc/đọc
+回読###かいどく###việc chuyền nhau đọc/chuyền nhau đọc/chuyền tay đọc
+読本###どくほん###sách tập đọc
+難読###なんどく###sự khó đọc
+必読###ひつどく###cái cần phải đọc
+朗読###ろうどく###sự ngâm (thơ)

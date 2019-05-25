@@ -1,0 +1,13 @@
+kunyomi
+巻き###まき###Cuộn### bộ
+巻く###まく###Cuộn### cuốn
+onyomi
+全巻###ぜんかん###Toàn bộ thể tích
+絵巻###えまき###cuộn tranh
+巻尺###まきじゃく###thước cuộn
+上巻###じょうかん###tập (truyện) thứ nhất
+席巻###せっけん###quyển thứ hai (trong tập ba quyển sách)
+中巻###ちゅうかん###quyển thứ hai (trong tập ba quyển sách)
+鉢巻###はちまき###băng buộc đầu
+葉巻###はまき###xì gà
+竜巻###たつまき###vòi rồng/cơn lốc xoáy

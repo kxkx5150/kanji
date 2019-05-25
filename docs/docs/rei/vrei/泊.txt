@@ -1,0 +1,8 @@
+kunyomi
+泊まる###とまる###Ngủ lại### ghé lại
+泊める###とめる###Ngủ lại### ghé lại
+onyomi
+宿泊###しゅくはく###Ngủ trọ
+外泊###がいはく###Ngủ ở ngoài
+一泊###いっぱく###một đêm
+停泊###ていはく###Sự thả neo

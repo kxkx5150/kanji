@@ -1,0 +1,14 @@
+kunyomi
+尊ぶ###たっとぶ###Quí trọng### quí mến
+尊ぶ###とうとぶ###Quí trọng### quí mến
+尊い###たっとい###Quí giá
+尊い###とうとい###Quí giá
+onyomi
+尊敬###そんけい###Tôn kính
+尊厳###そんげん###Tôn nghiêm
+尊大###そんだい###Kiêu căng ngạo mạn
+自尊###じそん###sự tự kiêu tự đại/sự tự tôn/tự tôn/tự kiêu tự đại
+尊重###そんちょう###sự tôn trọng
+尊称###そんしょう###tước hiệu danh dự
+尊名###そんめい###quí danh
+本尊###ほんぞん###tượng phật ###người được sùng bái ###chủ nhà

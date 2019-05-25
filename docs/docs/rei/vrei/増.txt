@@ -1,0 +1,24 @@
+kunyomi
+増す###ます###Tăng
+増える###ふえる###Tăng
+増やす###ふやす###Làm tăng
+onyomi
+増加###ぞうか###Gia tăng
+増減###ぞうげん###Tăng giảm
+増税###ぞうぜい###Tăng thuế
+急増###きゅうぞう###sự tăng thêm nhanh chóng/sự tăng thêm đột ngột/tăng thêm nhanh chóng/tăng thêm đột ngột/gia tăng nhanh/bùng nổ/tăng nhiều
+倍増###ばいぞう###sự tăng gấp đôi ###bội tăng
+純増###じゅんぞう###số lượng tăng tịnh
+漸増###ぜんぞう###sự tăng chậm chạp/ sự tăng dần dần
+増刷###ぞうさつ###sự in thêm/bản in thêm
+増産###ぞうさん###sự tăng thêm của sản xuất
+増資###ぞうし###tăng vốn
+増殖###ぞうしょく###sự tăng lên/sự sinh sản/sự nhân lên
+増進###ぞうしん###sự tăng tiến/sự nâng cao
+増大###ぞうだい###sự mở rộng/sự tăng thêm/sự khuyếch trương
+増訂###ぞうてい###việc tăng thêm và sửa lại (ấn bản)
+増配###ぞうはい###tiền phân phối cổ tức tăng
+増幅###ぞうふく###sự khuếch đại/sự mở rộng
+増分###ぞうぶん###tăng/gia tăng
+逓増###ていぞう###sự tăng dần
+年増###としま###phụ nữ trung niên

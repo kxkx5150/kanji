@@ -1,0 +1,36 @@
+kunyomi
+船###ふね###Thuyền
+船主###ふなぬし###Chủ tàu
+船乗り###ふなのり###Thủy thủ
+onyomi
+船長###せんちょう###Thuyền trưởng
+船室###せんしつ###Cabin
+船舶###せんぱく###Tàu### thuyền
+回船###かいせん###thuyền chở hàng loại nhỏ/thuyền vận tải nội địa
+汽船###きせん###thuyền máy/xuồng máy
+客船###きゃくせん###thuyền chở khách/tàu khách/tàu chở khách
+漁船###ぎょせん###thuyền đánh cá/ngư thuyền
+工船###こうせん###tàu xưởng
+黒船###くろふね###con thuyền đen/thuyền đen
+出船###でふね###sự nhổ neo
+商船###しょうせん###thương thuyền
+船員###せんいん###lính thủy/thủy thủ
+船隊###せんたい###đội tàu
+船主###ふなぬし###chủ tàu
+船上###せんじょう###trên tàu
+船体###せんたい###thân tàu
+船団###せんだん###thuyền bè
+船灯###せんとう###đèn của tàu
+船舶###せんぱく###tàu/thuyền
+船腹###せんぷく###dung tích tàu
+船便###ふなびん###lớp vỏ ngoài (của tàu)
+船旅###ふなたび###cuộc hành trình hay chuyến đi bằng tàu hay thuyền
+造船###ぞうせん###việc đóng thuyền/việc đóng tàu
+着船###ちゃくせん###tàu đã đến
+停船###ていせん###lưu tàu
+渡船###とせん###phà
+難船###なんせん###Sự đắm tàu
+入船###にゅうせん###sự tới nơi của tàu thuyền
+帆船###ほぶね###thuyền buồm
+風船###ふうせん###khí cầu
+用船###ようせん###tàu thuê

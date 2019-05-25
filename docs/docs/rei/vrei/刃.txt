@@ -1,0 +1,6 @@
+kunyomi
+刃###は###Lưỡi (gươm)### cạnh sắc
+刃先###はさき###Lưỡi (gươm)### cạnh sắc
+刃物###はもの###Dụng cụ có cạnh sắc### dao kéo
+onyomi
+刃傷###にんじょう###Sự đổ máu### chém giết

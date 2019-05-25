@@ -1,0 +1,41 @@
+kunyomi
+和らげる###やわらげる###Làm dịu đi
+和らぐ###やわらぐ###Dịu đi### nguội đi
+和む###なごむ###Làm êm dịu
+和やか###なごやか###Dịu dàng
+onyomi
+平和###へいわ###Hòa bình
+和服###わふく###Quần áo kiểu Nhật
+和尚###おしょう###Hòa thượng
+英和###えいわ###Anh - Nhật
+温和###おんわ###sự ôn hoà/sự hiền hậu/sự hiền lành
+漢和###かんわ###tiếng Nhật lấy từ chữ Hán
+緩和###かんわ###sự hòa hoãn/sự nới lỏng/bớt căng thẳng/hoàn hoãn/nới lỏng
+共和###きょうわ###cộng hòa
+講和###こうわ###hòa bình
+柔和###にゅうわ###sự nhu hoà
+昭和###しょうわ###Chiêu Hoà/ thời kỳ Chiêu Hoà
+総和###そうわ###phép cộng
+中和###ちゅうわ###trung hoà
+調和###ちょうわ###sự hòa hợp/sự điều hoà hòa âm hiệp đoàn điều hòa
+日和###ひより###thời tiết
+飽和###ほうわ###sự bão hòa
+不和###ふわ###sự bất hòa
+和英###わえい###Nhật-Anh
+和音###わおん###sự hòa âm
+和歌###わか###thơ 31 âm tiết của Nhật/Hòa ca
+和解###わげ###sự hòa giải
+和姦###わかん###sự gian dâm/sự thông dâm
+和合###わごう###sự hòa hợp
+和式###わしき###kiểu Nhật
+和室###わしつ###phòng ở kiểu Nhật phòng kiểu Nhật
+和食###わしょく###món ăn nhật/đồ ăn Nhật
+和声###わせい###hòa âm
+和議###わぎ###sự đàm phán hòa bình
+和語###わご###từ ngữ Nhật bản địa
+和独###わどく###Nhật-Đức
+和風###わふう###kiểu Nhật/phong cách Nhật
+和仏###わふつ###Nhật Pháp
+和文###わぶん###tiếng Nhật/văn Nhật
+和平###わへい###hòa bình
+和紙###わし###giấy Nhật

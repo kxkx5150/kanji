@@ -1,0 +1,20 @@
+kunyomi
+星###ほし###Ngôi sao
+onyomi
+星座###せいざ###Chòm sao
+火星###かせい###Hỏa tinh### sao Hỏa
+北斗星###ほくとせい###Sao Bắc Đẩu
+衛星###えいせい###vệ tinh
+巨星###きょせい###nhân vật vĩ đại ###ngôi sao lớn
+暁星###ぎょうせい###sao buổi sáng/sao mai
+金星###きんせい###きんぼし###thái bạch ###sao kim
+恒星###こうせい###định tinh
+流星###りゅうせい###sao sa ###sao băng
+七星###しちせい###thất tinh
+水星###すいせい###sao thủy
+星空###ほしぞら###bầu trời sao/đầy sao
+土星###どせい###thổ tinh ###sao thổ
+明星###みょうじょう###sao mai
+木星###もくせい###sao mộc ###mộc tinh
+遊星###ゆうせい###hành tinh
+惑星###わくせい###hành tinh

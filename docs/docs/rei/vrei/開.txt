@@ -1,0 +1,35 @@
+kunyomi
+開く###あく###Mở
+開ける###あける###Mở
+開ける###ひらける###Được phát triển
+開く###ひらく###Mở
+onyomi
+開始###かいし###Khởi đầu### bắt đầu
+開幕###かいまく###Mở màn
+開催###かいさい###Tổ chức
+開化###かいか###Văn minh/khai hoá/mở mang tri thức
+開会###かいかい###sự khai mạc (cuộc họp)
+開基###かいき###đặt một nền tảng/đặt nền móng/sáng lập ra
+開講###かいこう###khai giảng
+開国###かいこく###sự khai quốc/khai quốc/khai sinh ra đất nước
+開墾###かいこん###sự khai khẩn/khai khẩn/khai hoang/sự khai hoang
+開始###かいし###sự khởi đầu/việc khởi đầu/việc bắt đầu
+開城###かいじょう###sự mở cổng thành đầu hàng/đầu hàng
+開設###かいせつ###sự thành lập/sự xây dựng
+開戦###かいせん###khai chiến
+開拓###かいたく###sự khai thác/sự tiên phong
+開通###かいつう###làm cho có tác dụng/trở nên có hiệu lực
+開廷###かいてい###việc mở phiên toà/mở phiên tòa
+開店###かいてん###sự mở cửa hàng/mở cửa hàng
+開発###かいはつ###sự phát triển
+開扉###かいひ###việc mở cửa
+開票###かいひょう###sự kiểm phiếu/việc mở hòm phiếu
+開封###かいふう###thư không niêm phong/việc mở dấu niêm phong
+開閉###かいへい###sự đóng và mở/đóng mở
+開放###かいほう###sự mở cửa/sự tự do hoá
+公開###こうかい###sự công khai/công bố
+再開###さいかい###sự bắt đầu trở lại
+疎開###そかい###sự giải tán/sự di tản
+打開###だかい###cuộc tấn công nhằm phá vỡ sự bế tắc hay trì hoãn### trì trệ
+展開###てんかい###sự triển khai/sự khám phá
+未開###みかい###vùng hoang dã/vùng lạc hậu

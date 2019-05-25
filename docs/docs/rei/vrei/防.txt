@@ -1,0 +1,24 @@
+kunyomi
+防ぐ###ふせぐ###Ngăn ngừa### bảo vệ
+onyomi
+防止###ぼうし###Đề phòng
+防水###ぼうすい###Phòng lũ
+防腐剤###ぼうふざい###Chất khử trùng
+消防###しょうぼう###sự cứu hoả/sự phòng cháy chữa cháy
+海防###かいぼう###phòng thủ ven biển/phòng hộ ven biển
+攻防###こうぼう###sự tấn công và phòng ngự
+国防###こくぼう###quốc phòng/sự quốc phòng
+堤防###ていぼう###đê/đập
+防衛###ぼうえい###sự bảo vệ/sự phòng vệ
+防疫###ぼうえき###sự phòng dịch
+防音###ぼうおん###sự cách âm
+防火###ぼうか###sự phòng lửa/sự phòng hỏa hoạn
+防空###ぼうくう###phòng không
+防御###ぼうぎょ###sự phòng ngự/sự phòng thủ
+防犯###ぼうはん###sự phòng chống tội phạm/việc phòng chống tội phạm
+防災###ぼうさい###sự phòng chống thiên tai
+防塵###ぼうじん###sự chống bụi
+防戦###ぼうせん###chiến tranh phòng ngự
+防毒###ぼうどく###phòng độc
+防壁###ぼうへき###bức tường thành
+予防###よぼう###sự dự phòng

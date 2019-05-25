@@ -1,0 +1,32 @@
+onyomi
+工場###こうじょう###Công trường
+工芸###こうげい###Nghề thủ công### thủ công mỹ nghệ
+大工###だいく###Thợ mộc
+加工###かこう###gia công/sản xuất
+画工###がこう###Họa sĩ/nghệ sĩ
+完工###かんこう###hoàn công
+工員###こういん###công nhân
+工科###こうか###khoa học kỹ thuật/bách khoa
+工学###こうがく###môn kỹ thuật công nghiệp
+工業###こうぎょう###kỹ nghệ ###công nghiệp
+工具###こうぐ###công cụ/dụng cụ
+工作###こうさく###nghề thủ công/môn thủ công
+工事###こうじ###công trường xây dựng/công trường
+工程###こうてい###công đoạn/trình tự làm việc/khối lượng công việc
+工匠###こうしょう###Thợ thủ công/thợ máy
+工廠###こうしょう###Xưởng chế tạo vũ khí
+工人###こうじん###Công nhân/thợ thủ công/nhân công
+工数###こうすう###giờ công/nhân công
+工船###こうせん###tàu xưởng
+工賃###こうちん###tiền công
+工夫###くふう###こうふ###công nhân/người lao động tại công xưởng/công cụ
+陶工###とうこう###việc sản xuất đồ gốm ###thợ gốm
+細工###さいく###tác phẩm/sự chế tác
+手工###しゅこう###thủ công
+商工###しょうこう###công thương nghiệp
+人工###じんこう###sự khéo léo của con người/khéo léo của con người ###nhân công ###hộ khẩu
+鍛工###たんこう###thợ rèn
+彫工###ちょうこう###Thợ khắc/nhà điêu khắc
+鉄工###てっこう###nghề làm đồ sắt
+電工###でんこう###Thợ điện/kỹ thuật điện
+農工###のうこう###Nông nghiệp và công nghiệp

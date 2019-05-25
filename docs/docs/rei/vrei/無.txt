@@ -1,0 +1,62 @@
+kunyomi
+無い###ない###Không có
+onyomi
+無縁###むえん###Không có quan hệ
+無益###むえき###Không có ích
+皆無###かいむ###không có gì/con số không/vô nghĩa/không hề
+虚無###きょむ###hư vô/sự hư vô/trống rỗng/trống trải
+無為###むい###sự vô vi
+無音###むおん###ぶいん###sự yên lặng kéo dài
+無我###むが###vô ngã/sự không có tính cá nhân
+無害###むがい###sự vô hại
+無学###むがく###vô học ###thất học
+無精###ぶしょう###sự lười biếng
+無機###むき###vô cơ
+無休###むきゅう###sự không ngừng/sự không nghỉ/sự không có ngày nghỉ
+無窮###むきゅう###vô cùng
+無線###むせん###tuyến (vô tuyến) ###không dây/sóng vô tuyến
+無菌###むきん###vô trùng ###sự vô trùng/vô khuẩn
+無形###むけい###vô hình ###sự vô hình
+無言###むごん###sự im lặng/sự không có lời
+無限###むげん###vô định ###vô biên ###sự vô hạn
+無効###むこう###sự vô hiệu
+無口###むくち###sự ít nói
+無能###むのう###sự thiếu năng lực/sự không đủ khả năng
+無罪###むざい###vô tội ###sự vô tội
+無産###むさん###vô sản
+無残###むざん###sự độc ác/sự tàn ác/sự máu lạnh
+無視###むし###sự xem thường/sự phớt lờ
+無事###ぶじ###sự bình an
+無実###むじつ###sự vô tội
+無常###むじょう###vô thường
+無情###むじょう###sự vô tình
+無職###むしょく###sự không có việc làm
+無色###むしょく###vô sắc/không màu
+無心###むしん###sự vô tâm
+無人###むにん###sự không có người/sự bỏ không
+無数###むすう###vô kể ###sự vô số ###cơ man
+無税###むぜい###sự không thuế/sự miễn thuế
+無駄###むだ###sự vô ích/sự không có hiệu quả
+無断###むだん###việc không có sự cho phép/việc không có sự báo trước/việc không được phép
+無知###むち###sự vô tri
+無地###むじ###sự trơn (không có họa tiết hay hoa văn)
+無恥###むち###sự không biết xấu hổ/sự vô sỉ
+無茶###むちゃ###sự quá mức/sự tràn lan sự vô lý
+無難###ぶなん###việc vô sự
+無風###むふう###sự không có gió
+無法###むほう###sự tàn bạo/sự bạo lực
+無帽###むぼう###đầu trần
+無謀###むぼう###sự không lo lắng/sự không để ý tới/sự không suy nghĩ đến
+無名###むめい###sự vô danh/sự không ký tên/sự không có tên người sản xuất
+無用###むよう###sự vô dụng/sự không cần thiết
+無欲###むよく###sự không có dục vọng
+無頼###ぶらい###sự vô lại/sự côn đồ
+無理###むり###sự vô lý ###sự quá sức/sự quá khả năng
+無料###むりょう###sự miễn phí
+無量###むりょう###vô lượng
+無力###むりょく###sự không có lực/sự không có sự giúp đỡ/sự không đủ năng lực
+無類###むるい###vô loại
+無礼###ぶれい###sự không có lễ độ/sự vô lễ
+無論###むろん###đương nhiên
+無償###むしょう###sự không bồi thường/sự miễn trách
+有無###ゆうむ###sự có hay không có/việc có hay không có

@@ -1,0 +1,11 @@
+kunyomi
+暖かい###あたたかい###Ấm áp
+暖か###あたたか###Ấm áp
+暖まる###あたたまる###Ấm lên
+onyomi
+暖房###だんぼう###Hệ thống sưởi
+暖炉###だんろ###Lò sưởi
+暖冬###だんとう###Mùa đông ấm áp
+温暖###おんだん###ấm/ấm áp/nóng
+暖流###だんりゅう###dòng nước ấm
+暖簾###のれん###tấm rèm che trước cửa/danh tiếng của cửa hàng

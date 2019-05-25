@@ -1,0 +1,12 @@
+kunyomi
+眠る###ねむる###Ngủ
+眠い###ねむい###Buồn ngủ### mệt
+onyomi
+睡眠###すいみん###Giấc ngủ
+安眠###あんみん###giấc ngủ nhẹ nhàng/ngủ say/ngủ yên/ngủ ngon
+永眠###えいみん###sự qua đời
+惰眠###だみん###sự lười biếng/sự lười nhác/sự không hoạt động
+催眠###さいみん###sự thôi miên
+冬眠###とうみん###sự ngủ đông
+不眠###ふみん###không ngủ được
+眠気###ねむけ###buồn ngủ

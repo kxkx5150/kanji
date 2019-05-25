@@ -1,0 +1,104 @@
+kunyomi
+水###みず###Nước
+onyomi
+水兵###すいへい###Thủy binh
+水利###すいり###Thủy lợi
+水晶###すいしょう###Thủy tinh
+雨水###うすい###nước mưa
+塩水###えんすい###nước muối/nước mặn
+下水###げすい###したみず###nước thải/nước bẩn/nước ngầm
+火水###ひみず###nước và lửa
+渇水###かっすい###sự thiếu nước
+海水###かいすい###nước biển/nước mặn
+清水###きよみず###nước mùa xuân/ nước sạch
+減水###げんすい###rút bớt nước/giảm bớt nước/hút ẩm
+降水###こうすい###mưa rơi/mưa/có mưa
+喫水###きっすい###mớn nước
+給水###きゅうすい###sự cung cấp nước/việc cung cấp nước
+浸水###しんすい###lễ hạ thủy
+軽水###けいすい###nước nhẹ
+湖水###こすい###nước hồ/nước ao hồ
+洪水###こうずい###nước lụt ###nước lũ ###lụt lội ###lũ/lũ lụt/trận lũ lụt/cơn lũ lụt
+硬水###こうすい###nước cứng
+滴水###てきすい###sự rỏ nước
+香水###こうすい###nước hoa/dầu thơm
+山水###さんすい###sơn thủy
+手水###ちょうず###nước rửa hoặc để làm ẩm tay
+純水###じゅんすい###nước tinh khiết
+薪水###しんすい###tiền lương ###sự nấu ăn ###củi và nước
+水圧###すいあつ###thủy áp
+水位###すいい###mức nước
+水稲###すいとう###lúa nước
+水運###すいうん###chạy tàu
+水泳###すいえい###việc bơi/bơi ###lội
+水温###すいおん###nhiệt độ nước
+水害###すいがい###thảm họa do nước gây ra/sự phá hoại của nước ###nạn lụt
+水管###すいかん###ống thoát nước
+水牛###すいぎゅう###trâu/con trâu
+水洗###すいせん###sự rửa bằng nước/rửa mặt bằng nước
+水玉###みずたま###chấm chấm/hột mè/chấm tròn (trên vải)
+水銀###すいぎん###thủy ngân
+水槽###すいそう###thùng chứa nước/bể chứa nước/két nước
+水深###すいしん###độ sâu
+水源###すいげん###nguồn nước ###nguồn
+水滴###すいてき###giọt nước
+水際###みずぎわ###bờ biển/mép nước/biên giới
+水産###すいさん###thủy sản
+水死###すいし###sự chết đuối/chết đuối
+水車###すいしゃ###guồng nước ###bánh xe nước
+水準###すいじゅん###mực nước ###cấp độ/trình độ
+水上###すいじょう###みなかみ###dưới nước/trên mặt nước
+水色###みずいろ###màu xanh của nước
+水神###すいじん###thủy thần
+水星###すいせい###sao thủy
+水仙###すいせん###thủy tiên ###hoa thủy tiên
+水素###すいそ###khinh khí ###hyđrô
+水草###みずくさ###bèo
+水葬###すいそう###thủy táng
+水球###すいきゅう###bóng nước
+水着###みずぎ###áo bơi/đồ tắm/quần áo tắm (của phụ nữ)
+水中###すいちゅう###nước ngầm
+水鳥###みずどり###chim ở nước
+水田###すいでん###ruộng lúa nước
+水痘###すいとう###bệnh thủy đậu
+水筒###すいとう###bình tông đựng nước ###bi đông
+水道###すいどう###nước dịch vụ/nước máy
+水難###すいなん###thủy nạn ###nạn lụt
+水泡###すいほう###sự không có gì/sự trở thành số không ###phù bào ###lở ###bọt/bong bóng/mụn ###bọt nước
+水爆###すいばく###bom H/bom khinh khí/bom hyđrô
+水盤###すいばん###chậu hoa
+水夫###すいふ###thủy thủ
+水分###すいぶん###sự thủy phân/hơi ẩm/hơi nước
+水平###すいへい###mực nước/đường chân trời/mức
+水枕###みずまくら###bọc cao su đựng nước để gội đầu
+水脈###すいみゃく###mạch nước
+水面###みのも###mặt nước ###bề mặt nước
+水門###すいもん###cống
+水曜###すいよう###thứ tư
+水雷###すいらい###thủy lôi
+水冷###すいれい###sự làm mát nước
+水力###すいりょく###thủy lợi ###sức nước
+水路###すいろ###thủy lộ ###đường thủy
+生水###なまみず###Nước lã/nước chưa đun sôi
+泉水###せんすい###suối nước/dòng sông nhỏ
+潜水###せんすい###việc lặn/việc lao đầu xuống nước/việc dấu mình vào chỗ không ai trông thấy
+大水###おおみず###lũ lụt/lụt lội/lụt
+脱水###だっすい###vắt (nước)
+淡水###たんすい###cúp nước
+断水###だんすい###sự cắt nước/sự không cung cấp nước
+貯水###ちょすい###sự trữ nước
+天水###てんすい###nước mưa
+点水###てんすい###bình tưới nước
+軟水###なんすい###nước mềm
+入水###にゅうすい###sự nhảy xuống nước tự tử
+破水###はすい###sự vỡ nước ối
+排水###はいすい###sự tiêu nước/sự thoát nước
+配水###はいすい###sự cấp nước
+鼻水###はなみず###nước mũi
+鉱水###こうすい###nước khoáng
+腹水###ふくすい###bệnh phù bụng/ chướng bụng
+噴水###ふんすい###vòi nước
+防水###ぼうすい###sự phòng ngừa lũ lụt/chống nước
+用水###ようすい###nước để tưới ###nước để dùng
+羊水###ようすい###nước ối
+冷水###れいすい###nước lạnh

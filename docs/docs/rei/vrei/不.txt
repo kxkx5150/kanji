@@ -1,0 +1,76 @@
+onyomi
+不安###ふあん###Bất an### lo lắng
+不正###ふせい###Việc phi pháp### việc xấu
+不便###ふべん###Bất tiện
+不思議###ふしぎ###Lạ lùng### kỳ quái
+不快###ふかい###Lo lắng### không thoải mái### khó chịu
+不可欠###ふかけつ###Không thể thiếu
+不器用###ぶきよう###Sự vụng về### hậu đậu
+不気味###ぶきみ###Điềm gở### làm cho người khác sợ
+不意###ふい###không ngờ
+不運###ふうん###xấu số
+不可###ふか###không kịp/không đỗ
+不快###ふかい###lo lắng
+不随###ふずい###Chứng liệt
+不器###ふき###Sự vụng về
+不帰###ふき###sự không phục hồi lại được nữa
+不潔###ふけつ###không sạch sẽ
+不義###ふぎ###thất nghĩa
+不吉###ふきつ###chẳng lành/bất hạnh/không may
+不朽###ふきゅう###bất hủ
+不況###ふきょう###không vui/tiêu điều
+不興###ふきょう###không có hứng/mất hứng
+不具###ふぐ###tàn phế
+不遇###ふぐう###Vận rủi
+不屈###ふくつ###bất khuất
+不敬###ふけい###Sự bất kính/sự thiếu tôn kính
+不言###ふげん###Sự yên lặng
+不孝###ふきょう###không có hiếu/bất hiếu
+不幸###ふこう###số đen bất hạnh/không may mắn
+不能###ふのう###không thể/không có khả năng
+不備###ふび###không hoàn chỉnh/không vẹn toàn
+不在###ふざい###việc đi vắng/việc không có mặt
+不作###ふさく###sự mất mùa/sự thất bát
+不死###ふし###bất tử
+不滅###ふめつ###bất diệt
+不治###ふち###bất trị
+不純###ふじゅん###không thuần/không tinh khiết
+不順###ふじゅん###không bình thường/không theo quy luật
+不肖###ふしょう###sự thiếu khả năng/sự thiếu trình độ
+不詳###ふしょう###không rõ ràng
+不信###ふしん###sự không tin/sự không tin cậy/sự đáng ngờ
+不審###ふしん###sự nghi hoặc/sự hoài nghi/sự đáng nghi/sự đáng ngờ
+不振###ふしん###sự không tốt/sự không hưng thịnh/không trôi chảy
+不正###ふせい###việc làm bất chính/việc xấu/việc phi pháp
+不仁###ふじん###Sự nhẫn tâm/tính vô nhân đạo
+不通###ふつう###sự không nhận được tin tức/sự không thông mạch
+不測###ふそく###bất trắc
+不足###ふそく###sự không đủ/sự không đầy đủ/sự thiếu thốn
+不断###ふだん###không ngừng
+不忠###ふちゅう###bất trung
+不調###ふちょう###vận đen
+不貞###ふてい###không trung thành/không chung thủy
+不定###ふてい###bất định
+不敵###ふてき###mạnh dạn/dũng cảm/táo bạo/cả gan
+不偏###ふへん###công bằng/không thiên vị/vô tư
+不当###ふとう###sự không hợp lý/sự không thỏa đáng/sự không tương xứng
+不等###ふとう###bất đẳng
+不動###ふどう###bất động
+不同###ふどう###bất đồng
+不徳###ふとく###không có đạo đức/vô đức
+不妊###ふにん###sự vô sinh/tính không sinh sản/sự mất khả năng sinh đẻ
+不買###ふばい###tẩy chay
+不服###ふふく###không chịu/không phục
+不平###ふへい###bất bình/không thỏa mãn
+不変###ふへん###không thay đổi
+不便###ふべん###bất tiện/không thuận lợi
+不明###ふめい###không minh bạch/không rõ ràng
+不毛###ふもう###không thể phát triển
+不問###ふもん###Bỏ qua
+不用###ふよう###bất dụng
+不要###ふよう###không cần thiết/không thiết yếu/lãng phí
+不利###ふり###sự không có lợi/sự bất lợi
+不慮###ふりょ###sự tình cờ
+不良###ふりょう###không tốt/không đạt
+不倫###ふりん###sự bất luân/sự không còn luân thường đạo lý
+不和###ふわ###sự bất hòa

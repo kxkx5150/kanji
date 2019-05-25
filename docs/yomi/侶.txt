@@ -1,7 +1,0 @@
-fumeiyomi
-僧侶###そうりょ###priest; monk; 
-伴侶###はんりょ###companion; partner; spouse; 
-侶###とも###companion; follower; attendant; retinue; 
-侶伴###りょはん###companion; 
-同侶###どうりょ###companion; 
-伴侶動物###はんりょどうぶつ###companion animal; pet; 

@@ -1,0 +1,9 @@
+kunyomi
+懸ける###かける###Treo### cho
+懸かる###かかる###Treo### cho
+onyomi
+一生懸命###いっしょうけんめい###Chăm chỉ### cần mẫn### cần cù
+懸案###けんあん###Vấn đề còn bỏ ngỏ
+懸念###けねん###Lo lắng
+懸賞###けんしょう###giải thưởng/chương trình có thưởng/thưởng
+懸垂###けんすい###sự rủ xuống/sự buông xuống/rủ xuống/buông xuống/treo

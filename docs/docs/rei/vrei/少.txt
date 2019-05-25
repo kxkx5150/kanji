@@ -1,0 +1,20 @@
+kunyomi
+少ない###すくない###Ít
+少し###すこし###Một chút### một ít
+少しずつ###すこしずつ###Từng chút một
+onyomi
+減少###げんしょう###Sự giảm sút### suy giảm
+多少###たしょう###Hơn kém### ít nhiều### một chút
+少量###しょうりょう###Lượng nhỏ### ít### nhỏ
+少々###しょうしょう###Một chút### một lát
+希少###きしょう###ít có/hiếm có/hy hữu/hiếm/hiếm hoi/quý hiếm
+最少###さいしょう###tối thiểu
+少尉###しょうい###thiếu uý
+少将###しょうしょう###thiếu tướng
+少憩###しょうけい###kỳ nghỉ ngắn/khoảng thời gian nghỉ ngắn
+少数###しょうすう###số thập phân
+少年###しょうねん###thiếu niên
+少佐###しょうさ###thiếu tá
+年少###ねんしょう###thiếu niên
+微少###びしょう###Nhỏ vô cùng/cực nhỏ
+幼少###ようしょう###ấu thơ

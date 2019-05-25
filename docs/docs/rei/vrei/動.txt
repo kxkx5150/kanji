@@ -1,0 +1,52 @@
+kunyomi
+動く###うごく###Di chuyển### chạy máy
+動かす###うごかす###Di chuyển### chạy máy
+onyomi
+自動車###じどうしゃ###Xe ô tô
+活動###かつどう###Hoạt động
+動物###どうぶつ###Động vật
+動力###どうりょく###động lực
+動作###どうさ###động tác
+動員###どういん###động viên
+動詞###どうし###động từ
+異動###いどう###sự thay đổi
+移動###いどう###sự di chuyển/sự di động
+運動###うんどう###sự vận động/việc chơi thể thao
+感動###かんどう###sự cảm động/cảm động/sự xúc động/xúc động
+激動###げきどう###kích động ###dông tố ###cơn phong ba ###biến động/thay đổi/biến đổi
+起動###きどう###sự khởi động
+挙動###きょどう###cử động
+駆動###くどう###khu động
+原動###げんどう###động cơ
+言動###げんどう###lời nói và hành động/lời nói và việc làm
+鼓動###こどう###sự đập (tim)/đập
+行動###こうどう###hành động/sự hành động
+能動###のうどう###sự tích cực/sự năng động
+作動###さどう###sự tác động/sự thao tác
+始動###しどう###động đậy
+流動###りゅうどう###sự lưu động
+手動###しゅどう###điều khiển bằng tay
+受動###じゅどう###sự bị động/ thụ động
+衝動###しょうどう###sự rung động
+振動###しんどう###sự chấn động/chấn động
+震動###しんどう###sự chấn động/chấn động
+生動###せいどう###sinh động
+扇動###せんどう###sự khích động/sự xúi giục
+騒動###そうどう###sự truyền động
+電動###でんどう###điện động
+動画###どうが###ảnh động
+動機###どうき###động cơ (hành động)/nguyên nhân/lý do
+動向###どうこう###xu hướng
+動産###どうさん###động sản
+動揺###どうよう###đồng dao ###dao động (tinh thần)
+動静###どうせい###sự động tĩnh/tình trạng
+動的###どうてき###động
+動脈###どうみゃく###động sản ###động mạch
+動乱###どうらん###sự náo loạn
+反動###はんどう###sự phản tác dụng ###sự phản động
+不動###ふどう###bất động
+浮動###ふどう###động
+変動###へんどう###sự biến động/sự dao động
+暴動###ぼうどう###loạn ly ###dấy loạn ###bạo động
+鳴動###めいどう###sự quay mài
+躍動###やくどう###sự đập mạnh/sự đập nhanh/sự đập rộn lên/sự rộn ràng

@@ -1,0 +1,10 @@
+kunyomi
+貸す###かす###cho vay; cho mượn
+onyomi
+貸与###たいよ###cho vay; cho mượn
+貸家###かしいえ###nhà cho thuê/nhà đi thuê/nhà thuê/nhà trọ
+貸間###かしま###phòng cho thuê
+貸金###かしきん###tiền cho vay
+貸借###たいしゃく###cho vay và đi vay/các khoản cho vay và các khoản đi vay
+貸方###かしかた###bên "có" (kế toán)
+賃貸###ちんたい###sự cho thuê

@@ -1,0 +1,9 @@
+kunyomi
+畳###たたみ###Chiếu
+畳む###たたむ###Gấp lại
+onyomi
+畳語###じょうご###Điệp ngữ
+畳数###じょうすう###Số chiếu Tatami
+畳屋###たたみや###phòng trải chiếu
+畳表###たたみおもて###mặt chiếu
+青畳###あおだたみ###Chiếu mới/chiếu mới

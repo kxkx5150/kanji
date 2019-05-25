@@ -1,0 +1,16 @@
+kunyomi
+謝る###あやまる###Xin lỗi### tạ lỗi
+onyomi
+謝罪###しゃざい###Xin lỗi### tạ lỗi
+謝恩会###しゃおんかい###Tiệc cám ơn
+謝礼###しゃれい###Sự tạ lễ### sự cám ơn
+謝電###しゃでん###Bức điện cảm ơn
+謝絶###しゃぜつ###Sự từ chối### sự cự tuyệt
+謝金###しゃきん###Tiền cảm ơn
+多謝###たしゃ###Sự ngàn lần xin lỗi
+月謝###げっしゃ###Tiền học hàng tháng
+感謝###かんしゃ###sự cảm tạ/sự cảm ơn/sự biết ơn/cảm tạ/cảm ơn/lòng biết ơn
+月謝###げっしゃ###tiền học hàng tháng/tiền cảm ơn hàng tháng
+謝辞###しゃじ###từ tạ
+代謝###たいしゃ###sự trao đổi chất
+陳謝###ちんしゃ###lời xin lỗi

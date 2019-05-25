@@ -1,0 +1,26 @@
+kunyomi
+低い###ひくい###Thấp
+低める###ひくめる###Trở nên thấp
+低まる###ひくまる###Trở nên thấp
+onyomi
+低下###ていか###Giảm### kém đi
+低価###ていか###Giá thấp
+低温###ていおん###Nhiệt độ thấp
+低位###ていい###vị trí thấp hơn
+低速###ていそく###tốc độ chậm### tốc độ thấp
+低音###ていおん###giọng trầm
+低減###ていげん###sự giảm bớt/sự làm dịu đi
+低能###ていのう###sự thiểu năng/sự khờ dại/sự kém thông minh
+低潮###ていちょう###Thủy triều thấp
+低声###ていせい###giọng thấp
+低俗###ていぞく###sự thô tục
+低地###ていち###đất thấp
+低度###ていど###bậc thấp
+低迷###ていめい###sự mờ mịt
+低木###ていぼく###Bụi rậm/bụi cây
+低落###ていらく###sự rơi xuống/sự hạ xuống
+低利###ていり###lãi thấp
+低率###ていりつ###tỷ lệ thấp
+最低###さいてい###sự thấp nhất/sự tồi nhất/sự ít nhất/sự tối thiểu
+高低###たかひく###cao và thấp/lên và xuống/dao động/biến động/cao thấp/lên xuống/trầm bổng/mấp mô/lồi lõm
+中低###なかびく###thấp và trung bình/ trung hạ lưu

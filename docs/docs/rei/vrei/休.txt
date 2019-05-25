@@ -1,0 +1,26 @@
+kunyomi
+休む###やすむ###Nghỉ
+休める###やすめる###Cho nghỉ
+休まる###やすまる###Được nghỉ
+onyomi
+代休###だいきゅう###Nghỉ bù
+休憩###きゅうけい###Nghỉ ngơi
+休戦###きゅうせん###Sự ngừng bắn### đình chiến
+休暇###きゅうか###kỳ nghỉ; ngày nghỉ; sự nghỉ phép
+休学###きゅうがく###sự nghỉ học thời gian dài (vì bệnh ...)
+休業###きゅうぎょう###sự ngừng hoạt động (kinh doanh) (công ty### cửa hàng ...)
+運休###うんきゅう###việc ngừng vận hành/tạm nghỉ/ngừng hoạt động
+休講###きゅうけい###sự nghỉ ngơi
+休止###きゅうし###sự ngừng lại/sự đình chỉ/sự tạm nghỉ/sự tạm ngừng/ngừng lại/đình chỉ/tạm nghỉ/tạm ngừng
+休職###きゅうしょく###tạm nghỉ việc
+休息###きゅうそく###nghỉ giải lao/nghỉ ngơi
+休校###きゅうこう###sự nghỉ học/nghỉ học
+休養###きゅうよう###sự an dưỡng/an dưỡng/nghỉ ngơi/tĩnh dưỡng
+産休###さんきゅう###nghỉ thai sản
+週休###しゅうきゅう###kì nghỉ hàng tuần
+代休###だいきゅう###nghỉ bù
+定休###ていきゅう###ngày nghỉ được quy định
+無休###むきゅう###sự không ngừng/sự không nghỉ/sự không có ngày nghỉ
+遊休###ゆうきゅう###tình trạng nhàn rỗi
+休日###きゅうじつ###ngày nghỉ
+連休###れんきゅう###kỳ nghỉ/đợt nghỉ

@@ -1,0 +1,34 @@
+kunyomi
+角###つの###sừng
+角###かど###góc
+onyomi
+角度###かくど###góc độ
+角界###かくかい###giới sumo
+鋭角###えいかく###góc nhọn
+外角###がいかく###góc ngoài
+街角###まちかど###góc đường
+角界###かっかい###thế giới sumo/giới sumo
+角行###かくぎょう###con Hậu (cờ vua)
+角錐###かくすい###hình lăng trụ
+角柱###かくばしら###hình lăng trụ
+角笛###つのぶえ###kèn
+角膜###かくまく###màng sừng/giác mạc
+口角###こうかく###khoé miệng
+広角###こうかく###Góc rộng
+錯角###さっかく###góc so le
+三角###さんかく###tam giác/hình tam giác
+四角###しかく###hình tứ giác/tứ giác
+斜角###しゃかく###góc nghiêng
+触角###しょっかく###xúc giác
+折角###せっかく###sự lao tâm lao sức/sự khó nhọc/sự cố công
+多角###たかく###đa giác/nhiều góc độ/nhiều phương diện
+直角###ちょっかく###góc vuông
+兎角###とかく###trong bất cứ trường hợp nào
+等角###とうかく###góc bằng nhau
+鈍角###どんかく###góc tù
+内角###ないかく###Góc trong (bóng chày)
+麦角###ばっかく###Bệnh nấm lúa
+半角###はんかく###ký tự một byte
+方角###ほうがく###phương hướng/phương giác
+岬角###こうかく###mũi đất/doi đất/chỗ lồi lên/chỗ lồi
+六角###ろっかく###lục giác

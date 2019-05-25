@@ -1,0 +1,5 @@
+kunyomi
+矢###や###Cây tên
+onyomi
+弓矢###きゅうし###Cung và mũi tên
+矢印###やじるし###mũi tên chỉ hướng

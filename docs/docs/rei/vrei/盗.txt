@@ -1,0 +1,19 @@
+kunyomi
+盗む###ぬすむ###Ăn cắp
+onyomi
+盗作###とうさく###Đạo văn
+盗癖###とうへき###Thói ăn cắp vặt
+盗難###とうなん###Vụ trộm### vụ ăn cắp
+強盗###ごうとう###thảo khấu tên trộm sự ăn cướp/sự ăn trộm/ăn cướp/ăn trộm/trộm cướp/cướpc/vụ cướp
+窃盗###せっとう###sự trộm cắp
+盗犯###とうはん###sự ăn trộm/sự ăn cắp
+盗心###とうしん###Ý đồ ăn trộm
+盗人###とうじん###Kẻ trộm/kẻ cắp/tên ăn trộm
+盗賊###とうぞく###lục lâm kẻ trộm/kẻ cắp
+盗掘###とうくつ###sự đào trộm
+盗聴###とうちょう###sự nghe trộm (điện thoại)
+盗電###とうでん###sự câu trộm điện
+盗伐###とうばつ###sự chặt trộm
+盗品###とうひん###đồ bị ăn cắp
+盗用###とうよう###sự tham ô/sự gian lận/đạo văn
+盗塁###とうるい###Sự ăn trộm

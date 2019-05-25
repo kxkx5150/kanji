@@ -1,0 +1,11 @@
+kunyomi
+申す###もうす###Được gọi là### tên là
+申込###もうしこみ###Đăng ký### ghi danh### chào hàng### …
+申し合わせ###もうしあわせ###Sự sắp xếp### thu xếp### hẹn gặp
+onyomi
+申請###しんせい###Sự thỉnh cầu### yêu cầu
+申告###しんこく###Giấy khai### trình báo### khai báo
+上申###じょうしん###sự đề xuất/sự báo cáo với cấp trên.
+答申###とうしん###thông báo/trả lời
+内申###ないしん###báo cáo nội bộ
+庚申###こうしん###Canh Thân

@@ -1,0 +1,82 @@
+kunyomi
+年###とし###Tuổi### năm
+年上###としうえ###Nhiều tuổi hơn
+年下###としした###Ít tuổi hơn
+onyomi
+年齢###ねんれい###Tuổi
+年末###ねんまつ###Cuối năm
+少年###しょうねん###Thiếu niên### nam nhi
+初年###しょねん###Năm đầu tiên
+年々###ねんねん###Mỗi năm
+年賀状###ねんがじょう###Thiệp năm mới
+閏年###じゅんねん###năm nhuận
+往年###おうねん###năm xưa
+学年###がくねん###năm học
+客年###きゃくねん###năm ngoái
+昨年###さくねん###năm qua
+元年###がんねん###năm đầu tiên của một thời kỳ một nhà vua trị vì
+光年###こうねん###năm ánh sáng
+行年###ぎょうねん###tuổi khi chết đi/tuổi hưởng thọ
+今年###こんねん###năm nay
+新年###しんねん###tết
+成年###せいねん###thành niên/sang tuổi trở thành người lớn
+青年###せいねん###trai trẻ
+昔年###せきねん###năm xưa
+前年###ぜんねん###năm trước
+壮年###そうねん###tráng niên
+中年###ちゅうねん###trung niên
+丁年###ていねん###tuổi thành niên
+長年###えいねん###nhiều năm
+定年###ていねん###tuổi về hưu
+同年###どうねん###bạn đồng niên
+年賀###ねんが###ít tuổi hơn
+年会###ねんかい###hội nghị thường niên
+年額###ねんがく###kim ngạch theo năm
+年刊###ねんかん###sách xuất bản hàng năm
+年鑑###ねんかん###tuổi/niên giám
+年間###ねんかん###niên khóa
+年忌###ねんき###ngày giỗ
+年給###ねんきゅう###Tiền lương hàng năm
+年月###ねんげつ###nhiều năm lâu nay
+年限###ねんげん###niên hạn
+年金###ねんきん###tiền trợ cấp hàng năm
+年功###ねんこう###công lao nhiều năm công tác
+年貢###ねんぐ###tiền/vật cống hàng năm
+年号###ねんごう###năm/niên hiệu
+年初###ねんしょ###đầu năm
+年差###ねんさ###Sự biến đổi hàng năm
+年産###ねんさん###Sự sản xuất hàng năm
+年始###ねんし###đầu năm
+年少###ねんしょう###thiếu niên
+年次###ねんじ###Theo thứ tự thời gian
+年数###ねんすう###số năm
+年税###ねんぜい###Thuế hàng năm
+年租###ねんそ###Thuế hàng năm
+年代###ねんだい###tuổi
+年端###ねんし###tuổi tác
+年中###ねんじゅう###suốt cả năm
+年長###ねんちょう###lớn tuổi
+年度###ねんど###niên khóa
+年内###ねんない###trong năm
+半年###はんねん###nửa năm
+年配###ねんぱい###có tuổi
+年表###ねんぴょう###niên biểu
+年譜###ねんぷ###sơ yếu lí lịch
+年分###ねんぶん###Số lượng theo năm
+年甫###ねんぽ###đầu năm
+年俸###ねんぽう###lương bổng hàng năm
+年報###ねんぽう###báo cáo hàng năm
+年末###ねんまつ###cuối năm
+年利###ねんり###tỷ lệ lãi năm
+年率###ねんりつ###tỷ lệ lãi năm
+年輪###ねんりん###vòng năm (tính tuổi cây)
+年礼###ねんれい###lời chào năm mới
+百年###ひゃくねん###Thế kỷ/trăm năm
+平年###へいねん###thường niên/trung bình một năm
+本年###ほんねん###năm nay
+明年###みょうねん###năm sau/năm tới
+幼年###ようねん###tuổi nhỏ
+留年###りゅうねん###sự lưu ban/sự đúp lớp
+例年###れいねん###năm lịch biểu
+来年###らいねん###sang năm
+老年###ろうねん###tuổi già

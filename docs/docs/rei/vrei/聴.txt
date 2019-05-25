@@ -1,0 +1,23 @@
+kunyomi
+聴く###きく###Nghe
+onyomi
+聴取###ちょうしゅ###Sự nghe
+聴衆###ちょうしゅう###Thính giả
+聴診器###ちょうしんき###Ống nghe (bác sĩ)
+聴力###ちょうりょく###Sức nghe### thính lực
+聴視者###ちょうししゃ###Khán giả truyền hình
+謹聴###きんちょう###sự chăm chú nghe/sự lắng nghe
+傾聴###けいちょう###sự chú ý nghe/sự lắng nghe/sự dỏng tai nghe
+幻聴###げんちょう###Ảo giác thính giác
+聴覚###ちょうかく###thính giác
+聴許###ちょうきょ###Sự cho phép
+聴講###ちょうこう###sự nghe giảng
+聴視###ちょうし###việc nghe ngóng và quan sát
+聴従###ちょうじゅう###sự nghe theo lời khuyên bảo
+聴診###ちょうしん###Sự nghe để khám bệnh
+聴聞###ちょうもん###sự nghe
+聴力###ちょうりょく###khả năng nghe
+天聴###てんちょう###trí tuệ của vua
+盗聴###とうちょう###sự nghe trộm (điện thoại)
+難聴###なんちょう###Sự điếc
+傍聴###ぼうちょう###sự nghe/việc nghe

@@ -1,0 +1,30 @@
+kunyomi
+説く###とく###Giải thích### phát biểu### thuyết phục
+onyomi
+説明###せつめい###Sự giải thích
+小説###しょうせつ###Tiểu thuyết
+伝説###でんせつ###Truyền thuyết
+演説###えんぜつ###Sự diễn thuyết
+説法###せっぽう###Sự thuyết pháp
+説教###せっきょう###Sự thuyết giáo
+説得###せっとく###Sự thuyết phục
+異説###いせつ###tà giáo
+臆説###おくせつ###sự phỏng đoán/giả thuyết
+仮説###かせつ###sự phỏng đoán/giả thuyết
+解説###かいせつ###sự giải thích/giải thích
+概説###がいせつ###sự phác thảo/phác thảo/sự vạch ra/vạch ra
+学説###がくせつ###lý thuyết
+逆説###ぎゃくせつ###ý kiến ngược đời/nghịch biện/nghịch lý/thuyết đảo ngược
+口説###くぜつ###nói ngọt/dụ dỗ/thuyết phục/thuyết khách
+講説###こうせつ###sự thuyết giảng/thuyết giảng/giáo huấn
+細説###さいせつ###giải thích chi tiết
+流説###るせつ###lưu truyền
+社説###しゃせつ###xã thuyết
+邪説###じゃせつ###tà thuyết
+諸説###しょせつ###ý kiến/ thuyết/ câu chuyện
+序説###じょせつ###sự giới thiệu
+説諭###せつゆ###sự thuyết phục/sự làm cho người ta tin/ sự hướng dẫn
+浮説###ふせつ###Tiếng đồn không có căn cứ
+仏説###ぶっせつ###phật thuyết
+遊説###ゆうぜい###sự đi khắp nơi để diễn thuyết/cuộc vận động tranh cử
+論説###ろんせつ###luận thuyết

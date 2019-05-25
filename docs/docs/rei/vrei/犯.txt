@@ -1,0 +1,13 @@
+kunyomi
+犯す###おかす###Vi phạm
+onyomi
+犯人###はんにん###Phạm nhân
+犯意###はんい###Ác tâm### ác ý
+共犯###きょうはん###sự tòng phạm/tòng phạm
+侵犯###しんぱん###xâm phạm
+犯行###はんこう###sự phạm tội/hành vi phạm tội
+犯罪###はんざい###tù tội ###tội phạm ###tội ác
+再犯###さいはん###tái phạm ###tái bản
+重犯###ちょうはん###trọng tội
+盗犯###とうはん###sự ăn trộm/sự ăn cắp
+防犯###ぼうはん###sự phòng chống tội phạm/việc phòng chống tội phạm

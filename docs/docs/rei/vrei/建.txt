@@ -1,0 +1,11 @@
+kunyomi
+建てる###たてる###Xây cất
+建つ###たつ###Được xây
+onyomi
+建国際###けんこくさい###Quốc khánh
+建築###けんちく###Xây dựng
+建立###こんりゅう###Xây dựng chùa chiền
+建設###けんせつ###sự kiến thiết/sự xây dựng
+建物###たてもの###tòa nhà/ngôi nhà/công trình kiến trúc
+再建###さいけん###さいこん###sự xây dựng lại
+封建###ほうけん###phong kiến

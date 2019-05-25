@@ -1,0 +1,96 @@
+kunyomi
+国###くに###Đất nước
+onyomi
+国歌###こっか###Quốc ca
+国旗###こっき###Quốc kì
+国交###こっこう###Quan hệ ngoại giao
+国王###こくおう###vua
+国家###こっか###phát biểu; nước; dân tộc
+国会###こっかい###nghị viện; đại hội
+愛国###あいこく###yêu nước/ái quốc
+異国###いこく###dị quốc ###đất nước xa lạ/nước ngoài/xứ lạ
+遠国###おんごく###viễn xứ
+王国###おうこく###vương quốc/đất nước theo chế độ quân chủ
+開国###かいこく###sự khai quốc/khai quốc/khai sinh ra đất nước
+外国###がいこく###xá ###nước ngoài
+韓国###かんこく###hàn quốc ###hàn ###đại hàn
+帰国###きこく###sự về nước/sự về tổ quốc/về nước/về tổ quốc
+貴国###きこく###quí quốc
+侯国###こうこく###Lãnh địa của hoàng thân/hầu quốc
+救国###きゅうこく###cứu quốc
+強国###きょうこく###cường quốc/nước mạnh
+故国###ここく###cố quốc/nơi sinh/quê hương/quê nhà
+公国###こうこく###lãnh địa của quận công/công quốc
+皇国###こうこく###đế quốc Nhật
+国威###こくい###Vinh quang quốc gia/niềm tự hào của đất nước/ quốc uy
+国営###こくえい###quốc doanh/nhà nước
+国外###こくがい###bên ngoài nước/nước ngoài
+国境###くにざかい###biên giới quốc gia
+国教###こっきょう###quốc giáo
+国禁###こっきん###quốc cấm
+国庫###こっこ###kho bạc nhà nước/quốc khố
+国号###こくごう###quốc hiệu
+国債###こくさい###quốc trái/trái phiếu nhà nước/công trái ###chứng khoán nhà nước
+国際###こくさい###quốc tế
+国策###こくさく###quốc sách
+国産###こくさん###sự sản xuất trong nước
+国史###こくし###quốc sử
+国事###こくじ###quốc sự
+国字###こくじ###chữ quốc ngữ/chữ Hán do người Nhật tạo ra
+国璽###こくじ###quốc tỷ/con dấu của nước nhà
+国勢###こくせい###tình hình đất nước/dân số
+国税###こくぜい###thuế quốc gia
+国籍###こくせき###quốc tịch
+国葬###こくそう###quốc tang
+国賊###こくぞく###quốc tặc/kẻ thù của quốc gia/kẻ phản bội quốc gia
+国鉄###こくてつ###đường sắt nhà nước/đường sắt quốc gia
+国電###こくでん###xe điện do đường sắt nhà nước kinh doanh
+国土###こくど###sông núi ###sơn hà ###nước non ###non sông ###non nước ###lãnh thổ quốc gia/lãnh thổ ###đất nước ###đất đai
+国語###こくご###quốc ngữ/tiếng/thứ tiếng ###quốc âm
+国道###こくどう###đường quốc lộ/quốc lộ
+国内###こくない###trong nước/quốc nội
+国難###こくなん###quốc nạn
+国費###こくひ###quốc phí/chi phí của quốc gia ###quốc dụng
+国富###こくふ###sự giàu có của quốc gia/giàu có
+国宝###こくほう###quốc bảo/kho báu của quốc gia
+国法###こくほう###quốc pháp ###luật quốc gia
+国防###こくぼう###quốc phòng/sự quốc phòng
+国民###こくみん###thứ dân ###quốc dân/nhân dân
+国務###こくむ###quốc vụ ###công việc quốc gia đại sự
+国名###こくめい###tên quốc gia/tên nước
+国有###こくゆう###quốc hữu/sở hữu quốc gia
+国立###こくりつ###quốc lập/quốc gia
+国力###こくりょく###sức mạnh của quốc gia/tiềm lực của quốc gia/sức mạnh
+国連###こくれん###liên hợp quốc ###liên hiệp quốc
+鎖国###さこく###bế quan tỏa cảng
+四国###しこく###sikoku/Shikoku Ghi chú: tên một trong 4 đảo lớn của Nhật
+自国###じこく###nước tôi
+隣国###りんこく###nước láng giềng
+出国###しゅつごく###xuất cảnh ###việc rời khỏi đất nước
+殉国###じゅんこく###sự chết vì đất nước/sự hy sinh vì tổ quốc/hy sinh vì tổ quốc
+諸国###しょこく###nhiều nước/các nước
+神国###しんこく###thần quốc
+生国###しょうこく###bản quán
+全国###ぜんごく###toàn quốc ###khắp nước
+祖国###そこく###xã tắc ###quê cha đất mẹ/Tổ quốc
+属国###ぞっこく###nước lệ thuộc
+他国###たこく###tha phương ###tha hương ###quốc gia khác/tỉnh khác
+大国###たいこく###nước lớn/cường quốc
+中国###ちゅうごく###Trung Quốc ###nước Trung Quốc/tên một hòn đảo phía Tây Nam Nhật Bản.
+帝国###ていこく###đế quốc
+敵国###てっこく###nước địch
+天国###てんごく###thiên đường (thiên đàng)
+島国###とうごく###đảo quốc
+内国###ないこく###Trong nước
+南国###なんごく###các nước phía Nam
+入国###にゅうこく###sự nhập cảnh
+売国###ばいこく###sự bán nước
+仏国###ふっこく###Pháp/nước Pháp
+米国###べいこく###nước Mỹ
+母国###ぼこく###xứ sở ###nước ta ###mẫu quốc
+亡国###ぼうこく###vong quốc
+本国###ほんごく###bản quốc/nước tôi
+万国###ばんこく###tất cả các nước ###các nước/quốc tế
+憂国###ゆうこく###chủ nghĩa yêu nước/lòng yêu nước/lòng ái quốc
+立国###りっこく###lập quốc
+列国###れっこく###các nước

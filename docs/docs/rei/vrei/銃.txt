@@ -1,0 +1,14 @@
+kunyomi
+銃###つつ###Súng
+onyomi
+銃器###じゅうき###súng ống
+銃撃###じゅうげき###nổ súng
+銃殺###じゅうさつ###xử bắn
+機銃###きじゅう###súng máy
+小銃###しょうじゅう###súng trường
+短銃###たんじゅう###súng ngắn
+弔銃###ちょうじゅう###loạt súng bắn trong tang lễ/loạt súng chào vĩnh biệt
+鳥銃###ちょうじゅう###súng bắn chim
+銃身###じゅうしん###nòng
+銃砲###じゅうほう###trọng pháo
+猟銃###りょうじゅう###súng săn

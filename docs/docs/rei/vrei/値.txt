@@ -1,0 +1,20 @@
+kunyomi
+値段###ねだん###Giá cả
+値###あたい###Giá cả
+onyomi
+価値###かち###Giá trị
+数値###すうち###Giá trị bằng số
+安値###やすね###giá rẻ
+卸値###おろしね###giá bán buôn
+下値###したね###giá hạ
+始値###はじめね###giá khởi điểm
+終値###おわりね###giá đóng cửa/giá cuối ngày
+上値###うわね###yết giá cao
+値安###ねやす###Sự rẻ tiền
+値頃###ねごろ###Giá hợp lý
+値札###ねふだ###phiếu ghi giá
+値幅###ねはば###khoảng dao động của giá cả
+中値###なかね###giá trung bình
+底値###そこね###giá sàn
+買値###かいね###giá mua
+売値###うりね###giá bán

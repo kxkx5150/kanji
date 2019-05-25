@@ -1,0 +1,9 @@
+kunyomi
+愁い###うれい###Buồn rầu### khổ tâm
+愁える###うれえる###Buồn rầu### khổ tâm
+onyomi
+憂愁###ゆうしゅう###Sự u sầu### nỗi sầu khổ### sự buồn rầu
+哀愁###あいしゅう###Nỗi sầu buồn### bi ai### nỗi đau
+旅愁###りょしゅう###Nỗi cô đơn trong hành trình
+郷愁###きょうしゅう###nỗi nhớ nhà/nỗi sầu xa xứ/nỗi nhớ
+悲愁###ひしゅう###Sự đau buồn

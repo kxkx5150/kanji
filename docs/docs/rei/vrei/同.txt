@@ -1,0 +1,42 @@
+kunyomi
+同じ###おなじ###Cùng### đều
+onyomi
+同僚###どうりょう###Đồng nghiệp
+同意###どうい###Đồng ý
+同情###どうじょう###Cảm thông### đồng cảm
+一同###いちどう###cả/tất cả
+会同###かいどう###hội đồng
+共同###きょうどう###cộng đồng/sự liên hiệp/sự liên đới
+合同###ごうどう###hợp đồng ### kết hợp/chung/cùng
+大同###だいどう###đại đồng
+同一###どういつ###sự đồng nhất
+同音###どうおん###sự đồng âm
+同化###どうか###sự đồng hoá ###đồng hóa
+同姓###どうせい###sự cùng họ
+同感###どうかん###sự cùng ý kiến/sự cùng suy nghĩ
+同期###どうき###sự cùng năm/sự cùng khóa
+同居###どうきょ###việc sống cùng nhau
+同郷###どうきょう###đồng hương ###bạn đồng hương
+同権###どうけん###bình quyền ###bình đẳng
+同行###どうぎょう###どうこう###tuỳ tùng ###kèm cặp ###đồng hành
+同士###どうし###hội/nhóm
+同志###どうし###đồng chí
+同質###どうしつ###đồng chất
+同上###どうじょう###như trên
+同棲###どうせい###sự sống chung/sự sống cùng nhau
+同然###どうぜん###Tốt như
+同族###どうぞく###nòi giống
+同等###どうとう###đồng đẳng/bình đẳng/tương đương
+同年###どうねん###đồng niên ###bạn đồng niên
+同胞###はらから###đồng bào/người cùng một nước
+同伴###どうはん###cùng với/sự đi cùng với
+同病###どうびょう###đồng bệnh (đồng bịnh)
+同封###どうふう###sự gửi kèm theo
+同盟###どうめい###liên minh ###đồng minh
+同門###どうもん###đồng môn
+同様###どうよう###tương đồng ###sự giống/sự tương tự
+同時###どうじ###cùng một lúc/cùng lúc/đồng thời
+同類###どうるい###đồng loại ###cùng loại
+同列###どうれつ###cùng mức/cùng hàng
+不同###ふどう###bất đồng
+混同###こんどう###sự lẫn lộn/sự nhầm lẫn

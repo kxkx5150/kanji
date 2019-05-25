@@ -1,0 +1,17 @@
+kunyomi
+辞める###やめる###Bỏ### thôi
+onyomi
+辞書###じしょ###Từ điển
+辞任###じにん###Từ chức
+辞表###じひょう###Đơn từ chức
+訓辞###くんじ###lời huấn thị/lời chỉ thị
+辞職###じしょく###sự từ chức/sự thôi việc/từ chức/thôi việc
+辞退###じたい###sự khước từ/sự từ chối/từ chối
+辞典###ことばてん###tự điển
+式辞###しきじ###việc đọc diễn văn
+謝辞###しゃじ###từ tạ
+祝辞###しゅくじ###lời chúc mừng/diễn văn chúc mừng
+世辞###せじ###sự tâng bốc/sự tán dương/sự ca tụng
+弔辞###ちょうじ###điếu văn
+悼辞###とうじ###lời chia buồn
+美辞###びじ###Ngôn từ hoa mỹ

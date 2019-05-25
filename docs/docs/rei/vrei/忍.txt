@@ -1,0 +1,12 @@
+kunyomi
+忍ぶ###しのぶ###Chịu đựng
+忍ばせる###しのばせる###Giấu kín
+onyomi
+忍従###にんじゅう###Sự quy phục### sự phục tùng
+忍者###にんじゃ###Ninja của Nhật
+忍耐###にんたい###Sự nhẫn nại### sự chịu đựng
+堪忍###かんにん###sự nhẫn nại/sự chịu đựng
+残忍###ざんにん###sự tàn nhẫn/tàn nhẫn
+忍苦###にんく###sự chịu khổ/sự khổ ải
+忍術###にんじゅつ###Kỹ thuật ngụy trang### ẩn mình### tấn công kẻ thù một cách bí mật của Ninja
+忍法###にんぽう###Những phương pháp### thủ thuật của Ninja

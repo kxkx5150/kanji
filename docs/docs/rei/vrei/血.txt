@@ -1,0 +1,37 @@
+kunyomi
+血###ち###Máu
+onyomi
+血圧###けつあつ###Huyết áp
+血液###けつえき###Máu### huyết
+血液型###けつえきがた###Nhóm máu### loại máu
+補血剤###ほけつざい###Thuốc bổ máu
+献血###けんけつ###Hiến máu
+血管###けっかん###Huyết quản### mạch máu
+白血球###はっけっきゅう###Bạch huyết cầu
+悪血###おけつ###Máu bị nhiễm trùng
+凝血###ぎょうけつ###máu đông
+血圧###けつあつ###huyết dịch
+血液###けつえき###máu
+血縁###けつえん###sự cùng dòng máu/sự cùng nòi giống/cùng dòng máu/cùng nòi giống/huyết thống
+血清###けっせい###huyết thanh
+血痕###けっこん###vết máu
+血書###けっしょ###huyết thư
+血糖###けっとう###đường trong máu/lượng đường trong máu
+血戦###けっせん###huyết chiến
+血族###けつぞく###huyết thống
+血統###けっとう###huyết thống
+血脈###けちみゃく###mạch máu
+血涙###けつるい###máu và nước mắt/nước mắt buồn đau/nước mắt của nỗi đau vô cùng/nước mắt cay đắng
+膏血###こうけつ###mồ hôi và xương máu/mồ hôi và nước mắt
+黒血###くろち###Máu đen/máu tĩnh mạch
+流血###りゅうけつ###sự đổ máu/sự chém giết
+充血###じゅうけつ###sung huyết
+出血###しゅっけつ###sự chảy máu/sự xuất huyết/sự ra máu
+生血###なまち###Máu tươi
+鉄血###てっけつ###vũ lực tàn bạo (chính sách)
+吐血###とけつ###sự thổ huyết
+熱血###ねっけつ###nhiệt huyết/bầu máu nóng
+鼻血###はなじ###sự chảy máu cam
+貧血###ひんけつ###thiếu máu
+混血###こんけつ###máu lai
+輸血###ゆけつ###truyền máu

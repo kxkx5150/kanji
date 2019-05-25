@@ -1,0 +1,7 @@
+kunyomi
+皆###みな###Mọi người
+onyomi
+皆勤###かいきん###Đi học đầy đủ
+皆無###かいむ###Không có gì### con số 0
+皆目###かいもく###Hoàn toàn
+皆様###みなさま###tất cả mọi người (cách xưng hô kính trọng)

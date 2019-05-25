@@ -1,0 +1,63 @@
+kunyomi
+文###ふみ###Thư từ
+onyomi
+文化###ぶんか###Văn hóa
+文学###ぶんがく###Văn học
+文芸###ぶんげい###Văn nghệ
+文書###ぶんしょ###Bài văn### câu văn
+文字###もんじ/もじ###Chữ### văn tự
+文部省###もんぶしょう###Bộ giáo dục
+韻文###いんぶん###vận văn/văn vần/bài thơ
+英文###えいぶん###câu tiếng Anh
+漢文###かんぶん###thơ văn Nhật Bản mô phỏng thơ văn Trung Quốc
+原文###げんぶん###văn chương ###đoạn văn gốc/nguyên văn/bản gốc
+古文###こもん###cổ văn/văn học cổ điển
+構文###こうぶん###cú pháp
+能文###のうぶん###Có kỹ năng viết
+複文###ふくぶん###câu phức
+祭文###さいもん###lễ văn
+作文###さくぶん###さくもん###sự viết văn/sự làm văn/đoạn văn
+散文###さんぶん###văn xuôi
+序文###じょぶん###tựa ###phàm lệ ###lời tựa ###lời nói đầu
+条文###じょうぶん###điều khoản (hiệp ước### luật pháp)
+誓文###せいもん###lời thề được viết bằng văn bản
+碑文###ひぶん###văn bia
+短文###たんぶん###Câu văn ngắn/Đoạn văn ngắn
+注文###ちゅうもん###sự đặt hàng/đơn đặt hàng/việc gọi món (ở nhà hàng)
+弔文###ちょうぶん###điếu văn
+長文###ちょうぶん###thư
+天文###てんもん###てんぶん###Thiên văn học
+電文###でんぶん###điện văn ###Bức điện
+縄文###じょうもん###thời kỳ Jomon
+難文###なんぶん###Câu khó
+文科###ぶんか###văn khoa ###khoa văn
+文楽###ぶんらく###nhà hát múa rối
+文句###もんく###sự kêu ca/sự phàn nàn/sự than phiền/kêu ca/phàn nàn/than phiền
+文系###ぶんけい###khoa học xã hội
+文献###ぶんけん###văn kiện
+文庫###ぶんこ###bảo tàng sách/văn khố/tàng thư
+文豪###ぶんごう###văn hoá
+文士###ぶんし###văn sĩ
+文集###ぶんしゅう###tập sách
+文章###ぶんしょう###văn hào ###văn chương
+文体###ぶんたい###văn thể
+文壇###ぶんだん###văn đàn
+文鎮###ぶんちん###bàn thẩm
+文通###ぶんつう###thông tin/thông báo
+文頭###ぶんとう###đầu câu văn
+文語###ぶんご###văn viết/ngôn ngữ viết
+文筆###ぶんぴつ###việc viết văn
+文法###ぶんぽう###văn pháp ###văn phạm ###ngữ pháp
+文末###ぶんまつ###cuối câu văn
+文脈###ぶんみゃく###văn cảnh/ngữ cảnh/mạch văn/bối cảnh
+文明###ぶんめい###văn minh/sự văn minh/nền văn minh
+文盲###もんもう###sự mù chữ
+平文###ひらぶん###ひらもん###văn bản thuần tuý
+本文###ほんもん###nguyên văn
+末文###まつぶん###cuối đoạn văn
+訳文###やくぶん###bản dịch
+律文###りつぶん###mẫu câu
+例文###れいぶん###mẫu câu
+恋文###こいぶみ###bức thư tình/thư tình/lá thư tình
+論文###ろんぶん###luận án/luận văn
+和文###わぶん###tiếng Nhật/văn Nhật

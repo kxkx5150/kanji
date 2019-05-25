@@ -1,0 +1,10 @@
+kunyomi
+違う###ちがう###khác; khác nhau
+違える###ちがえる###nhầm lẫn
+onyomi
+違反###いはん###vi phạm
+違法###いほう###vi phạm luật pháp
+違憲###いけん###sự vi phạm hiến pháp
+違約###いやく###vi phạm hợp đồng
+非違###ひい###Sự bất hợp pháp
+相違###そうい###sự khác nhau

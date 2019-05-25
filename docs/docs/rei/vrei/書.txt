@@ -1,0 +1,60 @@
+kunyomi
+書く###かく###Viết
+葉書###はがき###Bưu thiếp
+onyomi
+書簡###しょかん###Thư từ
+書記###しょき###Thư ký
+書籍###しょせき###Sách vở
+書店###しょてん###Nhà sách### hiệu sách
+書名###しょめい###Tựa sách### tên sách
+証明書###しょうめいしょ###Giấy chứng minh nhân dân
+報告書###ほうこくしょ###Bản báo cáo
+履歴書###りれきしょ###Bản lý lịch
+書類###しょるい###Tài liệu
+愛書###あいしょ###Quyển sách yêu quý/việc thích đọc sách
+遺書###いしょ###di thư
+覚書###おぼえがき###bản ghi nhớ
+清書###せいしょ###bản copy sạch
+願書###がんしょ###đơn nhập học/đơn xin nhập học
+血書###けっしょ###huyết thư
+肩書###かたがき###chức vị/chức tước/học hàm/học vị/chức danh
+原書###げんしょ###tài liệu gốc/văn bản gốc/bản gốc
+司書###ししょ###người quản lý thư viện/thủ thư
+史書###ししょ###sử sách
+四書###ししょ###tứ thư
+璽書###じしょ###văn kiện có đóng triện của vua
+辞書###じしょ###từ điển
+書斎###しょさい###thư phòng
+書式###しょしき###khuôn thức/dạng mẫu
+書生###しょせい###thư sinh
+書道###しょどう###thư đạo/thuật viết chữ đẹp
+書評###しょひょう###bài phê bình sách
+書物###しょもつ###sách vở
+書誌###しょし###thư mục
+書架###しょか###giá sách/va li đựng sách
+書留###かきとめ###gửi đảm bảo
+書類###しょるい###tài liệu/giấy tờ
+証書###しょうしょ###chứng từ
+詔書###しょうしょ###hiếu chỉ/văn bản biểu thị ý chí của thiên hoàng
+信書###しんしょ###thư tín
+図書###としょ###sách
+聖書###せいしょ###thánh kinh
+全書###ぜんしょ###chuyên luận/luận thuyết/luận án
+草書###そうしょ###văn bản viết bằng chữ thảo
+蔵書###ぞうしょ###việc sưu tập sách/bộ sưu tập sách
+著書###ちょしょ###tác phẩm
+調書###ちょうしょ###bản điều tra
+勅書###ちょくしょ###sắc thư
+珍書###ちんしょ###sách quý
+投書###とうしょ###thư bạn đọc/bài cộng tác cho báo/thư gửi người biên tập
+読書###とくしょ###sự đọc sách/việc đọc sách
+念書###ねんしょ###Bản ghi nhớ
+白書###はくしょ###sách trắng
+秘書###ひしょ###thư ký
+封書###ふうしょ###thư đã cho vào trong phong bì dán kín
+仏書###ぶっしょ###sách Phật
+文書###もんじょ###văn kiện/giấy tờ
+洋書###ようしょ###sách Tây
+密書###みっしょ###mật thư
+葉書###はがき###bưu thiếp
+裏書###うらがき###ký hậu

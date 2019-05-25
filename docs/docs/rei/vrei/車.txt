@@ -1,0 +1,42 @@
+kunyomi
+車###くるま###xe hơi
+onyomi
+車庫###しゃこ###nhà để xe
+車窓###しゃそう###cửa sổ xe
+愛車###あいしゃ###Chiếc xe yêu
+下車###げしゃ###sự xuống tàu xe/xuống xe/xuống tàu
+貨車###かしゃ###xe hàng
+外車###がいしゃ###xe nước ngoài
+滑車###かっしゃ###ròng rọc
+汽車###きしゃ###xe lửa
+客車###かくしゃ###xe khách/xe chở khách/chuyến xe khách
+牛車###うしぐるま###xe bò
+空車###あきぐるま###xe bỏ không/xe không có khách/xe không/xe trống
+検車###けんしゃ###sự kiểm định ô tô xe máy/đăng kiểm ô tô xe máy/kiểm định ô tô xe máy
+口車###くちぐるま###sự tán tỉnh/sự phỉnh phờ/tán tỉnh/phỉnh phờ/lừa phỉnh
+糸車###いとぐるま###xa kéo sợi/máy guồng sợi/máy kéo chỉ
+歯車###はぐるま###bánh xe răng cưa
+車線###しゃせん###làn xe
+車庫###しゃこ###nhà xe
+車軸###しゃじく###trục xe (kỹ thuật)
+車掌###しゃしょう###người phục vụ/người bán vé
+車窓###しゃそう###cửa sổ xe
+車体###しゃたい###khung xe
+車道###しゃどう###đường xe chạy
+車内###しゃない###trong xe
+車両###しゃりょう###xe cộ/phương tiện giao thông
+車輪###しゃりん###nỗ lực cố gắng
+手車###てぐるま###xe đẩy/xe cút kít/ xe ba gác
+乗車###じょうしゃ###phương tiện giao thông
+水車###すいしゃ###guồng nước
+戦車###せんしゃ###xe tăng
+台車###だいしゃ###xe đẩy
+駐車###ちゅうしゃ###sự đỗ xe
+停車###ていしゃ###sự dừng xe
+猫車###ねこぐるま###Xe cút kít
+電車###でんしゃ###xe điện
+馬車###ばしゃ###xe ngựa
+拍車###はくしゃ###sự tăng tốc độ
+発車###はっしゃ###xe khởi hành
+風車###ふうしゃ###chong chóng
+列車###れっしゃ###LIỆT XA

@@ -1,0 +1,10 @@
+kunyomi
+煮る###にる###Nấu
+煮える###にえる###Chín### nhừ
+onyomi
+煮沸###しゃふつ###Đun sôi
+煮魚###にざかな###Món cá được nấu bằng Shoyu (nước tương)
+煮汁###にじる###Nước dùng (nước sau khi đã luộc### ninh thức ăn)
+煮豆###にまめ###đậu ninh
+煮物###にもの###thức ăn đã được ninh### hầm
+煮方###にかた###Phương pháp nấu ăn

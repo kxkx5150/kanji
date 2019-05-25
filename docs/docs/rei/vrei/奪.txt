@@ -1,0 +1,9 @@
+kunyomi
+奪う###うばう###Tước lấy### cướp
+onyomi
+争奪###そうだつ###Sự đấu tranh### cuộc chiến đấu
+奪取###だっしゅ###Tước đoạt
+奪回###だっかい###Đoạt lại
+強奪###ごうだつ###sự cướp/sự cướp bóc/sự cướp phá
+奪還###だっかん###sự lấy lại/đoạt lại
+略奪###りゃくだつ###sự cướp phá/sự cướp bóc/sự tước đoạt/sự ăn cướp

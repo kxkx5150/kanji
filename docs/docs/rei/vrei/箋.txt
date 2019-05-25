@@ -1,0 +1,4 @@
+onyomi
+付箋###ふせん###Giấy ghi chú
+便箋###びんせん###Văn phòng phẩm### giấy viết thư
+処方箋###しょほうせん###Toa thuốc

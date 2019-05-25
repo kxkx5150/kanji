@@ -1,0 +1,24 @@
+onyomi
+検討###けんとう###Bàn bạc### thảo luận
+検査###けんさ###Kiểm trav/n
+検定###けんてい###Kiểm định
+検疫###けんえき###kiểm dịch/sự kiểm dịch
+検閲###けんえつ###sự kiểm duyệt/sự duyệt/sự thẩm tra/sự phân tích tâm lý/sự kiểm tra tâm lý
+検挙###けんきょ###sự bắt giữ/bắt giữ/bắt
+検索###けんさく###tìm kiếm/truy tìm
+検察###けんさつ###sự kiểm sát/sự giám sát/kiểm sát/giám sát
+検算###けんざん###kiểm tra số học
+検事###けんじ###công tố viên/ủy viên công tố/kiểm sát viên
+検車###けんしゃ###sự kiểm định ô tô xe máy/đăng kiểm ô tô xe máy/kiểm định ô tô xe máy
+検出###けんしゅつ###kiểm soát
+検証###けんしょう###sự kiểm chứng/sự kiểm tra để chứng minh/sự đối chứng/kiểm chứng/kiểm tra để chứng minh/đối chứng
+検診###けんしん###sự khám bệnh/sự kiểm tra sức khoẻ/khám bệnh/kiểm tra sức khoẻ/khám
+検針###けんしん###kiểm định đồng hồ/kiểm tra đồng hồ
+検地###けんち###sự khảo sát đất đai/khảo sát đất đai/đo đạc đất đai
+検尿###けんにょう###sự phân tích ure trong nước tiểu/phân tích hàm lượng ure trong nước tiểu
+検認###けんにん###sự kiểm nhận/kiểm nhận/xác nhận/kiểm chứng
+検番###けんばん###văn phòng gọi Geisha
+検品###けんぴん###sự kiểm tra thành phẩm/kiểm tra sản phẩm
+探検###たんけん###sự thám hiểm
+点検###てんけん###sự kiểm điểm/sự kiểm tra
+内検###ないけん###sự kiểm tra sơ bộ/sự xem xét trước

@@ -1,0 +1,15 @@
+onyomi
+貨車###かしゃ###Xe chở hàng### thùng xe chở hàng
+貨物###かもつ###Hàng hóa
+貨物船###かもつせん###Tàu chở hàng
+貨幣###かへい###Tiền đồng### tiền kim loại### tiền tệ
+雑貨###ざっか###Tạp hóa### tạp phẩm
+外貨###がいか###Ngoại tệ### hàng hóa nước ngoài
+通貨###つうか###Tiền tệ
+百貨店###ひゃっかてん###Cửa hàng bách hóa
+銀貨###ぎんか###tiền xu
+硬貨###こうか###tiền kim loại/đồng tiền
+雑貨###ざっか###tạp hoá
+滞貨###たいか###hàng ế
+銅貨###どうか###tiền đồng
+法貨###ほうか###giá trị lưu thông luật định

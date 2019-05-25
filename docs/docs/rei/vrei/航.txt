@@ -1,0 +1,13 @@
+onyomi
+航空###こうくう###Hàng không
+航海###こうかい###Đi biển### đi (tàu)
+運航###うんこう###Hoạt động
+往航###おうこう###chuyến đi
+帰航###きこう###chuyến về
+巡航###じゅんこう###đi tuần tiễu/đi du ngoạn
+渡航###とこう###việc đi du lịch xa bằng đường biển
+内航###ないこう###Đường cảng trong nước
+難航###なんこう###sự vượt biển khó khăn/chuyến đi biển khó khăn
+航行###こうこう###hàng không
+航路###こうろ###đường đi (trên không### trên biển)
+復航###ふっこう###chuyến về

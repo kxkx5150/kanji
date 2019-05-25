@@ -1,0 +1,29 @@
+kunyomi
+座る###すわる###Ngồi
+onyomi
+座席###ざせき###Chỗ ngồi
+座禅###ざぜん###Sự ngồi thiền
+座長###ざちょう###Chủ tọa
+縁座###えんざ###việc quy trách nhiệm cho người thân của tội phạm
+王座###おうざ###vương giả
+銀座###ぎんざ###Ginza
+口座###こうざ###tài khoản
+講座###こうざ###khóa học
+高座###こうざ###bục giảng
+座礁###ざしょう###mắc cạn
+座金###ざがね###bạc lót
+座高###ざこう###chiều cao khi ngồi
+座主###ざす###sư trụ trì
+座所###ざしょ###chỗ ngồi
+座職###ざしょく###công việc tĩnh tại
+座食###ざしょく###sự ăn không ngồi rồi
+座卓###ざたく###bàn thấp
+座談###ざだん###cuộc tọa đàm/sự tọa đàm
+座中###ざちゅう###hạng ###chỗ ngồi
+座標###ざひょう###tọa độ
+座敷###ざしき###phòng khách
+座薬###ざやく###thuốc nhét hậu môn
+星座###せいざ###tinh tú ###chòm sao
+正座###しょうざ###せいざ###sự ngồi ngay ngắn/kiểu ngồi chính toạ
+即座###そくざ###việc ứng khẩu/sự tùy ứng/việc ngay lập tức/sự thiếu chuẩn bị
+帝座###ていざ###Ngai vàng

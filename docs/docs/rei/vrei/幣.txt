@@ -1,0 +1,5 @@
+onyomi
+貨幣###かへい###tiền tệ### đồng tiền
+紙幣###しへい###tiền giấy
+造幣###ぞうへい###việc đúc tiền xu
+幣制###へいせい###chế độ tiền tệ

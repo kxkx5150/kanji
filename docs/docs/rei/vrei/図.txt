@@ -1,0 +1,33 @@
+kunyomi
+図る###はかる###Mưu tính### vẽ sơ đồ...
+onyomi
+地図###ちず###Bản đồ
+図書館###としょかん###Thư viện
+図面###ずめん###Bản vẽ
+図案###ずあん###thiết kế; phác họa
+図形###ずけい###xuất hiện
+図示###ずし###sự minh họa
+図式###ずしき###lên sơ đồ
+図書###としょ###đăng ký
+図説###ずせつ###sự giải thích bằng hình vẽ### sự minh họa bằng hình vẽ
+図体###ずうたい###cơ thể### thân thể
+図版###ずはん###sự minh họa; xuất hiện
+図学###ずがく###đồ thị
+図表###ずひょう###vẽ biểu đồ; sơ đồ; đồ thị
+意図###いと###ý đồ/mục đích/ý định
+海図###かいず###hải đồ
+絵図###えず###Sự minh họa
+企図###きと###dự án/chương trình/kế hoạch
+系図###けいず###sơ đồ gia tộc/phả hệ
+原図###げんず###bản vẽ gốc
+公図###こうず###Bản đồ địa chính
+合図###あいず###dấu hiệu/hiệu lệnh
+作図###さくず###vẽ thiết kế/việc vẽ thiết kế
+縮図###しゅくず###bản vẽ thu nhỏ/bản copy thu nhỏ
+図画###ずが###bức vẽ/đồ hoạ
+図録###ずろく###tập bản đồ
+製図###せいず###việc vẽ bản đồ/việc lập bản đồ/thuật vẽ bản đồ và biểu đồ/việc thiết kế
+指図###さしず###sự chỉ huy/sự chỉ thị/chỉ huy/chỉ thị/hướng dẫn ###mệnh lệnh ###dặn dò
+港図###こうず###sơ đồ bến cảng
+付図###ふず###hình kèm theo
+略図###りゃくず###sơ đồ

@@ -1,0 +1,60 @@
+kunyomi
+音###おと###Tiếng (nói### động)
+音###ね###Âm thanh
+onyomi
+音楽###おんがく###Âm nhạc
+音符###おんぷ###Nốt nhạc
+母音###ぼいん###Nguyên âm
+哀音###あいおん###Âm thanh buồn/giọng nói buồn thảm
+音楽###おんがく###âm nhạc/nhạc
+音響###おんきょう###âm hưởng/tiếng vọng/tiếng vang/âm thanh
+音訓###おんくん###cách đọc chữ Hán
+音源###おんげん###nguồn âm thanh
+音程###おんてい###điệu
+音質###おんしつ###chất lượng âm thanh
+音色###おんしょく###thanh điệu
+音階###おんかい###âm giai/thang âm/gam/thanh âm
+音声###おんじょう###âm thanh
+音節###おんせつ###tiết tấu
+音速###おんそく###tốc độ âm thanh
+音痴###おんち###mù nhạc/kém về âm điệu/mù tịt về âm nhạc/mù âm nhạc
+音調###おんちょう###điệu
+音読###おんどく###đọc to/đọc lên thành tiếng/đọc thành tiếng
+音波###おんぱ###sóng âm thanh
+音盤###おんばん###đĩa nhựa
+音符###おんぷ###nốt nhạc
+音訳###おんやく###sự chuyển tiếng nói thành chữ viết
+音律###おんりつ###âm luật/vần luật/âm điệu
+音量###おんりょう###âm lượng
+快音###かいおん###Âm thanh trong trẻo
+観音###かんのん###Phật Bà Quan Âm
+弱音###じゃくおん###よわね###âm thanh yếu ớt
+低音###ていおん###giọng trầm
+高音###たかね###âm thanh cao/âm cao/âm thanh chói tai
+号音###ごうおん###sự báo hiệu bằng âm thanh
+福音###ふくいん###tin lành/phúc âm
+潮音###ちょうおん###tiếng sóng
+雑音###ざつおん###tạp âm
+唇音###しんおん###âm môi
+擬音###ぎおん###sự bắt chước âm thanh
+騒音###そうおん###tiếng ồn
+足音###あしおと###tiếng chân/âm thanh của bước chân/bước chân
+濁音###だくおん###âm đục/âm kêu
+調音###ちょうおん###cách phát âm rõ ràng
+長音###ちょうおん###Nguyên âm dài/trường âm
+転音###てんおん###sự chuyển âm/sự biến âm
+筒音###つつおと###tiếng súng
+同音###どうおん###sự đồng âm
+波音###なみおと###Tiếng sóng
+発音###はつおん###sự phát âm
+半音###はんおん###bán âm
+美音###びおん###giọng nói ngọt ngào
+鼻音###びおん###giọng mũi/âm mũi
+表音###ひょうおん###Ngữ âm
+物音###ものおと###âm thanh
+母音###ぼいん###nguyên âm
+防音###ぼうおん###sự cách âm
+本音###ほんね###ý định thực sự/động cơ
+無音###むおん###ぶいん###sự yên lặng kéo dài
+録音###ろくおん###sự ghi âm
+和音###わおん
