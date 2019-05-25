@@ -162,7 +162,7 @@ window.addEventListener("load", function (event) {
     addEvent();
     createDialog();
 
-    if (!optobj.lang)
+    if (!optobj.lang){
         var hash = location.hash;
         if(hash === "#eng"){
             optobj.lang = "eng"
